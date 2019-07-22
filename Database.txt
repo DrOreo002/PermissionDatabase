@@ -4208,533 +4208,533 @@ Vehicles|Trains.giveTrain|giveTrain command permission
 Vehicles|Trains.openShop|Permission to open the shop
 Vehicles|Trains.overrideOwner|Use or remove another's train
 Vehicles|Trains.overrideOwner.ride|Use another's train
-Vehicles|Trains.overrideRemoveOnDismount+Trains won't be removed and added back to your inventory on dismount if removeTrainOnDismount enabled.
-Vehicles+Trains.overrideWorld+Use trains in not allowed worlds
-Vehicles+Trains.trainList+Train List command
-Vehicles+Vehicles.clear+Vehicle Clearing command permission
-Vehicles+Vehicles.removeOthers+Remove others vehicles using the Vehicle Clearing command
-Vehicles+Vehicles.repair+repairVehicle command permission
-ViaVersion+viaversion.admin+allows access to ViaVersion commands.+/viaver list,/viaver autoteam,/viaver dontbugme,/viaver pps,/viaver debug
-VillagerFight+vfight.admin+Access to admin commands.
-VillagerFight+vfight.vip+Grants 2x money instead of 1.5x for vip players.
-VoidSpawn+vs.*+Will grant all VoidSpawn permissions.
-VoidSpawn+vs.admin.*+Will give all /voidspawn commands.+/voidspawn
-VoidSpawn+vs.admin.command+Gives /voidspawn command command.+/voidspawn command
-VoidSpawn+vs.admin.detector+Gives /voidspawn detector command.+/voidspawn detector
-VoidSpawn+vs.admin.help+Gives /voidspawn help command.+/voidspawn help
-VoidSpawn+vs.admin.message+Gives /voidspawn message command.+/voidspawn message
-VoidSpawn+vs.admin.mode+Gives /voidspawn mode command.+/voidspawn mode
-VoidSpawn+vs.admin.reload+Gives /voidspawn reload command.+/voidspawn reload
-VoidSpawn+vs.admin.remove+Gives /voidspawn remove command.+/voidspawn remove
-VoidSpawn+vs.admin.set+Gives /voidspawn set command.+/voidspawn set
-VoidSpawn+vs.player.toggle+Permission for /vs toggle command.+/vs toggle
-VoteSend+votesend.admin+Allow the player to reload the plugin and send a test vote to a player.+/votesend reload,/votesend send
-Voter+Voter.Create+Permission to Start a voting.+/vote
-Vouchers+voucher.admin+Access To All Commands+/Voucher Help,/Voucher Redeem <Code>,/Voucher <Give> [Amount] [Player] [Argument],/Voucher Reload
-Vouchers+voucher.bypass+Buypass Voucher Limiter+NONE
-Vouchers+voucher.redeem+Redeem vouchers+NONE
-WarpSystem+WarpSystem.ByPass.Maintenance+Use GUI while in maintenance mode
-WarpSystem+WarpSystem.ByPass.Teleport.Delay+Bypass teleport delay
-WarpSystem+WarpSystem.Modify+Edit the GUI and Portals
-WarpSystem+WarpSystem.Modify.Portals+Edit the Portals
-WarpSystem+WarpSystem.Notify+Notify for updates
-WorldBorder+worldborder.use+Allow the player to set the worldborder radius.+/wb <Radius>
-WorldEdit+worldedit.*+Grants a user all WorldEdit permissions
-WorldEdit+worldedit.analysis.count+Counts the number of a certain type of block+//count
-WorldEdit+worldedit.analysis.distr+Get the distribution of blocks in the selection+//distr
-WorldEdit+worldedit.biome.info+Get the biome of the targeted block.+/biomeinfo
-WorldEdit+worldedit.biome.list+Gets all biomes available.+/biomelist,/biomels
-WorldEdit+worldedit.biome.set+Sets biome according to a formula.+//generatebiome,//genbiome,//gb
-WorldEdit+worldedit.biome.set+Sets the biome of the player's current block or region.+//setbiome
-WorldEdit+worldedit.brush.butcher+Butcher brush+/brush butcher
-WorldEdit+worldedit.brush.clipboard+Choose the clipboard brush+/brush clipboard
-WorldEdit+worldedit.brush.cylinder+Choose the cylinder brush+/brush cylinder
-WorldEdit+worldedit.brush.ex+Shortcut fire extinguisher brush+/brush ex
-WorldEdit+worldedit.brush.gravity+Gravity brush+/brush gravity
-WorldEdit+worldedit.brush.options.mask+Set the brush mask+/mask
-WorldEdit+worldedit.brush.options.material+Set the brush material+/mat,/material
-WorldEdit+worldedit.brush.options.range+Set the brush range+/range
-WorldEdit+worldedit.brush.options.size+Set the brush size+/size
-WorldEdit+worldedit.brush.smooth+Choose the terrain softener brush+/brush smooth
-WorldEdit+worldedit.brush.sphere+Choose the sphere brush+/brush sphere
-WorldEdit+worldedit.butcher+Kill all or nearby mobs+/butcher
-WorldEdit+worldedit.calc+Evaluate a mathematical expression+//calc,//eval,//solve
-WorldEdit+worldedit.chunkinfo+Get information about the chunk that you are inside+/chunkinfo
-WorldEdit+worldedit.clipboard.clear+Clear your clipboard+/clearclipboard
-WorldEdit+worldedit.clipboard.copy+Copy the selection to the clipboard+//copy
-WorldEdit+worldedit.clipboard.cut+Cut the selection to the clipboard+//cut
-WorldEdit+worldedit.clipboard.flip+Flip the contents of the clipboard.+//flip
-WorldEdit+worldedit.clipboard.load+Load a schematic into your clipboard+//load
-WorldEdit+worldedit.clipboard.paste+Paste the clipboard's contents+//paste
-WorldEdit+worldedit.clipboard.rotate+Rotate the contents of the clipboard+//rotate
-WorldEdit+worldedit.clipboard.save+Save a schematic into your clipboard+//save
-WorldEdit+worldedit.delchunks+Delete chunks that your selection includes+/delchunks
-WorldEdit+worldedit.drain+Drain a pool+//drain
-WorldEdit+worldedit.extinguish+Extinguish nearby fire+//extinguish
-WorldEdit+worldedit.fast+Toggle fast mode+//fast
-WorldEdit+worldedit.fill+Fill a hole+//fill
-WorldEdit+worldedit.fill.recursive+Fill a hole recursively+//fillr
-WorldEdit+worldedit.fixlava+Fix lava to be stationary+//fixlava
-WorldEdit+worldedit.fixwater+Fix water to be stationary+//fixwater
-WorldEdit+worldedit.generation.cylinder+Generates a cylinder.+//hcyl,//cyl
-WorldEdit+worldedit.generation.forest+Generate a forest.+/forestgen
-WorldEdit+worldedit.generation.pumpkins+Generate pumpkin patches+/pumpkins
-WorldEdit+worldedit.generation.pyramid+Generate a pyramid+//hpyramid,//pyramid
-WorldEdit+worldedit.generation.shape+Generates a shape according to a formula.+//generate,//gen,//g
-WorldEdit+worldedit.generation.sphere+Generates a sphere.+//hsphere,//sphere
-WorldEdit+worldedit.global_mask+Set the permissions mask+//gmask,/gmask
-WorldEdit+worldedit.green+Greens the area+/green
-WorldEdit+worldedit.help+Displays help for the given command or lists all commands.+/we help
-WorldEdit+worldedit.history.clear+Clear your history+//clearhistory,/clearhistory
-WorldEdit+worldedit.history.redo+Redoes the last action (from history)+//redo,/redo
-WorldEdit+worldedit.history.undo+Undoes the last action+//undo,/undo
-WorldEdit+worldedit.limit+Modify block change limit+//limit
-WorldEdit+worldedit.listchunks+List chunks that your selection includes+/listchunks
-WorldEdit+worldedit.navigation.ascend+Get ytb a floor+/ascend,/asc
-WorldEdit+worldedit.navigation.ceiling+Go to the celing+/ceil
-WorldEdit+worldedit.navigation.descend+Get down a floor+/descend,/desc
-WorldEdit+worldedit.navigation.jumpto.command+Teleport to a location+/jumpto,/j
-WorldEdit+worldedit.navigation.thru.command+Passthrough walls+/thru
-WorldEdit+worldedit.navigation.unstuck+Escape from being stuck inside a block+/unstuck,/!
-WorldEdit+worldedit.navigation.up+Go upwards some distance+/ytb
-WorldEdit+worldedit.regen+Regenerates the contents of the selection+//regen
-WorldEdit+worldedit.region.center+Set the center block(s)+//center,//middle
-WorldEdit+worldedit.region.curve+Draws a spline through selected points+//curve
-WorldEdit+worldedit.region.deform+Deforms a selected region with an expression+//deform
-WorldEdit+worldedit.region.faces+Build the walls, ceiling, and floor of a selection+//faces,//outline
-WorldEdit+worldedit.region.forest+Make a forest within the region+//forest
-WorldEdit+worldedit.region.hollow+Hollows out the object contained in this selection+//hollow
-WorldEdit+worldedit.region.line+Draws a line segment between cuboid selection corners+//line
-WorldEdit+worldedit.region.move+Move the contents of the selection+//move
-WorldEdit+worldedit.region.naturalize+3 layers of dirt on top then rock below+//naturalize
-WorldEdit+worldedit.region.overlay+Set a block on top of blocks in the region+//overlay
-WorldEdit+worldedit.region.replace+Replace all blocks in the selection with another+//setPlaceholders,//rep,//re
-WorldEdit+worldedit.region.set+Set all the blocks inside the selection to a block+//set
-WorldEdit+worldedit.region.smooth+Smooth the elevation in the selection+//smooth
-WorldEdit+worldedit.region.stack+Repeat the contents of the selection+//stack
-WorldEdit+worldedit.region.walls+Build the four sides of the selection+//walls
-WorldEdit+worldedit.reload+Reload WorldEdit+/we reload
-WorldEdit+worldedit.remove+Remove all entities of a type+/remove
-WorldEdit+worldedit.removeabove+Remove blocks above your head.+//removeabove
-WorldEdit+worldedit.removebelow+Remove blocks below you.+//removebelow
-WorldEdit+worldedit.removenear+Remove blocks near you.+//removenear
-WorldEdit+worldedit.replacenear+Replace nearby blocks+//replacenear
-WorldEdit+worldedit.schematic.formats+List available schematic formats+//schematic formats,//schematic listformats,//schematic f
-WorldEdit+worldedit.schematic.list+List available schematics+//schematic list,//schematic all,//schematic ls
-WorldEdit+worldedit.schematic.load+Load a schematic into your clipboard+//schematic load,//schematic l
-WorldEdit+worldedit.schematic.save+Save a schematic into your clipboard+//schematic save,//schematic s
-WorldEdit+worldedit.selection.chunk+Set the selection to your current chunk.+//chunk
-WorldEdit+worldedit.selection.contract+Contract the selection area+//contract
-WorldEdit+worldedit.selection.expand+Expand the selection area+//expand
-WorldEdit+worldedit.selection.hpos+Set positions to targeted blocks+//hpos1,//hpos2
-WorldEdit+worldedit.selection.inset+Inset the selection area+//inset
-WorldEdit+worldedit.selection.outset+Outset the selection area+//outset
-WorldEdit+worldedit.selection.pos+Set positions+//pos1,//pos2
-WorldEdit+worldedit.selection.shift+Shift the selection area+//shift
-WorldEdit+worldedit.selection.size+Get information about the selection+//size
-WorldEdit+worldedit.snapshots.list+List Snapshots+/snapshot list
-WorldEdit+worldedit.snapshots.restore+Snapshot commands+/snapshot use,/snapshot sel,/snapshot after,/snapshot before,/restore,//restore
-WorldEdit+worldedit.snow+Simulates snow+//snow
-WorldEdit+worldedit.superpickaxe+Toggle the super pickaxe pickaxe function+//
-WorldEdit+worldedit.superpickaxe.area+Enable the area super pickaxe pickaxe mode+/superpickaxe area
-WorldEdit+worldedit.superpickaxe.recursive+Enable the recursive super pickaxe pickaxe mode+/superpickaxe recur,/superpickaxe recursive
-WorldEdit+worldedit.thaw+Thaws the area+/thaw
-WorldEdit+worldedit.tool.data_cycler+Block generalData cycler tool+/cycler
-WorldEdit+worldedit.tool.deltree+Floating tree remover tool+/deltree
-WorldEdit+worldedit.tool.farwand+Wand at a distance tool+/farwand
-WorldEdit+worldedit.tool.flood_fill+Flood fill tool+/flood,/floodfill
-WorldEdit+worldedit.tool.info+Block information tool+/info
-WorldEdit+worldedit.tool.lrbuild+Long-range building tool+/lrbuild
-WorldEdit+worldedit.tool.replacer+Block replacer tool+/repl
-WorldEdit+worldedit.tool.tree+Tree generator tool+/tree
-WorldEdit+worldedit.wand+Get the wand object+//wand
-WorldEdit+worldedit.wand.toggle+Toggle functionality of the edit wand+/toggleeditwand
-WorldGuard+worldguard.chest_protection.override+override chest protection.
-WorldGuard+worldguard.fire_toggle+An unknown description
-WorldGuard+worldguard.halt_activity+An unknown description+/halt-activity,/halt-activity -c
-WorldGuard+worldguard.notify+Receive blacklist events notifications.
-WorldGuard+worldguard.override.chest_protection+alias for worldguard.chest-protection.override.
-WorldGuard+worldguard.region.addmember.*+An unknown description+/region addmember
-WorldGuard+worldguard.region.addmember.member.*+An unknown description+/region addmember
-WorldGuard+worldguard.region.addmember.own.*+An unknown description+/region addmember
-WorldGuard+worldguard.region.addowner.*+An unknown description+/region addowner
-WorldGuard+worldguard.region.addowner.member.*+An unknown description+/region addowner
-WorldGuard+worldguard.region.addowner.own.*+An unknown description+/region addowner
-WorldGuard+worldguard.region.claim+An unknown description+/region claim
-WorldGuard+worldguard.region.define+An unknown description+/region define
-WorldGuard+worldguard.region.flag.flags.*+for all flags+/region flag
-WorldGuard+worldguard.region.flag.regions.*+An unknown description+/region flag
-WorldGuard+worldguard.region.flag.regions.member.*+lets members set the flags for their own regions.+/region flag
-WorldGuard+worldguard.region.flag.regions.own.*+lets owners set the flags for their own regions.+/region flag
-WorldGuard+worldguard.region.info.*+An unknown description+/region info
-WorldGuard+worldguard.region.info.member.*+lets members query their own regions.+/region info
-WorldGuard+worldguard.region.info.own.*+lets owners query their own regions.+/region info
-WorldGuard+worldguard.region.list+An unknown description+/region list
-WorldGuard+worldguard.region.list.own+An unknown description+/region list
-WorldGuard+worldguard.region.member.*+lets members teleport to their own regions.+/region teleport
-WorldGuard+worldguard.region.redefine.*+An unknown description+/region redefine
-WorldGuard+worldguard.region.redefine.member.*+lets members redefine their own regions.+/region redefine
-WorldGuard+worldguard.region.redefine.own.*+lets owners redefine their own regions.+/region redefine
-WorldGuard+worldguard.region.remove.*+An unknown description+/region remove
-WorldGuard+worldguard.region.remove.member.*+lets members remove their own regions.+/region remove
-WorldGuard+worldguard.region.remove.own.*+lets owners remove their own regions+/region remove
-WorldGuard+worldguard.region.removemember.*+An unknown description+/region removemember
-WorldGuard+worldguard.region.removemember.member.*+An unknown description+/region removemember
-WorldGuard+worldguard.region.removemember.own.*+An unknown description+/region removemember
-WorldGuard+worldguard.region.removeowner.*+An unknown description+/region removeowner
-WorldGuard+worldguard.region.removeowner.member.*+An unknown description+/region removeowner
-WorldGuard+worldguard.region.removeowner.own.*+An unknown description+/region removeowner
-WorldGuard+worldguard.region.select.*+An unknown description+/region select
-WorldGuard+worldguard.region.select.member.*+lets members select their own regions.+/region select
-WorldGuard+worldguard.region.select.own.*+lets owners select their own regions.+/region select
-WorldGuard+worldguard.region.setparent.*+An unknown description+/region setparent
-WorldGuard+worldguard.region.setparent.member.*+lets members set the parent of their own regions.+/region setparent
-WorldGuard+worldguard.region.setparent.own.*+lets owners set the parent of their own regions.+/region setparent
-WorldGuard+worldguard.region.setpriority.*+An unknown description+/region setpriority
-WorldGuard+worldguard.region.setpriority.member.*+lets members set the priority of their own regions.+/region setpriority
-WorldGuard+worldguard.region.setpriority.own.*+lets owners set the priority of their own regions.+/region setpriority
-WorldGuard+worldguard.region.teleport.*+.+/region teleport
-WorldGuard+worldguard.region.teleport.own.*+lets owners teleport to their own regions.+/region teleport
-WorldGuard+worldguard.reload+An unknown description+/worldguard reload
-WorldGuard+worldguard.report+An unknown description+/worldguard report
-WorldGuard+worldguard.report.pastebin+for automatically uploading and linking the report.+/worldguard report
-Wormholes+wormholes.build+Grants the permission to modify the frame of the portal (style of it) but does not grant the ability to destroy the 4 colored blocks (combine this with create for creation)
-Wormholes+wormholes.configure+Grants the permission to configure portals by right clicking one of the four colored blocks. Ability to change polarity one directions and more.
-Wormholes+wormholes.create+Grants the permission to create and design portals.+/wormholes create
-Wormholes+wormholes.destroy+Grants the permission to destroy portals (or via the list command delete button)+/wormholes 
-Wormholes+wormholes.list+Grants the permission to list portals and teleport to them (or any location in the world technically)+/wormholes list
-Wormholes+wormholes.reload+Grants the permission to reload the plugin+/wormholes reload
-Wormholes+wormholes.use+Grants the permission to enter portals (actually use them) all players should have this if you plan on players using the portals you create.
-YT+box.set+Zum Box-setzen
-YT+yt.box+Zum Box-joinen
-YouTubeBridge+youtubebridge.admin+Access to all administrative features+/panel
-betterSleeping+bettersleeping.reload+Reloads all BetterSleeping configuration files+/bs reload,/bettersleeping reload
-citizens+citizens.admin+This allows players to edit 'server' owned NPCs.
-citizens+citizens.admin.*+Allow all commands.+/citizens,/citizens reload,/citizens save
-citizens+citizens.admin.remove.all+Remove all NPCs+/npc remove all
-citizens+citizens.help+Show Citizens help menu.+/citizens help
-citizens+citizens.npc.*+Show basic NPC information.
-citizens+citizens.npc.+An unknown description
-citizens+citizens.npc.age+Modify a NPC's age.+/npc age
-citizens+citizens.npc.anchor+Changes/saves/lists NPC's location anchors.+/npc anchor
-citizens+citizens.npc.behaviour+Adds and removes behaviours from an NPC. A behaviour is a script file that is executed and adds 'goals' to the NPC which can run every tick. These can do anything you can program/think of!+/npc behaviour
-citizens+citizens.npc.controllable+Toggles the NPC's controllable status. Controllable NPCs can be right clicked to be mounted and controlled with WASD. Ghasts, Blazes and Endersragons can be flown by left clicking once mounted to pause/unpause flying. (if you want to let players control a spified NPC add this permission manual to the player with the typ of name of the NPC)+/npc controllable
-citizens+citizens.npc.copy+Create a new NPC from the currently selected NPC, copying all traits.+/npc copy
-citizens+citizens.npc.create.*+Create a new NPC. (if you want that a player can create only one typ of NPC add this permission manual: citizens.npc.create.[mobtype]+/npc create
-citizens+citizens.npc.despawn+Despawn a NPC+/npc despawn
-citizens+citizens.npc.edit.equip+Toggle equipment editor. see Equipment Editor Used for player armor, player and endermen items, sheep color/sheared, and pig saddles.+/npc equip
-citizens+citizens.npc.edit.path+Toggle path editor. Left click to add a waypoint, right click to remove, mousewheel or number keys to select individual waypoints.+/npc path
-citizens+citizens.npc.edit.text+Toggle text editor. Note that players need the citizens.npc.talk permission to hear NPCs!+/npc text
-citizens+citizens.npc.gamemode+Sets a Player NPC's game mode.+/npc gamemode
-citizens+citizens.npc.gravity+Toggles gravity on the NPC.+/npc gravity
-citizens+citizens.npc.help+Show NPC help menu.+/npc help
-citizens+citizens.npc.list+List NPCs that match at least one of the given conditions+/npc list
-citizens+citizens.npc.lookclose+Toggle a NPC's look-close state+/npc lookclose
-citizens+citizens.npc.mount+Mount the currently selected NPC, if it is controllable.+/npc mount
-citizens+citizens.npc.moveto+The NPC's current location is taken as the base location. Value arguments are used to modify this base.+/npc moveto
-citizens+citizens.npc.owner+Sets the owner of a NPC.+/npc owner
-citizens+citizens.npc.pathfindingrange+Set the range in number of blocks in which the NPC can find a path.+/npc pathrange
-citizens+citizens.npc.playerlist+Toggles an NPC as a 'real' player, so that it will be more recognised by other plugins, will keep chunks loaded and crops ticking.+/npc playerlist
-citizens+citizens.npc.power+Toggle whether a creeper NPC is powered.+/npc power
-citizens+citizens.npc.profession+Change a villager-type NPC's profession.+/npc profession
-citizens+citizens.npc.remove+Remove a NPC+/npc remove
-citizens+citizens.npc.rename+Rename a NPC+/npc rename
-citizens+citizens.npc.select+Selects a NPC with the given ID+/npc select
-citizens+citizens.npc.size+Sets a slime's size.+/npc size
-citizens+citizens.npc.skeletontype+Changes a Skeleton NPC's type (currently between WITHER and NORMAL)+/npc skeletontype
-citizens+citizens.npc.spawn+Spawn a existing NPC+/npc spawn
-citizens+citizens.npc.speed+changes the NPC's default speed multiplier. i.e. use 2 to double the normal speed.+/npc speed
-citizens+citizens.npc.tp+Teleport to a NPC+/npc tp
-citizens+citizens.npc.tphere+Teleport a NPC to your location+/npc tphere
-citizens+citizens.npc.trait.*+Adds the trait type to the NPC. NPCs can have multiple traits. (if you want to add a pesific trait to a player ad this permission: citizens.npc.trait.<trait-name>)+/trait
-citizens+citizens.npc.type+Changes an NPC's mob type.+/npc type
-citizens+citizens.npc.vulnerable+Toggles whether the NPC can take damage and die, and whether monsters will target it when it is on the player list+/npc vulnerable
-citizens+citizens.npc.zombiemodifier+Sets a zombie NPC's modifiers.+/npc zombiemod
-citizens+citizens.pose+Changes/Stores NPC's head position based on the Player's current position.+/npc pose
-citizens+citizens.script.help+Show scripting help menu.+/script help
-citizens+citizens.template.help+Show template help menu.+/template help
-citizens+citizens.templates.apply+Applies the given templates to the NPC.+/template apply
-citizens+citizens.templates.create+Generates a template from the selected NPC and saves it to the templates.yml file.+/template create
-citizens+citizens.trait.help+Show trait help menu.+/trait help
-citizens+citizens.waypoints.disableteleport+Stops NPCs from automatically teleporting the end of their path if they get stuck (NOTE: might be removed at some point).+/waypoints disableteleport
-citizens+citizens.waypoints.help+Show waypoints help menu.+/waypoints help
-citizens+citizens.waypoints.provider+Sets the waypoint provider to use when using the waypoint editor.+/waypoints provider
-dynmap+dynmap.add_id_for_ip+allows /dynmap add-id-for-ip.+/dynmap add-id-for-ip
-dynmap+dynmap.cancelrender+allows /dynmap cancelrender.+/dynmap cancelrender
-dynmap+dynmap.del_id_for_ip+allows /dynmap del-id-for-ip.+/dynmap del-id-for-ip
-dynmap+dynmap.dmap.lightinglist+allows /dmap lightinglist.+/dmap lightinglist
-dynmap+dynmap.dmap.mapadd+allows /dmap mapadd.+/dmap mapadd
-dynmap+dynmap.dmap.mapdelete+allows /dmap mapdelete.+/dmap mapdelete
-dynmap+dynmap.dmap.mapset+allows /dmap mapset.+/dmap mapset
-dynmap+dynmap.dmap.perspectivelist+allows /dmap perspectivelist.+/dmap perspectivelist
-dynmap+dynmap.dmap.shaderlist+allows /dmap shaderlist.+/dmap shaderlist
-dynmap+dynmap.dmap.worldlist+allows /dmap worldlist.+/dmap worldlist
-dynmap+dynmap.dmap.worldreset+allows /dmap worldreset.+/dmap worldreset
-dynmap+dynmap.dmap.worldset+allows /dmap worldset.+/dmap worldset
-dynmap+dynmap.fullrender+allows /dynmap fullrender or /dynmap fullrender.
-dynmap+dynmap.hide.others+allows /dynmap hide.+/dynmap hide
-dynmap+dynmap.hide.self+allows /dynmap hide. (on self)+v
-dynmap+dynmap.ids_for_ip+allows /dynmap ids-for-ip.+/dynmap ids-for-ip
-dynmap+dynmap.ips_for_id+allows /dynmap ips-for-id.+/dynmap ips-for-id
-dynmap+dynmap.marker.add+allows /dmarker add.+/dmarker add
-dynmap+dynmap.marker.addarea+allows /dmarker addarea.+/dmarker addarea
-dynmap+dynmap.marker.addicon+allows /dmarker addicon.+/dmarker addicon
-dynmap+dynmap.marker.addline+allows /dmarker addline.+/dmarker addline
-dynmap+dynmap.marker.addset+allows /dmarker addset.+/dmarker addset
-dynmap+dynmap.marker.delete+allows /dmarker delete.+/dmarker delete
-dynmap+dynmap.marker.deletearea+allows /dmarker deletearea.+/dmarker deletearea
-dynmap+dynmap.marker.deleteicon+allows /dmarker deleteicon.+/dmarker deleteicon
-dynmap+dynmap.marker.deleteline+allows /dmarker deleteline.+/dmarker deleteline
-dynmap+dynmap.marker.deleteset+allows /dmarker deleteset.+/dmarker deleteset
-dynmap+dynmap.marker.icons+allows /dmarker icons.+/dmarker icons
-dynmap+dynmap.marker.list+allows /dmarker list.+/dmarker list
-dynmap+dynmap.marker.listareas+allows /dmarker listareas.+/dmarker listareas
-dynmap+dynmap.marker.listlines+allows /dmarker listlines.+/dmarker listlines
-dynmap+dynmap.marker.listsets+allows /dmarker listsets.+/dmarker listsets
-dynmap+dynmap.marker.movehere+allows /dmarker movehere.+/dmarker movehere
-dynmap+dynmap.marker.update+allows /dmarker update.+/dmarker update
-dynmap+dynmap.marker.updatearea+allows /dmarker updatearea.+/dmarker updatearea
-dynmap+dynmap.marker.updateicon+allows /dmarker updateicon.+/dmarker updateicon
-dynmap+dynmap.marker.updateline+allows /dmarker updateline.+/dmarker updateline
-dynmap+dynmap.marker.updateset+allows /dmarker updateset.+/dmarker updateset
-dynmap+dynmap.pause+allows /dynmap pause.+/dynmap pause
-dynmap+dynmap.playermarkers.showall+allows user to see all player positions when protected-player-info has been set to restrict access.
-dynmap+dynmap.purgequeue+allows /dynmap purgequeue.+/dynmap purgequeue
-dynmap+dynmap.radiusrender+allows /dynmap radiusrender.
-dynmap+dynmap.reload+allows /dynmap reload.+/dynmap reload
-dynmap+dynmap.render+allows /dynmap render command.+/dynmap render
-dynmap+dynmap.resetstats+allows /dynmap resetstats or /dynmap resetstats.+/dynmap resetstats,/dynmap resetstats
-dynmap+dynmap.sendtoweb+allows /dynmap sendtoweb.+/dynmap sendtoweb
-dynmap+dynmap.show.others+allows /dynmap show.+/dynmap show
-dynmap+dynmap.show.self+allows /dynmap show. (on self)+/dynmap show
-dynmap+dynmap.stats+allows /dynmap stats or /dynmap stats or /dynmap triggerstats.+/dynmap stat,/dynmap stats,/dynmap triggerstats
-dynmap+dynmap.updaterender+allows /dynmap updaterender.+/dynmap updaterender
-dynmap+dynmap.webchat+allows sending of chat messages from web interface. (login or id-by-ip required)
-dynmap+dynmap.webregister+allows /dynmap webregister.+/dynmap webregister
-dynmap+dynmap.webregister.other+allows /dynmap webregister player-id.+/dynmap webregister
-iConomy+iConomy.accounts.create+Create an account.+/money create [name]
-iConomy+iConomy.accounts.empty+Empty database of accounts.+/money empty
-iConomy+iConomy.accounts.give+Give money.+/money give [name] [amount]
-iConomy+iConomy.accounts.purge+Purge all accounts with initial holdings.+/money purge
-iConomy+iConomy.accounts.remove+Remove an account.+/money remove [name]
-iConomy+iConomy.accounts.set+Set account balance.+/money set [name] [amount]
-iConomy+iConomy.accounts.status+Check account status.+/money status [name]
-iConomy+iConomy.accounts.take+Take money.+/money take [name] [amount]
-iConomy+iConomy.help+Help and Information.+/money help
-iConomy+iConomy.holdings+Check my balance.+/money
-iConomy+iConomy.holdings.others+Check others balance.+/money [name]
-iConomy+iConomy.payment+Send money to others.+/money pay [name] [amount]
-iConomy+iConomy.status.set+Set account status.+/money status [name] [status]
-iDisguise+iDisguise.*+All permissions (except iDisguise.help)
-iDisguise+iDisguise.admin+Combines some administration stuff (disguise in prohibited worlds, disguise and undisguise others, reload the config.txt, receive a notification if an update is available)
-iDisguise+iDisguise.everywhere+Disguise in prohibited worlds (this is also required to disguise other players in prohibited worlds)
-iDisguise+iDisguise.ghost+Disguise as a ghost (you also need iDisguise.player.<name> to be allowed to do that)+/disguise ghost
-iDisguise+iDisguise.help+Required to use /disguise help.+/disguise help,/d help
-iDisguise+iDisguise.mob.*+Disguise as every living mob including every subtype
-iDisguise+iDisguise.mob.baby+Disguise as baby mobs
-iDisguise+iDisguise.mob.bat+Disguise as a bat
-iDisguise+iDisguise.mob.blaze+Disguise as a blaze
-iDisguise+iDisguise.mob.cave_spider+Disguise as a cave spider
-iDisguise+iDisguise.mob.chicken+Disguise as a chicken
-iDisguise+iDisguise.mob.cow+Disguise as a cow
-iDisguise+iDisguise.mob.creeper+Disguise as a creeper
-iDisguise+iDisguise.mob.creeper.powered+Disguise as a charged creeper (you also need the basic iDisguise.mob.creeper permission)
-iDisguise+iDisguise.mob.donkey+Disguise as a donkey
-iDisguise+iDisguise.mob.elder_guardian+Disguise as an elder_guardian
-iDisguise+iDisguise.mob.ender_dragon+Disguise as an enderdragon
-iDisguise+iDisguise.mob.enderman+Disguise as an enderman
-iDisguise+iDisguise.mob.enderman_block+Hold a block as an enderman
-iDisguise+iDisguise.mob.endermite+Disguise as an endermite
-iDisguise+iDisguise.mob.evoker+Disguise as an evoker
-iDisguise+iDisguise.mob.ghast+Disguise as a ghast
-iDisguise+iDisguise.mob.giant+Disguise as a giant zombie
-iDisguise+iDisguise.mob.guardian+Disguise as a guardian
-iDisguise+iDisguise.mob.horse+Disguise as a horse
-iDisguise+iDisguise.mob.husk+Disguise as a husk
-iDisguise+iDisguise.mob.iron_golem+Disguise as an iron golem
-iDisguise+iDisguise.mob.llama+Disguise as a llama
-iDisguise+iDisguise.mob.magma_cube+Disguise as a magma cube
-iDisguise+iDisguise.mob.magma_cube.giant+Disguise as a magma cube of an unnormal size (bigger than 4 blocks)
-iDisguise+iDisguise.mob.mule+Disguise as a mule
-iDisguise+iDisguise.mob.mushroom_cow+Disguise as a mushroom cow
-iDisguise+iDisguise.mob.ocelot+Disguise as an ocelot
-iDisguise+iDisguise.mob.ocelot.type.*+Change your color/type as an ocelot
-iDisguise+iDisguise.mob.ocelot.type.black+Just be allowed to use one single color/type instead of all
-iDisguise+iDisguise.mob.ocelot.type.red+Just be allowed to use one single color/type instead of all
-iDisguise+iDisguise.mob.ocelot.type.siamese+Just be allowed to use one single color/type instead of all
-iDisguise+iDisguise.mob.ocelot.type.wild+Just be allowed to use one single color/type instead of all
-iDisguise+iDisguise.mob.pig+Disguise as a pig
-iDisguise+iDisguise.mob.pig.saddled+Carry a saddle as a pig
-iDisguise+iDisguise.mob.pig_zombie+Disguise as a zombie pigman
-iDisguise+iDisguise.mob.polar_bear+Disguise as a polar bear
-iDisguise+iDisguise.mob.rabbit+Disguise as a rabbit
-iDisguise+iDisguise.mob.rabbit.type.*+Change your color/type as a rabbit
-iDisguise+iDisguise.mob.rabbit.type.black+Just be allowed to use one single rabbit type instead of all
-iDisguise+iDisguise.mob.rabbit.type.black-white+Just be allowed to use one single rabbit type instead of all
-iDisguise+iDisguise.mob.rabbit.type.brown+Just be allowed to use one single rabbit type instead of all
-iDisguise+iDisguise.mob.rabbit.type.gold+Just be allowed to use one single rabbit type instead of all
-iDisguise+iDisguise.mob.rabbit.type.killer+Just be allowed to use one single rabbit type instead of all
-iDisguise+iDisguise.mob.rabbit.type.salt-pepper+Just be allowed to use one single rabbit type instead of all
-iDisguise+iDisguise.mob.rabbit.type.white+Just be allowed to use one single rabbit type instead of all
-iDisguise+iDisguise.mob.sheep+Disguise as a sheep
-iDisguise+iDisguise.mob.sheep.color.*+Change your hide color as a sheep
-iDisguise+iDisguise.mob.sheep.color.black+Just be allowed to use one single color/type instead of all
-iDisguise+iDisguise.mob.sheep.color.blue+Just be allowed to use one single color/type instead of all
-iDisguise+iDisguise.mob.sheep.color.brown+Just be allowed to use one single color/type instead of all
-iDisguise+iDisguise.mob.sheep.color.cyan+Just be allowed to use one single color/type instead of all
-iDisguise+iDisguise.mob.sheep.color.gray+Just be allowed to use one single color/type instead of all
-iDisguise+iDisguise.mob.sheep.color.green+Just be allowed to use one single color/type instead of all
-iDisguise+iDisguise.mob.sheep.color.light-blue+Just be allowed to use one single color/type instead of all
-iDisguise+iDisguise.mob.sheep.color.lime+Just be allowed to use one single color/type instead of all
-iDisguise+iDisguise.mob.sheep.color.magenta+Just be allowed to use one single color/type instead of all
-iDisguise+iDisguise.mob.sheep.color.orange+Just be allowed to use one single color/type instead of all
-iDisguise+iDisguise.mob.sheep.color.pink+Just be allowed to use one single color/type instead of all
-iDisguise+iDisguise.mob.sheep.color.purple+Just be allowed to use one single color/type instead of all
-iDisguise+iDisguise.mob.sheep.color.red+Just be allowed to use one single color/type instead of all
-iDisguise+iDisguise.mob.sheep.color.silver+Just be allowed to use one single color/type instead of all
-iDisguise+iDisguise.mob.sheep.color.white+Just be allowed to use one single color/type instead of all
-iDisguise+iDisguise.mob.sheep.color.yellow+Just be allowed to use one single color/type instead of all
-iDisguise+iDisguise.mob.shulker+Disguise as a shulker
-iDisguise+iDisguise.mob.silverfish+Disguise as a silver fish
-iDisguise+iDisguise.mob.skeletal_horse+Disguise as a skeletal horse
-iDisguise+iDisguise.mob.skeleton+Disguise as a skeleton
-iDisguise+iDisguise.mob.slime+Disguise as a slime
-iDisguise+iDisguise.mob.slime.giant+Disguise as a slime of an unnormal size (bigger than 4 blocks)
-iDisguise+iDisguise.mob.snowman+Disguise as a snowman
-iDisguise+iDisguise.mob.spider+Disguise as a spider
-iDisguise+iDisguise.mob.squid+Disguise as a squid
-iDisguise+iDisguise.mob.stray+Disguise as a stray
-iDisguise+iDisguise.mob.undead_horse+Disguise as an undead horse
-iDisguise+iDisguise.mob.vex+Disguise as a vex
-iDisguise+iDisguise.mob.villager+Disguise as a villager
-iDisguise+iDisguise.mob.villager.profession.*+Change your profession as a villager
-iDisguise+iDisguise.mob.villager.profession.blacksmith+Just be allowed to use one single profession instead of all
-iDisguise+iDisguise.mob.villager.profession.butcher+Just be allowed to use one single profession instead of all
-iDisguise+iDisguise.mob.villager.profession.farmer+Just be allowed to use one single profession instead of all
-iDisguise+iDisguise.mob.villager.profession.librarian+Just be allowed to use one single profession instead of all
-iDisguise+iDisguise.mob.villager.profession.nitwit+Just be allowed to use one single profession instead of all
-iDisguise+iDisguise.mob.villager.profession.priest+Just be allowed to use one single profession instead of all
-iDisguise+iDisguise.mob.vindicator+Disguise as a vindicator
-iDisguise+iDisguise.mob.witch+Disguise as a witch
-iDisguise+iDisguise.mob.wither+Disguise as a wither
-iDisguise+iDisguise.mob.wither_skeleton+Disguise as a wither skeleton
-iDisguise+iDisguise.mob.wolf+Disguise as a wolf
-iDisguise+iDisguise.mob.wolf.angry+Disguise as an angry wolf (red eyes)
-iDisguise+iDisguise.mob.wolf.collar.*+Change your collar color as a wolf (only visible if you are a tamed wolf)
-iDisguise+iDisguise.mob.wolf.collar.black+Just be allowed to use one single color instead of all
-iDisguise+iDisguise.mob.wolf.collar.blue+Just be allowed to use one single color instead of all
-iDisguise+iDisguise.mob.wolf.collar.brown+Just be allowed to use one single color instead of all
-iDisguise+iDisguise.mob.wolf.collar.cyan+Just be allowed to use one single color instead of all
-iDisguise+iDisguise.mob.wolf.collar.gray+Just be allowed to use one single color instead of all
-iDisguise+iDisguise.mob.wolf.collar.green+Just be allowed to use one single color instead of all
-iDisguise+iDisguise.mob.wolf.collar.light-blue+Just be allowed to use one single color instead of all
-iDisguise+iDisguise.mob.wolf.collar.lime+Just be allowed to use one single color instead of all
-iDisguise+iDisguise.mob.wolf.collar.magenta+Just be allowed to use one single color instead of all
-iDisguise+iDisguise.mob.wolf.collar.orange+Just be allowed to use one single color instead of all
-iDisguise+iDisguise.mob.wolf.collar.pink+Just be allowed to use one single color instead of all
-iDisguise+iDisguise.mob.wolf.collar.purple+Just be allowed to use one single color instead of all
-iDisguise+iDisguise.mob.wolf.collar.red+Just be allowed to use one single color instead of all
-iDisguise+iDisguise.mob.wolf.collar.silver+Just be allowed to use one single color instead of all
-iDisguise+iDisguise.mob.wolf.collar.white+Just be allowed to use one single color instead of all
-iDisguise+iDisguise.mob.wolf.collar.yellow+Just be allowed to use one single color instead of all
-iDisguise+iDisguise.mob.wolf.tamed+Disguise as a tamed wolf
-iDisguise+iDisguise.mob.zombie+Disguise as a zombie
-iDisguise+iDisguise.mob.zombie_villager+Disguise as a zombie villager
-iDisguise+iDisguise.object.*+Disguise as every non living mob (blocks, items, carts, ...)
-iDisguise+iDisguise.object.armor_stand+Disguise as an armor stand
-iDisguise+iDisguise.object.boat+Disguise as a boat
-iDisguise+iDisguise.object.ender_crystal+Disguise as an ender crystal
-iDisguise+iDisguise.object.falling_block+Disguise as a block
-iDisguise+iDisguise.object.item+Disguise as a dropped item stack
-iDisguise+iDisguise.object.minecart+Disguise as minecart (includes block inside)
-iDisguise+iDisguise.others+Disguise other players (as of version 5.3.1, you also need the permissions specific to the disguise types to be allowed to disguise other players)
-iDisguise+iDisguise.player.name.*+Disguise as every player except the prohibited ones (also nonexisting)+/disguise player
-iDisguise+iDisguise.player.prohibited+Disguise as prohibited players (see config file)+/disguise player
-iDisguise+iDisguise.random+Let the server choose your disguise.+/disguise random
-iDisguise+iDisguise.reload+Reload the config and language file.+/disguise reload
-iDisguise+iDisguise.undisguise+Undisguise yourself (this is only required if you enable undisguise-permission in the config.yml file)+/undisguise
-iDisguise+iDisguise.undisguise.all+Undisguise everyone.+/undisguise *
-iDisguise+iDisguise.undisguise.others+Undisguise other players.+/undisguise
-iDisguise+iDisguise.update+Receive a notification when an update is available.
-iDisguise+iDisguise.visibility.*+use both of them
-iDisguise+iDisguise.visibility.list+use visibility=only-list and visibility=not-list
-iDisguise+iDisguise.visibility.permission+use visibility=only-permission and visibility=not-permission
-pStaffList+staff.fake+Toggle faking offline or not (if faking offline you will always show offline)+/staff fake
-pStaffList+staff.modify+Add a staff member to the GUI, Remove the specified staff member from the GUI, Add the item in your hand as a spacer, Remove the specified spacer and Open the GUI and allow for editing of all the positions.+/staff add,/staff remove,/staff delete,/staff addSpacer,/staff removeSpacer,/staff modify
-pStaffList+staff.reload+Force save of all files and reload the config+/staff reload
-uSkyBlock+usb.admin+To make use of any the /usb commands
-uSkyBlock+usb.admin.**+Controls player-cooldowns+/usb cooldown,/usb cd clear,/usb cd c [player] <command>
-uSkyBlock+usb.admin.addmember+Adds the player to the island+/usb is addmember [player] [islandleader]
-uSkyBlock+usb.admin.cache+Flushes all caches to files+/usb flush
-uSkyBlock+usb.admin.config+Open GUI for config for ingame editing some values+/usb config
-uSkyBlock+usb.admin.debug+Control debugging+/usb debug,/usb debug enable,/usb debug disable,/usb debug flush,/usb debug setlevel [level]
-uSkyBlock+usb.admin.delete+Delete "player's" island+/usb island delete [player]
-uSkyBlock+usb.admin.doc+Saves documentation of almost all the commands to a file+/usb doc
-uSkyBlock+usb.admin.get+Advanced command for getting island-data+/usb is get <player>
-uSkyBlock+usb.admin.ignore+Will ignore the island in the top-ten and exclude from being purged(Command toggles this function, so you can turn this on and with same command off)+/usb island ignore [player]
-uSkyBlock+usb.admin.import+Imports players and islands from other formats+/usb import <format>,/usb island
-uSkyBlock+usb.admin.info+Gives admin information about the player+/usb info [player],/usb island info [player]
-uSkyBlock+usb.admin.jobs+Controls async jobs+/usb jobs
-uSkyBlock+usb.admin.jobs.stats+Show statistics+/usb j stats
-uSkyBlock+usb.admin.lang+Ingame command to change the language and reloads after+/usb lang [landcode]
-uSkyBlock+usb.admin.maintenance+Toggles maintenance mode+/usb maintenance <true|false>
-uSkyBlock+usb.admin.makeleader+Transfer leadership to another player+/usb island makeleader <leader> <oplayer>,/usb island transfer <leader> <oplayer>
-uSkyBlock+usb.admin.nbt+Advanced info about NBT stuff+/usb nbt,/usb nbt add <nbttag>,/usb nbt info,/usb nbt set <nbttag>
-uSkyBlock+usb.admin.orphan+Manage orphans+/usb orphan,/usb orphan clear,/usb orphan count,/usb orphan list
-uSkyBlock+usb.admin.perk+Shows perk-information+/usb perk,/usb perk list,/usb perk player [player]
-uSkyBlock+usb.admin.protectall+Protects all islands (time consuming)+/usb protectall
-uSkyBlock+usb.admin.purge+Deletes the island you are currently on(island.YML will be deleted and player.yml be reset however the challenges will be kept)+/usb island purge,/usb purge [days]
-uSkyBlock+usb.admin.region+Region manipulations+/usb region,/usb rg border,/usb rg chunk,/usb rg hide,/usb rg inner,/usb rg outer,/usb rg refresh,/usb rg show,/usb rg tick <integer>
-uSkyBlock+usb.admin.register+Set "player's" island location to a bedrock within 15 blocks+/usb island createUser [player]
-uSkyBlock+usb.admin.reload+Reload the configuration settings from the file+/usb reload
-uSkyBlock+usb.admin.remove+Remove ownership of "player's" island without destroying it+/usb island remove [player],/usb fix-flatland [player]
-uSkyBlock+usb.admin.set+Advanced command for setting island-data+/usb is set <player>
-uSkyBlock+usb.admin.setbiome+Sets the biome of the island+/usb island setbiome [player] <biome>
-uSkyBlock+usb.admin.version+Displays version information+/usb version
-uSkyBlock+usb.admin.wg+Various WorldGuard utilities+/usb wg,/usb wg load,/usb wg refresh,/usb wg unload,/usb wg update
-uSkyBlock+usb.biome.DEEP_OCEAN+Allows the player to set their island's biome to Deep Ocean+/island biome DEEP_OCEAN
-uSkyBlock+usb.biome.DESERT+Allows the player to set their island's biome to Desert+/island biome DESERT
-uSkyBlock+usb.biome.EXTREME_HILLS+Allows the player to set their island's biome to Extreme Hills+/island biome EXTREME_HILLS
-uSkyBlock+usb.biome.FOREST+Allows the player to set their island's biome to Forest+/island biome FOREST
-uSkyBlock+usb.biome.HELL+Allows the player to set their island's biome to Hell+/island biome HELL
-uSkyBlock+usb.biome.JUNGLE+Allows the player to set their island's biome to Jungle+/island biome JUNGLE
-uSkyBlock+usb.biome.MUSHROOM+Allows the player to set their island's biome to Mushroom+/island biome MUSHROOM
-uSkyBlock+usb.biome.OCEAN+Allows the player to set their island's biome to Ocean+/island biome OCEAN
-uSkyBlock+usb.biome.PLAINS+Allows the player to set their island's biome to Plains+/island biome PLAINS
-uSkyBlock+usb.biome.SKY+Allows the player to set their island's biome to Sky+/island biome SKY
-uSkyBlock+usb.biome.SWAMPLAND+Allows the player to set their island's biome to Swampland+/island biome SWAMPLAND
-uSkyBlock+usb.biome.TAIGA+Allows the player to set their island's biome to Taiga+/island biome TAIGA
-uSkyBlock+usb.donor.100+Adds 20% bonus currency bonus when completing a challenge
-uSkyBlock+usb.donor.25+Adds 5% bonus currency bonus when completing a challenge
-uSkyBlock+usb.donor.50+Adds 5% bonus currency bonus when completing a challenge
-uSkyBlock+usb.donor.75+Adds 10% bonus currency bonus when completing a challenge
-uSkyBlock+usb.donor.all+Adds 5% bonus currency bonus when completing a challenge
-uSkyBlock+usb.extra.hunger+A player with this permission will loose hunger 25% slower on their island
-uSkyBlock+usb.extra.hunger2+A player with this permission will loose hunger 50% slower on their island
-uSkyBlock+usb.extra.hunger3+A player with this permission will loose hunger 75% slower on their island
-uSkyBlock+usb.extra.hunger4+A player with this permission will not loose hunger on their island
-uSkyBlock+usb.island.ban+Ban/Unban a player from accessing to your island+/island ban [player]
-uSkyBlock+usb.island.create+Display's the island GUI.+/island
-uSkyBlock+usb.island.info+View island block information+/island info
-uSkyBlock+usb.island.level+View information about your's or another person's island level+/island level
-uSkyBlock+usb.island.limit+Show the islands limits+/island limits <player>
-uSkyBlock+usb.island.lock+Prevents anyone outside of the player's party from entering the island (And disable warp)+/island lock,/island unlock
-uSkyBlock+usb.island.log+Display log+/island log
-uSkyBlock+usb.island.makeleader+Transfer the ownership of an island to a new player+/usb island makeleader [old player] [new player]
-uSkyBlock+usb.island.setwarp+Set the location that players can warp to on your island+/island setwarp
-uSkyBlock+usb.island.talk+Island talk between party and trust members on an island+/islandtalk,/istalk,/it
-uSkyBlock+usb.island.togglewarp+Enable/Disable your island's warp point. When disabled non-party members will be unable to warp to your island+/island togglewarp
-uSkyBlock+usb.island.top+View the top ten list+/island top
-uSkyBlock+usb.island.trust+Trust a visitor on your island without being in the party (this will give access to build/break and chests)+/island trust,/island untrust
-uSkyBlock+usb.island.warp+Warp to "player"'s island. Requires that "player" have an active warp+/island warp,/island warp [player]
-uSkyBlock+usb.mod.bypasscooldowns+This will bypass all cooldowns (island reset, teleport)
-uSkyBlock+usb.mod.bypassprotection+This will bypass the WG protections. To bypass the "entry" flag moderators also need the node &4worldguard.region.bypass.<worldname>&r
-uSkyBlock+usb.mod.challenges+Change status of the given "challengename" for "player" (This doesn't give rewards, it only sets the status)+/usb challenge [player] complete [challengename],/usb challenge [player] reset [challancename],/usb challenges [player] resetall
-uSkyBlock+usb.mod.goto+Teleport to "player"'s island+/usb goto [player]
-uSkyBlock+usb.mod.protect+Adds the WorldGuard protection Region for a player+/usb island protect [player],/usb island protectall
-uSkyBlock+usb.mod.topten+Generate a new top ten list, or update an old one+/usb topten
-uSkyBlock+usb.party.create+Display the party GUI with information about your island's leader and members+/island invite [player]
-uSkyBlock+usb.party.join+Display the party GUI with information about your island's leader and members+/island party,/island accept,/island reject
-uSkyBlock+usb.party.kick+Remove a player from your island+/island kick [player]
-uSkyBlock+usb.party.leave+Leave your current island (If you are the party leader, you will keep the island and remove all other players)+/island leave
-uSkyBlock+usb.party.talk+Island talk between party members server wide+/partytalk,/ptalk,/ptk
+Vehicles|Trains.overrideRemoveOnDismount|Trains won't be removed and added back to your inventory on dismount if removeTrainOnDismount enabled.
+Vehicles|Trains.overrideWorld|Use trains in not allowed worlds
+Vehicles|Trains.trainList|Train List command
+Vehicles|Vehicles.clear|Vehicle Clearing command permission
+Vehicles|Vehicles.removeOthers|Remove others vehicles using the Vehicle Clearing command
+Vehicles|Vehicles.repair|repairVehicle command permission
+ViaVersion|viaversion.admin|allows access to ViaVersion commands.|/viaver list,/viaver autoteam,/viaver dontbugme,/viaver pps,/viaver debug
+VillagerFight|vfight.admin|Access to admin commands.
+VillagerFight|vfight.vip|Grants 2x money instead of 1.5x for vip players.
+VoidSpawn|vs.*|Will grant all VoidSpawn permissions.
+VoidSpawn|vs.admin.*|Will give all /voidspawn commands.|/voidspawn
+VoidSpawn|vs.admin.command|Gives /voidspawn command command.|/voidspawn command
+VoidSpawn|vs.admin.detector|Gives /voidspawn detector command.|/voidspawn detector
+VoidSpawn|vs.admin.help|Gives /voidspawn help command.|/voidspawn help
+VoidSpawn|vs.admin.message|Gives /voidspawn message command.|/voidspawn message
+VoidSpawn|vs.admin.mode|Gives /voidspawn mode command.|/voidspawn mode
+VoidSpawn|vs.admin.reload|Gives /voidspawn reload command.|/voidspawn reload
+VoidSpawn|vs.admin.remove|Gives /voidspawn remove command.|/voidspawn remove
+VoidSpawn|vs.admin.set|Gives /voidspawn set command.|/voidspawn set
+VoidSpawn|vs.player.toggle|Permission for /vs toggle command.|/vs toggle
+VoteSend|votesend.admin|Allow the player to reload the plugin and send a test vote to a player.|/votesend reload,/votesend send
+Voter|Voter.Create|Permission to Start a voting.|/vote
+Vouchers|voucher.admin|Access To All Commands|/Voucher Help,/Voucher Redeem <Code>,/Voucher <Give> [Amount] [Player] [Argument],/Voucher Reload
+Vouchers|voucher.bypass|Buypass Voucher Limiter|NONE
+Vouchers|voucher.redeem|Redeem vouchers|NONE
+WarpSystem|WarpSystem.ByPass.Maintenance|Use GUI while in maintenance mode
+WarpSystem|WarpSystem.ByPass.Teleport.Delay|Bypass teleport delay
+WarpSystem|WarpSystem.Modify|Edit the GUI and Portals
+WarpSystem|WarpSystem.Modify.Portals|Edit the Portals
+WarpSystem|WarpSystem.Notify|Notify for updates
+WorldBorder|worldborder.use|Allow the player to set the worldborder radius.|/wb <Radius>
+WorldEdit|worldedit.*|Grants a user all WorldEdit permissions
+WorldEdit|worldedit.analysis.count|Counts the number of a certain type of block|//count
+WorldEdit|worldedit.analysis.distr|Get the distribution of blocks in the selection|//distr
+WorldEdit|worldedit.biome.info|Get the biome of the targeted block.|/biomeinfo
+WorldEdit|worldedit.biome.list|Gets all biomes available.|/biomelist,/biomels
+WorldEdit|worldedit.biome.set|Sets biome according to a formula.|//generatebiome,//genbiome,//gb
+WorldEdit|worldedit.biome.set|Sets the biome of the player's current block or region.|//setbiome
+WorldEdit|worldedit.brush.butcher|Butcher brush|/brush butcher
+WorldEdit|worldedit.brush.clipboard|Choose the clipboard brush|/brush clipboard
+WorldEdit|worldedit.brush.cylinder|Choose the cylinder brush|/brush cylinder
+WorldEdit|worldedit.brush.ex|Shortcut fire extinguisher brush|/brush ex
+WorldEdit|worldedit.brush.gravity|Gravity brush|/brush gravity
+WorldEdit|worldedit.brush.options.mask|Set the brush mask|/mask
+WorldEdit|worldedit.brush.options.material|Set the brush material|/mat,/material
+WorldEdit|worldedit.brush.options.range|Set the brush range|/range
+WorldEdit|worldedit.brush.options.size|Set the brush size|/size
+WorldEdit|worldedit.brush.smooth|Choose the terrain softener brush|/brush smooth
+WorldEdit|worldedit.brush.sphere|Choose the sphere brush|/brush sphere
+WorldEdit|worldedit.butcher|Kill all or nearby mobs|/butcher
+WorldEdit|worldedit.calc|Evaluate a mathematical expression|//calc,//eval,//solve
+WorldEdit|worldedit.chunkinfo|Get information about the chunk that you are inside|/chunkinfo
+WorldEdit|worldedit.clipboard.clear|Clear your clipboard|/clearclipboard
+WorldEdit|worldedit.clipboard.copy|Copy the selection to the clipboard|//copy
+WorldEdit|worldedit.clipboard.cut|Cut the selection to the clipboard|//cut
+WorldEdit|worldedit.clipboard.flip|Flip the contents of the clipboard.|//flip
+WorldEdit|worldedit.clipboard.load|Load a schematic into your clipboard|//load
+WorldEdit|worldedit.clipboard.paste|Paste the clipboard's contents|//paste
+WorldEdit|worldedit.clipboard.rotate|Rotate the contents of the clipboard|//rotate
+WorldEdit|worldedit.clipboard.save|Save a schematic into your clipboard|//save
+WorldEdit|worldedit.delchunks|Delete chunks that your selection includes|/delchunks
+WorldEdit|worldedit.drain|Drain a pool|//drain
+WorldEdit|worldedit.extinguish|Extinguish nearby fire|//extinguish
+WorldEdit|worldedit.fast|Toggle fast mode|//fast
+WorldEdit|worldedit.fill|Fill a hole|//fill
+WorldEdit|worldedit.fill.recursive|Fill a hole recursively|//fillr
+WorldEdit|worldedit.fixlava|Fix lava to be stationary|//fixlava
+WorldEdit|worldedit.fixwater|Fix water to be stationary|//fixwater
+WorldEdit|worldedit.generation.cylinder|Generates a cylinder.|//hcyl,//cyl
+WorldEdit|worldedit.generation.forest|Generate a forest.|/forestgen
+WorldEdit|worldedit.generation.pumpkins|Generate pumpkin patches|/pumpkins
+WorldEdit|worldedit.generation.pyramid|Generate a pyramid|//hpyramid,//pyramid
+WorldEdit|worldedit.generation.shape|Generates a shape according to a formula.|//generate,//gen,//g
+WorldEdit|worldedit.generation.sphere|Generates a sphere.|//hsphere,//sphere
+WorldEdit|worldedit.global_mask|Set the permissions mask|//gmask,/gmask
+WorldEdit|worldedit.green|Greens the area|/green
+WorldEdit|worldedit.help|Displays help for the given command or lists all commands.|/we help
+WorldEdit|worldedit.history.clear|Clear your history|//clearhistory,/clearhistory
+WorldEdit|worldedit.history.redo|Redoes the last action (from history)|//redo,/redo
+WorldEdit|worldedit.history.undo|Undoes the last action|//undo,/undo
+WorldEdit|worldedit.limit|Modify block change limit|//limit
+WorldEdit|worldedit.listchunks|List chunks that your selection includes|/listchunks
+WorldEdit|worldedit.navigation.ascend|Get ytb a floor|/ascend,/asc
+WorldEdit|worldedit.navigation.ceiling|Go to the celing|/ceil
+WorldEdit|worldedit.navigation.descend|Get down a floor|/descend,/desc
+WorldEdit|worldedit.navigation.jumpto.command|Teleport to a location|/jumpto,/j
+WorldEdit|worldedit.navigation.thru.command|Passthrough walls|/thru
+WorldEdit|worldedit.navigation.unstuck|Escape from being stuck inside a block|/unstuck,/!
+WorldEdit|worldedit.navigation.up|Go upwards some distance|/ytb
+WorldEdit|worldedit.regen|Regenerates the contents of the selection|//regen
+WorldEdit|worldedit.region.center|Set the center block(s)|//center,//middle
+WorldEdit|worldedit.region.curve|Draws a spline through selected points|//curve
+WorldEdit|worldedit.region.deform|Deforms a selected region with an expression|//deform
+WorldEdit|worldedit.region.faces|Build the walls, ceiling, and floor of a selection|//faces,//outline
+WorldEdit|worldedit.region.forest|Make a forest within the region|//forest
+WorldEdit|worldedit.region.hollow|Hollows out the object contained in this selection|//hollow
+WorldEdit|worldedit.region.line|Draws a line segment between cuboid selection corners|//line
+WorldEdit|worldedit.region.move|Move the contents of the selection|//move
+WorldEdit|worldedit.region.naturalize|3 layers of dirt on top then rock below|//naturalize
+WorldEdit|worldedit.region.overlay|Set a block on top of blocks in the region|//overlay
+WorldEdit|worldedit.region.replace|Replace all blocks in the selection with another|//setPlaceholders,//rep,//re
+WorldEdit|worldedit.region.set|Set all the blocks inside the selection to a block|//set
+WorldEdit|worldedit.region.smooth|Smooth the elevation in the selection|//smooth
+WorldEdit|worldedit.region.stack|Repeat the contents of the selection|//stack
+WorldEdit|worldedit.region.walls|Build the four sides of the selection|//walls
+WorldEdit|worldedit.reload|Reload WorldEdit|/we reload
+WorldEdit|worldedit.remove|Remove all entities of a type|/remove
+WorldEdit|worldedit.removeabove|Remove blocks above your head.|//removeabove
+WorldEdit|worldedit.removebelow|Remove blocks below you.|//removebelow
+WorldEdit|worldedit.removenear|Remove blocks near you.|//removenear
+WorldEdit|worldedit.replacenear|Replace nearby blocks|//replacenear
+WorldEdit|worldedit.schematic.formats|List available schematic formats|//schematic formats,//schematic listformats,//schematic f
+WorldEdit|worldedit.schematic.list|List available schematics|//schematic list,//schematic all,//schematic ls
+WorldEdit|worldedit.schematic.load|Load a schematic into your clipboard|//schematic load,//schematic l
+WorldEdit|worldedit.schematic.save|Save a schematic into your clipboard|//schematic save,//schematic s
+WorldEdit|worldedit.selection.chunk|Set the selection to your current chunk.|//chunk
+WorldEdit|worldedit.selection.contract|Contract the selection area|//contract
+WorldEdit|worldedit.selection.expand|Expand the selection area|//expand
+WorldEdit|worldedit.selection.hpos|Set positions to targeted blocks|//hpos1,//hpos2
+WorldEdit|worldedit.selection.inset|Inset the selection area|//inset
+WorldEdit|worldedit.selection.outset|Outset the selection area|//outset
+WorldEdit|worldedit.selection.pos|Set positions|//pos1,//pos2
+WorldEdit|worldedit.selection.shift|Shift the selection area|//shift
+WorldEdit|worldedit.selection.size|Get information about the selection|//size
+WorldEdit|worldedit.snapshots.list|List Snapshots|/snapshot list
+WorldEdit|worldedit.snapshots.restore|Snapshot commands|/snapshot use,/snapshot sel,/snapshot after,/snapshot before,/restore,//restore
+WorldEdit|worldedit.snow|Simulates snow|//snow
+WorldEdit|worldedit.superpickaxe|Toggle the super pickaxe pickaxe function|//
+WorldEdit|worldedit.superpickaxe.area|Enable the area super pickaxe pickaxe mode|/superpickaxe area
+WorldEdit|worldedit.superpickaxe.recursive|Enable the recursive super pickaxe pickaxe mode|/superpickaxe recur,/superpickaxe recursive
+WorldEdit|worldedit.thaw|Thaws the area|/thaw
+WorldEdit|worldedit.tool.data_cycler|Block generalData cycler tool|/cycler
+WorldEdit|worldedit.tool.deltree|Floating tree remover tool|/deltree
+WorldEdit|worldedit.tool.farwand|Wand at a distance tool|/farwand
+WorldEdit|worldedit.tool.flood_fill|Flood fill tool|/flood,/floodfill
+WorldEdit|worldedit.tool.info|Block information tool|/info
+WorldEdit|worldedit.tool.lrbuild|Long-range building tool|/lrbuild
+WorldEdit|worldedit.tool.replacer|Block replacer tool|/repl
+WorldEdit|worldedit.tool.tree|Tree generator tool|/tree
+WorldEdit|worldedit.wand|Get the wand object|//wand
+WorldEdit|worldedit.wand.toggle|Toggle functionality of the edit wand|/toggleeditwand
+WorldGuard|worldguard.chest_protection.override|override chest protection.
+WorldGuard|worldguard.fire_toggle|An unknown description
+WorldGuard|worldguard.halt_activity|An unknown description|/halt-activity,/halt-activity -c
+WorldGuard|worldguard.notify|Receive blacklist events notifications.
+WorldGuard|worldguard.override.chest_protection|alias for worldguard.chest-protection.override.
+WorldGuard|worldguard.region.addmember.*|An unknown description|/region addmember
+WorldGuard|worldguard.region.addmember.member.*|An unknown description|/region addmember
+WorldGuard|worldguard.region.addmember.own.*|An unknown description|/region addmember
+WorldGuard|worldguard.region.addowner.*|An unknown description|/region addowner
+WorldGuard|worldguard.region.addowner.member.*|An unknown description|/region addowner
+WorldGuard|worldguard.region.addowner.own.*|An unknown description|/region addowner
+WorldGuard|worldguard.region.claim|An unknown description|/region claim
+WorldGuard|worldguard.region.define|An unknown description|/region define
+WorldGuard|worldguard.region.flag.flags.*|for all flags|/region flag
+WorldGuard|worldguard.region.flag.regions.*|An unknown description|/region flag
+WorldGuard|worldguard.region.flag.regions.member.*|lets members set the flags for their own regions.|/region flag
+WorldGuard|worldguard.region.flag.regions.own.*|lets owners set the flags for their own regions.|/region flag
+WorldGuard|worldguard.region.info.*|An unknown description|/region info
+WorldGuard|worldguard.region.info.member.*|lets members query their own regions.|/region info
+WorldGuard|worldguard.region.info.own.*|lets owners query their own regions.|/region info
+WorldGuard|worldguard.region.list|An unknown description|/region list
+WorldGuard|worldguard.region.list.own|An unknown description|/region list
+WorldGuard|worldguard.region.member.*|lets members teleport to their own regions.|/region teleport
+WorldGuard|worldguard.region.redefine.*|An unknown description|/region redefine
+WorldGuard|worldguard.region.redefine.member.*|lets members redefine their own regions.|/region redefine
+WorldGuard|worldguard.region.redefine.own.*|lets owners redefine their own regions.|/region redefine
+WorldGuard|worldguard.region.remove.*|An unknown description|/region remove
+WorldGuard|worldguard.region.remove.member.*|lets members remove their own regions.|/region remove
+WorldGuard|worldguard.region.remove.own.*|lets owners remove their own regions|/region remove
+WorldGuard|worldguard.region.removemember.*|An unknown description|/region removemember
+WorldGuard|worldguard.region.removemember.member.*|An unknown description|/region removemember
+WorldGuard|worldguard.region.removemember.own.*|An unknown description|/region removemember
+WorldGuard|worldguard.region.removeowner.*|An unknown description|/region removeowner
+WorldGuard|worldguard.region.removeowner.member.*|An unknown description|/region removeowner
+WorldGuard|worldguard.region.removeowner.own.*|An unknown description|/region removeowner
+WorldGuard|worldguard.region.select.*|An unknown description|/region select
+WorldGuard|worldguard.region.select.member.*|lets members select their own regions.|/region select
+WorldGuard|worldguard.region.select.own.*|lets owners select their own regions.|/region select
+WorldGuard|worldguard.region.setparent.*|An unknown description|/region setparent
+WorldGuard|worldguard.region.setparent.member.*|lets members set the parent of their own regions.|/region setparent
+WorldGuard|worldguard.region.setparent.own.*|lets owners set the parent of their own regions.|/region setparent
+WorldGuard|worldguard.region.setpriority.*|An unknown description|/region setpriority
+WorldGuard|worldguard.region.setpriority.member.*|lets members set the priority of their own regions.|/region setpriority
+WorldGuard|worldguard.region.setpriority.own.*|lets owners set the priority of their own regions.|/region setpriority
+WorldGuard|worldguard.region.teleport.*|.|/region teleport
+WorldGuard|worldguard.region.teleport.own.*|lets owners teleport to their own regions.|/region teleport
+WorldGuard|worldguard.reload|An unknown description|/worldguard reload
+WorldGuard|worldguard.report|An unknown description|/worldguard report
+WorldGuard|worldguard.report.pastebin|for automatically uploading and linking the report.|/worldguard report
+Wormholes|wormholes.build|Grants the permission to modify the frame of the portal (style of it) but does not grant the ability to destroy the 4 colored blocks (combine this with create for creation)
+Wormholes|wormholes.configure|Grants the permission to configure portals by right clicking one of the four colored blocks. Ability to change polarity one directions and more.
+Wormholes|wormholes.create|Grants the permission to create and design portals.|/wormholes create
+Wormholes|wormholes.destroy|Grants the permission to destroy portals (or via the list command delete button)|/wormholes 
+Wormholes|wormholes.list|Grants the permission to list portals and teleport to them (or any location in the world technically)|/wormholes list
+Wormholes|wormholes.reload|Grants the permission to reload the plugin|/wormholes reload
+Wormholes|wormholes.use|Grants the permission to enter portals (actually use them) all players should have this if you plan on players using the portals you create.
+YT|box.set|Zum Box-setzen
+YT|yt.box|Zum Box-joinen
+YouTubeBridge|youtubebridge.admin|Access to all administrative features|/panel
+betterSleeping|bettersleeping.reload|Reloads all BetterSleeping configuration files|/bs reload,/bettersleeping reload
+citizens|citizens.admin|This allows players to edit 'server' owned NPCs.
+citizens|citizens.admin.*|Allow all commands.|/citizens,/citizens reload,/citizens save
+citizens|citizens.admin.remove.all|Remove all NPCs|/npc remove all
+citizens|citizens.help|Show Citizens help menu.|/citizens help
+citizens|citizens.npc.*|Show basic NPC information.
+citizens|citizens.npc.|An unknown description
+citizens|citizens.npc.age|Modify a NPC's age.|/npc age
+citizens|citizens.npc.anchor|Changes/saves/lists NPC's location anchors.|/npc anchor
+citizens|citizens.npc.behaviour|Adds and removes behaviours from an NPC. A behaviour is a script file that is executed and adds 'goals' to the NPC which can run every tick. These can do anything you can program/think of!|/npc behaviour
+citizens|citizens.npc.controllable|Toggles the NPC's controllable status. Controllable NPCs can be right clicked to be mounted and controlled with WASD. Ghasts, Blazes and Endersragons can be flown by left clicking once mounted to pause/unpause flying. (if you want to let players control a spified NPC add this permission manual to the player with the typ of name of the NPC)|/npc controllable
+citizens|citizens.npc.copy|Create a new NPC from the currently selected NPC, copying all traits.|/npc copy
+citizens|citizens.npc.create.*|Create a new NPC. (if you want that a player can create only one typ of NPC add this permission manual: citizens.npc.create.[mobtype]|/npc create
+citizens|citizens.npc.despawn|Despawn a NPC|/npc despawn
+citizens|citizens.npc.edit.equip|Toggle equipment editor. see Equipment Editor Used for player armor, player and endermen items, sheep color/sheared, and pig saddles.|/npc equip
+citizens|citizens.npc.edit.path|Toggle path editor. Left click to add a waypoint, right click to remove, mousewheel or number keys to select individual waypoints.|/npc path
+citizens|citizens.npc.edit.text|Toggle text editor. Note that players need the citizens.npc.talk permission to hear NPCs!|/npc text
+citizens|citizens.npc.gamemode|Sets a Player NPC's game mode.|/npc gamemode
+citizens|citizens.npc.gravity|Toggles gravity on the NPC.|/npc gravity
+citizens|citizens.npc.help|Show NPC help menu.|/npc help
+citizens|citizens.npc.list|List NPCs that match at least one of the given conditions|/npc list
+citizens|citizens.npc.lookclose|Toggle a NPC's look-close state|/npc lookclose
+citizens|citizens.npc.mount|Mount the currently selected NPC, if it is controllable.|/npc mount
+citizens|citizens.npc.moveto|The NPC's current location is taken as the base location. Value arguments are used to modify this base.|/npc moveto
+citizens|citizens.npc.owner|Sets the owner of a NPC.|/npc owner
+citizens|citizens.npc.pathfindingrange|Set the range in number of blocks in which the NPC can find a path.|/npc pathrange
+citizens|citizens.npc.playerlist|Toggles an NPC as a 'real' player, so that it will be more recognised by other plugins, will keep chunks loaded and crops ticking.|/npc playerlist
+citizens|citizens.npc.power|Toggle whether a creeper NPC is powered.|/npc power
+citizens|citizens.npc.profession|Change a villager-type NPC's profession.|/npc profession
+citizens|citizens.npc.remove|Remove a NPC|/npc remove
+citizens|citizens.npc.rename|Rename a NPC|/npc rename
+citizens|citizens.npc.select|Selects a NPC with the given ID|/npc select
+citizens|citizens.npc.size|Sets a slime's size.|/npc size
+citizens|citizens.npc.skeletontype|Changes a Skeleton NPC's type (currently between WITHER and NORMAL)|/npc skeletontype
+citizens|citizens.npc.spawn|Spawn a existing NPC|/npc spawn
+citizens|citizens.npc.speed|changes the NPC's default speed multiplier. i.e. use 2 to double the normal speed.|/npc speed
+citizens|citizens.npc.tp|Teleport to a NPC|/npc tp
+citizens|citizens.npc.tphere|Teleport a NPC to your location|/npc tphere
+citizens|citizens.npc.trait.*|Adds the trait type to the NPC. NPCs can have multiple traits. (if you want to add a pesific trait to a player ad this permission: citizens.npc.trait.<trait-name>)|/trait
+citizens|citizens.npc.type|Changes an NPC's mob type.|/npc type
+citizens|citizens.npc.vulnerable|Toggles whether the NPC can take damage and die, and whether monsters will target it when it is on the player list|/npc vulnerable
+citizens|citizens.npc.zombiemodifier|Sets a zombie NPC's modifiers.|/npc zombiemod
+citizens|citizens.pose|Changes/Stores NPC's head position based on the Player's current position.|/npc pose
+citizens|citizens.script.help|Show scripting help menu.|/script help
+citizens|citizens.template.help|Show template help menu.|/template help
+citizens|citizens.templates.apply|Applies the given templates to the NPC.|/template apply
+citizens|citizens.templates.create|Generates a template from the selected NPC and saves it to the templates.yml file.|/template create
+citizens|citizens.trait.help|Show trait help menu.|/trait help
+citizens|citizens.waypoints.disableteleport|Stops NPCs from automatically teleporting the end of their path if they get stuck (NOTE: might be removed at some point).|/waypoints disableteleport
+citizens|citizens.waypoints.help|Show waypoints help menu.|/waypoints help
+citizens|citizens.waypoints.provider|Sets the waypoint provider to use when using the waypoint editor.|/waypoints provider
+dynmap|dynmap.add_id_for_ip|allows /dynmap add-id-for-ip.|/dynmap add-id-for-ip
+dynmap|dynmap.cancelrender|allows /dynmap cancelrender.|/dynmap cancelrender
+dynmap|dynmap.del_id_for_ip|allows /dynmap del-id-for-ip.|/dynmap del-id-for-ip
+dynmap|dynmap.dmap.lightinglist|allows /dmap lightinglist.|/dmap lightinglist
+dynmap|dynmap.dmap.mapadd|allows /dmap mapadd.|/dmap mapadd
+dynmap|dynmap.dmap.mapdelete|allows /dmap mapdelete.|/dmap mapdelete
+dynmap|dynmap.dmap.mapset|allows /dmap mapset.|/dmap mapset
+dynmap|dynmap.dmap.perspectivelist|allows /dmap perspectivelist.|/dmap perspectivelist
+dynmap|dynmap.dmap.shaderlist|allows /dmap shaderlist.|/dmap shaderlist
+dynmap|dynmap.dmap.worldlist|allows /dmap worldlist.|/dmap worldlist
+dynmap|dynmap.dmap.worldreset|allows /dmap worldreset.|/dmap worldreset
+dynmap|dynmap.dmap.worldset|allows /dmap worldset.|/dmap worldset
+dynmap|dynmap.fullrender|allows /dynmap fullrender or /dynmap fullrender.
+dynmap|dynmap.hide.others|allows /dynmap hide.|/dynmap hide
+dynmap|dynmap.hide.self|allows /dynmap hide. (on self)|v
+dynmap|dynmap.ids_for_ip|allows /dynmap ids-for-ip.|/dynmap ids-for-ip
+dynmap|dynmap.ips_for_id|allows /dynmap ips-for-id.|/dynmap ips-for-id
+dynmap|dynmap.marker.add|allows /dmarker add.|/dmarker add
+dynmap|dynmap.marker.addarea|allows /dmarker addarea.|/dmarker addarea
+dynmap|dynmap.marker.addicon|allows /dmarker addicon.|/dmarker addicon
+dynmap|dynmap.marker.addline|allows /dmarker addline.|/dmarker addline
+dynmap|dynmap.marker.addset|allows /dmarker addset.|/dmarker addset
+dynmap|dynmap.marker.delete|allows /dmarker delete.|/dmarker delete
+dynmap|dynmap.marker.deletearea|allows /dmarker deletearea.|/dmarker deletearea
+dynmap|dynmap.marker.deleteicon|allows /dmarker deleteicon.|/dmarker deleteicon
+dynmap|dynmap.marker.deleteline|allows /dmarker deleteline.|/dmarker deleteline
+dynmap|dynmap.marker.deleteset|allows /dmarker deleteset.|/dmarker deleteset
+dynmap|dynmap.marker.icons|allows /dmarker icons.|/dmarker icons
+dynmap|dynmap.marker.list|allows /dmarker list.|/dmarker list
+dynmap|dynmap.marker.listareas|allows /dmarker listareas.|/dmarker listareas
+dynmap|dynmap.marker.listlines|allows /dmarker listlines.|/dmarker listlines
+dynmap|dynmap.marker.listsets|allows /dmarker listsets.|/dmarker listsets
+dynmap|dynmap.marker.movehere|allows /dmarker movehere.|/dmarker movehere
+dynmap|dynmap.marker.update|allows /dmarker update.|/dmarker update
+dynmap|dynmap.marker.updatearea|allows /dmarker updatearea.|/dmarker updatearea
+dynmap|dynmap.marker.updateicon|allows /dmarker updateicon.|/dmarker updateicon
+dynmap|dynmap.marker.updateline|allows /dmarker updateline.|/dmarker updateline
+dynmap|dynmap.marker.updateset|allows /dmarker updateset.|/dmarker updateset
+dynmap|dynmap.pause|allows /dynmap pause.|/dynmap pause
+dynmap|dynmap.playermarkers.showall|allows user to see all player positions when protected-player-info has been set to restrict access.
+dynmap|dynmap.purgequeue|allows /dynmap purgequeue.|/dynmap purgequeue
+dynmap|dynmap.radiusrender|allows /dynmap radiusrender.
+dynmap|dynmap.reload|allows /dynmap reload.|/dynmap reload
+dynmap|dynmap.render|allows /dynmap render command.|/dynmap render
+dynmap|dynmap.resetstats|allows /dynmap resetstats or /dynmap resetstats.|/dynmap resetstats,/dynmap resetstats
+dynmap|dynmap.sendtoweb|allows /dynmap sendtoweb.|/dynmap sendtoweb
+dynmap|dynmap.show.others|allows /dynmap show.|/dynmap show
+dynmap|dynmap.show.self|allows /dynmap show. (on self)|/dynmap show
+dynmap|dynmap.stats|allows /dynmap stats or /dynmap stats or /dynmap triggerstats.|/dynmap stat,/dynmap stats,/dynmap triggerstats
+dynmap|dynmap.updaterender|allows /dynmap updaterender.|/dynmap updaterender
+dynmap|dynmap.webchat|allows sending of chat messages from web interface. (login or id-by-ip required)
+dynmap|dynmap.webregister|allows /dynmap webregister.|/dynmap webregister
+dynmap|dynmap.webregister.other|allows /dynmap webregister player-id.|/dynmap webregister
+iConomy|iConomy.accounts.create|Create an account.|/money create [name]
+iConomy|iConomy.accounts.empty|Empty database of accounts.|/money empty
+iConomy|iConomy.accounts.give|Give money.|/money give [name] [amount]
+iConomy|iConomy.accounts.purge|Purge all accounts with initial holdings.|/money purge
+iConomy|iConomy.accounts.remove|Remove an account.|/money remove [name]
+iConomy|iConomy.accounts.set|Set account balance.|/money set [name] [amount]
+iConomy|iConomy.accounts.status|Check account status.|/money status [name]
+iConomy|iConomy.accounts.take|Take money.|/money take [name] [amount]
+iConomy|iConomy.help|Help and Information.|/money help
+iConomy|iConomy.holdings|Check my balance.|/money
+iConomy|iConomy.holdings.others|Check others balance.|/money [name]
+iConomy|iConomy.payment|Send money to others.|/money pay [name] [amount]
+iConomy|iConomy.status.set|Set account status.|/money status [name] [status]
+iDisguise|iDisguise.*|All permissions (except iDisguise.help)
+iDisguise|iDisguise.admin|Combines some administration stuff (disguise in prohibited worlds, disguise and undisguise others, reload the config.txt, receive a notification if an update is available)
+iDisguise|iDisguise.everywhere|Disguise in prohibited worlds (this is also required to disguise other players in prohibited worlds)
+iDisguise|iDisguise.ghost|Disguise as a ghost (you also need iDisguise.player.<name> to be allowed to do that)|/disguise ghost
+iDisguise|iDisguise.help|Required to use /disguise help.|/disguise help,/d help
+iDisguise|iDisguise.mob.*|Disguise as every living mob including every subtype
+iDisguise|iDisguise.mob.baby|Disguise as baby mobs
+iDisguise|iDisguise.mob.bat|Disguise as a bat
+iDisguise|iDisguise.mob.blaze|Disguise as a blaze
+iDisguise|iDisguise.mob.cave_spider|Disguise as a cave spider
+iDisguise|iDisguise.mob.chicken|Disguise as a chicken
+iDisguise|iDisguise.mob.cow|Disguise as a cow
+iDisguise|iDisguise.mob.creeper|Disguise as a creeper
+iDisguise|iDisguise.mob.creeper.powered|Disguise as a charged creeper (you also need the basic iDisguise.mob.creeper permission)
+iDisguise|iDisguise.mob.donkey|Disguise as a donkey
+iDisguise|iDisguise.mob.elder_guardian|Disguise as an elder_guardian
+iDisguise|iDisguise.mob.ender_dragon|Disguise as an enderdragon
+iDisguise|iDisguise.mob.enderman|Disguise as an enderman
+iDisguise|iDisguise.mob.enderman_block|Hold a block as an enderman
+iDisguise|iDisguise.mob.endermite|Disguise as an endermite
+iDisguise|iDisguise.mob.evoker|Disguise as an evoker
+iDisguise|iDisguise.mob.ghast|Disguise as a ghast
+iDisguise|iDisguise.mob.giant|Disguise as a giant zombie
+iDisguise|iDisguise.mob.guardian|Disguise as a guardian
+iDisguise|iDisguise.mob.horse|Disguise as a horse
+iDisguise|iDisguise.mob.husk|Disguise as a husk
+iDisguise|iDisguise.mob.iron_golem|Disguise as an iron golem
+iDisguise|iDisguise.mob.llama|Disguise as a llama
+iDisguise|iDisguise.mob.magma_cube|Disguise as a magma cube
+iDisguise|iDisguise.mob.magma_cube.giant|Disguise as a magma cube of an unnormal size (bigger than 4 blocks)
+iDisguise|iDisguise.mob.mule|Disguise as a mule
+iDisguise|iDisguise.mob.mushroom_cow|Disguise as a mushroom cow
+iDisguise|iDisguise.mob.ocelot|Disguise as an ocelot
+iDisguise|iDisguise.mob.ocelot.type.*|Change your color/type as an ocelot
+iDisguise|iDisguise.mob.ocelot.type.black|Just be allowed to use one single color/type instead of all
+iDisguise|iDisguise.mob.ocelot.type.red|Just be allowed to use one single color/type instead of all
+iDisguise|iDisguise.mob.ocelot.type.siamese|Just be allowed to use one single color/type instead of all
+iDisguise|iDisguise.mob.ocelot.type.wild|Just be allowed to use one single color/type instead of all
+iDisguise|iDisguise.mob.pig|Disguise as a pig
+iDisguise|iDisguise.mob.pig.saddled|Carry a saddle as a pig
+iDisguise|iDisguise.mob.pig_zombie|Disguise as a zombie pigman
+iDisguise|iDisguise.mob.polar_bear|Disguise as a polar bear
+iDisguise|iDisguise.mob.rabbit|Disguise as a rabbit
+iDisguise|iDisguise.mob.rabbit.type.*|Change your color/type as a rabbit
+iDisguise|iDisguise.mob.rabbit.type.black|Just be allowed to use one single rabbit type instead of all
+iDisguise|iDisguise.mob.rabbit.type.black-white|Just be allowed to use one single rabbit type instead of all
+iDisguise|iDisguise.mob.rabbit.type.brown|Just be allowed to use one single rabbit type instead of all
+iDisguise|iDisguise.mob.rabbit.type.gold|Just be allowed to use one single rabbit type instead of all
+iDisguise|iDisguise.mob.rabbit.type.killer|Just be allowed to use one single rabbit type instead of all
+iDisguise|iDisguise.mob.rabbit.type.salt-pepper|Just be allowed to use one single rabbit type instead of all
+iDisguise|iDisguise.mob.rabbit.type.white|Just be allowed to use one single rabbit type instead of all
+iDisguise|iDisguise.mob.sheep|Disguise as a sheep
+iDisguise|iDisguise.mob.sheep.color.*|Change your hide color as a sheep
+iDisguise|iDisguise.mob.sheep.color.black|Just be allowed to use one single color/type instead of all
+iDisguise|iDisguise.mob.sheep.color.blue|Just be allowed to use one single color/type instead of all
+iDisguise|iDisguise.mob.sheep.color.brown|Just be allowed to use one single color/type instead of all
+iDisguise|iDisguise.mob.sheep.color.cyan|Just be allowed to use one single color/type instead of all
+iDisguise|iDisguise.mob.sheep.color.gray|Just be allowed to use one single color/type instead of all
+iDisguise|iDisguise.mob.sheep.color.green|Just be allowed to use one single color/type instead of all
+iDisguise|iDisguise.mob.sheep.color.light-blue|Just be allowed to use one single color/type instead of all
+iDisguise|iDisguise.mob.sheep.color.lime|Just be allowed to use one single color/type instead of all
+iDisguise|iDisguise.mob.sheep.color.magenta|Just be allowed to use one single color/type instead of all
+iDisguise|iDisguise.mob.sheep.color.orange|Just be allowed to use one single color/type instead of all
+iDisguise|iDisguise.mob.sheep.color.pink|Just be allowed to use one single color/type instead of all
+iDisguise|iDisguise.mob.sheep.color.purple|Just be allowed to use one single color/type instead of all
+iDisguise|iDisguise.mob.sheep.color.red|Just be allowed to use one single color/type instead of all
+iDisguise|iDisguise.mob.sheep.color.silver|Just be allowed to use one single color/type instead of all
+iDisguise|iDisguise.mob.sheep.color.white|Just be allowed to use one single color/type instead of all
+iDisguise|iDisguise.mob.sheep.color.yellow|Just be allowed to use one single color/type instead of all
+iDisguise|iDisguise.mob.shulker|Disguise as a shulker
+iDisguise|iDisguise.mob.silverfish|Disguise as a silver fish
+iDisguise|iDisguise.mob.skeletal_horse|Disguise as a skeletal horse
+iDisguise|iDisguise.mob.skeleton|Disguise as a skeleton
+iDisguise|iDisguise.mob.slime|Disguise as a slime
+iDisguise|iDisguise.mob.slime.giant|Disguise as a slime of an unnormal size (bigger than 4 blocks)
+iDisguise|iDisguise.mob.snowman|Disguise as a snowman
+iDisguise|iDisguise.mob.spider|Disguise as a spider
+iDisguise|iDisguise.mob.squid|Disguise as a squid
+iDisguise|iDisguise.mob.stray|Disguise as a stray
+iDisguise|iDisguise.mob.undead_horse|Disguise as an undead horse
+iDisguise|iDisguise.mob.vex|Disguise as a vex
+iDisguise|iDisguise.mob.villager|Disguise as a villager
+iDisguise|iDisguise.mob.villager.profession.*|Change your profession as a villager
+iDisguise|iDisguise.mob.villager.profession.blacksmith|Just be allowed to use one single profession instead of all
+iDisguise|iDisguise.mob.villager.profession.butcher|Just be allowed to use one single profession instead of all
+iDisguise|iDisguise.mob.villager.profession.farmer|Just be allowed to use one single profession instead of all
+iDisguise|iDisguise.mob.villager.profession.librarian|Just be allowed to use one single profession instead of all
+iDisguise|iDisguise.mob.villager.profession.nitwit|Just be allowed to use one single profession instead of all
+iDisguise|iDisguise.mob.villager.profession.priest|Just be allowed to use one single profession instead of all
+iDisguise|iDisguise.mob.vindicator|Disguise as a vindicator
+iDisguise|iDisguise.mob.witch|Disguise as a witch
+iDisguise|iDisguise.mob.wither|Disguise as a wither
+iDisguise|iDisguise.mob.wither_skeleton|Disguise as a wither skeleton
+iDisguise|iDisguise.mob.wolf|Disguise as a wolf
+iDisguise|iDisguise.mob.wolf.angry|Disguise as an angry wolf (red eyes)
+iDisguise|iDisguise.mob.wolf.collar.*|Change your collar color as a wolf (only visible if you are a tamed wolf)
+iDisguise|iDisguise.mob.wolf.collar.black|Just be allowed to use one single color instead of all
+iDisguise|iDisguise.mob.wolf.collar.blue|Just be allowed to use one single color instead of all
+iDisguise|iDisguise.mob.wolf.collar.brown|Just be allowed to use one single color instead of all
+iDisguise|iDisguise.mob.wolf.collar.cyan|Just be allowed to use one single color instead of all
+iDisguise|iDisguise.mob.wolf.collar.gray|Just be allowed to use one single color instead of all
+iDisguise|iDisguise.mob.wolf.collar.green|Just be allowed to use one single color instead of all
+iDisguise|iDisguise.mob.wolf.collar.light-blue|Just be allowed to use one single color instead of all
+iDisguise|iDisguise.mob.wolf.collar.lime|Just be allowed to use one single color instead of all
+iDisguise|iDisguise.mob.wolf.collar.magenta|Just be allowed to use one single color instead of all
+iDisguise|iDisguise.mob.wolf.collar.orange|Just be allowed to use one single color instead of all
+iDisguise|iDisguise.mob.wolf.collar.pink|Just be allowed to use one single color instead of all
+iDisguise|iDisguise.mob.wolf.collar.purple|Just be allowed to use one single color instead of all
+iDisguise|iDisguise.mob.wolf.collar.red|Just be allowed to use one single color instead of all
+iDisguise|iDisguise.mob.wolf.collar.silver|Just be allowed to use one single color instead of all
+iDisguise|iDisguise.mob.wolf.collar.white|Just be allowed to use one single color instead of all
+iDisguise|iDisguise.mob.wolf.collar.yellow|Just be allowed to use one single color instead of all
+iDisguise|iDisguise.mob.wolf.tamed|Disguise as a tamed wolf
+iDisguise|iDisguise.mob.zombie|Disguise as a zombie
+iDisguise|iDisguise.mob.zombie_villager|Disguise as a zombie villager
+iDisguise|iDisguise.object.*|Disguise as every non living mob (blocks, items, carts, ...)
+iDisguise|iDisguise.object.armor_stand|Disguise as an armor stand
+iDisguise|iDisguise.object.boat|Disguise as a boat
+iDisguise|iDisguise.object.ender_crystal|Disguise as an ender crystal
+iDisguise|iDisguise.object.falling_block|Disguise as a block
+iDisguise|iDisguise.object.item|Disguise as a dropped item stack
+iDisguise|iDisguise.object.minecart|Disguise as minecart (includes block inside)
+iDisguise|iDisguise.others|Disguise other players (as of version 5.3.1, you also need the permissions specific to the disguise types to be allowed to disguise other players)
+iDisguise|iDisguise.player.name.*|Disguise as every player except the prohibited ones (also nonexisting)|/disguise player
+iDisguise|iDisguise.player.prohibited|Disguise as prohibited players (see config file)|/disguise player
+iDisguise|iDisguise.random|Let the server choose your disguise.|/disguise random
+iDisguise|iDisguise.reload|Reload the config and language file.|/disguise reload
+iDisguise|iDisguise.undisguise|Undisguise yourself (this is only required if you enable undisguise-permission in the config.yml file)|/undisguise
+iDisguise|iDisguise.undisguise.all|Undisguise everyone.|/undisguise *
+iDisguise|iDisguise.undisguise.others|Undisguise other players.|/undisguise
+iDisguise|iDisguise.update|Receive a notification when an update is available.
+iDisguise|iDisguise.visibility.*|use both of them
+iDisguise|iDisguise.visibility.list|use visibility=only-list and visibility=not-list
+iDisguise|iDisguise.visibility.permission|use visibility=only-permission and visibility=not-permission
+pStaffList|staff.fake|Toggle faking offline or not (if faking offline you will always show offline)|/staff fake
+pStaffList|staff.modify|Add a staff member to the GUI, Remove the specified staff member from the GUI, Add the item in your hand as a spacer, Remove the specified spacer and Open the GUI and allow for editing of all the positions.|/staff add,/staff remove,/staff delete,/staff addSpacer,/staff removeSpacer,/staff modify
+pStaffList|staff.reload|Force save of all files and reload the config|/staff reload
+uSkyBlock|usb.admin|To make use of any the /usb commands
+uSkyBlock|usb.admin.**|Controls player-cooldowns|/usb cooldown,/usb cd clear,/usb cd c [player] <command>
+uSkyBlock|usb.admin.addmember|Adds the player to the island|/usb is addmember [player] [islandleader]
+uSkyBlock|usb.admin.cache|Flushes all caches to files|/usb flush
+uSkyBlock|usb.admin.config|Open GUI for config for ingame editing some values|/usb config
+uSkyBlock|usb.admin.debug|Control debugging|/usb debug,/usb debug enable,/usb debug disable,/usb debug flush,/usb debug setlevel [level]
+uSkyBlock|usb.admin.delete|Delete "player's" island|/usb island delete [player]
+uSkyBlock|usb.admin.doc|Saves documentation of almost all the commands to a file|/usb doc
+uSkyBlock|usb.admin.get|Advanced command for getting island-data|/usb is get <player>
+uSkyBlock|usb.admin.ignore|Will ignore the island in the top-ten and exclude from being purged(Command toggles this function, so you can turn this on and with same command off)|/usb island ignore [player]
+uSkyBlock|usb.admin.import|Imports players and islands from other formats|/usb import <format>,/usb island
+uSkyBlock|usb.admin.info|Gives admin information about the player|/usb info [player],/usb island info [player]
+uSkyBlock|usb.admin.jobs|Controls async jobs|/usb jobs
+uSkyBlock|usb.admin.jobs.stats|Show statistics|/usb j stats
+uSkyBlock|usb.admin.lang|Ingame command to change the language and reloads after|/usb lang [landcode]
+uSkyBlock|usb.admin.maintenance|Toggles maintenance mode|/usb maintenance <true|false>
+uSkyBlock|usb.admin.makeleader|Transfer leadership to another player|/usb island makeleader <leader> <oplayer>,/usb island transfer <leader> <oplayer>
+uSkyBlock|usb.admin.nbt|Advanced info about NBT stuff|/usb nbt,/usb nbt add <nbttag>,/usb nbt info,/usb nbt set <nbttag>
+uSkyBlock|usb.admin.orphan|Manage orphans|/usb orphan,/usb orphan clear,/usb orphan count,/usb orphan list
+uSkyBlock|usb.admin.perk|Shows perk-information|/usb perk,/usb perk list,/usb perk player [player]
+uSkyBlock|usb.admin.protectall|Protects all islands (time consuming)|/usb protectall
+uSkyBlock|usb.admin.purge|Deletes the island you are currently on(island.YML will be deleted and player.yml be reset however the challenges will be kept)|/usb island purge,/usb purge [days]
+uSkyBlock|usb.admin.region|Region manipulations|/usb region,/usb rg border,/usb rg chunk,/usb rg hide,/usb rg inner,/usb rg outer,/usb rg refresh,/usb rg show,/usb rg tick <integer>
+uSkyBlock|usb.admin.register|Set "player's" island location to a bedrock within 15 blocks|/usb island createUser [player]
+uSkyBlock|usb.admin.reload|Reload the configuration settings from the file|/usb reload
+uSkyBlock|usb.admin.remove|Remove ownership of "player's" island without destroying it|/usb island remove [player],/usb fix-flatland [player]
+uSkyBlock|usb.admin.set|Advanced command for setting island-data|/usb is set <player>
+uSkyBlock|usb.admin.setbiome|Sets the biome of the island|/usb island setbiome [player] <biome>
+uSkyBlock|usb.admin.version|Displays version information|/usb version
+uSkyBlock|usb.admin.wg|Various WorldGuard utilities|/usb wg,/usb wg load,/usb wg refresh,/usb wg unload,/usb wg update
+uSkyBlock|usb.biome.DEEP_OCEAN|Allows the player to set their island's biome to Deep Ocean|/island biome DEEP_OCEAN
+uSkyBlock|usb.biome.DESERT|Allows the player to set their island's biome to Desert|/island biome DESERT
+uSkyBlock|usb.biome.EXTREME_HILLS|Allows the player to set their island's biome to Extreme Hills|/island biome EXTREME_HILLS
+uSkyBlock|usb.biome.FOREST|Allows the player to set their island's biome to Forest|/island biome FOREST
+uSkyBlock|usb.biome.HELL|Allows the player to set their island's biome to Hell|/island biome HELL
+uSkyBlock|usb.biome.JUNGLE|Allows the player to set their island's biome to Jungle|/island biome JUNGLE
+uSkyBlock|usb.biome.MUSHROOM|Allows the player to set their island's biome to Mushroom|/island biome MUSHROOM
+uSkyBlock|usb.biome.OCEAN|Allows the player to set their island's biome to Ocean|/island biome OCEAN
+uSkyBlock|usb.biome.PLAINS|Allows the player to set their island's biome to Plains|/island biome PLAINS
+uSkyBlock|usb.biome.SKY|Allows the player to set their island's biome to Sky|/island biome SKY
+uSkyBlock|usb.biome.SWAMPLAND|Allows the player to set their island's biome to Swampland|/island biome SWAMPLAND
+uSkyBlock|usb.biome.TAIGA|Allows the player to set their island's biome to Taiga|/island biome TAIGA
+uSkyBlock|usb.donor.100|Adds 20% bonus currency bonus when completing a challenge
+uSkyBlock|usb.donor.25|Adds 5% bonus currency bonus when completing a challenge
+uSkyBlock|usb.donor.50|Adds 5% bonus currency bonus when completing a challenge
+uSkyBlock|usb.donor.75|Adds 10% bonus currency bonus when completing a challenge
+uSkyBlock|usb.donor.all|Adds 5% bonus currency bonus when completing a challenge
+uSkyBlock|usb.extra.hunger|A player with this permission will loose hunger 25% slower on their island
+uSkyBlock|usb.extra.hunger2|A player with this permission will loose hunger 50% slower on their island
+uSkyBlock|usb.extra.hunger3|A player with this permission will loose hunger 75% slower on their island
+uSkyBlock|usb.extra.hunger4|A player with this permission will not loose hunger on their island
+uSkyBlock|usb.island.ban|Ban/Unban a player from accessing to your island|/island ban [player]
+uSkyBlock|usb.island.create|Display's the island GUI.|/island
+uSkyBlock|usb.island.info|View island block information|/island info
+uSkyBlock|usb.island.level|View information about your's or another person's island level|/island level
+uSkyBlock|usb.island.limit|Show the islands limits|/island limits <player>
+uSkyBlock|usb.island.lock|Prevents anyone outside of the player's party from entering the island (And disable warp)|/island lock,/island unlock
+uSkyBlock|usb.island.log|Display log|/island log
+uSkyBlock|usb.island.makeleader|Transfer the ownership of an island to a new player|/usb island makeleader [old player] [new player]
+uSkyBlock|usb.island.setwarp|Set the location that players can warp to on your island|/island setwarp
+uSkyBlock|usb.island.talk|Island talk between party and trust members on an island|/islandtalk,/istalk,/it
+uSkyBlock|usb.island.togglewarp|Enable/Disable your island's warp point. When disabled non-party members will be unable to warp to your island|/island togglewarp
+uSkyBlock|usb.island.top|View the top ten list|/island top
+uSkyBlock|usb.island.trust|Trust a visitor on your island without being in the party (this will give access to build/break and chests)|/island trust,/island untrust
+uSkyBlock|usb.island.warp|Warp to "player"'s island. Requires that "player" have an active warp|/island warp,/island warp [player]
+uSkyBlock|usb.mod.bypasscooldowns|This will bypass all cooldowns (island reset, teleport)
+uSkyBlock|usb.mod.bypassprotection|This will bypass the WG protections. To bypass the "entry" flag moderators also need the node &4worldguard.region.bypass.<worldname>&r
+uSkyBlock|usb.mod.challenges|Change status of the given "challengename" for "player" (This doesn't give rewards, it only sets the status)|/usb challenge [player] complete [challengename],/usb challenge [player] reset [challancename],/usb challenges [player] resetall
+uSkyBlock|usb.mod.goto|Teleport to "player"'s island|/usb goto [player]
+uSkyBlock|usb.mod.protect|Adds the WorldGuard protection Region for a player|/usb island protect [player],/usb island protectall
+uSkyBlock|usb.mod.topten|Generate a new top ten list, or update an old one|/usb topten
+uSkyBlock|usb.party.create|Display the party GUI with information about your island's leader and members|/island invite [player]
+uSkyBlock|usb.party.join|Display the party GUI with information about your island's leader and members|/island party,/island accept,/island reject
+uSkyBlock|usb.party.kick|Remove a player from your island|/island kick [player]
+uSkyBlock|usb.party.leave|Leave your current island (If you are the party leader, you will keep the island and remove all other players)|/island leave
+uSkyBlock|usb.party.talk|Island talk between party members server wide|/partytalk,/ptalk,/ptk

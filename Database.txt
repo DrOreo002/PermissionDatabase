@@ -1,4 +1,7 @@
 # Permission database for AdvancedLuckPermsGUI
+#
+# Version: 1.0
+#
 AAC|AAC.admin|View the admin control panel.(view the admin GUI)(Text-based reload without the GUI)|/aacadmin,/aacreload
 AAC|AAC.ban|Ban players.
 AAC|AAC.bypass|Bypass AAC's checks.

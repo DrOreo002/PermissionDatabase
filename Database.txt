@@ -1,6 +1,7 @@
 # Permission database for AdvancedLuckPermsGUI
-#
-AAC|AAC.admin|View the admin control panel.(view the admin GUI)(Text-based reload without the GUI)|/aacadmin,/aacreload
+#          
+# Format are <pluginName>|<permission>|<desc>|<commands>,
+AAC|AAC.admin|View the admin control panel|/aacadmin,/aacreload
 AAC|AAC.ban|Ban players.
 AAC|AAC.bypass|Bypass AAC's checks.
 AAC|AAC.debug|Debug a player's actions. (Save a detailed log file of what that player is doing)|/aacdebug

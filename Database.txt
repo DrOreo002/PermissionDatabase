@@ -1,6 +1,6 @@
 # Permission database for AdvancedLuckPermsGUI
 #          
-# Format are <pluginName>|<permission>|<desc>|<commands>,
+# Format are <pluginName>|<permission>|<desc>|<commands>,|<defaultAssignment>
 AAC|AAC.admin|View the admin control panel|/aacadmin,/aacreload
 AAC|AAC.ban|Ban players.
 AAC|AAC.bypass|Bypass AAC's checks.

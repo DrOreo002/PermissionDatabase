@@ -1,6 +1,7 @@
 from datetime import datetime
 import string
 import fileinput
+import signal
 import sys
 
 dateTimeObj = datetime.now()
@@ -56,19 +57,26 @@ def update_format():
     quit()
     pass
 
+# Update the inventory icon with Materials.
 def update_icon():
     print("Icons updating called!")
 
-    icon_data = open("IconData.txt", "w")
-    icon_data.truncate()
-    icon_data.seek(0)
-
+    icon_data = open("IconData.txt", "r+")
+    loaded_data = [None]
     last_owner = None
+
+    for line in icon_data.readlines():
+        loaded_data.append(line.split("|")[0]) # Append the plugin name
+
     for line in f.readlines():
         if (line.startswith("#")):
              continue
         dat = line.split("|")
         p_owner = dat[PERM_OWNER]
+
+        if p_owner in loaded_data:
+            continue # Ignore this one
+
         if (p_owner != last_owner):
             # New one
             last_owner = p_owner
@@ -88,6 +96,24 @@ def update_icon():
 
     # Close only, because we only reads the data
     f.close()
+
+# Basically will update the player head texture
+# dependending the value specified
+def update_player_head():
+    pass
+
+# Will check for duplicated icons
+def check_duplicaed_icon():
+    pass
+
+# Quit handler
+def handler(signum, frame):
+    print(" ")
+    print("[!] Force closing the program...")
+    quit()
+    pass
+
+signal.signal(signal.SIGINT, handler)
 
 # Main function basically
 found = False

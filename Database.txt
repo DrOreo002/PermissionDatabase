@@ -2377,8 +2377,8 @@ HydraChat|hydrachat.reload|Reload the Config.yml|<l>.rlconfig<br>.reloadconfig<b
 HydraChat|hydrachat.use|This commands opends the GUI to control the chat.|<l>/hydra<l>|op
 IllegalStack|illegalstack.admin|Ability to use the protections command (lists all protections and their status) and to toggle the status of protections|<l>/istack protections<l>|op
 IllegalStack|illegalstack.help|Ability to use the istack command (lists all available commands by the plugin)|<l>/istack<l>|op
-IllegalStack.illegalstack.notify|Specifies the users that are allowed to receive notifications about offenses|empty|<l>empty<l>|op
-IllegalStack.illegalstack.overstack|Specifies the users that are allowed to have items in a stack size which is greater than vanilla|empty|<l>empty<l>|op
+IllegalStack|illegalstack.notify|Specifies the users that are allowed to receive notifications about offenses|empty|<l>empty<l>|op
+IllegalStack|illegalstack.overstack|Specifies the users that are allowed to have items in a stack size which is greater than vanilla|empty|<l>empty<l>|op
 Industrial-MC|industrial.create.jetpack|allows players to create Jetpacks.|<l>empty<l>|op
 Industrial-MC|industrial.create.powertool|allows players to create Rechargeable Tools.|<l>empty<l>|op
 Industrial-MC|industrial.creative|Opens the Industrial-MC Creative Menu.|<l>/inc<l>|op

@@ -103,8 +103,32 @@ def update_player_head():
     pass
 
 # Will check for duplicated icons
-def check_duplicaed_icon():
-    pass
+def check_duplicated_icon():
+    print("Checking for duplicated icons...")
+
+    icon_data = open("IconData.txt", "r+")
+    loaded_data = {}
+    last_owner = None
+
+    for line in icon_data.readlines():
+        dat = line.split("|")
+        if (dat[1] in loaded_data):
+            loaded_data[dat[1]] = loaded_data.get(dat[1]) + 1
+        else:
+            loaded_data[dat[1]] = 1
+
+    for data in loaded_data:
+        print("[!] " + data + " > " + str(loaded_data[data]))
+
+    # Save and close
+    icon_data.flush()
+    icon_data.close()
+
+    target.flush()
+    target.close()
+
+    # Close only, because we only reads the data
+    f.close()
 
 # Quit handler
 def handler(signum, frame):
@@ -123,6 +147,10 @@ if (command.lower() == "-update-format"):
     pass
 if (command.lower() == "-update-icon"):
     update_icon()
+    found = True
+    pass
+if (command.lower() == "-check-for-duplicate"):
+    check_duplicated_icon()
     found = True
     pass
 

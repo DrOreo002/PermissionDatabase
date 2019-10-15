@@ -110,7 +110,7 @@ def update_player_head():
 
 # Show data information
 def show_information():
-    version = Fore.RED + "UNKNOWN"
+    version = "UNKNOWN"
     perm_owners = []
 
     for line in f.readlines():
@@ -118,6 +118,8 @@ def show_information():
         if pl_name in perm_owners:
             continue
         perm_owners.append(pl_name)
+
+    f.seek(0)
 
     for line in f.readlines():
         if "Version" in line and line.startswith("#"):
@@ -128,10 +130,12 @@ def show_information():
     data_size = sum(1 for l in f.readlines())
     perm_owners_size = sum(1 for p in perm_owners)
 
-    print(Fore.GREEN + "[!]" + Fore.WHITE + " Data information for database version " + version + Fore.RESET)
+    print(Fore.GREEN + "[!]" + Fore.WHITE + " Data information for database version " + Fore.RED + "v" +  version + Fore.RESET, end = '')
     print("--")
     print(Fore.GREEN + "[!]" + Fore.WHITE + " Data size > " + str(data_size) + " lines" + Fore.RESET)
     print(Fore.GREEN + "[!]" + Fore.WHITE + " Loaded permission owner > " + str(perm_owners_size))
+    print("--")
+    print(Fore.GREEN + "[!]" + Fore.WHITE + " End of data information. More will be given in the future" + Fore.RESET)
     pass
 
 # Will check for duplicated icons

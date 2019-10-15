@@ -1,5 +1,5 @@
 # Permission database for AdvancedLuckPermsGUI
-#          
+# Version 1.0
 # Format are <pluginName>|<permission>|<desc>|<commands>,|<defaultAssignment>
 AAC|AAC.admin|View the admin control panel|<l>/aacadmin<br>/aacreload<l>|op
 AAC|AAC.ban|Ban players.|<l>empty<l>|op

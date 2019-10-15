@@ -1,8 +1,14 @@
 from datetime import datetime
+from colorama import Fore
+from colorama import Style
+from colorama import init
+
 import string
 import fileinput
 import signal
 import sys
+
+init() # Init the colorama
 
 dateTimeObj = datetime.now()
 
@@ -102,6 +108,32 @@ def update_icon():
 def update_player_head():
     pass
 
+# Show data information
+def show_information():
+    version = Fore.RED + "UNKNOWN"
+    perm_owners = []
+
+    for line in f.readlines():
+        pl_name = line.split("|")[0]
+        if pl_name in perm_owners:
+            continue
+        perm_owners.append(pl_name)
+
+    for line in f.readlines():
+        if "Version" in line and line.startswith("#"):
+            version = line.split(" ")[2]
+            break
+
+    f.seek(0) # Reset to beginning
+    data_size = sum(1 for l in f.readlines())
+    perm_owners_size = sum(1 for p in perm_owners)
+
+    print(Fore.GREEN + "[!]" + Fore.WHITE + " Data information for database version " + version + Fore.RESET)
+    print("--")
+    print(Fore.GREEN + "[!]" + Fore.WHITE + " Data size > " + str(data_size) + " lines" + Fore.RESET)
+    print(Fore.GREEN + "[!]" + Fore.WHITE + " Loaded permission owner > " + str(perm_owners_size))
+    pass
+
 # Will check for duplicated icons
 def check_duplicated_icon():
     print("Checking for duplicated icons...")
@@ -119,6 +151,14 @@ def check_duplicated_icon():
 
     for data in loaded_data:
         print("[!] " + data + " > " + str(loaded_data[data]))
+
+    print(" ")
+    print("[!] Data that is more than 2 duplicates [!]")
+    print(" ")
+
+    for data in loaded_data:
+        if loaded_data[data] > 2:
+            print("[!] " + data + " > " + str(loaded_data[data]))
 
     # Save and close
     icon_data.flush()
@@ -151,6 +191,10 @@ if (command.lower() == "-update-icon"):
     pass
 if (command.lower() == "-check-for-duplicate"):
     check_duplicated_icon()
+    found = True
+    pass
+if (command.lower() == "-info"):
+    show_information()
     found = True
     pass
 

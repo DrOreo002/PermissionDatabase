@@ -20,6 +20,8 @@ PERM_DEFAULT_ASIGNMENT = 4
 
 EXPECTED_SIZE = 5
 
+INFO_TEXT = Fore.RESET + Fore.GREEN + "[!]" + Fore.WHITE + " "
+
 command = sys.argv[1]
 
 # Open the database file
@@ -106,6 +108,52 @@ def update_icon():
 # Basically will update the player head texture
 # dependending the value specified
 def update_player_head():
+    p_heads = {}
+    line_number = 0
+    icon_data = open("IconData.txt", "r+")
+    for line in icon_data.readlines():
+        if "PLAYER_HEAD" in line:
+            if len(line.split("|")) > 2:
+                continue # Already has texture
+            # This rstrip will remove the \n from the line
+            p_heads[line.rstrip()] = line_number # Add to hashmap 
+        line_number += 1
+
+    for key in list(p_heads.keys()):
+        print(INFO_TEXT + "Found PLAYER_HEAD on line " + Fore.RED + str(p_heads.get(key)) + Fore.WHITE + " is > " + Fore.GREEN + key + Fore.RESET)
+
+    print(Fore.MAGENTA + "------------------------------------")
+
+    for key in list(p_heads.keys()):
+        print(INFO_TEXT + "Please type texture for " + Fore.RED + key + Fore.WHITE + " (Type SAVE to quit and save)")
+        texture = input("       > ")
+        if texture == "SAVE":
+            for key in list(p_heads.keys()):
+                print(INFO_TEXT + "Saving " + Fore.RED + key + Fore.WHITE + " into line number " + str(p_heads.get(key)))
+            break
+
+        l_number = p_heads.get(key)
+        p_heads.pop(key)
+        p_heads[key + "|" + texture] = l_number
+
+    # Replace the lines
+    icon_data.seek(0) # Reset it
+    f_data = []
+
+    for line in icon_data.readlines():
+        f_data.append(line)
+    
+    icon_data.truncate(0) # Clear the file content
+
+    for changes in list(p_heads.keys()):
+        f_data[p_heads.get(changes)] = changes + "\n" # Add the new line back
+    
+    # Write to file
+    icon_data.writelines(f_data)
+    icon_data.flush
+    icon_data.close()
+    print(Fore.MAGENTA + "------------------------------------")
+    print(INFO_TEXT + "Data saved successfully...")
     pass
 
 # Show data information
@@ -177,7 +225,7 @@ def check_duplicated_icon():
 # Quit handler
 def handler(signum, frame):
     print(" ")
-    print("[!] Force closing the program...")
+    print(INFO_TEXT + Fore.RED + "Force closing the program...")
     quit()
     pass
 
@@ -199,6 +247,10 @@ if (command.lower() == "-check-for-duplicate"):
     pass
 if (command.lower() == "-info"):
     show_information()
+    found = True
+    pass
+if (command.lower() == "-update-player-heads"):
+    update_player_head()
     found = True
     pass
 

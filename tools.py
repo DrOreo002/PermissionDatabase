@@ -137,14 +137,16 @@ def update_player_head():
         p_heads[key + "|" + texture] = l_number
 
     # Replace the lines
-    icon_data.seek(0) # Reset it
+    icon_data.close()
+    open("IconData.txt", "w").close(); # Clear the file!
+    icon_data = open("IconData.txt", "r+")
+
     f_data = []
 
     for line in icon_data.readlines():
         f_data.append(line)
-    
-    icon_data.truncate(0) # Clear the file content
 
+    # HOLY SHIT ERROR!!!
     for changes in list(p_heads.keys()):
         f_data[p_heads.get(changes)] = changes + "\n" # Add the new line back
     

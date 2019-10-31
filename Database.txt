@@ -2359,7 +2359,7 @@ HotBarSounds|hotbarsounds.reload|Reload the plugin.|<l>/hotbarsounds reload<l>|o
 HotBarSounds|hotbarsounds.toggle|Toggle the Sounds|<l>/hotbarsounds toggle<l>|op
 HubPvPSword|HubPvPSword.Magic-Spell| If you have the Magic-Spell permission enabled you need this permission to cast the spell!|<l>empty<l>|op
 HubPvPSword|HubPvPSword.Reload|Permission to reload the config!|<l>empty<l>|op
-HubPvPSword.HubPvPSword.Equip|Permission to give yourself the sword!|empty|<l>empty<l>|op
+HubPvPSword|HubPvPSword.Equip|Permission to give yourself the sword!|empty|<l>empty<l>|op
 Hydra|hydra.admin|Open the GUI and take full control of your server|<l>/hydra<l>|op
 Hydra|tablist.1|Tablist Sort Order. 1 is lowest and 10 is highest|<l>empty<l>|op
 Hydra|tablist.10|Tablist Sort Order. 1 is lowest and 10 is highest|<l>empty<l>|op
@@ -4035,10 +4035,10 @@ TreysDoubleJump|tdj.reload|Reloads all the configs with /djreload|<l>/djreload<l
 TreysDoubleJump|tdj.sounds|Used for sounds|<l>empty<l>|op
 TreysDoubleJump|tdj.updates|Tells these players on join there is an update|<l>empty<l>|op
 TreysDoubleJump|tdj.use|Use the plugin|<l>empty<l>|op
-Twitter Bridge|configurations.reload|Allow to reload the config.|<l>.reloadconfig<br>.configreload<l>|op
-Twitter Bridge|twitterbridge.cmd.help|See all commands of Twitter Bridge and other plugins of TechXcrafter|<l>.help<l>|op
-Twitter Bridge|twitterbridge.dmsupport|for receiving direct messages and for /respond.|<l>/respond<br>/res<l>|op
-Twitter Bridge|twitterbridge.tweet|to tweet via /tweet.|<l>/tweet<br>/tw<l>|op
+Twitter_Bridge|configurations.reload|Allow to reload the config.|<l>.reloadconfig<br>.configreload<l>|op
+Twitter_Bridge|twitterbridge.cmd.help|See all commands of Twitter Bridge and other plugins of TechXcrafter|<l>.help<l>|op
+Twitter_Bridge|twitterbridge.dmsupport|for receiving direct messages and for /respond.|<l>/respond<br>/res<l>|op
+Twitter_Bridge|twitterbridge.tweet|to tweet via /tweet.|<l>/tweet<br>/tw<l>|op
 UHC| uhc.chat.bypass|Bypass mutechat.|<l>empty<l>|op
 UHC|uhc.ac|Admin Chat|<l>/ac<l>|op
 UHC|uhc.admin|Principal command|<l>/uhc<br>/setmod<br>/bestpve<br>/giveall<br>/sethost<br>/speckick<br>/settitle<br>/whitelist<br>/removehost<br>/removemod<br>/addspec<l>|op

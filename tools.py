@@ -281,6 +281,28 @@ def validate_icon():
 
     icon_data.close()
 
+def validate_permissions():
+    print(INFO_TEXT + "Checking for invalid permissions provider!")
+
+    icon_data = open("Database.txt", "r+")
+    invalid = []
+
+    for line in icon_data.readlines():
+        if line.startswith("#"): 
+            continue
+        dat = line.split("|")[0]
+        if not re.match("^[A-Za-z0-9_-]*$", dat):
+            invalid.append(dat)
+
+    if len(invalid) != 0:
+        print(INFO_TEXT + "Found " + str(len(invalid)) + " invalid permissions provider!");
+        for s in invalid:
+            print("     " + Fore.RED + "[!]" + Fore.WHITE + " " + s)
+    else:
+        print(INFO_TEXT + "No invalid permission provider found!");
+
+    icon_data.close()
+
 def check_duplicated_icon_name():
     print(INFO_TEXT + "Checking for duplicated icon name...")
 
@@ -351,6 +373,10 @@ if (command.lower() == "-update-player-heads"):
     pass
 if (command.lower() == "-validate-icons"):
     validate_icon()
+    found = True
+    pass
+if (command.lower() == "-validate-permissions"):
+    validate_permissions()
     found = True
     pass
 

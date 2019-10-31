@@ -262,13 +262,29 @@ def check_duplicated_icon():
     f.close()
 
 def validate_icon():
-    print(INFO_TEXT + "Checking for invalid icons!")
+    print(INFO_TEXT + "Validating icons...")
 
     icon_data = open("IconData.txt", "r+")
-    invalid = []
+    perm_data = open("Database.txt", "r+")
 
+    invalid = []
+    perms = []
+    icons = []
+
+    for line in perm_data.readlines():
+        if "#" in line:
+            continue
+        dat = line.split("|")[0]
+        if dat in perms:
+            continue
+        perms.append(dat)
+
+    # Check for invalid
     for line in icon_data.readlines():
         dat = line.split("|")[0]
+        if not dat in icons:
+            icons.append(dat)
+
         if not re.match("^[A-Za-z0-9_-]*$", dat):
             invalid.append(dat)
 
@@ -279,6 +295,16 @@ def validate_icon():
     else:
         print(INFO_TEXT + "No invalid icons found!");
 
+    print(INFO_TEXT + "Checking for missing icons")
+    has = False
+    for s in perms:
+        if not s in icons:
+            has = True
+            print("     " + Fore.RED + "[!]" + Fore.WHITE + " Missing: " + s)
+
+    if not has:
+        print(INFO_TEXT + "No missing icons found")
+    perm_data.close()
     icon_data.close()
 
 def validate_permissions():

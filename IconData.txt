@@ -244,4 +244,4 @@ WarpSystem|ENDER_PEARL
 WorldBorder|PLAYER_HEAD|762f368884bc35f162624974d6ea8368632f0e809ffc16ca762d16e37e26de
 WorldEdit|WOODEN_AXE
 betterSleeping|RED_BED
-
+Realistic-Swimming|WATER_BUCKET

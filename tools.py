@@ -13,6 +13,7 @@ import string
 import fileinput
 import signal
 import sys
+import re
 
 init() # Init the colorama
 
@@ -260,6 +261,22 @@ def check_duplicated_icon():
     # Close only, because we only reads the data
     f.close()
 
+def validate_icon():
+    print(INFO_TEXT + "Checking for invalid icons!")
+
+    icon_data = open("IconData.txt", "r+")
+    invalid = []
+
+    for line in icon_data.readlines():
+        if re.match("^[A-Za-z0-9_-]*$", line):
+            invalid.append(line)
+
+    if len(invalid) != 0:
+        for s in invalid:
+            print("         " + INFO_TEXT + s)
+    else:
+        print(INFO_TEXT + "No invalid icons found!");
+
 def check_duplicated_icon_name():
     print(INFO_TEXT + "Checking for duplicated icon name...")
 
@@ -326,6 +343,10 @@ if (command.lower() == "-info"):
     pass
 if (command.lower() == "-update-player-heads"):
     update_player_head()
+    found = True
+    pass
+if (command.lower() == "-validate-icons"):
+    validate_icon()
     found = True
     pass
 

@@ -268,14 +268,18 @@ def validate_icon():
     invalid = []
 
     for line in icon_data.readlines():
-        if re.match("^[A-Za-z0-9_-]*$", line):
-            invalid.append(line)
+        dat = line.split("|")[0]
+        if not re.match("^[A-Za-z0-9_-]*$", dat):
+            invalid.append(dat)
 
     if len(invalid) != 0:
+        print(INFO_TEXT + "Found " + str(len(invalid)) + " invalid icons!");
         for s in invalid:
-            print("         " + INFO_TEXT + s)
+            print("     " + Fore.RED + "[!]" + Fore.WHITE + " " + s)
     else:
         print(INFO_TEXT + "No invalid icons found!");
+
+    icon_data.close()
 
 def check_duplicated_icon_name():
     print(INFO_TEXT + "Checking for duplicated icon name...")

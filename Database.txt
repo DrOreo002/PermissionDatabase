@@ -2089,6 +2089,12 @@ Essentials|essentials.whois|Allow access to the /whois command.|<l>/whois<l>|op
 Essentials|essentials.workbench|Allow access to the /workbench command.|<l>/workbench<l>|op
 Essentials|essentials.world|Allow access to the /world command.|<l>/world<l>|op
 Essentials|essentials.worth|Allow access to the /worth command.|<l>worth<l>|op
+Essentials|essentials.*|Give players with op everything by default|<l><l>|OP
+Essentials|essentials.teleport.cooldown.bypass.tpa|If the player does not have this permission, /tpa will have cooldown even with the parent bypass perm|<l><l>|PLAYER
+Essentials|essentials.teleport.cooldown.bypass.back|If the player does not have this permission, /back will have cooldown even with the parent bypass perm|<l><l>|PLAYER
+Essentials|essentials.gamemode.*|empty|<l><l>|OP
+Essentials|essentials.keepinv|Controls whether players keep their inventory on death.|<l><l>|NONE
+AdvancedLuckPermsGUI|lpgui.admin|Admin permission to use the gui|<l>/lpgui<l>|OP
 Factions|factions.map|show the territory map, and set optional auto update|<l>/f map<l>|op
 Factions|factions.mod|give or revoke moderator rights|<l>/f mod<l>|op
 Factions|factions.*|This is just an alias for factions.kit.admin|<l>empty<l>|op
@@ -4730,3 +4736,840 @@ uSkyBlock|usb.party.join|Display the party GUI with information about your islan
 uSkyBlock|usb.party.kick|Remove a player from your island|<l>/island kick [player]<l>|op
 uSkyBlock|usb.party.leave|Leave your current island (If you are the party leader, you will keep the island and remove all other players)|<l>/island leave<l>|op
 uSkyBlock|usb.party.talk|Island talk between party members server wide|<l>/partytalk<br>/ptalk<br>/ptk<l>|op
+CMI|cmi.egginteract.*|Allows to use all eggs on spawners|<l><l>|OP
+CMI|cmi.command.warp.showlist|empty|<l>/warp showlist<l>|PLAYER
+CMI|cmi.command.checkban.seereason|Allows to see players ban reason|<l><l>|PLAYER
+ChatControl|chatcontrol.chat.read|empty|<l><l>|PLAYER
+ChatControl|chatcontrol.chat.write|empty|<l><l>|PLAYER
+ChatControl|chatcontrol.notify.overrideranged|empty|<l><l>|NONE
+ChatControl|chatcontrol.notify.bungeechat|View messages sent over bungee.|<l><l>|PLAYER
+ChatControl|chatcontrol.notify.me|Get notified when a player issues the /me command.|<l><l>|PLAYER
+ChatControl|chatcontrol.broadcaster.view|View timed messages from auto broadcaster.|<l><l>|PLAYER
+ChatControl|chatcontrol.spy.autoenable|Automatically enable command spy on login.|<l><l>|NONE
+ChatControl|chatcontrol.bypass.channellimit|Allow the player to be in unlimited amount of channels.|<l><l>|NONE
+ChatControl|chatcontrol.force.newcomer|Player with this permission are automatically given newcomer status regardless of their play-time.|<l><l>|NONE
+ClearLag|lagg.samplememory|Permission to sample memory|<l><l>|OP
+ClearLag|lagg.sampleticks|Permission to sample ticks|<l><l>|OP
+ClearLag|lagg.profile|Permission to profile events|<l><l>|OP
+Confiscate|confiscate.log.exempt|Player will be ignored from logging.|<l><l>|NONE
+Confiscate|confiscate.commandspy.exempt|The commands player execute will not be logged and you will not be notified about them.|<l><l>|NONE
+Jobs|jobs.command.skipquest|Grants access to the skipquest command|<l>/job skipquest<l>|PLAYER
+Jobs|jobs.command.fire|Grants access to the fire command|<l>/job fire<l>|OP
+Jobs|jobs.command.demote|Grants access to the demote command|<l>/job demote<l>|OP
+Jobs|jobs.command.level|Grants access to the level command|<l>/job level<l>|OP
+Jobs|jobs.command.quests|Grants access to the quests command|<l>/job quest<l>|PLAYER
+Jobs|jobs.command.clearownership|Grants access to the clearownership command|<l>/job cleanownership<l>|PLAYER
+Jobs|jobs.command.itembonus|Grants access to the itembonus command|<l>/job itembonus<l>|PLAYER
+Jobs|jobs.command.edititembonus|Grants access to the edititembonus command|<l>/job edititembonus<l>|OP
+Jobs|jobs.area.add|Grants access to the area add command|<l>/job area add [name]<l>|OP
+Jobs|jobs.area.remove|Grants access to the area remove command|<l>/job area remove [name]<l>|OP
+LiteBans|litebans.unban.own|Allows a player to unban others that they have banned.|<l>/unban<l>|OP
+LiteBans|litebans.unmute.own|Allows a player to unmute others that they have muted.|<l>/unmute<l>|OP
+LiteBans|litebans.unwarn.own|Allows a player to remove warnings that they have created.|<l>/unwarn<l>|PLAYER
+LiteBans|litebans.warnings.self|Allows a player to use /warnings to see their own warnings (with no arguments).|<l>/warnings<l>|PLAYER
+LiteBans|litebans.notify.dupeip_join|Allows a player to view dupeip on join notifications.|<l><l>|OP
+ProtectionStones|protectionstones.unclaim|Allow players to unclaim their region using /ps unclaim.|<l>/ps unclaim<l>|OP
+ProtectionStones|protectionstones.info.others|Allows players to use /ps info in unowned regions.|<l>/ps info<l>|OP
+ProtectionStones|protectionstones.get|Allows players the use of /ps get.|<l>/ps get<l>|OP
+ProtectionStones|protectionstones.give|Allows players the use of /ps give (give protectionstones to others as admin).|<l>/ps give<l>|OP
+ProtectionStones|protectionstones.count|Allows players the use of /ps count.|<l>/ps count<l>|OP
+ProtectionStones|protectionstones.count.others|Allows players the use of /ps count [player].|<l>/ps count [player]<l>|OP
+ProtectionStones|protectionstones.list|Allows players the use of /ps list.|<l>/ps list<l>|OP
+ProtectionStones|protectionstones.list.others|Allows players to do /ps list [player].|<l>/ps list [player]<l>|OP
+ProtectionStones|protectionstones.setparent|Allow access to /ps setparent.|<l>/ps setparent<l>|OP
+ProtectionStones|protectionstones.setparent.others|Allow players to set their region to inherit properties from other regions they don't own.|<l><l>|OP
+ProtectionStones|protectionstones.name|Access to the /ps name command.|<l>/ps name<l>|OP
+ProtectionStones|protectionstones.sethome|Access to /ps sethome.|<l>/ps sethome<l>|OP
+ProtectionStones|protectionstones.tp.bypasswait|Bypass the wait time set in the config for /ps home and /ps tp|<l>/ps home<br>/ps tp<l>|OP
+ProtectionStones|protectionstones.tp.bypassprevent|Bypass prevent_teleport_in option in config|<l><l>|OP
+ProtectionStones|protectionstones.owners|Allows players to add or remove region owners. Allows players to use /ps info owners command.|<l>/ps info owners<l>|OP
+ProtectionStones|protectionstones.members|Allows players to add or remove region members. Allows players to use /ps info members command.|<l>/ps info members<l>|OP
+ProtectionStones|protectionstones.flags|Allows players to set their region flags.|<l><l>|OP
+ProtectionStones|protectionstones.rent|Allows players to use the /ps rent command.|<l>/ps rent<l>|OP
+ProtectionStones|protectionstones.buysell|Allows players access to /ps buy and /ps sell.|<l>/ps buy<br>/ps sell<l>|OP
+ProtectionStones|protectionstones.tax|Allows players to access /ps tax commands.|<l>/ps tax<l>|OP
+ProtectionStones|protectionstones.region|Allows players to use the /ps region commands.|<l>/ps region<l>|OP
+ProtectionStones|protectionstones.merge|Allows players to merge their regions with other regions they own.|<l><l>|OP
+ProtectionStones|protectionstones.admin|This permission allows users to override all ProtectionStones regions and use /ps admin and /ps reload.|<l>/ps admin<br>/ps reload<l>|OP
+ProtectionStones|protectionstones.superowner|Allows players to override region permissions.|<l><l>|OP
+PvPManager|pvpmanager.noSpawnNPC|Doesn't spawn a NPC on pvp log|<l><l>|NONE
+React|react.rai|Gives access to use all rai features|<l><l>|OP
+React|react.act.gc|Allows the use of /re act gc|<l>/re act<l>|OP
+React|react.act.cull-entities|Allows the use of /re act cull-entities|<l>/re act cull-entities<l>|OP
+React|react.act.fix-lighting|Allows the use of /re act fix-lighting|<l>/re act fix-lighting<l>|OP
+React|react.act.lock-fluid|Allows the use of /re act lock-fluid|<l>/re act lock-fluid<l>|OP
+React|react.act.lock-hopper|Allows the use of /re act lock-hopper|<l>/re act lock-hopper<l>|OP
+React|react.act.lock-redstone|Allows the use of /re act lock-redstone|<l>/re act lock-redstone<l>|OP
+React|react.act.purge-chunks|Allows the use of /re act purge-chunks|<l>/re act purge-chunks<l>|OP
+React|react.act.purge-entities|Allows the use of /re act purge-entities|<l>/re act purge-entities<l>|OP
+React|react.act.unlock-fluid|Allows the use of /re act unlock-fluid|<l>/re act unlock-fluid<l>|OP
+React|react.act.unlock-hopper|Allows the use of /re act unlock-hopper|<l>/re act unlock-hopper<l>|OP
+React|react.act.unlock-redstone|Allows the use of /re act unlock-redstone|<l>/re act unlock-redstone<l>|OP
+React|react.monitor.map|Gives access to use the map monitor|<l><l>|OP
+React|react.monitor.actionlog|Gives access to use the action log monitor|<l><l>|OP
+React|react.monitor.title|Gives access to use the title monitor|<l><l>|OP
+React|react.monitor.environment|Gives access to use environment commands|<l><l>|OP
+React|react.monitor.glasses|Gives access to use react glasses commands|<l><l>|OP
+React|react.monitor.chunkblame|Gives access to use react chunk blame tools|<l><l>|OP
+React|react.rai.control|Gives access to control rai|<l>/rai<l>|OP
+React|react.rai.monitor|Gives access to monitor rai|<l>/rai<l>|OP
+React|react.rai.access|Gives access to rai|<l>/rai<l>|OP
+React|react.access|Gives access to use react.|<l>/react<l>|OP
+React|react.teleport|Gives access to teleport to chunks|<l><l>|OP
+React|react.systeminfo|Gives access to system sensitive information|<l><l>|OP
+React|react.tempaccess|Grants the ability to REQUEST access from anyone with actual react access.|<l><l>|PLAYER
+React|react.ping|Grants the ability to check your ping|<l>/ping<l>|OP
+React|react.tps|Grants the ability use react /tps|<l>/react tps<l>|OP
+React|react.ping.others|Grants the ability to check other players ping and all at once|<l><l>|OP
+TradeMe|trademe.*|Grants access to all TradeMe commands|<l><l>|OP
+TradeMe|trademe.admin|Grants permissions as an admin|<l><l>|NONE
+TradeMe|trademe.command.*|Grants player access to all commands|<l><l>|NONE
+TradeMe|trademe.command.offer|Grants access to the offer command|<l><l>|PLAYER
+TradeMe|trademe.griefpreventiontrade|Grants access to the griefprevention block trade feature|<l><l>|PLAYER
+TradeMe|trademe.itemtrade|Grants access to trade with items|<l><l>|PLAYER
+ServerBooster|serverbooster.*|Access all commands|<l><l>|OP
+ServerBooster|serverbooster.reload|Access to reload command|<l><l>|OP
+ServerBooster|serverbooster.mobs.count|Access to count command|<l><l>|OP
+ServerBooster|serverbooster.mobs.limits|Access to limits command|<l><l>|OP
+ServerBooster|serverbooster.mobs.check|Access to check command|<l><l>|OP
+MMOLib|mmolib.explore-attributes|empty|<l><l>|OP
+EpicWorldGenerator|epicworldgenerator.admin|empty|<l>epicworldgenerator<br><l>|OP
+Bloodmoon|bloodmoon.bloodmoon|Allows to run the bloodmoon command|<l>bloodmoon<br><l>|PLAYER
+Bloodmoon|bloodmoon.start|Allows to start a bloodmoon|<l>startbloodmoon<br><l>|OP
+Bloodmoon|bloodmoon.end|Allows to end a bloodmoon|<l>endbloodmoon<br><l>|OP
+Bloodmoon|bloodmoon.reload|Allows to reload config files|<l>reloadbloodmoon<br><l>|OP
+Oraxen|oraxen.command.*|Gives access to all oraxen commands|<l>/oraxen<l>|OP
+Oraxen|oraxen.command.base|Give access to the base command|<l><l>|OP
+Oraxen|oraxen.command.give|Allows to give any oraxen items|<l><l>|OP
+Oraxen|oraxen.command.recipes|Allows to create new recipes|<l><l>|OP
+Oraxen|oraxen.command.inv.*|Allows to use all inventory visualizer features|<l><l>|OP
+Oraxen|oraxen.command.inv.view|Allows to view the inventory visualizer|<l><l>|OP
+Oraxen|oraxen.command.inv.give|Allows to send the resourcepack|<l><l>|OP
+Oraxen|oraxen.command.pack|Allows to reload components of the plugin|<l><l>|OP
+Oraxen|oraxen.command.reload|Allows to reload components of the plugin|<l><l>|OP
+Oraxen|oraxen.command.debug|Allows to view some debug informations|<l><l>|OP
+LibsDisguises|libsdisguises.reload|Allows the user to reload LibsDisguises.|<l><l>|OP
+LibsDisguises|libsdisguises.seethrough|Allows player to see through disguises.|<l><l>|NONE
+LibsDisguises|libsdisguises.seecmd|See all commands in tab-completion|<l><l>|PLAYER
+LibsDisguises|libsdisguises.seecmd.libsdisguises|See the /libsdisguises command in tab-completion|<l>libsdisguises<br><l>|OP
+LibsDisguises|libsdisguises.seecmd.disguiseviewself|See the /disguiseviewself command in tab-completion|<l><l>|OP
+LibsDisguises|libsdisguises.seecmd.disguise|See the /disguise command in tab-completion|<l>disguise<br><l>|OP
+LibsDisguises|libsdisguises.seecmd.disguiseentity|See the /disguiseentity command in tab-completion|<l>disguiseentity<br><l>|OP
+LibsDisguises|libsdisguises.seecmd.disguisehelp|See the /disguisehelp command in tab-completion|<l>disguisehelp<br><l>|OP
+LibsDisguises|libsdisguises.seecmd.disguiseplayer|See the /disguiseplayer command in tab-completion|<l>disguiseplayer<br><l>|OP
+LibsDisguises|libsdisguises.seecmd.disguiseradius|See the /disguiseradius command in tab-completion|<l>disguiseradius<br><l>|OP
+LibsDisguises|libsdisguises.seecmd.undisguise|See the /undisguise command in tab-completion|<l>undisguise<br><l>|OP
+LibsDisguises|libsdisguises.seecmd.undisguiseentity|See the /undisguiseentity command in tab-completion|<l>undisguiseentity<br><l>|OP
+LibsDisguises|libsdisguises.seecmd.undisguiseplayer|See the /undisguiseplayer command in tab-completion|<l>undisguiseplayer<br><l>|OP
+LibsDisguises|libsdisguises.seecmd.undisguiseradius|See the /undisguiseradius command in tab-completion|<l>undisguiseradius<br><l>|OP
+LibsDisguises|libsdisguises.seecmd.disguiseclone|See the /disguiseclone command in tab-completion|<l>disguiseclone<br><l>|OP
+LibsDisguises|libsdisguises.seecmd.disguisemodify|See the /disguisemodify command in tab-completion|<l>disguisemodify<br><l>|OP
+LibsDisguises|libsdisguises.seecmd.disguisemodifyplayer|See the /disguisemodifyplayer command in tab-completion|<l>disguisemodifyplayer<br><l>|OP
+LibsDisguises|libsdisguises.seecmd.disguisemodifyradius|See the /disguisemodifyradius command in tab-completion|<l>disguisemodifyradius<br><l>|OP
+LibsDisguises|libsdisguises.seecmd.disguisemodifyentity|See the /disguisemodifyentity command in tab-completion|<l>disguisemodifyentity<br><l>|OP
+LibsDisguises|libsdisguises.seecmd.copydisguise|See the /copydisguise command in tab-completion|<l>copydisguise<br><l>|OP
+LibsDisguises|libsdisguises.seecmd.grabskin|See the /grabskin command in tab-completion|<l>grabskin<br><l>|OP
+LibsDisguises|libsdisguises.seecmd.savedisguise|See the /savedisguise command in tab-completion|<l>savedisguise<br><l>|OP
+TokenManager|tokenmanager.*|Grants access to all TokenManager permissions.|<l><l>|OP
+TokenManager|tokenmanager.use.*|Grants access to all sub commands of /token.|<l><l>|OP
+LWC|lwc.*|Full administrative access to LWC|<l><l>|NONE
+LWC|lwc.protect|Gives the ability to basic LWC usage (almost everything except LWC admin.)|<l><l>|PLAYER
+LWC|lwc.admin|Gives you absolutely power over LWC. As an LWC admin, you have no restrictions.|<l>cadmin<br>cexempt<br><l>|NONE
+LWC|lwc.allcommands|Gives you access to every LWC command. Without lwc.admin or lwc.mod, you cannot open protections you do not own.|<l><l>|NONE
+LWC|lwc.shownotices|Shows LWC notices|<l><l>|OP
+LWC|lwc.mod|Allows you to open anyone's protection but not remove them|<l><l>|NONE
+LWC|lwc.deny|Denys you access to any block LWC can protect. For example, with this permission set, you cannot open even unprotected chests (if protectable.)|<l><l>|OP
+LWC|lwc.create.*|Allows you to create every basic protection (public, private, password.)|<l><l>|OP
+LWC|lwc.create.public|Allows you to create a public protection.|<l><l>|OP
+LWC|lwc.create.password|Allows you to create a password protection.|<l><l>|OP
+LWC|lwc.create.private|Allows you to create a private protection.|<l><l>|OP
+LWC|lwc.create.donation|Allows you to create a donation protection.|<l><l>|OP
+LWC|lwc.create.display|Allows you to create a display protection.|<l><l>|OP
+LWC|lwc.modify|Allows you to modify protections you own.|<l><l>|OP
+LWC|lwc.unlock|Allows you to unlock password-protected protections.|<l><l>|OP
+LWC|lwc.info|Allows you to view the owner and other misc data on a protection.|<l><l>|OP
+LWC|lwc.remove|Allows you to remove protections you own.|<l><l>|OP
+LWC|lwc.flag.*|Gives you access to every usable flag.|<l><l>|OP
+LWC|lwc.allflags|Gives you access to every usable flag.|<l><l>|OP
+LWC|lwc.flag.redstone|Allows you to use the redstone flag, which enables or disables the use of redstone on a protection depending on plugin settings.|<l><l>|OP
+LWC|lwc.flag.magnet|Allows you to use the magnet flag, which makes a protection such as a chest suck up dropped items in a specific radius around it.|<l><l>|OP
+LWC|lwc.flag.autoclose|Allows a door to automatically close itself after 3 seconds (configurable.)|<l><l>|OP
+LWC|lwc.mode.*|Gives you access to every usable mode, provided they are already disabled.|<l><l>|OP
+LWC|lwc.allmodes|Gives you access to every mode, provided they are already disabled.|<l><l>|OP
+LWC|lwc.mode.persist|Allows you to use the persist flag, which allows you to use commands repeatably.|<l><l>|OP
+LWC|lwc.mode.droptransfer|Allows you to use the drop transfer flag, which allows you to "drop" items into your chest from far away.|<l><l>|OP
+LWC|lwc.autoprotect|Allows you to auto protect LWC protections regardless of how LWC is configured|<l><l>|NONE
+ShopGUIPlus|shopguiplus.*|Allows to all ShopGUIPlus commands and shops|<l><l>|OP
+ShopGUIPlus|shopguiplus.reload|Allows to reload command|<l><l>|OP
+ShopGUIPlus|shopguiplus.others|Allows to open shops for other players|<l><l>|OP
+ShopGUIPlus|shopguiplus.bypassgamemode|Allows access to the shop when in any gamemode|<l><l>|OP
+ShopGUIPlus|shopguiplus.bypassworld|Allows access to the shop when in any world|<l><l>|OP
+ShopGUIPlus|shopguiplus.buymore|Allows to use the "Buy more" feature|<l><l>|PLAYER
+ShopGUIPlus|shopguiplus.sellmore|Allows to use the "Sell more" feature|<l><l>|PLAYER
+ShopGUIPlus|shopguiplus.sell.hand|Allows to use the /sell hand command|<l><l>|OP
+ShopGUIPlus|shopguiplus.sell.hand.all|Allows to use the /sell handall command|<l><l>|OP
+ShopGUIPlus|shopguiplus.sell.all|Allows to use the /sell all command|<l><l>|OP
+ShopGUIPlus|shopguiplus.shop|Allows access to the main command|<l><l>|PLAYER
+ShopGUIPlus|shopguiplus.shops.*|Allows to all shops|<l><l>|PLAYER
+AdvancedLuckPermsGUI|lpgui.admin|Admin permission to use the gui|<l><l>|OP
+GadgetsMenu|gadgetsmenu.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.cosmetics.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.commands.*|Let a player to use all GadgetsMenu commands.|<l><l>|OP
+GadgetsMenu|gadgetsmenu.autoequip.*|Automatic equip cosmetic item.|<l><l>|OP
+GadgetsMenu|gadgetsmenu.bypassduration.*|Allows a player to bypass the song duration.|<l><l>|OP
+GadgetsMenu|gadgetsmenu.mysteryboxes.open.*|Allows a player to open all mystery boxes.|<l><l>|OP
+GadgetsMenu|gadgetsmenu.animations.*|Allows a player to access all mystery vault animations.|<l><l>|OP
+GadgetsMenu|gadgetsmenu.multipleboxes.*|Allows a player to open multiple mystery boxes at one time.|<l><l>|OP
+GadgetsMenu|gadgetsmenu.discount.*|Allows a player to discount the item cost.|<l><l>|OP
+GadgetsMenu|gadgetsmenu.hats.*|Let a player to use all Hats.|<l><l>|OP
+GadgetsMenu|gadgetsmenu.animatedhats.*|Let a player to use all animated Hats.|<l><l>|OP
+GadgetsMenu|gadgetsmenu.particles.*|Let a player to use all Particles.|<l><l>|OP
+GadgetsMenu|gadgetsmenu.suits.frog.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.suits.ninja.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.suits.speedster.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.suits.ghostly.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.suits.disco.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.suits.mermaid.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.suits.spooderman.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.suits.warrior.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.suits.necromancer.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.suits.thor.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.suits.baker.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.suits.bumblebee.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.suits.firefighter.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.suits.plumber.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.suits.icewalker.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.suits.vampire.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.suits.*|Let a player to use all Suits.|<l><l>|OP
+GadgetsMenu|gadgetsmenu.gadgets.*|Let a player to use all gadgets.|<l><l>|OP
+GadgetsMenu|gadgetsmenu.pets.silverfish.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.pets.chicken.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.pets.wolf.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.pets.cat.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.pets.zombie.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.pets.bat.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.pets.spider.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.pets.snowman.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.pets.rabbit.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.pets.villager.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.pets.golem.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.pets.enderman.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.pets.blaze.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.pets.endermite.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.pets.cow.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.pets.creeper.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.pets.horse.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.pets.pig.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.pets.sheep.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.pets.slime.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.pets.magmacube.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.pets.skeleton.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.pets.polarbear.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.pets.llama.*|empty|<l><l>|OP
+GadgetsMenu|gadgetsmenu.pets.*|Let a player to use all Pets.|<l><l>|OP
+GadgetsMenu|gadgetsmenu.miniatures.*|Let a player to use all Miniatures.|<l><l>|OP
+GadgetsMenu|gadgetsmenu.morphs.*|Let a player to use all Morphs.|<l><l>|OP
+GadgetsMenu|gadgetsmenu.banners.*|Let a player to use all Banners.|<l><l>|OP
+GadgetsMenu|gadgetsmenu.emotes.*|Let a player to use all Emotes.|<l><l>|OP
+GadgetsMenu|gadgetsmenu.cloaks.*|Let a player to use all Emotes.|<l><l>|OP
+MarriageMaster|marry.bypass|Gives all bypassing permissions|<l><l>|OP
+MarriageMaster|marry.user|Gives acces to all user functions|<l><l>|OP
+MarriageMaster|marry.chat.*|Gives acces to all private message formats|<l><l>|OP
+MarriageMaster|marry.home.*|empty|<l><l>|OP
+MarriageMaster|marry.accept|Allows the player to accept confirmation requests|<l><l>|PLAYER
+MarriageMaster|marry.list|Allows you to use the List command|<l><l>|PLAYER
+MarriageMaster|marry.listpriests|Allows you to use the list priests command|<l><l>|PLAYER
+MarriageMaster|marry.pvp|Allows you to enable/disable pvp with the partner|<l><l>|PLAYER
+MarriageMaster|marry.delhome|Allows the player to delete his home point|<l><l>|PLAYER
+MarriageMaster|marry.chat.color|Allows colors in private messages|<l><l>|PLAYER
+MarriageMaster|marry.chat.format|Allows formating private messages (except magic)|<l><l>|PLAYER
+MarriageMaster|marry.chat.magic|Allows magic format in private messages|<l><l>|NONE
+MarriageMaster|marry.backpack|Allows to share the backpacks (requires Minepacks)|<l><l>|PLAYER
+MarriageMaster|marry.kiss|Allows to kiss your partner|<l><l>|PLAYER
+MarriageMaster|marry.hug|Allows to hug your partner|<l><l>|PLAYER
+MarriageMaster|marry.selfmarry|Allows to marry an other player without a priest|<l><l>|PLAYER
+MarriageMaster|marry.selfdivorce|Allows to divorce from an other player without a priest|<l><l>|PLAYER
+MarriageMaster|marry.changesurname|Allows to change the surname when self marry is on.|<l><l>|PLAYER
+MarriageMaster|marry.bypass.delay|Allows to skip the delay on tps|<l><l>|OP
+MarriageMaster|marry.bypass.rangelimit|Allows to bypass the range limits|<l><l>|OP
+MarriageMaster|marry.bypass.giftgamemode|Allows to bypass gamemode check for item gifting|<l><l>|OP
+MarriageMaster|marry.bypass.backpackgamemode|Allows to bypass gamemode check for opening the backpack of the partner|<l><l>|OP
+MarriageMaster|marry.bypass.worldblacklist|Allows to bypass the world check for teleports|<l><l>|OP
+MarriageMaster|marry.bypass.tpconfirmation|Allows to bypass the teleport confirmation request|<l><l>|OP
+MarriageMaster|marry.offlinedivorce|Allows a priest to divorce players when only one of them is online.|<l><l>|OP
+MarriageMaster|marry.priest|Allows you to marry two players|<l><l>|OP
+MarriageMaster|marry.setpriest|Allows you to set a priest|<l><l>|OP
+MarriageMaster|marry.listenchat|Allows to see the private chat|<l><l>|OP
+MarriageMaster|marry.listenchat.autojoin|Automatically stats listening on private chats when a player with the permission joins the server.|<l><l>|NONE
+MarriageMaster|marry.version|Allows to print the version of the plugin and it's dependencies|<l><l>|OP
+MarriageMaster|marry.reload|Allows you to reload the config|<l><l>|OP
+MarriageMaster|marry.home.others|Allows to teleport to homes of other players|<l><l>|OP
+MarriageMaster|marry.autoaccept.tprequest|If the permission is granted the player will automaticaly accept tp requests|<l><l>|NONE
+AdvancedAbilities|advancedabilities.*|empty|<l><l>|OP
+AdvancedAbilities|advancedabilities.admin|empty|<l><l>|OP
+AdvancedAbilities|advancedabilities.stats.other|empty|<l><l>|OP
+AdvancedAbilities|advancedabilities.select|empty|<l><l>|OP
+AdvancedAbilities|advancedabilities.select.other|empty|<l><l>|OP
+Citizens|citizens.admin.avoid-limits|empty|<l><l>|NONE
+Citizens|citizens.citizens.help|empty|<l>citizens<br><l>|NONE
+Citizens|citizens.npc.controllable.areaeffectcloud|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.armorstand|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.arrow|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.bat|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.blaze|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.boat|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.cavespider|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.chicken|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.complexpart|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.cow|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.creeper|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.donkey|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.dragonfireball|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.droppeditem|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.egg|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.elderguardian|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.endercrystal|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.enderdragon|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.enderman|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.endermite|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.enderpearl|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.endersignal|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.evoker|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.evokerfangs|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.experienceorb|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.fallingblock|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.fireball|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.firework|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.fishinghook|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.ghast|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.giant|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.guardian|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.horse|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.husk|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.illusioner|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.irongolem|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.itemframe|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.leashhitch|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.lightning|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.lingeringpotion|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.llama|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.llamaspit|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.magmacube|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.minecart|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.minecartchest|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.minecartcommand|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.minecartfurnace|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.minecarthopper|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.minecartmobspawner|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.minecarttnt|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.mule|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.mushroomcow|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.ocelot|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.painting|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.parrot|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.pig|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.pigzombie|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.player|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.polarbear|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.primedtnt|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.rabbit|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.sheep|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.shulker|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.shulkerbullet|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.silverfish|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.skeleton|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.skeletonhorse|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.slime|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.smallfireball|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.snowball|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.snowman|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.spectralarrow|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.spider|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.splashpotion|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.squid|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.stray|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.thrownexpbottle|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.tippedarrow|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.unknown|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.vex|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.villager|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.vindicator|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.weather|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.witch|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.wither|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.witherskeleton|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.witherskull|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.wolf|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.zombie|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.zombiehorse|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.zombievillager|empty|<l><l>|NONE
+Citizens|citizens.npc.create|empty|<l><l>|NONE
+Citizens|citizens.npc.create.areaeffectcloud|empty|<l><l>|NONE
+Citizens|citizens.npc.create.armorstand|empty|<l><l>|NONE
+Citizens|citizens.npc.create.arrow|empty|<l><l>|NONE
+Citizens|citizens.npc.create.bat|empty|<l><l>|NONE
+Citizens|citizens.npc.create.blaze|empty|<l><l>|NONE
+Citizens|citizens.npc.create.boat|empty|<l><l>|NONE
+Citizens|citizens.npc.create.cavespider|empty|<l><l>|NONE
+Citizens|citizens.npc.create.chicken|empty|<l><l>|NONE
+Citizens|citizens.npc.create.complexpart|empty|<l><l>|NONE
+Citizens|citizens.npc.create.cow|empty|<l><l>|NONE
+Citizens|citizens.npc.create.creeper|empty|<l><l>|NONE
+Citizens|citizens.npc.create.donkey|empty|<l><l>|NONE
+Citizens|citizens.npc.create.dragonfireball|empty|<l><l>|NONE
+Citizens|citizens.npc.create.droppeditem|empty|<l><l>|NONE
+Citizens|citizens.npc.create.egg|empty|<l><l>|NONE
+Citizens|citizens.npc.create.elderguardian|empty|<l><l>|NONE
+Citizens|citizens.npc.create.endercrystal|empty|<l><l>|NONE
+Citizens|citizens.npc.create.enderdragon|empty|<l><l>|NONE
+Citizens|citizens.npc.create.enderman|empty|<l><l>|NONE
+Citizens|citizens.npc.create.endermite|empty|<l><l>|NONE
+Citizens|citizens.npc.create.enderpearl|empty|<l><l>|NONE
+Citizens|citizens.npc.create.endersignal|empty|<l><l>|NONE
+Citizens|citizens.npc.create.evoker|empty|<l><l>|NONE
+Citizens|citizens.npc.create.evokerfangs|empty|<l><l>|NONE
+Citizens|citizens.npc.create.experienceorb|empty|<l><l>|NONE
+Citizens|citizens.npc.create.fallingblock|empty|<l><l>|NONE
+Citizens|citizens.npc.create.fireball|empty|<l><l>|NONE
+Citizens|citizens.npc.create.firework|empty|<l><l>|NONE
+Citizens|citizens.npc.create.fishinghook|empty|<l><l>|NONE
+Citizens|citizens.npc.create.ghast|empty|<l><l>|NONE
+Citizens|citizens.npc.create.giant|empty|<l><l>|NONE
+Citizens|citizens.npc.create.guardian|empty|<l><l>|NONE
+Citizens|citizens.npc.create.horse|empty|<l><l>|NONE
+Citizens|citizens.npc.create.husk|empty|<l><l>|NONE
+Citizens|citizens.npc.create.illusioner|empty|<l><l>|NONE
+Citizens|citizens.npc.create.irongolem|empty|<l><l>|NONE
+Citizens|citizens.npc.create.itemframe|empty|<l><l>|NONE
+Citizens|citizens.npc.create.leashhitch|empty|<l><l>|NONE
+Citizens|citizens.npc.create.lightning|empty|<l><l>|NONE
+Citizens|citizens.npc.create.lingeringpotion|empty|<l><l>|NONE
+Citizens|citizens.npc.create.llama|empty|<l><l>|NONE
+Citizens|citizens.npc.create.llamaspit|empty|<l><l>|NONE
+Citizens|citizens.npc.create.magmacube|empty|<l><l>|NONE
+Citizens|citizens.npc.create.minecart|empty|<l><l>|NONE
+Citizens|citizens.npc.create.minecartchest|empty|<l><l>|NONE
+Citizens|citizens.npc.create.minecartcommand|empty|<l><l>|NONE
+Citizens|citizens.npc.create.minecartfurnace|empty|<l><l>|NONE
+Citizens|citizens.npc.create.minecarthopper|empty|<l><l>|NONE
+Citizens|citizens.npc.create.minecartmobspawner|empty|<l><l>|NONE
+Citizens|citizens.npc.create.minecarttnt|empty|<l><l>|NONE
+Citizens|citizens.npc.create.mule|empty|<l><l>|NONE
+Citizens|citizens.npc.create.mushroomcow|empty|<l><l>|NONE
+Citizens|citizens.npc.create.ocelot|empty|<l><l>|NONE
+Citizens|citizens.npc.create.painting|empty|<l><l>|NONE
+Citizens|citizens.npc.create.parrot|empty|<l><l>|NONE
+Citizens|citizens.npc.create.pig|empty|<l><l>|NONE
+Citizens|citizens.npc.create.pigzombie|empty|<l><l>|NONE
+Citizens|citizens.npc.create.player|empty|<l><l>|NONE
+Citizens|citizens.npc.create.polarbear|empty|<l><l>|NONE
+Citizens|citizens.npc.create.primedtnt|empty|<l><l>|NONE
+Citizens|citizens.npc.create.rabbit|empty|<l><l>|NONE
+Citizens|citizens.npc.create.sheep|empty|<l><l>|NONE
+Citizens|citizens.npc.create.shulker|empty|<l><l>|NONE
+Citizens|citizens.npc.create.shulkerbullet|empty|<l><l>|NONE
+Citizens|citizens.npc.create.silverfish|empty|<l><l>|NONE
+Citizens|citizens.npc.create.skeleton|empty|<l><l>|NONE
+Citizens|citizens.npc.create.skeletonhorse|empty|<l><l>|NONE
+Citizens|citizens.npc.create.slime|empty|<l><l>|NONE
+Citizens|citizens.npc.create.smallfireball|empty|<l><l>|NONE
+Citizens|citizens.npc.create.snowball|empty|<l><l>|NONE
+Citizens|citizens.npc.create.snowman|empty|<l><l>|NONE
+Citizens|citizens.npc.create.spectralarrow|empty|<l><l>|NONE
+Citizens|citizens.npc.create.spider|empty|<l><l>|NONE
+Citizens|citizens.npc.create.splashpotion|empty|<l><l>|NONE
+Citizens|citizens.npc.create.squid|empty|<l><l>|NONE
+Citizens|citizens.npc.create.stray|empty|<l><l>|NONE
+Citizens|citizens.npc.create.thrownexpbottle|empty|<l><l>|NONE
+Citizens|citizens.npc.create.tippedarrow|empty|<l><l>|NONE
+Citizens|citizens.npc.create.unknown|empty|<l><l>|NONE
+Citizens|citizens.npc.create.vex|empty|<l><l>|NONE
+Citizens|citizens.npc.create.villager|empty|<l><l>|NONE
+Citizens|citizens.npc.create.vindicator|empty|<l><l>|NONE
+Citizens|citizens.npc.create.weather|empty|<l><l>|NONE
+Citizens|citizens.npc.create.witch|empty|<l><l>|NONE
+Citizens|citizens.npc.create.wither|empty|<l><l>|NONE
+Citizens|citizens.npc.create.witherskeleton|empty|<l><l>|NONE
+Citizens|citizens.npc.create.witherskull|empty|<l><l>|NONE
+Citizens|citizens.npc.create.wolf|empty|<l><l>|NONE
+Citizens|citizens.npc.create.zombie|empty|<l><l>|NONE
+Citizens|citizens.npc.create.zombiehorse|empty|<l><l>|NONE
+Citizens|citizens.npc.create.zombievillager|empty|<l><l>|NONE
+Citizens|citizens.npc.edit.copier|empty|<l><l>|NONE
+Citizens|citizens.npc.horse|empty|<l><l>|NONE
+Citizens|citizens.npc.ignore-cost|empty|<l><l>|NONE
+Citizens|citizens.npc.info|empty|<l><l>|NONE
+Citizens|citizens.npc.leashable|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.1|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.2|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.3|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.4|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.5|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.6|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.7|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.8|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.9|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.10|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.11|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.12|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.13|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.14|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.15|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.16|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.17|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.18|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.19|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.20|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.21|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.22|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.23|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.24|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.25|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.26|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.27|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.28|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.29|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.30|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.31|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.32|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.33|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.34|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.35|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.36|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.37|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.38|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.39|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.40|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.41|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.42|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.43|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.44|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.45|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.46|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.47|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.48|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.49|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.50|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.51|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.52|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.53|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.54|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.55|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.56|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.57|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.58|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.59|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.60|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.61|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.62|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.63|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.64|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.65|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.66|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.67|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.68|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.69|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.70|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.71|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.72|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.73|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.74|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.75|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.76|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.77|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.78|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.79|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.80|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.81|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.82|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.83|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.84|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.85|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.86|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.87|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.88|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.89|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.90|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.91|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.92|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.93|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.94|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.95|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.96|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.97|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.98|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.99|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.100|empty|<l><l>|NONE
+Citizens|citizens.npc.name|empty|<l><l>|NONE
+Citizens|citizens.npc.ocelot|empty|<l><l>|NONE
+Citizens|citizens.npc.path|empty|<l><l>|NONE
+Citizens|citizens.npc.pathfindingoptions|empty|<l><l>|NONE
+Citizens|citizens.npc.pose|empty|<l><l>|NONE
+Citizens|citizens.npc.respawn|empty|<l><l>|NONE
+Citizens|citizens.npc.sound|empty|<l><l>|NONE
+Citizens|citizens.npc.speak|empty|<l><l>|NONE
+Citizens|citizens.npc.swim|empty|<l><l>|NONE
+Citizens|citizens.npc.talk|empty|<l><l>|NONE
+Citizens|citizens.npc.targetable|empty|<l><l>|NONE
+Citizens|citizens.npc.tphere.multiworld|empty|<l><l>|NONE
+Citizens|citizens.npc.tpto|empty|<l><l>|NONE
+Citizens|citizens.npc.trait-configure|empty|<l><l>|NONE
+Citizens|citizens.npc.trait-configure.age|empty|<l><l>|NONE
+Citizens|citizens.npc.trait-configure.anchors|empty|<l><l>|NONE
+Citizens|citizens.npc.trait-configure.controllable|empty|<l><l>|NONE
+Citizens|citizens.npc.trait-configure.equipment|empty|<l><l>|NONE
+Citizens|citizens.npc.trait-configure.gravity|empty|<l><l>|NONE
+Citizens|citizens.npc.trait-configure.horsemodifiers|empty|<l><l>|NONE
+Citizens|citizens.npc.trait-configure.inventory|empty|<l><l>|NONE
+Citizens|citizens.npc.trait-configure.location|empty|<l><l>|NONE
+Citizens|citizens.npc.trait-configure.lookclose|empty|<l><l>|NONE
+Citizens|citizens.npc.trait-configure.ocelotmodifiers|empty|<l><l>|NONE
+Citizens|citizens.npc.trait-configure.owner|empty|<l><l>|NONE
+Citizens|citizens.npc.trait-configure.poses|empty|<l><l>|NONE
+Citizens|citizens.npc.trait-configure.powered|empty|<l><l>|NONE
+Citizens|citizens.npc.trait-configure.profession|empty|<l><l>|NONE
+Citizens|citizens.npc.trait-configure.saddle|empty|<l><l>|NONE
+Citizens|citizens.npc.trait-configure.sheared|empty|<l><l>|NONE
+Citizens|citizens.npc.trait-configure.skeletontype|empty|<l><l>|NONE
+Citizens|citizens.npc.trait-configure.slimesize|empty|<l><l>|NONE
+Citizens|citizens.npc.trait-configure.spawned|empty|<l><l>|NONE
+Citizens|citizens.npc.trait-configure.speech|empty|<l><l>|NONE
+Citizens|citizens.npc.trait-configure.text|empty|<l><l>|NONE
+Citizens|citizens.npc.trait-configure.type|empty|<l><l>|NONE
+Citizens|citizens.npc.trait-configure.waypoints|empty|<l><l>|NONE
+Citizens|citizens.npc.trait-configure.wolfmodifiers|empty|<l><l>|NONE
+Citizens|citizens.npc.trait-configure.woolcolor|empty|<l><l>|NONE
+Citizens|citizens.npc.trait-configure.zombiemodifier|empty|<l><l>|NONE
+Citizens|citizens.npc.trait|empty|<l><l>|NONE
+Citizens|citizens.npc.trait.age|empty|<l><l>|NONE
+Citizens|citizens.npc.trait.anchors|empty|<l><l>|NONE
+Citizens|citizens.npc.trait.controllable|empty|<l><l>|NONE
+Citizens|citizens.npc.trait.equipment|empty|<l><l>|NONE
+Citizens|citizens.npc.trait.gravity|empty|<l><l>|NONE
+Citizens|citizens.npc.trait.horsemodifiers|empty|<l><l>|NONE
+Citizens|citizens.npc.trait.inventory|empty|<l><l>|NONE
+Citizens|citizens.npc.trait.location|empty|<l><l>|NONE
+Citizens|citizens.npc.trait.lookclose|empty|<l><l>|NONE
+Citizens|citizens.npc.trait.ocelotmodifiers|empty|<l><l>|NONE
+Citizens|citizens.npc.trait.owner|empty|<l><l>|NONE
+Citizens|citizens.npc.trait.poses|empty|<l><l>|NONE
+Citizens|citizens.npc.trait.powered|empty|<l><l>|NONE
+Citizens|citizens.npc.trait.profession|empty|<l><l>|NONE
+Citizens|citizens.npc.trait.saddle|empty|<l><l>|NONE
+Citizens|citizens.npc.trait.sheared|empty|<l><l>|NONE
+Citizens|citizens.npc.trait.skeletontype|empty|<l><l>|NONE
+Citizens|citizens.npc.trait.slimesize|empty|<l><l>|NONE
+Citizens|citizens.npc.trait.spawned|empty|<l><l>|NONE
+Citizens|citizens.npc.trait.speech|empty|<l><l>|NONE
+Citizens|citizens.npc.trait.text|empty|<l><l>|NONE
+Citizens|citizens.npc.trait.type|empty|<l><l>|NONE
+Citizens|citizens.npc.trait.waypoints|empty|<l><l>|NONE
+Citizens|citizens.npc.trait.wolfmodifiers|empty|<l><l>|NONE
+Citizens|citizens.npc.trait.woolcolor|empty|<l><l>|NONE
+Citizens|citizens.npc.trait.zombiemodifier|empty|<l><l>|NONE
+Citizens|citizens.npc.wolf|empty|<l><l>|NONE
+Citizens|citizens.script.compile|empty|<l><l>|NONE
+Citizens|citizens.templates.help|empty|<l>template<br><l>|NONE
+Citizens|citizens.npc.text|empty|<l><l>|NONE
+Citizens|citizens.*|empty|<l><l>|NONE
+Citizens|citizens.citizens.*|empty|<l><l>|NONE
+Citizens|citizens.npc.controllable.*|empty|<l><l>|NONE
+Citizens|citizens.npc.edit.*|empty|<l><l>|NONE
+Citizens|citizens.npc.limit.*|empty|<l><l>|NONE
+Citizens|citizens.npc.tphere.*|empty|<l><l>|NONE
+Citizens|citizens.npc.trait-configure.*|empty|<l><l>|NONE
+Citizens|citizens.script.*|empty|<l><l>|NONE
+Citizens|citizens.templates.*|empty|<l><l>|NONE
+Citizens|citizens.waypoints.*|empty|<l><l>|NONE
+Citizens|citizens.kit.op|empty|<l><l>|OP
+DragonSlayer|dragonslayer.setspawn|/dragonslayer setspawn/remspawn & setarmorstand/remarmorstand permission|<l><l>|NONE
+DragonSlayer|dragonslayer.getspawn|/dragonslayer getspawn & getarmorstand permission|<l><l>|NONE
+DragonSlayer|dragonslayer.reload|/dragonslayer reload permission|<l><l>|NONE
+DragonSlayer|dragonslayer.forcerespawn|/dragonslayer forcerespawn permission|<l><l>|NONE
+DragonSlayer|dragonslayer.worldreset|/dragonslayer worldreset permission|<l><l>|NONE
+DragonSlayer|dragonslayer.admin|admin permissions|<l><l>|NONE
+DragonSlayer|dragonslayer|/dragonslayer permission|<l><l>|PLAYER
+DragonSlayer|dragonslayer.*|all permissions|<l><l>|OP
+MMOCore|mmocore.admin|Access to /rpg|<l><l>|OP
+MMOCore|mmocore.waypoints|Access to /waypoints|<l><l>|OP
+MMOCore|mmocore.currency|Access to /deposit and /withdraw|<l><l>|OP
+MMOCore|mmocore.class-select|Access to /class|<l><l>|OP
+AuctionGUIPlus|auctionguiplus.*|Access to all AuctionGUIPlus commands|<l><l>|OP
+AuctionGUIPlus|auctionguiplus.auction|Access to the main command|<l><l>|OP
+AuctionGUIPlus|auctionguiplus.auction.reload|Access to the reload command|<l><l>|OP
+AuctionGUIPlus|auctionguiplus.auction.bid|Access to the bid command|<l><l>|OP
+AuctionGUIPlus|auctionguiplus.auction.start|Access to the start command|<l><l>|OP
+AuctionGUIPlus|auctionguiplus.cancelothers|Access to cancel others auctions|<l><l>|OP
+AuctionGUIPlus|auctionguiplus.bypassgamemode|Access to access auctions in every gamemode|<l><l>|OP
+GrapplingHook|grapplinghook.give|empty|<l><l>|OP
+GrapplingHook|grapplinghook.debug|empty|<l><l>|OP
+GrapplingHook|grapplinghook.reload|empty|<l><l>|OP
+GrapplingHook|grapplinghook.use|empty|<l><l>|PLAYER
+GrapplingHook|grapplinghook.craft|empty|<l><l>|PLAYER
+CitizensCMD|citizenscmd.use|Allows player to click NPC.|<l><l>|PLAYER
+CitizensCMD|citizenscmd.help|empty|<l><l>|OP
+CitizensCMD|citizenscmd.add|empty|<l><l>|OP
+CitizensCMD|citizenscmd.list|empty|<l><l>|OP
+CitizensCMD|citizenscmd.cooldown|empty|<l><l>|OP
+CitizensCMD|citizenscmd.price|empty|<l><l>|OP
+CitizensCMD|citizenscmd.reload|empty|<l><l>|OP
+CitizensCMD|citizenscmd.permission|empty|<l><l>|OP
+CitizensCMD|citizenscmd.remove|empty|<l><l>|OP
+CitizensCMD|citizenscmd.edit|empty|<l><l>|OP
+CitizensCMD|citizenscmd.bypass|empty|<l><l>|NONE
+BattlePass|battlepass.admin|access to admin commands|<l><l>|OP
+Residence|residence.admin|Gives you access to /resadmin|<l><l>|OP
+Residence|residence.topadmin|Gives you access to /resreload and /resload commands|<l><l>|OP
+Residence|residence.admin.tp|Allows to override tp flag|<l><l>|OP
+Residence|residence.admin.move|Allows to override move flag|<l><l>|OP
+Residence|residence.rename|Allows you to rename residences|<l><l>|PLAYER
+Residence|residence.create|Allows you to create residences|<l><l>|PLAYER
+Residence|residence.delete|Allows you to delete residences|<l><l>|PLAYER
+Residence|residence.create.subzone|Allows you to create residences subzone|<l><l>|PLAYER
+Residence|residence.delete.subzone|Allows you to delete residences subzone|<l><l>|PLAYER
+Residence|residence.expand|Allows you to expand residence|<l><l>|PLAYER
+Residence|residence.expand.subzone|Allows you to expand residences subzone|<l><l>|PLAYER
+Residence|residence.contract|Allows you to contract residence|<l><l>|PLAYER
+Residence|residence.contract.subzone|Allows you to contract residences subzone|<l><l>|PLAYER
+Residence|residence.select|Allows you to select an area to make residences|<l><l>|PLAYER
+Residence|residence.resize|Allows you to resize an area|<l><l>|PLAYER
+Residence|residence.versioncheck|Notice to new version after connect|<l><l>|OP
+Residence|residence.bypass.nofly|Bypasses nofly flag in residence|<l><l>|OP
+Residence|residence.bypass.command|Bypasses command flag in residence|<l><l>|OP
+Residence|residence.select.auto.others|Allows to turn on auto selection for other players|<l><l>|OP
+Residence|residence.chatcolor|Allows to change residence chat color|<l><l>|PLAYER
+Residence|residence.chatprefix|Allows to change residence chat prefix|<l><l>|OP
+Residence|residence.chatkick|Allows to kick players from residence chat|<l><l>|PLAYER
+Residence|residence.compass|Allows to set compass pointer to residence|<l><l>|PLAYER
+Residence|residence.randomtp|Allows to use /res rt command|<l><l>|PLAYER
+Residence|residence.command.show|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.area|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.bank|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.check|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.clearflags|Allows to access particular command|<l><l>|OP
+Residence|residence.command.command|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.compass|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.confirm|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.contract|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.create|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.auto|Allows to create max residence|<l><l>|PLAYER
+Residence|residence.command.current|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.expand|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.flags|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.give|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.gset|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.gui|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.info|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.kick|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.lease|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.limits|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.list|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.list.others|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.listall|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.setdefaultflags|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.listallhidden|Allows to access particular command|<l><l>|OP
+Residence|residence.command.listhidden|Allows to access particular command|<l><l>|OP
+Residence|residence.command.lists|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.lset|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.market|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.material|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.message|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.message.enter|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.message.enter.remove|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.message.leave|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.message.leave.remove|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.newguyresidence|Allows for auto residence creation on chest place|<l><l>|PLAYER
+Residence|residence.command.mirror|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.padd|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.pdel|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.pset|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.rc|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.reload|Allows to access particular command|<l><l>|OP
+Residence|residence.command.remove|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.removeall|Allows to access particular command|<l><l>|OP
+Residence|residence.command.removeworld|Allows to access particular command|<l><l>|OP
+Residence|residence.command.rename|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.renamearea|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.resadmin|Allows to access particular command|<l><l>|OP
+Residence|residence.command.resbank|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.reset|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.rt|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.select|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.server|Allows to access particular command|<l><l>|OP
+Residence|residence.command.set|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.setmain|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.setowner|Allows to access particular command|<l><l>|OP
+Residence|residence.command.shop|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.signconvert|Allows to access particular command|<l><l>|OP
+Residence|residence.command.signupdate|Allows to access particular command|<l><l>|OP
+Residence|residence.command.sublist|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.subzone|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.tool|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.tp|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.tpconfirm|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.tpset|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.unstuck|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.version|Allows to access particular command|<l><l>|PLAYER
+Residence|residence.command.siege|Allows to access particular command|<l><l>|PLAYER
+MyPet|MyPet.leash.*|Player can leash all MyPet-Types.|<l><l>|OP
+MyPet|MyPet.command.trade.offer.*|Player offer all MyPet-Types.|<l><l>|OP
+MyPet|MyPet.command.trade.receive.*|Player receive all MyPet-Types.|<l><l>|OP
+MyPet|MyPet.admin|Gives access to the MyPet admin features.|<l>mypetadmin<br><l>|OP
+MyPet|MyPet.*|Gives access to MyPet features for normal user.|<l><l>|OP
+MyPet|MyPet.command.release|Allows usage of /petrelease|<l><l>|OP
+MyPet|MyPet.command.capturehelper|Gives access to the CaptureHelper|<l><l>|OP
+MyPet|MyPet.command.respawn|Allows usage of /petrespawn|<l><l>|OP
+MyPet|MyPet.command.name|Allows usage of /petname|<l><l>|OP
+MyPet|MyPet.command.name.color|Allows to use colors in petnames|<l><l>|OP
+MyPet|MyPet.command.options|Allows to use the MyPet options command|<l><l>|OP
+MyPet|MyPet.command.switch|Allows to switch between MyPets|<l><l>|OP
+MyPet|MyPet.command.store|Allows to store MyPets|<l><l>|OP
+MyPet|MyPet.command.info.other|Allows to view info about pets from other players with "/petinfo <playername>"|<l><l>|OP
+MyPet|MyPet.extended.feed|Extended permission. Allows to feed pets.|<l><l>|OP
+MyPet|MyPet.extended.equip|Extended permission. Allows to equip pets.|<l><l>|OP
+MyPet|MyPet.extended.beacon|Extended permission. Allows to open the beacon GUI.|<l><l>|OP
+MyPet|MyPet.extended.inventory|Extended permission. Allows to open the inventory of the pet.|<l><l>|OP
+MyPet|MyPet.extended.ride|Extended permission. Allows to mount pets.|<l><l>|OP
+MyPet|MyPet.extended.ride.fly|Extended permission. Allows to fly the pet while riding.|<l><l>|OP
+MyPet|MyPet.extended.control|Extended permission. Allows to control pets.|<l><l>|OP
+MyPet|MyPet.extended.pickup|Extended permission. Allows to enable pickup.|<l><l>|OP
+MyPet|MyPet.extended.behavior.friendly|Extended permission. Allows to use the ´friendly´ behavior.|<l><l>|OP
+MyPet|MyPet.extended.behavior.aggressive|Extended permission. Allows to use the ´aggressive´ behavior.|<l><l>|OP
+MyPet|MyPet.extended.behavior.farm|Extended permission. Allows to use the ´farm´ behavior.|<l><l>|OP
+MyPet|MyPet.extended.behavior.raid|Extended permission. Allows to use the ´raid´ behavior.|<l><l>|OP
+MyPet|MyPet.extended.behavior.duel|Extended permission. Allows to use the ´duel´ behavior.|<l><l>|OP
+MyPet|MyPet.experience.multiplier.125|Grants 25% extra experience.|<l><l>|OP
+MyPet|MyPet.experience.multiplier.150|Grants 50% extra experience.|<l><l>|OP
+MyPet|MyPet.experience.multiplier.175|Grants 75% extra experience.|<l><l>|OP
+MyPet|MyPet.experience.multiplier.200|Grants 100% extra experience.|<l><l>|OP
+MyPet|MyPet.experience.multiplier.225|Grants 125% extra experience.|<l><l>|OP
+MyPet|MyPet.experience.multiplier.250|Grants 150% extra experience.|<l><l>|OP
+MMOItems|mmoitems.admin|Access to admin commands.|<l><l>|OP
+MMOItems|mmoitems.awb|Access to /advancedworkbench.|<l><l>|OP
+MMOItems|mmoitems.update|Access to /updateitem.|<l><l>|OP
+MMOItems|mmoitems.bypass.item|Bypasses item permission restriction.|<l><l>|NONE
+MMOItems|mmoitems.bypass.ability|Bypasses ability permission restriction.|<l><l>|NONE
+MMOItems|mmoitems.bypass.class|Bypasses item class restriction.|<l><l>|NONE
+MMOItems|mmoitems.bypass.soulbound|Bypasses soulbound restriction.|<l><l>|NONE
+MMOItems|mmoitems.bypass.level|Bypasses item level restriction.|<l><l>|NONE
+MMOItems|mmoitems.update-notify|Receive a notification when a new update is available.|<l><l>|OP
+MMOItems|mmoitems.soulbound|Allows to use /soulbound.|<l><l>|OP
+Plan|plan.?|Help command|<l><l>|PLAYER
+Plan|plan.inspect.base|Allows you to check your player data.|<l><l>|PLAYER
+Plan|plan.inspect.other|Allows you to check other players' player data.|<l><l>|OP
+Plan|plan.qinspect.base|Allows you to check your player data.|<l><l>|OP
+Plan|plan.qinspect.other|Allows you to check other players' player data.|<l><l>|OP
+Plan|plan.analyze|Allows you to check analysed data about all players.|<l><l>|OP
+Plan|plan.qanalyze|Allows you to check analysed data about all players.|<l><l>|OP
+Plan|plan.reload|Allows to reload plugin config|<l><l>|OP
+Plan|plan.search|Allows search|<l><l>|OP
+Plan|plan.info|Allows to view info|<l><l>|OP
+Plan|plan.ignore.commanduse|Commands used by this player are not saved|<l><l>|NONE
+Plan|plan.ignore.afk|AFK time by this player is ignored|<l><l>|NONE
+Plan|plan.manage|Manage the database, clear, move, combine.|<l><l>|OP
+Plan|plan.webmanage|Manage the webusers, delete, list, check|<l><l>|OP
+Plan|plan.basic|empty|<l><l>|OP
+Plan|plan.advanced|empty|<l><l>|OP
+Plan|plan.staff|empty|<l><l>|OP
+Plan|plan.*|empty|<l><l>|OP
+EpicCraftingsPlus|ecraft.command.ecraft|empty|<l>ecraft<br><l>|PLAYER

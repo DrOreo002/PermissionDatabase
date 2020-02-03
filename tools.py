@@ -83,6 +83,8 @@ def update_icon():
     for line in icon_data.readlines():
         loaded_data.append(line.split("|")[0]) # Append the plugin name
 
+    firstAdd = True
+
     for line in f.readlines():
         if (line.startswith("#")):
              continue
@@ -97,7 +99,11 @@ def update_icon():
             last_owner = p_owner
             material_name = input("[!] Type icon data for plugin " + p_owner + " > ")
             print("         > Material / Icon data selected successfully! (" + material_name + ")")
-            icon_data.write(p_owner + "|" + material_name + "\n")
+            if (firstAdd):
+                icon_data.write("\n" + p_owner + "|" + material_name + "\n")
+            else:
+                icon_data.write(p_owner + "|" + material_name + "\n")
+                firstAdd = False
             continue
         # Not new, still continue
         last_owner = dat[PERM_OWNER]
@@ -219,11 +225,11 @@ def show_information():
 
     print(INFO_TEXT + "Data information for database version " + Fore.RED + "v" +  version + Fore.RESET, end = '')
     print("-------")
-    print(INFO_TEXT + "Data size > " + Fore.RED + str(data_size) + " lines" + Fore.RESET)
-    print(INFO_TEXT + "Loaded permission owner > " + Fore.RED + str(perm_owners_size))
-    print(INFO_TEXT + "Loaded permission owner > " + Fore.RED + str(perm_owners_size) + Fore.RESET)
+    print(INFO_TEXT + "Permission data size [Integer]: " + Fore.RED + str(data_size) + " lines" + Fore.RESET)
+    print(INFO_TEXT + "Loaded permission owner size [Integer]: " + Fore.RED + str(perm_owners_size) + " owners" + Fore.RESET)
+    print(INFO_TEXT + "Loaded icon size [Integer]: " + Fore.RED + str(icon_size)  + " icons" + Fore.RESET)
     print("-------")
-    print(INFO_TEXT + "End of data information. More will be given in the future" + Fore.RESET)
+    print(INFO_TEXT + "End of data information" + Fore.RESET)
 
     # End
     f.close()

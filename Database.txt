@@ -225,9 +225,9 @@ AdvancedTags|advancedtags.help|Plugin help|<l>/advancedtags<l>|op
 AdvancedTags|advancedtags.reload|Reload configs|<l>/advancedtags reload<l>|op
 AntiAFKPlus|AntiAFKPlus.bypass|Bypass the AFK Check|<l>empty<l>|op
 AntiAFKPlus|AntiAFKPlus.reload|Reload the AFK Plugin|<l>/antiafk reload<l>|op
-AntiAura|antiaura.bypass|Don't get kicked by any of AntiAura's checks_|<l>empty<l>|op
-AntiAura|antiaura.reload|Use the /areload command_|<l>/areload<l>|op
-AntiAura|antiauramessages.notify|Alerts you when someone is Cheating_|<l>empty<l>|op
+AntiAura|antiaura.bypass|Don't get kicked by any of AntiAura's checks|<l>empty<l>|op
+AntiAura|antiaura.reload|Use the /areload command|<l>/areload<l>|op
+AntiAura|antiauramessages.notify|Alerts you when someone is Cheating|<l>empty<l>|op
 AntiAuraMessages|antiauramessages.notify|Here you can change the notification permission from the plugin.|<l>empty<l>|op
 AntiBotDeluxeEX|antibotdeluxe.perform.command|Spigot Command Permission|<l>/ab<br>/antibotdeluxe<l>|op
 AntiBotDeluxeEX|antibotdeluxebungee.perform.command|BungeeCord Command Permission|<l>/ab<br>/antibotdeluxe<l>|op

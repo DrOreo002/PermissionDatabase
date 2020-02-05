@@ -214,17 +214,11 @@ def show_information():
     f.seek(0)
     icon_data.seek(0)
 
-    for line in f.readlines():
-        if "Version" in line and line.startswith("#"):
-            version = line.split(" ")[2]
-            break
-
     f.seek(0) # Reset to beginning
     data_size = sum(1 for l in f.readlines())
     perm_owners_size = sum(1 for p in perm_owners)
     icon_size = sum(1 for icon in perm_icon)
 
-    print(INFO_TEXT + "Data information for database version " + Fore.RED + "v" +  version + Fore.RESET, end = '')
     print("-------")
     print(INFO_TEXT + "Permission data size [Integer]: " + Fore.RED + str(data_size) + " lines" + Fore.RESET)
     print(INFO_TEXT + "Loaded permission owner size [Integer]: " + Fore.RED + str(perm_owners_size) + " owners" + Fore.RESET)

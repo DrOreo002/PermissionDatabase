@@ -1,5 +1,4 @@
 # Permission database for AdvancedLuckPermsGUI
-# Version 1.0
 # Format are <pluginName>|<permission>|<desc>|<commands>,|<defaultAssignment>
 AAC|AAC.admin|View the admin control panel|<l>/aacadmin<br>/aacreload<l>|op
 AAC|AAC.ban|Ban players.|<l>empty<l>|op
@@ -37,14 +36,12 @@ ASkyBlock|askyblock.coop|empty|<l>empty<l>|op
 ASkyBlock|askyblock.craft.*|Allow all permissions of the Craft permissions|<l>empty<l>|op
 ASkyBlock|askyblock.craft.dirt|Allows tilling of coarse dirt into dirt|<l>empty<l>|op
 ASkyBlock|askyblock.craft.enderchest|Allow crafting and use of enderchests in askyblock|<l>empty<l>|op
-ASkyBlock|askyblock.craft.enderchest|Allows crafting and use of an enderchest. Note that this will enable cheating if you have more than one world!|<l>empty<l>|op
 ASkyBlock|askyblock.intopten|Includes player in top ten|<l>empty<l>|op
 ASkyBlock|askyblock.island.addwarp|Let the player place a Welcome warp sign|<l>empty<l>|op
 ASkyBlock|askyblock.island.ban|Allows banning of visitors|<l>empty<l>|op
 ASkyBlock|askyblock.island.biomes|Allows biome changing|<l>/island biomes<l>|op
 ASkyBlock|askyblock.island.challenges|Let the player use the /challenges command|<l>/challenges<l>|op
 ASkyBlock|askyblock.island.controlpanel|empty|<l>empty<l>|op
-ASkyBlock|askyblock.island.controlpanel|Allows usage of the island GUI|<l>/island cp<l>|op
 ASkyBlock|askyblock.island.create|Let the player use the /island command|<l>/island<l>|op
 ASkyBlock|askyblock.island.expel|Allows expelling of visitors|<l>/island expel<l>|op
 ASkyBlock|askyblock.island.go|Allow teleporting to player island|<l>/island go<l>|op
@@ -88,13 +85,9 @@ ASkyBlock|askyblock.settings.*|Ability to change settings in GUI|<l>/island sett
 ASkyBlock|askyblock.team.*|Allow all permissions of the Team permissions|<l>/island leave<br>/island team<l>|op
 ASkyBlock|askyblock.team.chat|Allow player to use team chat|<l>empty<l>|op
 ASkyBlock|askyblock.team.create|empty|<l>empty<l>|op
-ASkyBlock|askyblock.team.create|Let a player invite other players to join a team|<l>/island invite<l>|op
 ASkyBlock|askyblock.team.join|empty|<l>empty<l>|op
-ASkyBlock|askyblock.team.join|Let a player join another player's team|<l>/island accept<br>/island reject<l>|op
 ASkyBlock|askyblock.team.kick|empty|<l>empty<l>|op
-ASkyBlock|askyblock.team.kick|Let a player kick other players|<l>/island kick<l>|op
 ASkyBlock|askyblock.team.makeleader|empty|<l>empty<l>|op
-ASkyBlock|askyblock.team.makeleader|Let a player make another player leader of the team|<l>/island makeleader<l>|op
 ActionHealth|ActionHealth.Health|This will send the player the health message only if 'Use Permission' is enabled in the config.|<l>empty<l>|op
 ActionHealth|ActionHealth.Reload|Reloads config.|<l>/Actionhealth reload<l>|op
 Actionbar|actionbar.announcer.list|Allows you to list all messages of the announcer |<l>/actionbarannouncer list<l>|op
@@ -228,7 +221,6 @@ AntiAFKPlus|AntiAFKPlus.reload|Reload the AFK Plugin|<l>/antiafk reload<l>|op
 AntiAura|antiaura.bypass|Don't get kicked by any of AntiAura's checks|<l>empty<l>|op
 AntiAura|antiaura.reload|Use the /areload command|<l>/areload<l>|op
 AntiAura|antiauramessages.notify|Alerts you when someone is Cheating|<l>empty<l>|op
-AntiAuraMessages|antiauramessages.notify|Here you can change the notification permission from the plugin.|<l>empty<l>|op
 AntiBotDeluxeEX|antibotdeluxe.perform.command|Spigot Command Permission|<l>/ab<br>/antibotdeluxe<l>|op
 AntiBotDeluxeEX|antibotdeluxebungee.perform.command|BungeeCord Command Permission|<l>/ab<br>/antibotdeluxe<l>|op
 AntiPhysics|antiphysics.admin|to maintain the base Command /antiphysics|<l>empty<l>|op
@@ -609,7 +601,6 @@ BowHub|bowhub.give|Permission to give you the Bow & Arrows!|<l>empty<l>|op
 BowHub|bowhub.reload|Permission to reload the config!|<l>empty<l>|op
 BuildBattle|buildbattle.admin.addnpc|Spawn floor changer NPC at your location Requires Citizens|<l>empty<l>|op
 BuildBattle|buildbattle.admin.create|Creates new arena with specified name|<l>empty<l>|op
-BuildBattle|buildbattle.admin.create|Edits existing arena|<l>empty<l>|op
 BuildBattle|buildbattle.admin.forcestart|Force starts game you're in When theme argument is typed arena starts with predefined theme without Voting phase.|<l>empty<l>|op
 BuildBattle|buildbattle.admin.list|Prints list of available arenas|<l>empty<l>|op
 BuildBattle|buildbattle.admin.plotwand|Get plot wand for setupping arenas|<l>empty<l>|op
@@ -1458,30 +1449,19 @@ CommandDoesNotExist|cdne.list.modify|Ability to use the add and remove command (
 Confiscate|confiscate.bypass.inventory|Permission to bypass inventory scan, e.g. when they log in or change world.|<l>empty<l>|op
 Confiscate|confiscate.bypass.stacks|Permission to allow items stacked unnaturally (e.g. 64x minecarts).|<l>empty<l>|op
 Confiscate|confiscate.bypass.worldedit|Permission to bypass item limit for WorldEdit operations. Since some  operations work with thousands of items, we do not allow only certain items  to be bypassed because of the performance impact could freeze the server.|<l>empty<l>|op
-Confiscate|confiscate.bypass.worldedit|Permission to bypass item limit for WorldEdit operations. Since some operations work with thousands of items, we do not allow only certain items to be bypassed because of the performance impact could freeze the server.|<l>empty<l>|op
 Confiscate|confiscate.commands.inv|Access the /c inv command|<l>/c inv<l>|op
-Confiscate|confiscate.commands.inv|Access the /c inv command.|<l>empty<l>|op
 Confiscate|confiscate.commands.inv.armor|View armor content of other online and offline players.|<l>empty<l>|op
 Confiscate|confiscate.commands.inv.enderview|View ender chest of other online and offline players.|<l>empty<l>|op
-Confiscate|confiscate.commands.inv.enderview|View ender chest of other online and offline players.|<l>/c inv enderview<l>|op
 Confiscate|confiscate.commands.inv.view|View inventories of other online and offline players.|<l>empty<l>|op
-Confiscate|confiscate.commands.inv.view|View inventories of other online and offline players.|<l>/c inv view<l>|op
 Confiscate|confiscate.commands.inv.write|Permission to manipulate with the content of inventories or armor. Defaults to false, that means that the viewer only sees the content as it is.|<l>empty<l>|op
 Confiscate|confiscate.commands.list|Access the /c list command to browse all commands of this plugin.|<l>empty<l>|op
-Confiscate|confiscate.commands.list|Access the /c list command to browse all commands of this plugin.|<l>/c list<l>|op
 Confiscate|confiscate.commands.log|Access the /c log command.|<l>empty<l>|op
-Confiscate|confiscate.commands.log|Access the /c log command.|<l>/c log<l>|op
 Confiscate|confiscate.commands.log.browse|Browse players' log.|<l>empty<l>|op
-Confiscate|confiscate.commands.log.browse|View player's log.|<l>/c log view <l>|op
 Confiscate|confiscate.commands.log.stats|View stored log statistics.|<l>/c log stats<l>|op
 Confiscate|confiscate.commands.reload|Access the /c reload command to reload the configuration.|<l>empty<l>|op
-Confiscate|confiscate.commands.reload|Access the /c reload command to reload the configuration.|<l>/c reload<l>|op
 Confiscate|confiscate.commands.room|Access the /c room command.|<l>empty<l>|op
-Confiscate|confiscate.commands.room|Access the /c room command.|<l>/c room<l>|op
 Confiscate|confiscate.commands.room.tool|Obtain the room tool that sets room's foundation.|<l>empty<l>|op
-Confiscate|confiscate.commands.room.tool|Obtain the room tool that sets room's foundation.|<l>/c room tool<l>|op
 Confiscate|confiscate.commands.room.tp|Be teleported to the chest room.|<l>empty<l>|op
-Confiscate|confiscate.commands.room.tp|Be teleported to the chest room.|<l>/c room tp<l>|op
 Confiscate|confiscate.commands.stats|View stored log statistics.|<l>empty<l>|op
 Confiscate|confiscate.exempt.commandspy|Player will be ignored from command spy.|<l>empty<l>|op
 Confiscate|confiscate.notify.commandspy|Permission to receive alerts when a command is executed.|<l>empty<l>|op
@@ -1895,7 +1875,6 @@ Essentials|essentials.nick|Allow access to the /nick command.|<l>/nick<l>|op
 Essentials|essentials.nick.changecolors|hen a player has the preceding permission, they are only allowed to add colours to their names.|<l>/nick &5Mr_JesseZ<l>|op
 Essentials|essentials.nick.changecolors.bypass|Where if a player has the preceeding permission they are allowed to bypass the check and thus be able to change the characters of their name.|<l>empty<l>|op
 Essentials|essentials.nick.color|This allows you to color your nickname using color codes.|<l>empty<l>|op
-Essentials|essentials.nick.color|essentials.nick.changecolors requires the essentials.nick.color permission in order to use colors in the nickname.|<l>empty<l>|op
 Essentials|essentials.nick.format|This allows you to format your nickname using format codes.|<l>empty<l>|op
 Essentials|essentials.nick.magic|This allows you to use the matrix/magic color in your nickname.|<l>empty<l>|op
 Essentials|essentials.nick.others|Gives you permission to give other players a nick name|<l>empty<l>|op
@@ -2047,9 +2026,7 @@ Essentials|essentials.teleport.cooldown.bypass|Bypass the teleport cooldown|<l>e
 Essentials|essentials.teleport.timer.bypass|Bypass the teleport delay|<l>empty<l>|op
 Essentials|essentials.teleport.timer.move|Allows players to move while waiting for teleport.|<l>empty<l>|op
 Essentials|essentials.time|Allow access to the /time command.|<l>/time<l>|op
-Essentials|essentials.time|Prior to this build, players with the permissions essentials.time and essentials.time.set were able to set the time in any world, despite world-permissions provided via permission plugins. This build provides the feature of per world permissions for setting the time of a world.|<l>/time set<l>|op
 Essentials|essentials.time.set|Prior to this build, players with the permissions essentials.time and essentials.time.set were able to set the time in any world, despite world-permissions provided via permission plugins. This build provides the feature of per world permissions for setting the time of a world.|<l>/time set<l>|op
-Essentials|essentials.time.set|User is allowed to change the time of the world.|<l>empty<l>|op
 Essentials|essentials.time.world.all|Permits the user to set time of all worlds. This will override essentials.time.world.<world>|<l>empty<l>|op
 Essentials|essentials.top|Allow access to the /top command.|<l>/top<l>|op
 Essentials|essentials.tp|Allow access to the /tp command.|<l>/tp<l>|op
@@ -2075,7 +2052,6 @@ Essentials|essentials.unlimited.others|Allows the player to gift/remove another 
 Essentials|essentials.vanish|Allow access to the /vanish command.|<l>/vanish<l>|op
 Essentials|essentials.vanish.effect|People with this effect will get the potion effect applied while vanished.|<l>empty<l>|op
 Essentials|essentials.vanish.interact|Allows the player to use commands which interact with a vanished player.|<l>empty<l>|op
-Essentials|essentials.vanish.interact|Allows the user to teleport to players who are vanished.|<l>empty<l>|op
 Essentials|essentials.vanish.others|Allows you to toggle vanish on others|<l>empty<l>|op
 Essentials|essentials.vanish.pvp|Allows players who are vanished to attack other players.|<l>empty<l>|op
 Essentials|essentials.vanish.see|Allows you to see a vanished player.|<l>empty<l>|op
@@ -2248,7 +2224,6 @@ FeedBackBooks|feedbackbooks.log|Permission to receive the logs as a player|<l>em
 Fireworks|fireworks.admin|allows the player to start and stop firework shows. By default, all ops have this permission.|<l>/fireworks help<br>/fireworks start<br>/fireworks stop<br>/fireworks stopall<br>/fireworks save<br>/fireworks load<br>/fireworks remove<br>/fireworks shoot<l>|op
 Fly|fly.fly|Allow the player to use /fly.|<l>/fly<l>|op
 Fly|fly.others|Allow the player to control other players there flightmode.|<l>/fly <player><l>|op
-FlyToggle|fly.fly|Access to /fly command only for yourself|<l>/fly<l>|op
 FlyToggle|fly.item.give|Access to /giveflyitem command|<l>/giveflyitem<l>|op
 FlyToggle|fly.item.use|Ability to use the FlyItem|<l>empty<l>|op
 FlyToggle|fly.other|Access to /fly <playername> command, DEFAULT PERMISSION|<l>/fly <playername><l>|op
@@ -3030,7 +3005,6 @@ Multiverse-NetherPortals|multiverse.netherportals.link|Sets the destination worl
 Multiverse-NetherPortals|multiverse.netherportals.show|Displays all Nether Portal Links that exist.|<l>/mvnp show<br>/mvnps<br>/mvnpshow<br>/mvnp list<br>/mvnpli<br>/mvnplist<l>|op
 Multiverse-NetherPortals|multiverse.netherportals.unlink|Removes a NetherPortal world link.|<l>/mvnp unlink<br>/mvnpu<br>/mvnpunlink<l>|op
 MusicalBiomes|musicalbiomes.admin|Ability to use the /musicalbiomes command|<l>empty<l>|op
-MusicalBiomesLite|musicalbiomes.admin|Ability to use the /musicalbiomes command|<l>empty<l>|op
 MyCommand|mycommand.block.set|Launch a command by block.|<l>/mycmd-blockset<l>|op
 MyCommand|mycommand.book|Launch commands from book.|<l>/mycmd-book<l>|op
 MyCommand|mycommand.bypass|An unknown description|<l>empty<l>|op
@@ -3973,7 +3947,6 @@ TokenEnchant|tokenenchant.reload|Allows you to use /te reload|<l>empty<l>|op
 TokenEnchant|tokenenchant.remove|Allows you to use /te remove command|<l>empty<l>|op
 TokenEnchant|tokenenchant.sign.create|Allows you to create a TokenEnchant sign|<l>empty<l>|op
 TokenEnchant|tokenenchant.withdraw|Allows you to use /te withdraw command|<l>empty<l>|op
-TopTenHeads|askyblock.mod.topten|empty|<l>empty<l>|op
 TownyGUI|townygui.*|Full access to the plugin|<l>empty<l>|op
 TownyGUI|townygui.admin.reload|Reload the configs|<l>/tgui reload<l>|op
 TownyGUI|townygui.admin.version|Check your version|<l>/tgui version<l>|op
@@ -4244,7 +4217,6 @@ WorldEdit|worldedit.analysis.distr|Get the distribution of blocks in the selecti
 WorldEdit|worldedit.biome.info|Get the biome of the targeted block.|<l>/biomeinfo<l>|op
 WorldEdit|worldedit.biome.list|Gets all biomes available.|<l>/biomelist<br>/biomels<l>|op
 WorldEdit|worldedit.biome.set|Sets biome according to a formula.|<l>//generatebiome<br>//genbiome<br>//gb<l>|op
-WorldEdit|worldedit.biome.set|Sets the biome of the player's current block or region.|<l>//setbiome<l>|op
 WorldEdit|worldedit.brush.butcher|Butcher brush|<l>/brush butcher<l>|op
 WorldEdit|worldedit.brush.clipboard|Choose the clipboard brush|<l>/brush clipboard<l>|op
 WorldEdit|worldedit.brush.cylinder|Choose the cylinder brush|<l>/brush cylinder<l>|op
@@ -4911,7 +4883,6 @@ ShopGUIPlus|shopguiplus.sell.hand.all|Allows to use the /sell handall command|<l
 ShopGUIPlus|shopguiplus.sell.all|Allows to use the /sell all command|<l><l>|OP
 ShopGUIPlus|shopguiplus.shop|Allows access to the main command|<l><l>|PLAYER
 ShopGUIPlus|shopguiplus.shops.*|Allows to all shops|<l><l>|PLAYER
-AdvancedLuckPermsGUI|lpgui.admin|Admin permission to use the gui|<l><l>|OP
 GadgetsMenu|gadgetsmenu.*|empty|<l><l>|OP
 GadgetsMenu|gadgetsmenu.cosmetics.*|empty|<l><l>|OP
 GadgetsMenu|gadgetsmenu.commands.*|Let a player to use all GadgetsMenu commands.|<l><l>|OP
@@ -5573,3 +5544,421 @@ Plan|plan.advanced|empty|<l><l>|OP
 Plan|plan.staff|empty|<l><l>|OP
 Plan|plan.*|empty|<l><l>|OP
 EpicCraftingsPlus|ecraft.command.ecraft|empty|<l>ecraft<br><l>|PLAYER
+AuctionHouse|auctionhouse.reload|Enables the /auctionhouse reload command|<l><l>|NONE
+AuctionHouse|auctionhouse.use|Enables the /ah command|<l><l>|PLAYER
+AuctionHouse|auctionhouse.menu|Enables the /ah menu command|<l><l>|NONE
+AuctionHouse|auctionhouse.search|Enables the /ah search command|<l><l>|PLAYER
+AuctionHouse|auctionhouse.help|Enables the /ah help command|<l><l>|PLAYER
+AuctionHouse|auctionhouse.sell|Enables the /ah sell command|<l><l>|PLAYER
+AuctionHouse|auctionhouse.selling|Enables the /ah selling command|<l><l>|PLAYER
+AuctionHouse|auctionhouse.sold|Enables the /ah sold command|<l><l>|PLAYER
+AuctionHouse|auctionhouse.expired|Enables the /ah expired command|<l><l>|PLAYER
+AuctionHouse|auctionhouse.cancel|Enables the /ah cancel command|<l><l>|PLAYER
+AuctionHouse|auctionhouse.return|Enables the /ah return command|<l><l>|PLAYER
+AuctionHouse|auctionhouse.cancel.others|Enables cancelling other's listing|<l><l>|NONE
+FastAsyncWorldEdit|fawe.bypass.regions|empty|<l><l>|NONE
+FastAsyncWorldEdit|fawe.reload|empty|<l><l>|NONE
+HeadDatabase|headdb.phead|empty|<l>playerhead<br><l>|OP
+HeadDatabase|headdb.category.*|empty|<l><l>|PLAYER
+HeadDatabase|headdb.category.all|empty|<l><l>|NONE
+HeadDatabase|headdb.allow.buy.*|empty|<l><l>|OP
+HeadDatabase|headdb.allow.buy|empty|<l><l>|NONE
+HeadDatabase|headdb.free.all|empty|<l><l>|NONE
+HeadDatabase|headdb.online.hide|empty|<l><l>|OP
+HeadDatabase|headdb.admin.*|empty|<l><l>|NONE
+HeadDatabase|headdb.*|empty|<l><l>|NONE
+HeadDatabase|headdb.admin.showid|empty|<l><l>|OP
+HeadDatabase|headdb.admin.disabled|empty|<l><l>|NONE
+OpenInv|OpenInv.any.default|Permission for AnyContainer to default on prior to toggling.|<l><l>|NONE
+OpenInv|OpenInv.silent.default|Permission for SilentContainer to default on prior to toggling.|<l><l>|NONE
+OpenInv|OpenInv.*|Permission for all OpenInv features.|<l><l>|OP
+PlotSquared|plots.teleport.delay.bypass|empty|<l><l>|OP
+PlotSquared|plots.permpack.basicflags|empty|<l><l>|OP
+PlotSquared|plots.permpack.basicinbox|empty|<l><l>|OP
+PlotSquared|plots.permpack.wilderness|empty|<l><l>|OP
+PlotSquared|plots.permpack.basic|empty|<l><l>|OP
+PlotSquared|plots.gamemode.bypass|empty|<l><l>|OP
+PlotSquared|plots.confirm.bypass|empty|<l><l>|NONE
+PlotSquared|plotme.use|Gives default user commands|<l><l>|OP
+PlotSquared|plotme.admin|Gives default administrator commands|<l><l>|OP
+PlotSquared|plotme.use.middle|empty|<l><l>|OP
+PlotSquared|plotme.use.buy|empty|<l><l>|OP
+PlotSquared|plotme.use.sell|empty|<l><l>|OP
+PlotSquared|plotme.use.dispose|empty|<l><l>|OP
+PlotSquared|plotme.use.done|empty|<l><l>|OP
+PlotSquared|plotme.use.claim|empty|<l><l>|OP
+PlotSquared|plotme.use.auto|empty|<l><l>|OP
+PlotSquared|plotme.use.reset|empty|<l><l>|OP
+PlotSquared|plotme.use.home|empty|<l><l>|OP
+PlotSquared|plotme.use.info|empty|<l><l>|OP
+PlotSquared|plotme.use.biome|empty|<l><l>|OP
+PlotSquared|plotme.use.clear|empty|<l><l>|OP
+PlotSquared|plotme.use.list|empty|<l><l>|OP
+PlotSquared|plotme.use.add|empty|<l><l>|OP
+PlotSquared|plotme.use.deny|empty|<l><l>|OP
+PlotSquared|plotme.use.remove|empty|<l><l>|OP
+PlotSquared|plotme.use.undeny|empty|<l><l>|OP
+PlotSquared|plotme.use.protect|empty|<l><l>|OP
+PlotSquared|plotme.use.nameplot|empty|<l><l>|OP
+PlotSquared|plotme.limit.*|empty|<l><l>|OP
+PlotSquared|plotme.limit.1|empty|<l><l>|OP
+PlotSquared|plotme.limit.5|empty|<l><l>|OP
+PlotSquared|plotme.limit.10|empty|<l><l>|OP
+PlotSquared|plotme.admin.clear|empty|<l><l>|OP
+PlotSquared|plotme.admin.reset|empty|<l><l>|OP
+PlotSquared|plotme.admin.add|empty|<l><l>|OP
+PlotSquared|plotme.admin.deny|empty|<l><l>|OP
+PlotSquared|plotme.admin.remove|empty|<l><l>|OP
+PlotSquared|plotme.admin.undeny|empty|<l><l>|OP
+PlotSquared|plotme.admin.bypassdeny|empty|<l><l>|OP
+PlotSquared|plotme.admin.setowner|empty|<l><l>|OP
+PlotSquared|plotme.admin.move|empty|<l><l>|OP
+PlotSquared|plotme.admin.weanywhere|empty|<l><l>|OP
+PlotSquared|plotme.admin.list|empty|<l><l>|OP
+PlotSquared|plotme.admin.dispose|empty|<l><l>|OP
+PlotSquared|plotme.admin.done|empty|<l><l>|OP
+PlotSquared|plotme.admin.expired|empty|<l><l>|OP
+PlotSquared|plotme.admin.buildanywhere|empty|<l><l>|OP
+dynmap|dynmap.*|Gives access to all dynmap functions|<l><l>|OP
+dynmap|dynmap.purgemap|Allows /dynmap purgemap|<l><l>|OP
+dynmap|dynmap.purgeworld|Allows /dynmap purgeworld|<l><l>|OP
+dynmap|dynmap.quiet|Allows /dynmap quiet|<l><l>|PLAYER
+dynmap|dynmap.ids-for-ip|Allows /dynmap ids-for-ip|<l><l>|OP
+dynmap|dynmap.ips-for-id|Allows /dynmap ips-for-id|<l><l>|OP
+dynmap|dynmap.marker.sign|Allows creation of markers using signs|<l><l>|OP
+dynmap|dynmap.marker.addcircle|Allows /dmarker addcircle|<l><l>|OP
+dynmap|dynmap.marker.updatecircle|Allows /dmarker updatecircle|<l><l>|OP
+dynmap|dynmap.marker.listcircles|Allows /dmarker listcircles|<l><l>|OP
+dynmap|dynmap.marker.deletecircle|Allows /dmarker deletecircle|<l><l>|OP
+dynmap|dynmap.marker.getdesc|Allows /dmarker getdesc|<l><l>|OP
+dynmap|dynmap.marker.resetdesc|Allows /dmarker resetdesc|<l><l>|OP
+dynmap|dynmap.marker.appenddesc|Allows /dmarker appenddesc|<l><l>|OP
+dynmap|dynmap.marker.importdesc|Allows /dmarker importdesc|<l><l>|OP
+dynmap|dynmap.marker.getlabel|Allows /dmarker getlabel|<l><l>|OP
+dynmap|dynmap.marker.importlabel|Allows /dmarker importlabel|<l><l>|OP
+dynmap|dynmap.playermarkers.seeall|Allow all players to be seen by user on web UI|<l><l>|OP
+MMOInventory|mmoinventory.open|Allows to open your own inventory using a command.|<l><l>|NONE
+MMOInventory|mmoinventory.open.other|Allows to open another player's inventory.|<l><l>|NONE
+MMOInventory|mmoinventory.admin|Allows to use admin commands.|<l><l>|NONE
+DeluxeTags|deluxetags.gui|ability to select a tag from gui|<l><l>|OP
+DeluxeTags|deluxetags.select|ability to select a tag by command|<l><l>|OP
+DeluxeTags|deluxetags.list|ability to view own tags|<l><l>|OP
+DeluxeTags|deluxetags.list.all|ability to view all loaded tags|<l><l>|OP
+DeluxeTags|deluxetags.list.player|ability to view all loaded tags|<l><l>|OP
+DeluxeTags|deluxetags.set|ability to set a players tag|<l><l>|OP
+DeluxeTags|deluxetags.clear|ability to clear a players active tag|<l><l>|OP
+DeluxeTags|deluxetags.create|ability to create a tag by command|<l><l>|OP
+DeluxeTags|deluxetags.delete|ability to delete a tag by command|<l><l>|OP
+DeluxeTags|deluxetags.setdescription|ability to set a tags description by command|<l><l>|OP
+DeluxeTags|deluxetags.reload|ability to reload the plugin|<l><l>|OP
+PlayMoreSounds|playmoresounds.*|Gives access to all PlayMoreSounds Features.|<l><l>|OP
+PlayMoreSounds|playmoresounds.admin|Gives access to all PlayMoreSounds Admin permissions.|<l><l>|NONE
+PlayMoreSounds|playmoresounds.commands|Gives access to all PlayMoreSounds Commands.|<l><l>|NONE
+PlayMoreSounds|playmoresounds.op|Gives access to all PlayMoreSounds Features.|<l><l>|NONE
+PlayMoreSounds|playmoresounds.player|Gives access to all PlayMoreSounds Recommended player permissions.|<l><l>|PLAYER
+PlayMoreSounds|playmoresounds.setsound.*|Gives access to all PlayMoreSounds sound factory command.|<l><l>|NONE
+PlayMoreSounds|playmoresounds.region.*|Gives access to all PlayMoreSounds region interactions.|<l><l>|NONE
+PlayMoreSounds|playmoresounds.regions|Gives access to all PlayMoreSounds region interactions.|<l><l>|NONE
+PlayMoreSounds|playmoresounds.list.*|Gives access to view all PlayMoreSounds lists.|<l><l>|NONE
+PlayMoreSounds|playmoresounds.lists|Gives access to view all PlayMoreSounds lists.|<l><l>|NONE
+VoteRoulette|voteroulette.top10|empty|<l><l>|PLAYER
+VoteRoulette|voteroulette.viewstats|empty|<l><l>|PLAYER
+VoteRoulette|voteroulette.viewrewards|empty|<l><l>|PLAYER
+VoteRoulette|voteroulette.viewallawards|empty|<l><l>|NONE
+VoteRoulette|voteroulette.viewmilestones|empty|<l><l>|PLAYER
+VoteRoulette|voteroulette.votecommand|empty|<l><l>|PLAYER
+VoteRoulette|voteroulette.lastvote|empty|<l><l>|PLAYER
+VoteRoulette|voteroulette.claimall|empty|<l><l>|PLAYER
+VoteRoulette|voteroulette.viewotherstats|empty|<l><l>|NONE
+VoteRoulette|voteroulette.editstats|empty|<l><l>|NONE
+VoteRoulette|voteroulette.forcevote|empty|<l><l>|NONE
+VoteRoulette|voteroulette.forceawards|empty|<l><l>|NONE
+VoteRoulette|voteroulette.lastvoteothers|empty|<l><l>|NONE
+VoteRoulette|voteroulette.remind|empty|<l><l>|NONE
+VoteRoulette|voteroulette.wipestats|empty|<l><l>|NONE
+VoteRoulette|voteroulette.colors|empty|<l><l>|NONE
+VoteRoulette|voteroulette.createawards|empty|<l><l>|NONE
+VoteRoulette|voteroulette.deleteawards|empty|<l><l>|NONE
+VoteRoulette|voteroulette.edititems|empty|<l><l>|NONE
+VoteRoulette|voteroulette.admin|empty|<l><l>|NONE
+VoteRoulette|voteroulette.*|empty|<l><l>|OP
+Graveyards|graveyards.admin|Gives access to everything!|<l><l>|OP
+Graveyards|graveyards.reload|Gives access /gy reload!|<l><l>|OP
+Graveyards|graveyards.factions.*|Allows players to spawn at faction-specific graveyards|<l><l>|OP
+VKAutoPickup|autopickup.*|empty|<l><l>|NONE
+VKAutoPickup|autopickup.event.*|empty|<l><l>|PLAYER
+Minepacks|backpack.*|Gives access to the full Minepacks functionality.|<l><l>|OP
+Minepacks|backpack.disable|This permission group can be used to disable the plugin for certian users/groups/worlds.|<l><l>|NONE
+Minepacks|backpack.user|This permission can be used to give a user the basic backpack size and allow him to use the backpack.|<l><l>|OP
+Minepacks|backpack.userBig|This permission can be used to give a user the biggest backpack size and allow him to use the backpack.|<l><l>|OP
+Minepacks|backpack.bypass|empty|<l><l>|OP
+Minepacks|backpack.admin|empty|<l><l>|OP
+Minepacks|backpack.use|Allows a player to open the backpack.|<l><l>|NONE
+Minepacks|backpack.size.1|Mini size for a backpack, if the player has backpack permission he will also have at least a backpack with the size 1.|<l><l>|NONE
+Minepacks|backpack.size.2|2*9 backpack|<l><l>|NONE
+Minepacks|backpack.size.3|3*9 backpack|<l><l>|NONE
+Minepacks|backpack.size.4|4*9 backpack|<l><l>|NONE
+Minepacks|backpack.size.5|5*9 backpack|<l><l>|NONE
+Minepacks|backpack.size.6|6*9 backpack|<l><l>|NONE
+Minepacks|backpack.clean|Allows the player to clean their own backpack.|<l><l>|NONE
+Minepacks|backpack.fullpickup|empty|<l><l>|OP
+Minepacks|backpack.clean.other|Allows the player to clean other players backpacks.|<l><l>|OP
+Minepacks|backpack.others|Allows the player open backpacks of other players.|<l><l>|OP
+Minepacks|backpack.others.edit|Allows the player to edit backpacks of other players.|<l><l>|OP
+Minepacks|backpack.keepOnDeath|Allows the player to keep their items in their backpack on death.|<l><l>|OP
+Minepacks|backpack.noCooldown|Allows to bypass the cooldown to open the backpack.|<l><l>|OP
+Minepacks|backpack.ignoreGameMode|Allows to bypass the game-mode restriction.|<l><l>|OP
+Minepacks|backpack.ignoreWorldBlacklist|Allows to bypass the world blacklist.|<l><l>|OP
+Minepacks|backpack.update|Allows to update the plugin.|<l><l>|OP
+Minepacks|backpack.reload|Allows to reload the config.|<l><l>|OP
+Minepacks|backpack.migrate|Allows to migrate data from one format to another.|<l><l>|OP
+TreasureChestReloaded|treasurechest.admin|Grants all permissions, except for treasurechest.reload|<l><l>|OP
+TreasureChestReloaded|treasurechest.player|Grants all permissions that a regular player usually gets|<l><l>|NONE
+TreasureChestReloaded|treasurechest.set|Allows you to turn regular chests into treasure chests and set their messages. And forget time.|<l><l>|NONE
+TreasureChestReloaded|treasurechest.delete|Allows you to delete treasure chests and turn them into regular chests again.|<l><l>|NONE
+TreasureChestReloaded|treasurechest.reload|Allows you to reload the configuration files.|<l><l>|NONE
+TreasureChestReloaded|treasurechest.unlimited|Allows you to turn treasure chests into unlimited chests.|<l><l>|NONE
+TreasureChestReloaded|treasurechest.random|Allows you to turn treasure chests into random chests.|<l><l>|NONE
+TreasureChestReloaded|treasurechest.ignoreprotection|Allows you to disable/enable 3rd party protection plugins|<l><l>|NONE
+TreasureChestReloaded|treasurechest.list|Allows you to see a list of locations of all the treasures you found|<l><l>|NONE
+TreasureChestReloaded|treasurechest.list.all|Allows you to see a list of locations of all the treasures on the server|<l><l>|NONE
+TreasureChestReloaded|treasurechest.access|Allows you to access any type of treasure chest|<l><l>|NONE
+TreasureChestReloaded|treasurechest.access.treasure|Allows opening treasure chests|<l><l>|NONE
+TreasureChestReloaded|treasurechest.access.unlimited|Allows opening unlimited chests|<l><l>|NONE
+TreasureChestReloaded|treasurechest.count|Allows you to count how many chests you have found|<l><l>|NONE
+TreasureChestReloaded|treasurechest.count.others|Allows you to count how many chests you or someone else has found|<l><l>|NONE
+TreasureChestReloaded|treasurechest.forget|Allows you to make a chest forget that you have found it|<l><l>|NONE
+TreasureChestReloaded|treasurechest.forget.others|Allows you to make a chest forget that you or someone else has found it|<l><l>|NONE
+TreasureChestReloaded|treasurechest.forget.all|Allows you to make a chest forget that anybody has found it|<l><l>|NONE
+TreasureChestReloaded|treasurechest.peek|Allows you to open a treasure's real inventory.|<l><l>|NONE
+EZPrestige|ezprestige.admin|Allows access to /prestige reload|<l><l>|OP
+EZPrestige|ezprestige.canprestige|Allows access to /prestige to attempt to prestige|<l><l>|NONE
+EZRanksPro|ezranks.admin|Allows access to /ezadmin|<l><l>|OP
+EZRanksPro|ezranks.rankup|Allows access to /rankup|<l><l>|PLAYER
+EZRanksPro|ezranks.listranks|Allows access to /ranks|<l><l>|PLAYER
+EZRanksPro|ezranks.cooldown.bypass|Allows players to bypass the rankup cooldown if it is enabled|<l><l>|OP
+EZRanksPro|ezranks.autorankup|Allows access to /autorankup|<l><l>|OP
+EZRanksPro|ezranks.lastrank|Sets a player as the last rank|<l><l>|NONE
+AgarthaLib|agarthalib.admin|Gives access to everything!|<l><l>|OP
+MythicMobs|mythicmobs.admin|Gives access to everything!|<l><l>|OP
+MythicMobs|mythicmobs.reload|Gives access /mm reload!|<l><l>|OP
+MythicMobs|mythicmobs.signal|Gives access /mm signal!|<l><l>|OP
+AdventCalendar|AdventCalendar.Open.Command|empty|<l><l>|OP
+AdventCalendar|AdventCalendar.Open.Santa|empty|<l><l>|OP
+AdventCalendar|AdventCalendar.Open.ByPass|empty|<l><l>|NONE
+AdventCalendar|AdventCalendar.Claim.Interact|empty|<l><l>|OP
+AdventCalendar|AdventCalendar.Claim.Command|empty|<l><l>|OP
+AdventCalendar|AdventCalendar.Claim.ByPass|empty|<l><l>|NONE
+AdventCalendar|AdventCalendar.Admin.Settings.Open|empty|<l><l>|OP
+AdventCalendar|AdventCalendar.Admin.Settings.Edit|empty|<l><l>|OP
+AdventCalendar|AdventCalendar.Admin.Santa.Create|empty|<l><l>|OP
+AdventCalendar|AdventCalendar.Admin.Santa.Remove|empty|<l><l>|OP
+AdventCalendar|AdventCalendar.Admin.Reload.Locale|empty|<l><l>|OP
+AdventCalendar|AdventCalendar.Admin.Reload.Config|empty|<l><l>|OP
+AdventCalendar|AdventCalendar.Admin.Reload.All|empty|<l><l>|OP
+AdventCalendar|AdventCalendar.Admin.Reset.Locale|empty|<l><l>|OP
+AdventCalendar|AdventCalendar.Player|empty|<l><l>|OP
+AdventCalendar|AdventCalendar.Santa.*|empty|<l><l>|OP
+AdventCalendar|AdventCalendar.Reload.*|empty|<l><l>|OP
+AdventCalendar|AdventCalendar.Reset.*|empty|<l><l>|OP
+AdventCalendar|AdventCalendar.Admin|empty|<l><l>|OP
+SupremeShops|supremeshops.*|empty|<l><l>|OP
+SupremeShops|supremeshops.admin|empty|<l><l>|OP
+SupremeShops|supremeshops.edit.admin|empty|<l><l>|OP
+SupremeShops|supremeshops.shop.create.*|empty|<l><l>|OP
+SupremeShops|supremeshops.shop.create.block|empty|<l><l>|OP
+SupremeShops|supremeshops.shop.create.sign|empty|<l><l>|OP
+SupremeShops|supremeshops.shop.create.gui|empty|<l><l>|OP
+SupremeShops|supremeshops.shop.management.set_open|empty|<l><l>|OP
+SupremeShops|supremeshops.shop.management.set_admin_stock|empty|<l><l>|OP
+SupremeShops|supremeshops.shop.management.set_remote|empty|<l><l>|OP
+SupremeShops|supremeshops.shop.management.set_display_items|empty|<l><l>|OP
+SupremeShops|supremeshops.shop.management.set_display_name|empty|<l><l>|OP
+SupremeShops|supremeshops.shop.management.set_particle_pattern|empty|<l><l>|OP
+SupremeShops|supremeshops.shop.management.edit_managers|empty|<l><l>|OP
+SupremeShops|supremeshops.shop.management.edit_trades_limit|empty|<l><l>|OP
+SupremeShops|supremeshops.shop.management.edit_trade_conditions|empty|<l><l>|OP
+SupremeShops|supremeshops.shop.management.destroy|empty|<l><l>|OP
+SupremeShops|supremeshops.shop.management.stop_renting|empty|<l><l>|OP
+SupremeShops|supremeshops.shop.management.add_stock|empty|<l><l>|OP
+SupremeShops|supremeshops.shop.management.add_object|empty|<l><l>|OP
+SupremeShops|supremeshops.shop.management.remove_stock|empty|<l><l>|OP
+SupremeShops|supremeshops.shop.management.remove_object|empty|<l><l>|OP
+SupremeShops|supremeshops.merchant.create.*|empty|<l><l>|OP
+SupremeShops|supremeshops.merchant.create.npc|empty|<l><l>|OP
+SupremeShops|supremeshops.merchant.create.block|empty|<l><l>|OP
+SupremeShops|supremeshops.merchant.create.sign|empty|<l><l>|OP
+SupremeShops|supremeshops.merchant.management.edit_shops|empty|<l><l>|OP
+SupremeShops|supremeshops.merchant.management.edit_trades_limit|empty|<l><l>|OP
+SupremeShops|supremeshops.merchant.management.edit_interact_conditions|empty|<l><l>|OP
+SupremeShops|supremeshops.merchant.management.edit_managers|empty|<l><l>|OP
+SupremeShops|supremeshops.merchant.management.set_display_name|empty|<l><l>|OP
+SupremeShops|supremeshops.merchant.management.set_particle_pattern|empty|<l><l>|OP
+SupremeShops|supremeshops.merchant.management.set_skin|empty|<l><l>|OP
+SupremeShops|supremeshops.merchant.management.set_equipment|empty|<l><l>|OP
+SupremeShops|supremeshops.merchant.management.set_status|empty|<l><l>|OP
+SupremeShops|supremeshops.merchant.management.set_open|empty|<l><l>|OP
+SupremeShops|supremeshops.merchant.management.set_remote|empty|<l><l>|OP
+SupremeShops|supremeshops.merchant.management.stop_renting|empty|<l><l>|OP
+SupremeShops|supremeshops.merchant.management.destroy|empty|<l><l>|OP
+SupremeShops|supremeshops.merchant.management.status.*|empty|<l><l>|OP
+SupremeShops|supremeshops.create.object.*|empty|<l><l>|OP
+SupremeShops|supremeshops.create.object.commands|empty|<l><l>|OP
+SupremeShops|supremeshops.create.object.item|empty|<l><l>|OP
+SupremeShops|supremeshops.create.object.merchant|empty|<l><l>|OP
+SupremeShops|supremeshops.create.object.playerpoints_points|empty|<l><l>|OP
+SupremeShops|supremeshops.create.object.shop|empty|<l><l>|OP
+SupremeShops|supremeshops.create.object.tokenenchant_tokens|empty|<l><l>|OP
+SupremeShops|supremeshops.create.object.vault_money|empty|<l><l>|OP
+SupremeShops|supremeshops.create.object.xp_level|empty|<l><l>|OP
+SupremeShops|supremeshops.create.condition.*|empty|<l><l>|OP
+SupremeShops|supremeshops.create.condition.condition_count|empty|<l><l>|OP
+SupremeShops|supremeshops.create.condition.day_of_week|empty|<l><l>|OP
+SupremeShops|supremeshops.create.condition.game_time|empty|<l><l>|OP
+SupremeShops|supremeshops.create.condition.in_world|empty|<l><l>|OP
+SupremeShops|supremeshops.create.condition.in_worldguard_region|empty|<l><l>|OP
+SupremeShops|supremeshops.create.condition.is_admin|empty|<l><l>|OP
+SupremeShops|supremeshops.create.condition.permission|empty|<l><l>|OP
+SupremeShops|supremeshops.create.condition.placeholderapi_variable|empty|<l><l>|OP
+SupremeShops|supremeshops.create.condition.player_health|empty|<l><l>|OP
+SupremeShops|supremeshops.create.condition.player_hunger|empty|<l><l>|OP
+SupremeShops|supremeshops.create.condition.player_money|empty|<l><l>|OP
+SupremeShops|supremeshops.create.condition.playerpoints_points|empty|<l><l>|OP
+SupremeShops|supremeshops.create.condition.player_items|empty|<l><l>|OP
+SupremeShops|supremeshops.create.condition.player_xp_level|empty|<l><l>|OP
+SupremeShops|supremeshops.create.condition.shop_count|empty|<l><l>|OP
+SupremeShops|supremeshops.create.condition.shop_block_type|empty|<l><l>|OP
+SupremeShops|supremeshops.create.condition.shop_object_cound|empty|<l><l>|OP
+SupremeShops|supremeshops.create.condition.shop_type|empty|<l><l>|OP
+SupremeShops|supremeshops.create.condition.time_of_day|empty|<l><l>|OP
+SupremeShops|supremeshops.create.condition.tokenenchant_tokens|empty|<l><l>|OP
+SupremeShops|supremeshops.command.*|empty|<l><l>|OP
+SupremeShops|supremeshops.command.shop.*|empty|<l><l>|OP
+SupremeShops|supremeshops.command.shop.menu|empty|<l><l>|OP
+SupremeShops|supremeshops.command.shop.adminedit|empty|<l><l>|OP
+SupremeShops|supremeshops.command.shop.list|empty|<l><l>|OP
+SupremeShops|supremeshops.command.shop.purge|empty|<l><l>|OP
+SupremeShops|supremeshops.command.merchant.*|empty|<l><l>|OP
+SupremeShops|supremeshops.command.merchant.create|empty|<l><l>|OP
+SupremeShops|supremeshops.command.merchant.list|empty|<l><l>|OP
+SupremeShops|supremeshops.command.merchant.purge|empty|<l><l>|OP
+SupremeShops|supremeshops.command.merchant.adminedit|empty|<l><l>|OP
+SupremeShops|supremeshops.command.admingen|empty|<l><l>|OP
+SupremeShops|supremeshops.command.edit|empty|<l><l>|OP
+SupremeShops|supremeshops.command.trade|empty|<l><l>|OP
+SupremeShops|supremeshops.command.item.*|empty|<l><l>|OP
+SupremeShops|supremeshops.command.item.blacklist|empty|<l><l>|OP
+SupremeShops|supremeshops.command.item.whitelist|empty|<l><l>|OP
+SupremeShops|supremeshops.command.item.resetvalue|empty|<l><l>|OP
+CoreArena|corearena.command.join|empty|<l><l>|PLAYER
+CoreArena|corearena.command.leave|empty|<l><l>|PLAYER
+CoreArena|corearena.command.list|empty|<l><l>|PLAYER
+CoreArena|corearena.command.rewards|empty|<l><l>|PLAYER
+UltimateKits|ultimatekits.use|allows the user to preview kit|<l><l>|PLAYER
+UltimateKits|ultimatekits.admin|Gives access to admin commands.|<l><l>|OP
+MyItems|myitems.admin|Gives access to everything!|<l><l>|OP
+MythicArtifacts|mythicartifacts.admin|Gives access to everything!|<l><l>|OP
+Breaker|breaker.admin|Allows usage of all Breaker commands.|<l>breaker<br><l>|OP
+MIReplacer|mir.admin|Allows usage of all MIReplacer commands.|<l>mireplacer<br><l>|OP
+QuestCreator|questcreator.*|empty|<l><l>|OP
+QuestCreator|questcreator.admin|empty|<l><l>|OP
+QuestCreator|questcreator.gui.*|empty|<l><l>|OP
+QuestCreator|questcreator.gui.see.*|empty|<l><l>|PLAYER
+QuestCreator|questcreator.gui.see.available|empty|<l><l>|PLAYER
+QuestCreator|questcreator.gui.see.progress|empty|<l><l>|PLAYER
+QuestCreator|questcreator.gui.see.cooldown|empty|<l><l>|PLAYER
+QuestCreator|questcreator.gui.see.completed|empty|<l><l>|PLAYER
+QuestCreator|questcreator.gui.see.unavailable|empty|<l><l>|PLAYER
+QuestCreator|questcreator.gui.start|empty|<l><l>|PLAYER
+QuestCreator|questcreator.gui.stop|empty|<l><l>|PLAYER
+QuestCreator|questcreator.command.*|empty|<l><l>|OP
+QuestCreator|questcreator.command.edit|empty|<l><l>|OP
+QuestCreator|questcreator.command.list|empty|<l><l>|OP
+QuestCreator|questcreator.command.stop|empty|<l><l>|OP
+QuestCreator|questcreator.command.stopothers|empty|<l><l>|OP
+QuestCreator|questcreator.command.stopall|empty|<l><l>|OP
+QuestCreator|questcreator.command.reset|empty|<l><l>|OP
+QuestCreator|questcreator.command.reset.others|empty|<l><l>|OP
+QuestCreator|questcreator.command.reset.all|empty|<l><l>|OP
+QuestCreator|questcreator.command.goto|empty|<l><l>|OP
+QuestCreator|questcreator.command.goto.others|empty|<l><l>|OP
+QuestCreator|questcreator.command.progress|empty|<l><l>|PLAYER
+QuestCreator|questcreator.command.progress.admin|empty|<l><l>|OP
+QuestCreator|questcreator.command.progress.others|empty|<l><l>|OP
+QuestCreator|questcreator.command.scoreboard|empty|<l><l>|PLAYER
+QuestCreator|questcreator.command.journal|empty|<l><l>|PLAYER
+QuestCreator|questcreator.command.journal.reset|empty|<l><l>|OP
+QuestCreator|questcreator.command.journal.resetothers|empty|<l><l>|OP
+QuestCreator|questcreator.command.menu|empty|<l><l>|PLAYER
+QuestCreator|questcreator.command.menu.others|empty|<l><l>|OP
+QuestCreator|questcreator.command.menu.specific|empty|<l><l>|OP
+QuestCreator|questcreator.command.stats|empty|<l><l>|PLAYER
+QuestCreator|questcreator.command.stats.others|empty|<l><l>|OP
+QuestCreator|questcreator.command.start|empty|<l><l>|OP
+QuestCreator|questcreator.command.start.others|empty|<l><l>|OP
+QuantumRPG|quantumrpg.admin|Full access|<l><l>|OP
+QuantumRPG|quantumrpg.user|User access|<l><l>|PLAYER
+QuantumRPG|quantumrpg.bypass|Bypass all the plugin restrictions and requirements.|<l><l>|OP
+QuantumRPG|quantumrpg.bypass.requirement|Bypass all item player requirements.|<l><l>|OP
+QuantumRPG|quantumrpg.bypass.requirement.level|Bypass item player level requirement.|<l><l>|OP
+QuantumRPG|quantumrpg.bypass.requirement.class|Bypass item player class requirement.|<l><l>|OP
+QuantumRPG|quantumrpg.bypass.requirement.soulbound|Bypass item player soulbound requirement.|<l><l>|OP
+QuantumRPG|quantumrpg.bypass.requirement.untradeable|Bypass item untradeable requirement.|<l><l>|OP
+QuantumRPG|quantumrpg.classes|Full access to Classes module.|<l><l>|OP
+QuantumRPG|quantumrpg.classes.cmd|Full access to Classes commands.|<l><l>|OP
+QuantumRPG|quantumrpg.classes.cmd.select|Access to /class select command.|<l><l>|PLAYER
+QuantumRPG|quantumrpg.classes.cmd.skills|Access to /class skills command.|<l><l>|PLAYER
+QuantumRPG|quantumrpg.classes.cmd.stats|Access to /class stats command.|<l><l>|PLAYER
+QuantumRPG|quantumrpg.classes.cmd.aspects|Access to /class aspects command.|<l><l>|PLAYER
+QuantumRPG|quantumrpg.classes.cmd.addexp|Access to /class addexp command.|<l><l>|OP
+QuantumRPG|quantumrpg.classes.cmd.addskillpoints|Access to /class addskillpoints command.|<l><l>|OP
+QuantumRPG|quantumrpg.classes.cmd.addaspectpoints|Access to /class addaspectpoints command.|<l><l>|OP
+QuantumRPG|quantumrpg.classes.cmd.addlevel|Access to /class addlevel command.|<l><l>|OP
+QuantumRPG|quantumrpg.classes.cmd.setclass|Access to /class setclass command.|<l><l>|OP
+QuantumRPG|quantumrpg.classes.cmd.reset|Access to /class reset command.|<l><l>|OP
+QuantumRPG|quantumrpg.classes.class.*|Access to all classes.|<l><l>|OP
+QuantumRPG|quantumrpg.combatlog|Full access to Combat Log module.|<l><l>|OP
+QuantumRPG|quantumrpg.combatlog.cmd|Access to all Combat Log commands.|<l><l>|OP
+QuantumRPG|quantumrpg.combatlog.cmd.log|Access to /combatlog log command.|<l><l>|PLAYER
+QuantumRPG|quantumrpg.dismantle|Full access to the Dismantle module.|<l><l>|OP
+QuantumRPG|quantumrpg.dismantle.cmd|Access to Dismantle commands.|<l><l>|OP
+QuantumRPG|quantumrpg.dismantle.gui|Access to Dismantle GUI.|<l><l>|OP
+QuantumRPG|quantumrpg.extractor|Full access to Extractor module.|<l><l>|OP
+QuantumRPG|quantumrpg.extractor.cmd|Access to all Extractor commands.|<l><l>|OP
+QuantumRPG|quantumrpg.extractor.cmd.open|Access to /extractor open command.|<l><l>|OP
+QuantumRPG|quantumrpg.extractor.gui|Access Extractor GUI.|<l><l>|OP
+QuantumRPG|quantumrpg.fortify|Full access to Fortify module.|<l><l>|OP
+QuantumRPG|quantumrpg.fortify.cmd|Access to all Fortify commands.|<l><l>|OP
+QuantumRPG|quantumrpg.fortify.cmd.fortify|Access to /fortify fortify command.|<l><l>|OP
+QuantumRPG|quantumrpg.fortify.cmd.unfortify|Access to /fortify unfortify command.|<l><l>|OP
+QuantumRPG|quantumrpg.identify|Full access to Identify module.|<l><l>|OP
+QuantumRPG|quantumrpg.identify.cmd|Access to all Identify commands.|<l><l>|OP
+QuantumRPG|quantumrpg.identify.cmd.identify|Access to /identify identify command.|<l><l>|OP
+QuantumRPG|quantumrpg.magicdust|Full access to Magic Dust module.|<l><l>|OP
+QuantumRPG|quantumrpg.magicdust.cmd|Full access to Magic Dust commands.|<l><l>|OP
+QuantumRPG|quantumrpg.magicdust.cmd.open|Allows to use /magicdust open command.|<l><l>|OP
+QuantumRPG|quantumrpg.magicdust.gui|Allows to use Magic Dust GUI.|<l><l>|OP
+QuantumRPG|quantumrpg.party|Access to Party module.|<l><l>|PLAYER
+QuantumRPG|quantumrpg.party.cmd|Access to Party commands.|<l><l>|OP
+QuantumRPG|quantumrpg.party.cmd.chat|Access to /party chat command.|<l><l>|PLAYER
+QuantumRPG|quantumrpg.party.cmd.create|Access to /party create command.|<l><l>|PLAYER
+QuantumRPG|quantumrpg.party.cmd.disband|Access to /party disband command.|<l><l>|PLAYER
+QuantumRPG|quantumrpg.party.cmd.drop|Access to /party drop command.|<l><l>|PLAYER
+QuantumRPG|quantumrpg.party.cmd.exp|Access to /party exp command.|<l><l>|PLAYER
+QuantumRPG|quantumrpg.party.cmd.invite|Access to /party invite command.|<l><l>|PLAYER
+QuantumRPG|quantumrpg.party.cmd.join|Access to /party join command.|<l><l>|PLAYER
+QuantumRPG|quantumrpg.party.cmd.kick|Access to /party kick command.|<l><l>|PLAYER
+QuantumRPG|quantumrpg.party.cmd.leave|Access to /party leave command.|<l><l>|PLAYER
+QuantumRPG|quantumrpg.party.cmd.menu|Access to /party menu command.|<l><l>|PLAYER
+QuantumRPG|quantumrpg.party.cmd.roll|Access to /party roll command.|<l><l>|PLAYER
+QuantumRPG|quantumrpg.party.cmd.tp|Access to /party tp command.|<l><l>|PLAYER
+QuantumRPG|quantumrpg.refine|Access to Refine module.|<l><l>|OP
+QuantumRPG|quantumrpg.refine.cmd|Access to Refine commands.|<l><l>|OP
+QuantumRPG|quantumrpg.repair|Access to Repair module.|<l><l>|OP
+QuantumRPG|quantumrpg.repair.cmd|Access to Repair commands.|<l><l>|OP
+QuantumRPG|quantumrpg.repair.gui|Access to Repair GUI.|<l><l>|OP
+QuantumRPG|quantumrpg.sell|Full access to the Sell module.|<l><l>|OP
+QuantumRPG|quantumrpg.sell.cmd|Access to Sell commands.|<l><l>|OP
+QuantumRPG|quantumrpg.sell.gui|Access to Sell GUI.|<l><l>|OP
+QuantumRPG|quantumrpg.soulbound|Access to Soulbound module.|<l><l>|OP
+QuantumRPG|quantumrpg.soulbound.cmd|Access to Soulbound commands.|<l><l>|OP

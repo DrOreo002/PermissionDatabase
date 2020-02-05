@@ -14,6 +14,7 @@ import fileinput
 import signal
 import sys
 import re
+import os
 
 init() # Init the colorama
 
@@ -368,6 +369,52 @@ def check_duplicated_icon_name():
     # Close only, because we only reads the data
     f.close()
 
+def check_for_duplicated_permission():
+    print(INFO_TEXT + "Checking for duplicated permission!")
+
+    databaseFile = open("Database.txt", "r+")
+    loadedPermission = []
+
+    for line in databaseFile.readlines():
+        if line.startswith("#"): 
+            continue
+        dat = line.split("|")[1]
+        if dat in loadedPermission:
+            print(INFO_TEXT + "Found duplicated permission " + Fore.RED + dat)
+        else:
+            loadedPermission.append(dat);
+    databaseFile.close()
+
+def remove_duplicated_permission():
+    print(INFO_TEXT + "Removing for duplicated permission")
+
+    databaseFile = open("Database.txt", "r+")
+    textData = []
+    permissionData = []
+
+    for line in databaseFile.readlines():
+        if line.startswith("#"): 
+            textData.append(line)
+            continue
+        dat = line.split("|")[1]
+        if dat in permissionData:
+            print(INFO_TEXT + "Found duplicated permission " + Fore.RED + dat + Fore.RESET + " not including in cache")
+        else:
+            textData.append(line)
+            permissionData.append(dat)
+
+    # Clear file data
+    databaseFile.seek(0)
+    databaseFile.truncate(0)
+
+    databaseFile = open("Database.txt", "r+")
+
+    for line in textData:
+        databaseFile.write(line)
+
+    databaseFile.flush()
+    databaseFile.close()
+
 # Quit handler
 def handler(signum, frame):
     print(" ")
@@ -393,6 +440,14 @@ if (command.lower() == "-check-for-duplicated-icon"):
     pass
 if (command.lower() == "-check-for-duplicated-icon-name"):
     check_duplicated_icon_name()
+    found = True
+    pass
+if (command.lower() == "-check-for-duplicated-permission"):
+    check_for_duplicated_permission()
+    found = True
+    pass
+if (command.lower() == "-remove-duplicated-permission"):
+    remove_duplicated_permission()
     found = True
     pass
 if (command.lower() == "-info"):

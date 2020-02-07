@@ -5171,106 +5171,6 @@ Citizens|citizens.npc.horse|empty|<l><l>|NONE
 Citizens|citizens.npc.ignore-cost|empty|<l><l>|NONE
 Citizens|citizens.npc.info|empty|<l><l>|NONE
 Citizens|citizens.npc.leashable|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.1|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.2|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.3|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.4|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.5|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.6|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.7|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.8|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.9|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.10|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.11|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.12|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.13|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.14|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.15|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.16|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.17|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.18|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.19|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.20|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.21|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.22|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.23|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.24|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.25|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.26|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.27|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.28|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.29|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.30|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.31|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.32|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.33|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.34|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.35|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.36|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.37|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.38|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.39|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.40|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.41|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.42|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.43|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.44|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.45|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.46|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.47|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.48|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.49|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.50|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.51|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.52|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.53|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.54|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.55|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.56|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.57|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.58|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.59|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.60|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.61|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.62|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.63|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.64|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.65|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.66|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.67|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.68|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.69|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.70|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.71|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.72|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.73|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.74|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.75|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.76|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.77|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.78|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.79|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.80|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.81|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.82|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.83|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.84|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.85|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.86|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.87|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.88|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.89|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.90|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.91|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.92|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.93|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.94|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.95|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.96|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.97|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.98|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.99|empty|<l><l>|NONE
-Citizens|citizens.npc.limit.100|empty|<l><l>|NONE
 Citizens|citizens.npc.name|empty|<l><l>|NONE
 Citizens|citizens.npc.ocelot|empty|<l><l>|NONE
 Citizens|citizens.npc.path|empty|<l><l>|NONE
@@ -5962,3 +5862,1165 @@ QuantumRPG|quantumrpg.sell.cmd|Access to Sell commands.|<l><l>|OP
 QuantumRPG|quantumrpg.sell.gui|Access to Sell GUI.|<l><l>|OP
 QuantumRPG|quantumrpg.soulbound|Access to Soulbound module.|<l><l>|OP
 QuantumRPG|quantumrpg.soulbound.cmd|Access to Soulbound commands.|<l><l>|OP
+DeathSupremacy|death.admin|Allows usage of all DeathSupremacy commands.|<l>deathsupremacy<br><l>|OP
+SilkyDrops|silky.admin|Allows usage of all SilkyDrops commands.|<l>silkydrops<br><l>|OP
+BlockCommands|bcmd.admin|Allows usage of all BlockCommands commands.|<l>blockcommands<br><l>|OP
+WorldBorder|worldborder.*|Grants all WorldBorder permissions|<l><l>|OP
+WorldBorder|worldborder.bypass|Can enable bypass mode to go beyond the border|<l><l>|OP
+WorldBorder|worldborder.bypasslist|Can get list of players with border bypass enabled|<l><l>|OP
+WorldBorder|worldborder.clear|Can remove any border|<l><l>|OP
+WorldBorder|worldborder.debug|Can enable/disable debug output to console|<l><l>|OP
+WorldBorder|worldborder.delay|Can set the frequency at which the plugin checks for border crossings|<l><l>|OP
+WorldBorder|worldborder.denypearl|Can enable/disable direct cancellation of ender pearls thrown past border|<l><l>|OP
+WorldBorder|worldborder.dynmap|Can enable/disable DynMap border display integration|<l><l>|OP
+WorldBorder|worldborder.dynmapmsg|Can set the label text for borders shown in DynMap|<l><l>|OP
+WorldBorder|worldborder.fill|Can fill in (generate) any missing map chunks out to the border|<l><l>|OP
+WorldBorder|worldborder.fillautosave|Can set the world save interval for the Fill process|<l><l>|OP
+WorldBorder|worldborder.getmsg|Can view the border crossing message|<l><l>|OP
+WorldBorder|worldborder.help|Can view the command reference help pages|<l><l>|OP
+WorldBorder|worldborder.knockback|Can set the knockback distance for border crossings|<l><l>|OP
+WorldBorder|worldborder.list|Can view a list of all borders|<l><l>|OP
+WorldBorder|worldborder.portal|Can enable/disable portal redirection to be inside border|<l><l>|OP
+WorldBorder|worldborder.preventblockplace|Can prevent placement of blocks outside the border|<l><l>|OP
+WorldBorder|worldborder.preventmobspawn|Can prevent spawning of mobs outside the border|<l><l>|OP
+WorldBorder|worldborder.radius|Can set the radius of an existing border|<l><l>|OP
+WorldBorder|worldborder.reload|Can force the plugin to reload from the config file|<l><l>|OP
+WorldBorder|worldborder.remount|Can set the delay before remounting a player to their vehicle after knockback|<l><l>|OP
+WorldBorder|worldborder.set|Can set borders for any world|<l><l>|OP
+WorldBorder|worldborder.setmsg|Can set the border crossing message|<l><l>|OP
+WorldBorder|worldborder.shape|Can set the default shape (round or square) for all borders|<l><l>|OP
+WorldBorder|worldborder.trim|Can trim (remove) any excess map chunks outside of the border|<l><l>|OP
+WorldBorder|worldborder.whoosh|Can enable/disable "whoosh" knockback effect|<l><l>|OP
+WorldBorder|worldborder.wrap|Can set border crossings to wrap around to the other side of the world|<l><l>|OP
+WorldBorder|worldborder.wshape|Can set an overriding border shape for a single world|<l><l>|OP
+PluginConstructorAPI|pluginconstructorapi.*|Gives access to all PluginConstructorAPI commands|<l><l>|OP
+PlugMan|plugman.admin|Allows use of all PlugMan commands.|<l><l>|OP
+PlugMan|plugman.update|Allows the player to see the update alerts.|<l><l>|OP
+PlugMan|plugman.help|Allows use of the help command.|<l>plugman<br><l>|OP
+PlugMan|plugman.list|Allows use of the list command.|<l><l>|OP
+PlugMan|plugman.dump|Allows use of the dump command.|<l><l>|OP
+PlugMan|plugman.info|Allows use of the info command.|<l><l>|OP
+PlugMan|plugman.usage|Allows use of the usage command.|<l><l>|OP
+PlugMan|plugman.lookup|Allows use of the lookup command.|<l><l>|OP
+PlugMan|plugman.enable|Allows use of the enable command.|<l><l>|OP
+PlugMan|plugman.enable.all|Allows use of the enable all command.|<l><l>|OP
+PlugMan|plugman.disable|Allows use of the disable command.|<l><l>|OP
+PlugMan|plugman.disable.all|Allows use of the disable all command.|<l><l>|OP
+PlugMan|plugman.restart|Allows use of the restart command.|<l><l>|OP
+PlugMan|plugman.restart.all|Allows use of the restart all command.|<l><l>|OP
+PlugMan|plugman.load|Allows use of the load command.|<l><l>|OP
+PlugMan|plugman.reload|Allows use of the reload command.|<l><l>|OP
+PlugMan|plugman.unload|Allows use of the unload command.|<l><l>|OP
+PlugMan|plugman.check|Allows use of the check command.|<l><l>|OP
+PlugMan|plugman.check.all|Allows use of the check all command.|<l><l>|OP
+Holograms|holograms.create|Allows players to create holograms|<l><l>|OP
+Holograms|holograms.delete|Allows players to delete holograms|<l><l>|OP
+Holograms|holograms.list|Allows players to list holograms|<l><l>|OP
+Holograms|holograms.near|Allows players to view nearby holograms|<l><l>|OP
+Holograms|holograms.movehere|Allows players to move holograms|<l><l>|OP
+Holograms|holograms.addline|Allows players to add lines to holograms|<l><l>|OP
+Holograms|holograms.removeline|Allows players to remove lines from holograms|<l><l>|OP
+Holograms|holograms.insertline|Allows players to insert lines into holograms|<l><l>|OP
+Holograms|holograms.info|Allows players to view a holograms info|<l><l>|OP
+VoxelSniper|voxelsniper.sniper|empty|<l>u<br>uu<br>d<br>p<br>vs<br>vc<br>vh<br>vi<br>vr<br>vl<br>vir<br>v<br>b<br>btool<br><l>|OP
+VoxelSniper|voxelsniper.ignorelimitations|empty|<l><l>|OP
+VoxelSniper|voxelsniper.goto|empty|<l>goto<br><l>|OP
+VoxelSniper|voxelsniper.brush.*|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.ball|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.biome|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.blendball|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.blenddisc|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.blendvoxel|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.blendvoxeldisc|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.blob|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.blockreset|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.blockresetsurface|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.canyon|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.canyonselection|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.checkervoxeldisc|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.cleansnow|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.clonestamp|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.comet|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.copypasta|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.cylinder|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.disc|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.discface|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.dome|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.drain|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.ellipse|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.ellipsoid|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.entity|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.entityremoval|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.eraser|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.erode|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.extrude|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.filldown|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.flatocean|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.generatetree|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.heatray|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.jaggedline|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.jockey|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.lightning|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.line|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.move|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.ocean|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.overlay|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.painting|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.pull|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.punish|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.randomerode|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.regeneratechunk|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.ring|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.rot2d|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.rot2dvert|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.rot3d|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.ruler|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.scanner|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.set|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.setredstoneflip|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.setredstonerotate|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.shellball|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.shellset|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.shellvoxel|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.signoverwrite|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.snipe|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.snowcone|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.spiralstaircase|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.splatterball|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.splatterdisc|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.splatteroverlay|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.splattervoxel|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.splattervoxeldisc|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.spline|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.stamp|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.stencil|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.stencillist|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.threepointcircle|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.treesnipe|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.triangle|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.underlay|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.voltmeter|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.voxel|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.voxeldisc|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.voxeldiscface|empty|<l><l>|OP
+VoxelSniper|voxelsniper.brush.warp|empty|<l><l>|OP
+LightAPI|lightapi.updater|empty|<l><l>|NONE
+zTicketSystem|zticketsystem.new|Make a new ticket|<l><l>|OP
+zTicketSystem|zticketsystem.close|Close a ticket|<l><l>|OP
+zTicketSystem|zticketsystem.list|List all tickets|<l><l>|OP
+zTicketSystem|zticketsystem.reload|Reload the config|<l><l>|OP
+Ports|Ports.Admin|Performs administrative tasks regarding Ports.|<l><l>|OP
+EisenRadar|eisenradar.view.on|Enable viewing the radar|<l><l>|PLAYER
+EisenRadar|eisenradar.view.off|Disable viewing the radar|<l><l>|PLAYER
+EisenRadar|eisenradar.view.toggle|Toggle viewing/not viewing the radar|<l><l>|PLAYER
+EisenRadar|eisenradar.get.list|Get a list of radars|<l><l>|OP
+EisenRadar|eisenradar.get.info|Get info about the plugin's state|<l><l>|OP
+EisenRadar|eisenradar.get.trackers|Get info about the world's trackers|<l><l>|OP
+EisenRadar|eisenradar.set.settings|Modify world settings|<l><l>|OP
+EisenRadar|eisenradar.set.add|Add a radar dot|<l><l>|OP
+EisenRadar|eisenradar.set.remove|Remove a radar dot|<l><l>|OP
+EisenRadar|eisenradar.set.edit|Edit a radar dot|<l><l>|OP
+EisenRadar|eisenradar.admin.reload|Reload the plugin|<l><l>|OP
+EisenRadar|eisenradar.admin.save|Save radar maps (for worlds)|<l><l>|OP
+EisenRadar|eisenradar.command.radar|/radar|<l>radar<br><l>|PLAYER
+EisenRadar|eisenradar.command.eisenradar|/eisenradar|<l>eisenradar<br><l>|OP
+Shop|shop.use|Allows player to use all shops.|<l><l>|OP
+Shop|shop.use.sell|Allows player to use selling shops.|<l><l>|OP
+Shop|shop.use.buy|Allows player to use buying shops.|<l><l>|OP
+Shop|shop.use.barter|Allows player to use barter shops.|<l><l>|OP
+Shop|shop.use.gamble|Allows player to use gambling shops.|<l><l>|OP
+Shop|shop.create|Allows player to create all shops.|<l><l>|OP
+Shop|shop.create.sell|Allows player to create selling shops.|<l><l>|OP
+Shop|shop.create.gamble|Allows player to create gamble shops.|<l><l>|OP
+Shop|shop.create.buy|Allows player to create buying shops.|<l><l>|OP
+Shop|shop.destroy|Allows player to destroy their own shops.|<l><l>|OP
+Shop|shop.destroy.other|Allows player to destroy other player's shops.|<l><l>|OP
+Shop|shop.buildlimit.#|Restricts the number of shop a player can build to|<l><l>|OP
+Shop|shop.setdisplay|Allows player to set the display type on their shop.|<l><l>|OP
+Shop|shop.gui.teleport|Allows player to use teleport to shops by using the gui.|<l><l>|OP
+Shop|shop.operator|Allows access to operator actions.|<l><l>|OP
+Graves|graves.place|Can place a graves|<l><l>|PLAYER
+Graves|graves.open|Can open a grave|<l><l>|PLAYER
+Graves|graves.autoloot|Can Autoloot a grave|<l><l>|PLAYER
+Graves|graves.break|Can break a grave|<l><l>|PLAYER
+Graves|graves.gui|Can view graves|<l><l>|PLAYER
+Graves|graves.gui.other|Can view other peoples graves|<l><l>|OP
+Graves|graves.experience|Can store experience in graves|<l><l>|PLAYER
+Graves|graves.teleport|Can teleport to grave|<l><l>|PLAYER
+Graves|graves.bypass|Bypass grave protection|<l><l>|OP
+Graves|graves.givetoken|Give a grave token|<l><l>|OP
+Graves|graves.reload|Reload Graves|<l><l>|OP
+Graves|graves.cleanup|Cleanup holograms|<l><l>|OP
+BigDoors|bigdoors.*|Gives access to all BigDoors commands.|<l><l>|OP
+BigDoors|bigdoors.user.*|Gives the user access to all user-level commands of this plugin.|<l><l>|OP
+BigDoors|bigdoors.admin.*|Gives the user access to all admin-level commands of this plugin.|<l><l>|OP
+BigDoors|bigdoors.admin.bypass.*|Gives the user access to door attributes (toggle, delete, etc) of doors they do not own.|<l><l>|OP
+BigDoors|bigdoors.user.createdoor.*|Allows a user to create all door types.|<l><l>|OP
+BigDoors|bigdoors.user|Gives access to basic commands required for basic usage.|<l>bigdoors<br>namedoor<br>setdoorrotation<br>bdcancel<br>newdoor<br><l>|PLAYER
+BigDoors|bigdoors.user.gui|Gives access to BigDoor's GUI and other basic commands required for basic usage.|<l>bdm<br><l>|PLAYER
+BigDoors|bigdoors.user.addowner|Allows a player to add additional owners to a door.|<l><l>|PLAYER
+BigDoors|bigdoors.user.deletedoor|Allows a user to delete a door they own.|<l>deldoor<br><l>|PLAYER
+BigDoors|bigdoors.user.doorinfo|Allows a user to retrieve the information of a door.|<l>doorinfo<br><l>|PLAYER
+BigDoors|bigdoors.user.inspectpowerblock|Allows the player to find out which doors are attached to a given power block.|<l>inspectpowerblockloc<br><l>|PLAYER
+BigDoors|bigdoors.user.relocatepowerblock|Allows the player to relocate a power block.|<l>changepowerblockloc<br><l>|PLAYER
+BigDoors|bigdoors.user.listdoors|Allows a player to retrieve a list of all the doors they own.|<l>listdoors<br><l>|PLAYER
+BigDoors|bigdoors.user.removeowner|Allows the user to remove another owner from a door if their permission lever is higher than theirs.|<l><l>|PLAYER
+BigDoors|bigdoors.user.setautoclosetime|Allows a user to change the auto close timer of a door.|<l><l>|PLAYER
+BigDoors|bigdoors.user.setblockstomove|Allows a user to specify the number of blocks a door will try to move.|<l>setblockstomove<br><l>|PLAYER
+BigDoors|bigdoors.user.opendoor|Allows a user to open, close, or toggle a door that they own.|<l><l>|PLAYER
+BigDoors|bigdoors.admin.filldoor|Allows a user to fill in a door with stone blocks, regardless of whether they are allowed to build there or if there is already something there.|<l><l>|OP
+BigDoors|bigdoors.admin.listplayerdoors|Allows a user to list all doors owned by another player.|<l><l>|OP
+BigDoors|bigdoors.admin.restart|Allows a user to restart this plugin.|<l><l>|OP
+BigDoors|bigdoors.admin.stopdoors|Allows a user to abort the animation of all doors that are currently active.|<l>stopdoors<br><l>|OP
+BigDoors|bigdoors.admin.pausedoors|Allows a user to pause the animation of all doors that are currently active until the command is used again.|<l>pausedoors<br><l>|OP
+BigDoors|bigdoors.admin.version|Allows a user to retrieve the version of this plugin.|<l><l>|OP
+BigDoors|bigdoors.admin.bypasscompat|Allows doors opened/owner by this player to be owned regardless of whether they are allowed to destroy blocks in the region.|<l><l>|OP
+BigDoors|bigdoors.admin.unlockdoor|Forcefully unlocks a door not owned by you.|<l><l>|OP
+BigDoors|bigdoorsdebug.isweariampim16aap2|Do not use this!|<l>doordebug<br><l>|OP
+BigDoors|bigdoors.admin.bypass.lock|Allows a user to (un)lock a door not owned by them.|<l><l>|NONE
+BigDoors|bigdoors.admin.bypass.toggle|Allows a user to toggle a door not owned by them.|<l><l>|NONE
+BigDoors|bigdoors.admin.bypass.info|Allows a user to retrieve door info of a door not owned by them.|<l><l>|NONE
+BigDoors|bigdoors.admin.bypass.delete|Allows a user to (un)lock a door not owned by them.|<l><l>|NONE
+BigDoors|bigdoors.admin.bypass.relocatepowerblock|Allows a user to relocate the power block of a door not owned by them.|<l><l>|NONE
+BigDoors|bigdoors.admin.bypass.changetime|Allows a user to change the autoclosetimer of a door not owned by them.|<l><l>|NONE
+BigDoors|bigdoors.admin.bypass.blockstomove|Allows a user to change the number of blocks a door not owned by them will move.|<l><l>|NONE
+BigDoors|bigdoors.admin.bypass.direction|Allows a user to change the open direction of a door not owned by them.|<l><l>|NONE
+BigDoors|bigdoors.admin.bypass.addowner|Allows a user to add owners to a door not owned by them.|<l><l>|NONE
+BigDoors|bigdoors.admin.bypass.removeowner|Allows a user to remove owners from a door not owned by them.|<l><l>|NONE
+DeluxeChat|deluxechat.*|ability to use all commands|<l><l>|OP
+DeluxeChat|deluxechat.admin|ability to use all commands|<l><l>|OP
+DeluxeChat|deluxechat.color|ability to use color codes in chat|<l><l>|OP
+DeluxeChat|deluxechat.formatting|ability to use formatting codes in chat|<l><l>|OP
+DeluxeChat|deluxechat.utf|ability to use special utf characters in chat|<l><l>|OP
+DeluxeChat|deluxechat.filter.bypass|ability to bypass the chat filter if enabled|<l><l>|OP
+DeluxeChat|deluxechat.vanish.bypass|ability to bypass sending messages to vanished players|<l><l>|OP
+DeluxeChat|deluxechat.ignore.bypass|ability to bypass sending messages to ignored players|<l><l>|OP
+DeluxeChat|deluxechat.url|ability to send clickable links in chat|<l><l>|OP
+DeluxeChat|deluxechat.bungee.chat|ability to chat globally if bungee is enabled|<l><l>|OP
+DeluxeChat|deluxechat.bungee.toggle|ability to toggle chatting globally if bungee is enabled|<l><l>|OP
+DeluxeChat|deluxechat.bungee.override|always send to all players when in global chat even if player is in server only chat|<l><l>|OP
+DeluxeChat|deluxechat.pm|ability to send private messages with /msg or /reply|<l><l>|OP
+DeluxeChat|deluxechat.pm.color|ability to use color codes in private messages|<l><l>|OP
+DeluxeChat|deluxechat.pm.formatting|ability to use formatting codes in private messages|<l><l>|OP
+DeluxeChat|deluxechat.pm.url|ability to send url links in private message|<l><l>|OP
+DeluxeChat|deluxechat.pm.toggle|ability to toggle private messages on or off with /msgtoggle|<l><l>|OP
+DeluxeChat|deluxechat.pm.ignoretoggle|ability to send private messages to any player regardless if they have pm toggled off or not|<l><l>|OP
+DeluxeChat|deluxechat.socialspy|ability to spy on private messages|<l><l>|OP
+DeluxeChat|deluxechat.socialspy.onjoin|will toggle socialspy on when the player joins|<l><l>|OP
+ShowItem|showitem.chat|Gives permission to use the chat variable|<l><l>|PLAYER
+ShowItem|showitem.chat.slot|Gives permission to use the chat variable with a slot|<l><l>|PLAYER
+ShowItem|showitem.chat.spam|Gives permission to bypass the spawm protection|<l><l>|OP
+ShowItem|showitem.command|Gives permission to the plugin command|<l><l>|PLAYER
+ShowItem|showitem.command.slot|Gives permission to show an item in a slot|<l><l>|PLAYER
+ShowItem|showitem.command.player|Gives permission to show an item to a specific player wherever he is|<l><l>|PLAYER
+ShowItem|showitem.command.radius|Gives permission to show an item in a radius you give|<l><l>|OP
+ShowItem|showitem.command.world|Gives permission to show an item to all players in his current world|<l><l>|OP
+ShowItem|showitem.command.all|Gives permission to show an item to all online players|<l><l>|OP
+ShowItem|showitem.command.reload|Gives permission to use the reload command|<l><l>|OP
+ShowItem|showitem.command.debug|Gives permission to use the debug command|<l><l>|OP
+ShowItem|showitem.helpclick|Gives permission to use the help click functionality in the inventory|<l><l>|PLAYER
+ShowItem|showitem.cooldownexempt|Gives permission to bypass the command cooldowns|<l><l>|OP
+ShowItem|showitem.blockbypass|Gives permission to bypass all item blocks|<l><l>|OP
+CitizensText|citizenstext.*|Give access to all CitizensText commands|<l><l>|OP
+CitizensText|citizenstext.command|Give access to text command|<l>text<br><l>|OP
+CitizensText|citizenstext.add|Can add a message|<l><l>|OP
+CitizensText|citizenstext.remove|Can delete a message|<l><l>|OP
+CitizensText|citizenstext.cmd|Can add/remove a command for a message|<l><l>|OP
+CitizensText|citizenstext.clear|Can clear all messages|<l><l>|OP
+CitizensText|citizenstext.sound|Can set sounds to messages|<l><l>|OP
+CitizensText|citizenstext.name|Can set the custom name of the NPC|<l><l>|OP
+CitizensText|citizenstext.repeat|Can toggle repeat mode|<l><l>|OP
+CitizensText|citizenstext.convert|Can convert text from default text editor|<l><l>|OP
+CitizensText|citizenstext.random|Can toggle random mode|<l><l>|OP
+CitizensText|citizenstext.list|Can list all messages|<l><l>|OP
+CitizensText|citizenstext.delete|Can delete text instance|<l><l>|OP
+CitizensText|citizenstext.reload|Can reload the configuration|<l><l>|OP
+CitizensText|citizenstext.save|Can save the configuration|<l><l>|OP
+NPCAuctions|npcauctions.*|Gives access to all NPCAuction commands|<l><l>|OP
+NPCAuctions|npcauctions.auctionlimit.1|limits the auction to 1|<l><l>|OP
+NPCAuctions|npcauctions.default|Gives access to all PixelPrinter commands|<l><l>|PLAYER
+Cartographer2|cartographer.admin|Get all permissions for Cartographer2|<l><l>|OP
+Cartographer2|cartographer.reload|Reload the plugin's configs|<l><l>|NONE
+Cartographer2|cartographer|Access to the cartographer comand|<l>cartographer<br><l>|NONE
+Cartographer2|cartographer.map.admin|Get all map related permissions|<l><l>|NONE
+Cartographer2|cartographer.map.list|List the active minimaps|<l><l>|NONE
+Cartographer2|cartographer.map.reload|Reload minimaps|<l><l>|NONE
+Cartographer2|cartographer.map.unload|Unload a minimap|<l><l>|NONE
+Cartographer2|cartographer.map.load|Load a minimap|<l><l>|NONE
+Cartographer2|cartographer.map.give|Give a minimap to another player|<l><l>|NONE
+Cartographer2|cartographer.map.get|Get a minimap for yourself|<l><l>|NONE
+Cartographer2|cartographer.map.create|Create a minimap|<l><l>|NONE
+Cartographer2|cartographer.map.delete|Delete a minimap|<l><l>|NONE
+Cartographer2|cartographer.map|Access to map commands|<l><l>|NONE
+Cartographer2|cartographer.module.admin|Manage Cartographer2 modules|<l><l>|NONE
+Cartographer2|cartographer.module.list|View all modules|<l><l>|NONE
+Cartographer2|cartographer.module.reload|Reload all modules|<l><l>|NONE
+Cartographer2|cartographer.module.load|Load module files|<l><l>|NONE
+Cartographer2|cartographer.module.unload|Unload modules|<l><l>|NONE
+Cartographer2|cartographer.module.enable|Enable modules|<l><l>|NONE
+Cartographer2|cartographer.module.disable|Disable modules|<l><l>|NONE
+Cartographer2|cartographer.module|Access to the module command|<l><l>|NONE
+Cartographer2|cartographer.settings.admin|Manage player settings|<l><l>|NONE
+Cartographer2|cartographer.settings.user|Manage own settings|<l><l>|PLAYER
+Cartographer2|cartographer.settings.setother.rotate|Set whether a player's rotating minimaps are on|<l><l>|NONE
+Cartographer2|cartographer.settings.getother.rotate|Get whether a player's rotating minimaps are on|<l><l>|NONE
+Cartographer2|cartographer.settings.set.rotate|Get whether rotating minimaps are on|<l><l>|NONE
+Cartographer2|cartographer.settings.get.rotate|Set whether rotating minimaps are on|<l><l>|NONE
+Cartographer2|cartographer.settings.setother.cursor|Set whether a player's cursor is on|<l><l>|NONE
+Cartographer2|cartographer.settings.getother.cursor|Get whether a player's cursor is on|<l><l>|NONE
+Cartographer2|cartographer.settings.set.cursor|Get whether the cursor is on|<l><l>|NONE
+Cartographer2|cartographer.settings.get.cursor|Set whether the cursor is on|<l><l>|NONE
+Cartographer2|cartographer.settings.setother.showname|Set whether a player's cursor is on|<l><l>|NONE
+Cartographer2|cartographer.settings.getother.showname|Get whether a player's cursor is on|<l><l>|NONE
+Cartographer2|cartographer.settings.set.showname|Get whether the cursor is on|<l><l>|NONE
+Cartographer2|cartographer.settings.get.showname|Set whether the cursor is on|<l><l>|NONE
+Cartographer2|cartographer.settings.set|Set an option|<l><l>|NONE
+Cartographer2|cartographer.settings.get|Get an option|<l><l>|NONE
+Cartographer2|cartographer.settings.setother|Set another player's options|<l><l>|NONE
+Cartographer2|cartographer.settings.getother|Get another player's options|<l><l>|NONE
+Cartographer2|cartographer.settings|Access to the settings command|<l><l>|OP
+RPGInventory|rpginventory.admin|Gives access to all RPGInventory commands|<l><l>|OP
+RPGInventory|rpginventory.user|Gives access to all user commands|<l><l>|PLAYER
+RPGInventory|rpginventory.container|Allows you to open containers|<l><l>|OP
+RPGInventory|rpginventory.open|Allows you to open inventory by command|<l><l>|PLAYER
+RPGInventory|rpginventory.open.others|Allows you to open your or other player's inventory by command|<l><l>|OP
+RPGInventory|rpginventory.keep.items|Player with this permission will not lose any items on dead|<l><l>|OP
+RPGInventory|rpginventory.keep.armor|Player with this permission will not lose armor on dead|<l><l>|OP
+RPGInventory|rpginventory.keep.rpginv|Player with this permission will not lose items from RPGInventory on dead|<l><l>|OP
+RPGInventory|rpginventory.fixhp|Allows you to fix corrupted hp|<l><l>|PLAYER
+RPGInventory|rpginventory.fixhp.others|Allows you to fix corrupted hp for you or other players|<l><l>|OP
+ClueScrolls|cluescroll.user|Default user permissions|<l><l>|PLAYER
+ClueScrolls|cluescroll.admin|Default admin permissions|<l><l>|OP
+ClueScrolls|cluescrolls.command.*|empty|<l><l>|OP
+ClueScrolls|cluescrolls.command.help|empty|<l><l>|OP
+ClueScrolls|cluescrolls.command.give|empty|<l><l>|OP
+ClueScrolls|cluescrolls.command.give.others|empty|<l><l>|OP
+ClueScrolls|cluescrolls.command.reload|empty|<l><l>|OP
+ClueScrolls|cluescrolls.command.rehook|empty|<l><l>|OP
+ClueScrolls|cluescrolls.command.additem|empty|<l><l>|OP
+ClueScrolls|cluescrolls.command.addcommand|empty|<l><l>|OP
+ClueScrolls|cluescrolls.command.removereward|empty|<l><l>|OP
+ClueScrolls|cluescrolls.command.listrewards|empty|<l><l>|OP
+ClueScrolls|cluescrolls.command.openinv|empty|<l><l>|PLAYER
+ClueScrolls|cluescrolls.command.rewardinfo|empty|<l><l>|OP
+ClueScrolls|cluescrolls.command.giveall|empty|<l><l>|OP
+ClueScrolls|cluescrolls.command.getreward|empty|<l><l>|OP
+ClueScrolls|cluescrolls.command.editreward|empty|<l><l>|OP
+ClueScrolls|cluescrolls.command.editor|empty|<l><l>|OP
+ClueScrolls|cluescrolls.command.customtrigger|empty|<l><l>|OP
+ClueScrolls|cluescrolls.command.resetcooldown|empty|<l><l>|OP
+ClueScrolls|cluescrolls.checkforupdates|empty|<l><l>|NONE
+Denizen|denizen.*|Gives access to Denizen commands|<l><l>|OP
+Denizen|denizen.npc.*|Gives access to the /npc commands added by Denizen|<l><l>|OP
+Guilds|guilds.group.member|empty|<l><l>|PLAYER
+Guilds|guilds.group.admin|empty|<l><l>|OP
+GriefPrevention|griefprevention.admin.*|Grants all administrative functionality.|<l><l>|OP
+GriefPrevention|griefprevention.givepet|Grants permission to use /GivePet.|<l>givepet<br><l>|PLAYER
+GriefPrevention|griefprevention.siege|Grants permission to use /Siege.|<l>siege<br><l>|PLAYER
+GriefPrevention|griefprevention.unlockdrops|Grants permission to use /UnlockDrops.|<l>unlockdrops<br><l>|PLAYER
+GriefPrevention|griefprevention.unlockothersdrops|Grants permission to use /UnlockDrops for other players.|<l><l>|OP
+GriefPrevention|griefprevention.trapped|Grants permission to use /Trapped.|<l>trapped<br><l>|PLAYER
+GriefPrevention|griefprevention.deleteclaimsinworld|Not used.  DeleteClaimsInWorld must be executed at the server console.|<l>deleteclaimsinworld<br>deleteuserclaimsinworld<br><l>|OP
+GriefPrevention|griefprevention.deathblow|Grants access to /DeathBlow.|<l><l>|OP
+GriefPrevention|griefprevention.reload|Grants access to /gpreload.|<l>gpreload<br><l>|OP
+GriefPrevention|griefprevention.softmute|Grants access to /SoftMute.|<l>softmute<br><l>|OP
+GriefPrevention|griefprevention.buysellclaimblocks|Grants access to claim block buy/sell commands.|<l>buyclaimblocks<br>sellclaimblocks<br><l>|PLAYER
+GriefPrevention|griefprevention.gpblockinfo|Grants access to /GPBlockInfo.|<l>gpblockinfo<br><l>|OP
+GriefPrevention|griefprevention.separate|Grants access to /Separate and /UnSeparate.|<l>separate<br>unseparate<br><l>|OP
+GriefPrevention|griefprevention.ignore|Grants access to /Ignore, /Unignore, and /IgnoreList|<l>ignoreplayer<br>unignoreplayer<br>ignoredplayerlist<br><l>|PLAYER
+GriefPrevention|griefprevention.claimbook|Grants access to /ClaimBook.|<l>claimbook<br><l>|OP
+GriefPrevention|griefprevention.eavesdropimmune|Players with this permission can't have their private messages eavesdropped.|<l><l>|OP
+GriefPrevention|griefprevention.fasteraccrual|Players with this permission accrue claim blocks at the faster rate specified in the config file.|<l><l>|NONE
+GriefPrevention|griefprevention.fastestaccrual|Players with this permission accrue claim blocks at the fastest rate specified in the config file.|<l><l>|NONE
+GriefPrevention|griefprevention.moreaccrued|Players with this permission can accrue more claim blocks (limit specified in the config file).|<l><l>|NONE
+GriefPrevention|griefprevention.mostaccrued|Players with this permission can accrue more claim blocks (limit specified in the config file).|<l><l>|NONE
+GriefPrevention|griefprevention.siegeteleport|Players with this permission can teleport into and out of besieged areas.|<l><l>|OP
+SuperVanish|sv.*|Grants you all SuperVanish permissions|<l><l>|OP
+SuperVanish|supervanish.*|Grants you all SuperVanish permissions|<l><l>|OP
+SuperVanish|sv.notoggle|Other players cannot hide/show you if you're online|<l><l>|OP
+SuperVanish|sv.keepfly|You can always keep flying when you reappear|<l><l>|OP
+SuperVanish|sv.joinvanished|You always join vanished (must be enabled in config)|<l><l>|OP
+ArmoredElytra|armoredelytra.wear.leather|Allow the player to wear leather tier armored elytras.|<l><l>|OP
+ArmoredElytra|armoredelytra.wear.gold|Allow the player to wear gold tier armored elytras.|<l><l>|OP
+ArmoredElytra|armoredelytra.wear.chain|Allow the player to wear chain tier armored elytras.|<l><l>|OP
+ArmoredElytra|armoredelytra.wear.iron|Allow the player to wear iron tier armored elytras.|<l><l>|OP
+ArmoredElytra|armoredelytra.wear.diamond|Allow the player to wear diamond tier armored elytras.|<l><l>|OP
+ArmoredElytra|armoredelytra.craft.leather|Allow the player to craft leather tier armored elytras.|<l><l>|OP
+ArmoredElytra|armoredelytra.craft.gold|Allow the player to craft gold tier armored elytras.|<l><l>|OP
+ArmoredElytra|armoredelytra.craft.chain|Allow the player to craft chain tier armored elytras.|<l><l>|OP
+ArmoredElytra|armoredelytra.craft.iron|Allow the player to craft iron tier armored elytras.|<l><l>|OP
+ArmoredElytra|armoredelytra.craft.diamond|Allow the player to craft diamond tier armored elytras.|<l><l>|OP
+ArmoredElytra|armoredelytra.give.leather|Allow the player to spawn in leather tier armored elytras.|<l><l>|OP
+ArmoredElytra|armoredelytra.give.gold|Allow the player to spawn in gold tier armored elytras.|<l><l>|OP
+ArmoredElytra|armoredelytra.give.chain|Allow the player to spawn in chain tier armored elytras.|<l><l>|OP
+ArmoredElytra|armoredelytra.give.iron|Allow the player to spawn in iron tier armored elytras.|<l><l>|OP
+ArmoredElytra|armoredelytra.give.diamond|Allow the player to spawn in diamond tier armored elytras.|<l><l>|OP
+ArmoredElytra|armoredElytra.admin|Receive a message if this plugin is out of date when joining the server.|<l><l>|OP
+PureTickets|tickets.user|permission for players to use the plugin|<l><l>|OP
+PureTickets|tickets.staff|permission for utility.staff to manage tickets|<l><l>|OP
+TreeGravity|tg.operator|Allows player to use /tgc and /tgd.|<l>tgd<br>tgconfig<br><l>|OP
+TreeGravity|tg.user|Allows player to use /tg and fell trees.|<l>treegravity<br><l>|OP
+ToDoList|todo.use|Allows the use of the /todo command|<l><l>|OP
+SinglePlayerSleep|sps.hermits|Allows one player to change the time to day when using a bed. Without clearing local difficulty.|<l><l>|PLAYER
+SinglePlayerSleep|sps.unrestricted|Allows the player to sleep uninterrupted. Other players will not be able to cancel it.|<l><l>|NONE
+SinglePlayerSleep|sps.downfall|Clears Downfall upon SPS sleep.|<l><l>|PLAYER
+SinglePlayerSleep|sps.thunder|Clears Thunderstorm upon SPS sleep|<l><l>|PLAYER
+SinglePlayerSleep|sps.cancel|Allows canceling Single Player Sleep.|<l><l>|PLAYER
+SinglePlayerSleep|sps.command|Allows player to use the /sleep command, instead of a bed.|<l><l>|OP
+SinglePlayerSleep|sps.update|Allows the player to check for updates.|<l><l>|OP
+SinglePlayerSleep|sps.op|Overrides all permissions.|<l><l>|NONE
+SinglePlayerSleep|sps.showUpdateAvailable|Shows player that there is a version update.|<l><l>|NONE
+SinglePlayerSleep|sps.dayskipper|Allows one player to change the time to night when using a bed. Without clearing local difficulty.|<l><l>|NONE
+SinglePlayerSleep|sps.dayskipcommand|Allows player to use the /dayskip command, instead of a bed.|<l><l>|OP
+PhantomSMP|phantomsmp.disallowspawn|Don't let phantom spawn on the player.|<l><l>|NONE
+PhantomSMP|phantomsmp.ignore|Don't let phantoms target the player. This will ignore `remove-targeting-rested` configuration option for the player and keep the phantom flying around as if nothing happened.|<l><l>|NONE
+mcMMO|mcmmo.*|Implies all mcmmo permissions.|<l><l>|NONE
+mcMMO|mcmmo.all|Implies all mcmmo permissions.|<l><l>|NONE
+mcMMO|mcmmo.ability.*|Implies all mcmmo.ability permissions.|<l><l>|NONE
+mcMMO|mcmmo.ability.all|Implies all mcmmo.ability permissions.|<l><l>|NONE
+mcMMO|mcmmo.ability.acrobatics.*|Allows access to all Acrobatics abilities|<l><l>|NONE
+mcMMO|mcmmo.ability.acrobatics.all|Allows access to all Acrobatics abilities|<l><l>|OP
+mcMMO|mcmmo.ability.acrobatics.dodge|Allows access to the Dodge ability|<l><l>|OP
+mcMMO|mcmmo.ability.acrobatics.roll|Allows access to the Roll ability|<l><l>|OP
+mcMMO|mcmmo.ability.alchemy.*|Allows access to all Alchemy abilities|<l><l>|NONE
+mcMMO|mcmmo.ability.alchemy.all|Allows access to all Alchemy abilities|<l><l>|OP
+mcMMO|mcmmo.ability.alchemy.catalysis|Allows access to the Catalysis ability|<l><l>|OP
+mcMMO|mcmmo.ability.alchemy.concoctions|Allows access to the Concoctions ability|<l><l>|OP
+mcMMO|mcmmo.ability.archery.*|Allows access to all Archery abilities|<l><l>|NONE
+mcMMO|mcmmo.ability.archery.all|Allows access to all Archery abilities|<l><l>|OP
+mcMMO|mcmmo.ability.archery.archerylimitbreak|Adds damage to bows and crossbows|<l><l>|OP
+mcMMO|mcmmo.ability.archery.skillshot|Allows bonus damage from the Archery SkillShot ability|<l><l>|OP
+mcMMO|mcmmo.ability.archery.daze|Allows access to the Daze ability|<l><l>|OP
+mcMMO|mcmmo.ability.archery.arrowretrieval|Allows tracking & retrieval of arrows|<l><l>|OP
+mcMMO|mcmmo.ability.axes.*|Allows access to all Axes abilities|<l><l>|NONE
+mcMMO|mcmmo.ability.axes.all|Allows access to all Axes abilities|<l><l>|OP
+mcMMO|mcmmo.ability.axes.axeslimitbreak|Adds damage to axes|<l><l>|OP
+mcMMO|mcmmo.ability.axes.axemastery|Allows bonus damage from Axes|<l><l>|OP
+mcMMO|mcmmo.ability.axes.criticalhit|Allows access to the Critical Hit ability|<l><l>|OP
+mcMMO|mcmmo.ability.axes.greaterimpact|Allows access to the Greater Impact ability|<l><l>|OP
+mcMMO|mcmmo.ability.axes.armorimpact|Allows access to the Impact ability|<l><l>|OP
+mcMMO|mcmmo.ability.axes.skullsplitter|Allows access to the Skull Splitter ability|<l><l>|OP
+mcMMO|mcmmo.ability.excavation.*|Allows access to all Excavation abilities|<l><l>|NONE
+mcMMO|mcmmo.ability.excavation.all|Allows access to all Excavation abilities|<l><l>|OP
+mcMMO|mcmmo.ability.excavation.gigadrillbreaker|Allows access to the Giga Drill Breaker ability|<l><l>|OP
+mcMMO|mcmmo.ability.excavation.archaeology|Allows treasure drops from Excavation|<l><l>|OP
+mcMMO|mcmmo.ability.fishing.*|Allows access to all Fishing abilities|<l><l>|NONE
+mcMMO|mcmmo.ability.fishing.all|Allows access to all Fishing abilities|<l><l>|OP
+mcMMO|mcmmo.ability.fishing.fishermansdiet|Allows access to the Fishermans's Diet ability|<l><l>|OP
+mcMMO|mcmmo.ability.fishing.icefishing|Allows access to the Ice Fishing ability|<l><l>|OP
+mcMMO|mcmmo.ability.fishing.magichunter|Allows enchanted drops from Fishing|<l><l>|OP
+mcMMO|mcmmo.ability.fishing.masterangler|Allows access to the Master Angler ability|<l><l>|OP
+mcMMO|mcmmo.ability.fishing.shake|Allows access to the Shake Mob ability|<l><l>|OP
+mcMMO|mcmmo.ability.fishing.treasurehunter|Allows treasure drops from Fishing|<l><l>|OP
+mcMMO|mcmmo.ability.fishing.vanillaxpboost|Allows vanilla XP boost from Fishing|<l><l>|OP
+mcMMO|mcmmo.ability.herbalism.*|Allows access to all Herbalism abilities|<l><l>|NONE
+mcMMO|mcmmo.ability.herbalism.all|Allows access to all Herbalism abilities|<l><l>|OP
+mcMMO|mcmmo.ability.herbalism.doubledrops|Allows double drop chance from Herbalism|<l><l>|OP
+mcMMO|mcmmo.ability.herbalism.farmersdiet|Allows access to the Farmer's Diet ability|<l><l>|OP
+mcMMO|mcmmo.ability.herbalism.greenterra|Allows access to the Green Terra ability|<l><l>|OP
+mcMMO|mcmmo.ability.herbalism.greenthumb.*|Allows access to all Green Thumb abilities|<l><l>|NONE
+mcMMO|mcmmo.ability.herbalism.greenthumb.all|Allows access to all Green Thumb abilities for blocks|<l><l>|OP
+mcMMO|mcmmo.ability.herbalism.greenthumb.blocks.*|Allows access to all Green Thumb abilities for blocks|<l><l>|NONE
+mcMMO|mcmmo.ability.herbalism.greenthumb.blocks.all|Allows access to all Green Thumb abilities for blocks|<l><l>|OP
+mcMMO|mcmmo.ability.herbalism.greenthumb.blocks.cobblestone|Allows access to the Green Thumb ability for cobblestone|<l><l>|OP
+mcMMO|mcmmo.ability.herbalism.greenthumb.blocks.cobblestone_wall|Allows access to the Green Thumb ability for cobblestone walls|<l><l>|OP
+mcMMO|mcmmo.ability.herbalism.greenthumb.blocks.dirt|Allows access to the Green Thumb ability for dirt|<l><l>|OP
+mcMMO|mcmmo.ability.herbalism.greenthumb.blocks.grasspath|Allows access to the Green Thumb ability for grass path|<l><l>|OP
+mcMMO|mcmmo.ability.herbalism.greenthumb.blocks.stonebricks|Allows access to the Green Thumb ability for smooth brick|<l><l>|OP
+mcMMO|mcmmo.ability.herbalism.greenthumb.plants.*|Allows access to all Green Thumb abilities for plants|<l><l>|NONE
+mcMMO|mcmmo.ability.herbalism.greenthumb.plants.all|Allows access to all Green Thumb abilities for plants|<l><l>|OP
+mcMMO|mcmmo.ability.herbalism.greenthumb.plants.carrots|Allows access to the Green Thumb ability for carrots|<l><l>|OP
+mcMMO|mcmmo.ability.herbalism.greenthumb.plants.cocoa|Allows access to the Green Thumb ability for cocoa|<l><l>|OP
+mcMMO|mcmmo.ability.herbalism.greenthumb.plants.wheat|Allows access to the Green Thumb ability for wheat|<l><l>|OP
+mcMMO|mcmmo.ability.herbalism.greenthumb.plants.netherwart|Allows access to the Green Thumb ability for netherwart|<l><l>|OP
+mcMMO|mcmmo.ability.herbalism.greenthumb.plants.potatoes|Allows access to the Green Thumb ability for potatoes|<l><l>|OP
+mcMMO|mcmmo.ability.herbalism.greenthumb.plants.beetroots|Allows access to the Green Thumb ability for beetroots|<l><l>|OP
+mcMMO|mcmmo.ability.herbalism.hylianluck|Allows access to the Hylian Luck ability|<l><l>|OP
+mcMMO|mcmmo.ability.herbalism.shroomthumb|Allows access to the Shroom Thumb ability|<l><l>|OP
+mcMMO|mcmmo.ability.mining.*|Allows access to all Mining abilities|<l><l>|NONE
+mcMMO|mcmmo.ability.mining.all|Allows access to all Mining abilities|<l><l>|OP
+mcMMO|mcmmo.ability.mining.blastmining.*|Allows access to all Blast Mining abilities|<l><l>|NONE
+mcMMO|mcmmo.ability.mining.blastmining.all|Allows access to all Blast Mining abilities|<l><l>|OP
+mcMMO|mcmmo.ability.mining.blastmining.biggerbombs|Allows access to the Bigger Bombs ability|<l><l>|OP
+mcMMO|mcmmo.ability.mining.blastmining.demolitionsexpertise|Allows access to the Demolitions Expertise ability|<l><l>|OP
+mcMMO|mcmmo.ability.mining.blastmining.detonate|Allows for remote TNT detonation|<l><l>|OP
+mcMMO|mcmmo.ability.mining.doubledrops|Allows double drop chance when mining|<l><l>|OP
+mcMMO|mcmmo.ability.mining.superbreaker|Allows access to the Super Breaker ability|<l><l>|OP
+mcMMO|mcmmo.ability.repair.*|Allows access to all Repair abilities|<l><l>|NONE
+mcMMO|mcmmo.ability.repair.all|Allows access to all Repair abilities|<l><l>|OP
+mcMMO|mcmmo.ability.repair.arcaneforging|Allows access to the Arcane Forging ability|<l><l>|OP
+mcMMO|mcmmo.ability.repair.armorrepair|Allows ability to repair armor|<l><l>|OP
+mcMMO|mcmmo.ability.repair.diamondrepair|Allows ability to repair Diamond tools & armor|<l><l>|OP
+mcMMO|mcmmo.ability.repair.goldrepair|Allows ability to repair Gold tools & armor|<l><l>|OP
+mcMMO|mcmmo.ability.repair.ironrepair|Allows ability to repair Iron tools & armor|<l><l>|OP
+mcMMO|mcmmo.ability.repair.leatherrepair|Allows ability to repair Leather armor|<l><l>|OP
+mcMMO|mcmmo.ability.repair.othermaterialrepair|Allows ability to repair items of material type OTHER|<l><l>|OP
+mcMMO|mcmmo.ability.repair.otherrepair|Allows ability to repair items of type OTHER|<l><l>|OP
+mcMMO|mcmmo.ability.repair.superrepair|Allows access to Super Repair bonus|<l><l>|OP
+mcMMO|mcmmo.ability.repair.repairmastery|Allows access to Repair Mastery|<l><l>|OP
+mcMMO|mcmmo.ability.repair.stonerepair|Allows ability to repair Stone tools|<l><l>|OP
+mcMMO|mcmmo.ability.repair.stringrepair|Allows ability to repair Bow and Fishing rod|<l><l>|OP
+mcMMO|mcmmo.ability.repair.toolrepair|Allows ability to repair tools|<l><l>|OP
+mcMMO|mcmmo.ability.repair.woodrepair|Allows ability to repair Wood tools|<l><l>|OP
+mcMMO|mcmmo.ability.salvage.*|Allows access to all Salvage abilities|<l><l>|NONE
+mcMMO|mcmmo.ability.salvage.all|Allows access to all Smelting abilities|<l><l>|OP
+mcMMO|mcmmo.ability.salvage.scrapcollector|Allows access to the Scrap Collector ability|<l><l>|OP
+mcMMO|mcmmo.ability.salvage.arcanesalvage|Allows access to the Arcane Salvage ability|<l><l>|OP
+mcMMO|mcmmo.ability.salvage.armorsalvage|Allows ability to salvage armor|<l><l>|OP
+mcMMO|mcmmo.ability.salvage.diamondsalvage|Allows ability to salvage Diamond tools & armor|<l><l>|OP
+mcMMO|mcmmo.ability.salvage.goldsalvage|Allows ability to salvage Gold tools & armor|<l><l>|OP
+mcMMO|mcmmo.ability.salvage.ironsalvage|Allows ability to salvage Iron tools & armor|<l><l>|OP
+mcMMO|mcmmo.ability.salvage.leathersalvage|Allows ability to salvage Leather armor|<l><l>|OP
+mcMMO|mcmmo.ability.salvage.othermaterialsalvage|Allows ability to salvage items of material type OTHER|<l><l>|OP
+mcMMO|mcmmo.ability.salvage.othersalvage|Allows ability to salvage items of type OTHER|<l><l>|OP
+mcMMO|mcmmo.ability.salvage.stonesalvage|Allows ability to salvage Stone tools|<l><l>|OP
+mcMMO|mcmmo.ability.salvage.stringsalvage|Allows ability to salvage Bow and Fishing rod|<l><l>|OP
+mcMMO|mcmmo.ability.salvage.toolsalvage|Allows ability to salvage tools|<l><l>|OP
+mcMMO|mcmmo.ability.salvage.woodsalvage|Allows ability to salvage Wood tools|<l><l>|OP
+mcMMO|mcmmo.ability.smelting.*|Allows access to all Smelting abilities|<l><l>|NONE
+mcMMO|mcmmo.ability.smelting.all|Allows access to all Smelting abilities|<l><l>|OP
+mcMMO|mcmmo.ability.smelting.fluxmining|Allows access to the Flux Mining ability|<l><l>|OP
+mcMMO|mcmmo.ability.smelting.fuelefficiency|Allows access to the Fuel Efficiency ability|<l><l>|OP
+mcMMO|mcmmo.ability.smelting.secondsmelt|Allows access to the Second Smelt ability|<l><l>|OP
+mcMMO|mcmmo.ability.smelting.vanillaxpboost|Allows vanilla XP boost from Smelting|<l><l>|OP
+mcMMO|mcmmo.ability.swords.*|Allows access to all Swords abilities|<l><l>|NONE
+mcMMO|mcmmo.ability.swords.all|Allows access to all Swords abilities|<l><l>|OP
+mcMMO|mcmmo.ability.swords.stab|Adds damage to swords|<l><l>|OP
+mcMMO|mcmmo.ability.swords.swordslimitbreak|Adds damagee to swords|<l><l>|OP
+mcMMO|mcmmo.ability.swords.rupture|Allows access to the Bleed ability|<l><l>|OP
+mcMMO|mcmmo.ability.swords.counterattack|Allows access to the Counter Attack ability|<l><l>|OP
+mcMMO|mcmmo.ability.swords.serratedstrikes|Allows access to the Serrated Strikes ability|<l><l>|OP
+mcMMO|mcmmo.ability.taming.*|Allows access to all Taming abilities|<l><l>|NONE
+mcMMO|mcmmo.ability.taming.all|Allows access to all Taming abilities|<l><l>|OP
+mcMMO|mcmmo.ability.taming.beastlore|Allows access to the Beast Lore ability|<l><l>|OP
+mcMMO|mcmmo.ability.taming.callofthewild.*|Allows access to the Call of the Wild ability|<l><l>|NONE
+mcMMO|mcmmo.ability.taming.callofthewild|Allows access to the Call of the Wild abilities|<l><l>|OP
+mcMMO|mcmmo.ability.taming.callofthewild.horse|Allows players to summon Horses with Call of the Wild|<l><l>|OP
+mcMMO|mcmmo.ability.taming.callofthewild.ocelot|Allows players to summon Ocelots with Call of the Wild|<l><l>|OP
+mcMMO|mcmmo.ability.taming.callofthewild.wolf|Allows players to summon Wolves with Call of the Wild|<l><l>|OP
+mcMMO|mcmmo.ability.taming.environmentallyaware|Allows access to the Environmentally Aware ability|<l><l>|OP
+mcMMO|mcmmo.ability.taming.fastfoodservice|Allows access to the Fast Food Service ability|<l><l>|OP
+mcMMO|mcmmo.ability.taming.gore|Allows access to the Gore ability|<l><l>|OP
+mcMMO|mcmmo.ability.taming.holyhound|Allows access to the Holy Hound ability|<l><l>|OP
+mcMMO|mcmmo.ability.taming.sharpenedclaws|Allows access to the Sharpened Claws ability|<l><l>|OP
+mcMMO|mcmmo.ability.taming.shockproof|Allows access to the Shock Proof ability|<l><l>|OP
+mcMMO|mcmmo.ability.taming.thickfur|Allows access to the Thick Fur ability|<l><l>|OP
+mcMMO|mcmmo.ability.taming.pummel|Allows access to the Pummel ability|<l><l>|OP
+mcMMO|mcmmo.ability.unarmed.*|Allows access to all Unarmed abilities|<l><l>|NONE
+mcMMO|mcmmo.ability.unarmed.all|Allows access to all Unarmed abilities|<l><l>|OP
+mcMMO|mcmmo.ability.unarmed.unarmedlimitbreak|Adds damage to unarmed attacks|<l><l>|OP
+mcMMO|mcmmo.ability.unarmed.berserk|Allows access to the Berserker ability|<l><l>|OP
+mcMMO|mcmmo.ability.unarmed.blockcracker|Allows access to the Block Cracker ability|<l><l>|OP
+mcMMO|mcmmo.ability.unarmed.ironarmstyle|Allows bonus damage from the Iron Arm ability|<l><l>|OP
+mcMMO|mcmmo.ability.unarmed.arrowdeflect|Allows access to the Arrow Deflect ability|<l><l>|OP
+mcMMO|mcmmo.ability.unarmed.disarm|Allows access to the Disarm ability|<l><l>|OP
+mcMMO|mcmmo.ability.unarmed.irongrip|Allows access to the Iron Grip ability|<l><l>|OP
+mcMMO|mcmmo.ability.woodcutting.*|Allows access to all Woodcutting abilities|<l><l>|NONE
+mcMMO|mcmmo.ability.woodcutting.all|Allows access to all Woodcutting abilities|<l><l>|OP
+mcMMO|mcmmo.ability.woodcutting.splinter|Allows access to Splinter|<l><l>|OP
+mcMMO|mcmmo.ability.woodcutting.barksurgeon|Allows access to Bark Surgeon|<l><l>|OP
+mcMMO|mcmmo.ability.woodcutting.naturesbounty|Allows access to Natures Bounty|<l><l>|OP
+mcMMO|mcmmo.ability.woodcutting.harvestlumber|Allows double drop chance when woodcutting|<l><l>|OP
+mcMMO|mcmmo.ability.woodcutting.leafblower|Allows access to Leaf Blower ability|<l><l>|OP
+mcMMO|mcmmo.ability.woodcutting.treefeller|Allows access to Tree Feller ability|<l><l>|OP
+mcMMO|mcmmo.admin|Implies access to everything in mcMMO|<l><l>|NONE
+mcMMO|mcmmo.bypass.*|Implies all bypass permissions.|<l><l>|NONE
+mcMMO|mcmmo.bypass.all|Implies all bypass permissions.|<l><l>|NONE
+mcMMO|mcmmo.bypass.partylimit|Allows user to bypass party size limitations if present on the server|<l><l>|NONE
+mcMMO|mcmmo.bypass.arcanebypass|Allows user to bypass Arcane Repair so he will never lose enchantments|<l><l>|NONE
+mcMMO|mcmmo.bypass.hardcoremode|Allows user to bypass negative penalties of Hardcore mode|<l><l>|NONE
+mcMMO|mcmmo.chat.*|Implies all mcmmo.chat permissions. (Warning, contains adminchat)|<l><l>|NONE
+mcMMO|mcmmo.chat.all|Implies all mcmmo.chat permissions. (Warning, contains adminchat)|<l><l>|OP
+mcMMO|mcmmo.chat.adminchat|Allows participation in admin chat|<l>adminchat<br><l>|OP
+mcMMO|mcmmo.chat.partychat|Allows participation in party chat|<l>partychat<br><l>|OP
+mcMMO|mcmmo.motd|Allows access to the motd|<l><l>|OP
+mcMMO|mcmmo.commands.*|Implies all mcmmo.commands permissions.|<l><l>|NONE
+mcMMO|mcmmo.commands.all|Implies all mcmmo.commands permissions.|<l><l>|NONE
+mcMMO|mcmmo.commands.defaults|Implies all default mcmmo.commands permissions.|<l><l>|OP
+mcMMO|mcmmo.commands.defaultsop|Implies all default op mcmmo.commands permissions.|<l><l>|OP
+mcMMO|mcmmo.commands.acrobatics|Allows access to the acrobatics command|<l>acrobatics<br><l>|OP
+mcMMO|mcmmo.commands.addlevels|Allows access to the addlevels command|<l>addlevels<br><l>|OP
+mcMMO|mcmmo.commands.addlevels.others|Allows access to the addlevels command for other players|<l><l>|OP
+mcMMO|mcmmo.commands.addxp|Allows access to the addxp command|<l>addxp<br><l>|OP
+mcMMO|mcmmo.commands.addxp.others|Allows access to the addxp command for other players|<l><l>|OP
+mcMMO|mcmmo.commands.alchemy|Allows access to the alchemy command|<l>alchemy<br><l>|OP
+mcMMO|mcmmo.commands.archery|Allows access to the archery command|<l>archery<br><l>|OP
+mcMMO|mcmmo.commands.axes|Allows access to the axes command|<l>axes<br><l>|OP
+mcMMO|mcmmo.commands.excavation|Allows access to the excavation command|<l>excavation<br><l>|OP
+mcMMO|mcmmo.commands.fishing|Allows access to the fishing command|<l>fishing<br><l>|OP
+mcMMO|mcmmo.commands.hardcore.*|Implies access to all mcmmo.commands.hardcore permissions|<l><l>|NONE
+mcMMO|mcmmo.commands.hardcore.all|Implies access to all mcmmo.commands.hardcore permissions|<l><l>|OP
+mcMMO|mcmmo.commands.hardcore|Allows access to the hardcore command|<l>hardcore<br><l>|OP
+mcMMO|mcmmo.commands.hardcore.modify|Allows access to the hardcore command to modify the hardcore rate|<l><l>|OP
+mcMMO|mcmmo.commands.hardcore.toggle|Allows access to the hardcore command to toggle hardcore on/off|<l><l>|OP
+mcMMO|mcmmo.commands.herbalism|Allows access to the herbalism command|<l>herbalism<br><l>|OP
+mcMMO|mcmmo.commands.inspect.*|Implies access to all mcmmo.commands.inspect permissions|<l><l>|NONE
+mcMMO|mcmmo.commands.inspect.all|Implies access to all mcmmo.commands.inspect permissions|<l><l>|NONE
+mcMMO|mcmmo.commands.inspect|Allows access to the inspect command|<l>inspect<br><l>|OP
+mcMMO|mcmmo.commands.inspect.far|Allows access to the inspect command for far players|<l><l>|OP
+mcMMO|mcmmo.commands.inspect.hidden|Allows access to the inspect command for hidden players|<l><l>|OP
+mcMMO|mcmmo.commands.mcability|Allows access to the mcability command|<l>mcability<br><l>|OP
+mcMMO|mcmmo.commands.mcability.others|Allows access to the mcability command for other players|<l><l>|OP
+mcMMO|mcmmo.commands.mcconvert.*|Allows access to the mcconvert commands|<l><l>|NONE
+mcMMO|mcmmo.commands.mcconvert.all|Allows access to the mcconvert commands|<l><l>|OP
+mcMMO|mcmmo.commands.mcconvert.database|Allows access to the mcconvert command for databases|<l><l>|OP
+mcMMO|mcmmo.commands.mcconvert.experience|Allows access to the mcconvert command for experience|<l><l>|OP
+mcMMO|mcmmo.commands.mccooldown|Allows access to the mccooldowns command|<l>mccooldown<br><l>|OP
+mcMMO|mcmmo.commands.mcgod|Allows access to the mcgod command|<l>mcgod<br><l>|OP
+mcMMO|mcmmo.commands.mcgod.others|Allows access to the mcgod command for other players|<l><l>|OP
+mcMMO|mcmmo.commands.mcchatspy|Allows access to the mcchatspy command|<l>mcchatspy<br><l>|OP
+mcMMO|mcmmo.commands.mcchatspy.others|Allows access to the mcchatspy command for other players|<l><l>|OP
+mcMMO|mcmmo.commands.mcmmo.*|Implies access to all mcmmo.commands.mcmmo permissions|<l><l>|NONE
+mcMMO|mcmmo.commands.mcmmo.all|Implies access to all mcmmo.commands.mcmmo permissions.|<l><l>|OP
+mcMMO|mcmmo.commands.mcmmo.description|Allows access to the mcmmo command|<l><l>|OP
+mcMMO|mcmmo.commands.mcmmo.help|Allows access to the mcmmo help command|<l><l>|OP
+mcMMO|mcmmo.commands.mcnotify|Allows access to the mcnotify command|<l>mcnotify<br><l>|OP
+mcMMO|mcmmo.commands.mcpurge|Allows access to the mcpurge command|<l>mcpurge<br><l>|OP
+mcMMO|mcmmo.commands.mcimport|Allows access to the mcimport command|<l>mcimport<br><l>|OP
+mcMMO|mcmmo.commands.mcrank|Allows access to the mcrank command|<l>mcrank<br><l>|OP
+mcMMO|mcmmo.commands.mcrank.others.*|Implies access to all mcmmo.commands.mcrank.others permissions|<l><l>|NONE
+mcMMO|mcmmo.commands.mcrank.others.all|Implies access to all mcmmo.commands.mcrank.others permissions|<l><l>|OP
+mcMMO|mcmmo.commands.mcrank.others|Allows access to the mcrank command for other players|<l><l>|OP
+mcMMO|mcmmo.commands.mcrank.others.far|Allows access to the mcrank command for far players|<l><l>|OP
+mcMMO|mcmmo.commands.mcrefresh|Allows access to the mcrefresh command|<l>mcrefresh<br><l>|OP
+mcMMO|mcmmo.commands.mcrefresh.others|Allows access to the mcrefresh command for other players|<l><l>|OP
+mcMMO|mcmmo.commands.mcremove|Allows access to the mcremove command|<l>mcremove<br><l>|OP
+mcMMO|mcmmo.commands.mcscoreboard|Allows access to the mcscoreboard command|<l>mcscoreboard<br><l>|OP
+mcMMO|mcmmo.commands.mcstats|Allows access to the mcstats command|<l>mcstats<br><l>|OP
+mcMMO|mcmmo.commands.mctop.*|Implies access to all mcmmo.commands.mctop permissions|<l><l>|NONE
+mcMMO|mcmmo.commands.mctop.all|Implies access to all mcmmo.commands.mctop permissions|<l><l>|OP
+mcMMO|mcmmo.commands.mctop|Allows access to the mctop command|<l>mctop<br><l>|OP
+mcMMO|mcmmo.commands.mctop.acrobatics|Allows access to the mctop command for acrobatics|<l><l>|OP
+mcMMO|mcmmo.commands.mctop.alchemy|Allows access to the mctop command for alchemy|<l><l>|OP
+mcMMO|mcmmo.commands.mctop.archery|Allows access to the mctop command for archery|<l><l>|OP
+mcMMO|mcmmo.commands.mctop.axes|Allows access to the mctop command for axes|<l><l>|OP
+mcMMO|mcmmo.commands.mctop.excavation|Allows access to the mctop command for excavation|<l><l>|OP
+mcMMO|mcmmo.commands.mctop.fishing|Allows access to the mctop command for fishing|<l><l>|OP
+mcMMO|mcmmo.commands.mctop.herbalism|Allows access to the mctop command for herbalism|<l><l>|OP
+mcMMO|mcmmo.commands.mctop.mining|Allows access to the mctop command for mining|<l><l>|OP
+mcMMO|mcmmo.commands.mctop.repair|Allows access to the mctop command for repair|<l><l>|OP
+mcMMO|mcmmo.commands.mctop.salvage|Allows access to the mctop command for salvage|<l><l>|OP
+mcMMO|mcmmo.commands.mctop.smelting|Allows access to the mctop command for smelting|<l><l>|OP
+mcMMO|mcmmo.commands.mctop.swords|Allows access to the mctop command for swords|<l><l>|OP
+mcMMO|mcmmo.commands.mctop.taming|Allows access to the mctop command for taming|<l><l>|OP
+mcMMO|mcmmo.commands.mctop.unarmed|Allows access to the mctop command for unarmed|<l><l>|OP
+mcMMO|mcmmo.commands.mctop.woodcutting|Allows access to the mctop command for woodcutting|<l><l>|OP
+mcMMO|mcmmo.commands.mining|Allows access to the mining command|<l>mining<br><l>|OP
+mcMMO|mcmmo.commands.mmoedit|Allows access to the mmoedit command|<l>mmoedit<br><l>|OP
+mcMMO|mcmmo.commands.mmoedit.others|Allows access to the mmoedit command for other players|<l><l>|OP
+mcMMO|mcmmo.commands.mmoshowdb|Allows access to the mmoshowdb command|<l>mmoshowdb<br><l>|OP
+mcMMO|mcmmo.commands.mhd|Allows access to the mhd command|<l>mhd<br><l>|NONE
+mcMMO|mcmmo.commands.party.*|Implies access to all mcmmo.commands.party permissions.|<l><l>|NONE
+mcMMO|mcmmo.commands.party.all|Implies access to all mcmmo.commands.party permissions.|<l><l>|OP
+mcMMO|mcmmo.commands.party|Allows access to the party command|<l>party<br><l>|OP
+mcMMO|mcmmo.commands.party.accept|Allows access to the party accept command|<l><l>|OP
+mcMMO|mcmmo.commands.party.chat|Dummy permission for mcmmo.chat.partychat|<l><l>|OP
+mcMMO|mcmmo.commands.party.create|Allows access to the party create command|<l><l>|OP
+mcMMO|mcmmo.commands.party.disband|Allows access to the party disband command|<l><l>|OP
+mcMMO|mcmmo.commands.party.xpshare|Allows access to the party xpshare command|<l><l>|OP
+mcMMO|mcmmo.commands.party.help|Allows access to the party help command|<l><l>|OP
+mcMMO|mcmmo.commands.party.info|Allows access to the party info command|<l><l>|OP
+mcMMO|mcmmo.commands.party.invite|Allows access to the party invite command|<l><l>|OP
+mcMMO|mcmmo.commands.party.itemshare|Allows access to the party itemshare command|<l><l>|OP
+mcMMO|mcmmo.commands.party.join|Allows access to the party join command|<l><l>|OP
+mcMMO|mcmmo.commands.party.kick|Allows access to the party kick command|<l><l>|OP
+mcMMO|mcmmo.commands.party.lock|Allows access to the party lock command|<l><l>|OP
+mcMMO|mcmmo.commands.party.owner|Allows access to the party owner command|<l><l>|OP
+mcMMO|mcmmo.commands.party.password|Allows access to the party password command|<l><l>|OP
+mcMMO|mcmmo.commands.party.quit|Allows access to the party quit command|<l><l>|OP
+mcMMO|mcmmo.commands.party.rename|Allows access to the party rename command|<l><l>|OP
+mcMMO|mcmmo.commands.party.teleport|Dummy permission for mcmmo.commands.ptp|<l><l>|OP
+mcMMO|mcmmo.commands.party.unlock|Allows access to the party unlock command|<l><l>|OP
+mcMMO|mcmmo.commands.party.alliance|Allows access to the party alliance command|<l><l>|OP
+mcMMO|mcmmo.commands.ptp.*|Implies access to all mcmmo.commands.ptp permissions.|<l><l>|NONE
+mcMMO|mcmmo.commands.ptp.all|Implies access to all mcmmo.commands.ptp permissions.|<l><l>|NONE
+mcMMO|mcmmo.commands.ptp|Allows access to the ptp command|<l>ptp<br><l>|OP
+mcMMO|mcmmo.commands.ptp.send|Allows access to the ptp <player> command|<l><l>|OP
+mcMMO|mcmmo.commands.ptp.accept|Allows access to the ptp accept command|<l><l>|OP
+mcMMO|mcmmo.commands.ptp.acceptall|Allows access to the ptp acceptall command|<l><l>|OP
+mcMMO|mcmmo.commands.ptp.toggle|Allows access to the ptp toggle command|<l><l>|OP
+mcMMO|mcmmo.commands.ptp.world.*|Implies access to all mcmmo.commands.ptp.world permissions.|<l><l>|NONE
+mcMMO|mcmmo.commands.ptp.world.all|Implies access to all mcmmo.commands.ptp.world permissions|<l><l>|OP
+mcMMO|mcmmo.commands.repair|Allows access to the repair command|<l>repair<br><l>|OP
+mcMMO|mcmmo.commands.skillreset.*|Implies access to all mcmmo.commands.skillreset permissions|<l><l>|NONE
+mcMMO|mcmmo.commands.skillreset.all|Implies access to all mcmmo.commands.skillreset permissions|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset|Allows access to the skillreset command|<l>skillreset<br><l>|OP
+mcMMO|mcmmo.commands.skillreset.acrobatics|Allows access to the skillreset command for acrobatics|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.alchemy|Allows access to the skillreset command for alchemy|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.archery|Allows access to the skillreset command for archery|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.axes|Allows access to the skillreset command for axes|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.excavation|Allows access to the skillreset command for excavation|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.fishing|Allows access to the skillreset command for fishing|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.herbalism|Allows access to the skillreset command for herbalism|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.mining|Allows access to the skillreset command for mining|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.others.*|Implies access to all mcmmo.commands.skillreset.others permissions|<l><l>|NONE
+mcMMO|mcmmo.commands.skillreset.others.all|Implies access to all mcmmo.commands.skillreset.others permissions|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.others|Allows access to the skillreset command for other players|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.others.acrobatics|Allows access to the skillreset command for acrobatics for other players|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.others.alchemy|Allows access to the skillreset command for alchemy for other players|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.others.archery|Allows access to the skillreset command for archery for other players|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.others.axes|Allows access to the skillreset command for axes for other players|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.others.excavation|Allows access to the skillreset command for excavation for other players|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.others.fishing|Allows access to the skillreset command for fishing for other players|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.others.herbalism|Allows access to the skillreset command for herbalism for other players|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.others.mining|Allows access to the skillreset command for mining for other players|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.others.repair|Allows access to the skillreset command for repair for other players|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.others.salvage|Allows access to the skillreset command for salvage for other players|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.others.smelting|Allows access to the skillreset command for smelting for other players|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.others.swords|Allows access to the skillreset command for swords for other players|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.others.taming|Allows access to the skillreset command for taming for other players|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.others.unarmed|Allows access to the skillreset command for unarmed for other players|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.others.woodcutting|Allows access to the skillreset command for woodcutting for other players|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.repair|Allows access to the skillreset command for repair|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.salvage|Allows access to the skillreset command for smelting|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.smelting|Allows access to the skillreset command for smelting|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.swords|Allows access to the skillreset command for swords|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.taming|Allows access to the skillreset command for taming|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.unarmed|Allows access to the skillreset command for unarmed|<l><l>|OP
+mcMMO|mcmmo.commands.skillreset.woodcutting|Allows access to the skillreset command for woodcutting|<l><l>|OP
+mcMMO|mcmmo.commands.salvage|Allows access to the salvage command|<l>salvage<br><l>|OP
+mcMMO|mcmmo.commands.smelting|Allows access to the smelting command|<l>smelting<br><l>|OP
+mcMMO|mcmmo.commands.swords|Allows access to the swords command|<l>swords<br><l>|OP
+mcMMO|mcmmo.commands.taming|Allows access to the taming command|<l>taming<br><l>|OP
+mcMMO|mcmmo.commands.unarmed|Allows access to the unarmed command|<l>unarmed<br><l>|OP
+mcMMO|mcmmo.commands.vampirism.*|Implies access to all mcmmo.commands.vampirism permissions|<l><l>|NONE
+mcMMO|mcmmo.commands.vampirism.all|Implies access to all mcmmo.commands.vampirism permissions|<l><l>|OP
+mcMMO|mcmmo.commands.vampirism|Allows access to the vampirism command|<l>vampirism<br><l>|OP
+mcMMO|mcmmo.commands.vampirism.modify|Allows access to the vampirism command to modify the vampirism rate|<l><l>|OP
+mcMMO|mcmmo.commands.vampirism.toggle|Allows access to the vampirism command to toggle vampirism on/off|<l><l>|OP
+mcMMO|mcmmo.commands.woodcutting|Allows access to the woodcutting command|<l>woodcutting<br><l>|OP
+mcMMO|mcmmo.commands.xprate.*|Implies access to all mcmmo.commands.xprate permissions|<l><l>|NONE
+mcMMO|mcmmo.commands.xprate.all|Implies access to all mcmmo.commands.xprate permissions|<l><l>|OP
+mcMMO|mcmmo.commands.xprate|Allows access to the xprate command|<l>xprate<br><l>|OP
+mcMMO|mcmmo.commands.xprate.reset|Allows access to the xprate reset command|<l><l>|OP
+mcMMO|mcmmo.commands.xprate.set|Allows access to the xprate command to control xp events|<l><l>|OP
+mcMMO|mcmmo.defaults|mcmmo permisions that default to true|<l><l>|PLAYER
+mcMMO|mcmmo.defaultsop|mcmmo permissions that default to op|<l><l>|OP
+mcMMO|mcmmo.item.*|Implies all mcmmo.item permissions|<l><l>|PLAYER
+mcMMO|mcmmo.item.all|Implies all mcmmo.item permissions|<l><l>|OP
+mcMMO|mcmmo.item.chimaerawing|Allows use of Chimaera Wing item|<l><l>|OP
+mcMMO|mcmmo.party.*|Implies access to all mcmmo party permissions|<l><l>|NONE
+mcMMO|mcmmo.party.all|Implies access to all mcmmo party permissions|<l><l>|NONE
+mcMMO|mcmmo.party.friendlyfire|Allows in-party friendly fire if both attacker and victim have this permission|<l><l>|NONE
+mcMMO|mcmmo.perks.*|implies access to all mcmmo perks|<l><l>|NONE
+mcMMO|mcmmo.perks.all|implies access to all mcmmo perks|<l><l>|NONE
+mcMMO|mcmmo.perks.activationtime.*|Increased activation time perks typically given to donors or VIPs|<l><l>|NONE
+mcMMO|mcmmo.perks.activationtime.all|Increased activation time perks typically given to donors or VIPs|<l><l>|NONE
+mcMMO|mcmmo.perks.bypass.*|Perks that bypass certain RNG elements and guarantee success|<l><l>|NONE
+mcMMO|mcmmo.perks.bypass.all|Perks that bypass certain RNG elements and guarantee success|<l><l>|NONE
+mcMMO|mcmmo.perks.bypass.repairenchant|Guarantees repairing without enchantment degradation|<l><l>|NONE
+mcMMO|mcmmo.perks.bypass.salvageenchant|Guarantees salvage will return the best legal enchantment book|<l><l>|NONE
+mcMMO|mcmmo.perks.activationtime.eightseconds|Increases activation time by 8 seconds|<l><l>|NONE
+mcMMO|mcmmo.perks.activationtime.fourseconds|Increases activation time by 4 seconds|<l><l>|NONE
+mcMMO|mcmmo.perks.activationtime.twelveseconds|Increases activation time by 12 seconds|<l><l>|NONE
+mcMMO|mcmmo.perks.cooldowns.*|Reduced cooldown perks typically given to donors or VIPs|<l><l>|NONE
+mcMMO|mcmmo.perks.cooldowns.all|Reduced cooldown perks typically given to donors or VIPs|<l><l>|NONE
+mcMMO|mcmmo.perks.cooldowns.halved|Cuts cooldowns down by 1/2|<l><l>|NONE
+mcMMO|mcmmo.perks.cooldowns.quartered|Cuts cooldowns down by 1/4|<l><l>|NONE
+mcMMO|mcmmo.perks.cooldowns.thirded|Cuts cooldowns down by 1/3|<l><l>|NONE
+mcMMO|mcmmo.perks.lucky.*|Gives all abilities & skills a 33.3% better chance to activate.|<l><l>|NONE
+mcMMO|mcmmo.perks.lucky.all|Gives all abilities & skills a 33.3% better chance to activate.|<l><l>|NONE
+mcMMO|mcmmo.perks.lucky.acrobatics|Gives Acrobatics abilities & skills a 33.3% better chance to activate.|<l><l>|NONE
+mcMMO|mcmmo.perks.lucky.alchemy|Gives Alchemy abilities & skills a 33.3% better chance to activate.|<l><l>|NONE
+mcMMO|mcmmo.perks.lucky.archery|Gives Archery abilities & skills a 33.3% better chance to activate.|<l><l>|NONE
+mcMMO|mcmmo.perks.lucky.axes|Gives Axes abilities & skills a 33.3% better chance to activate.|<l><l>|NONE
+mcMMO|mcmmo.perks.lucky.excavation|Gives Excavation abilities & skills a 33.3% better chance to activate.|<l><l>|NONE
+mcMMO|mcmmo.perks.lucky.fishing|Gives Fishing abilities & skills a 33.3% better chance to activate.|<l><l>|NONE
+mcMMO|mcmmo.perks.lucky.herbalism|Gives Herbalism abilities & skills a 33.3% better chance to activate.|<l><l>|NONE
+mcMMO|mcmmo.perks.lucky.mining|Gives Mining abilities & skills a 33.3% better chance to activate.|<l><l>|NONE
+mcMMO|mcmmo.perks.lucky.repair|Gives Repair abilities & skills a 33.3% better chance to activate.|<l><l>|NONE
+mcMMO|mcmmo.perks.lucky.salvage|Gives Salvage abilities & skills a 33.3% better chance to activate.|<l><l>|NONE
+mcMMO|mcmmo.perks.lucky.smelting|Gives Smelting abilities & skills a 33.3% better chance to activate.|<l><l>|NONE
+mcMMO|mcmmo.perks.lucky.swords|Gives Swords abilities & skills a 33.3% better chance to activate.|<l><l>|NONE
+mcMMO|mcmmo.perks.lucky.taming|Gives Taming abilities & skills a 33.3% better chance to activate.|<l><l>|NONE
+mcMMO|mcmmo.perks.lucky.unarmed|Gives Unarmed abilities & skills a 33.3% better chance to activate.|<l><l>|NONE
+mcMMO|mcmmo.perks.lucky.woodcutting|Gives Woodcutting abilities & skills a 33.3% better chance to activate.|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.*|XP Perks typically given to donors or VIPs|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.all|XP Perks typically given to donors or VIPs|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.150percentboost.*|Multiplies incoming XP by 2.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.150percentboost|Multiplies incoming XP by 2.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.150percentboost.all|Multiplies incoming XP by 2.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.150percentboost.acrobatics|Multiplies incoming Acrobatics XP by 2.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.150percentboost.alchemy|Multiplies incoming Alchemy XP by 2.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.150percentboost.archery|Multiplies incoming Archery XP by 2.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.150percentboost.axes|Multiplies incoming Axes XP by 2.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.150percentboost.excavation|Multiplies incoming Excavation XP by 2.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.150percentboost.fishing|Multiplies incoming Fishing XP by 2.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.150percentboost.herbalism|Multiplies incoming Herbalism XP by 2.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.150percentboost.mining|Multiplies incoming Mining XP by 2.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.150percentboost.repair|Multiplies incoming Repair XP by 2.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.150percentboost.smelting|Multiplies incoming Smelting XP by 2.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.150percentboost.swords|Multiplies incoming Swords XP by 2.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.150percentboost.taming|Multiplies incoming Taming XP by 2.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.150percentboost.unarmed|Multiplies incoming Unarmed XP by 2.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.150percentboost.woodcutting|Multiplies incoming Woodcutting XP by 2.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.50percentboost.*|Multiplies incoming XP by 1.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.50percentboost|Multiplies incoming XP by 1.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.50percentboost.all|Multiplies incoming XP by 1.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.50percentboost.acrobatics|Multiplies incoming Acrobatics XP by 1.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.50percentboost.alchemy|Multiplies incoming Acrobatics XP by 1.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.50percentboost.archery|Multiplies incoming Archery XP by 1.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.50percentboost.axes|Multiplies incoming Axes XP by 1.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.50percentboost.excavation|Multiplies incoming Excavation XP by 1.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.50percentboost.fishing|Multiplies incoming Fishing XP by 1.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.50percentboost.herbalism|Multiplies incoming Herbalism XP by 1.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.50percentboost.mining|Multiplies incoming Mining XP by 1.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.50percentboost.repair|Multiplies incoming Repair XP by 1.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.50percentboost.smelting|Multiplies incoming Smelting XP by 1.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.50percentboost.swords|Multiplies incoming Swords XP by 1.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.50percentboost.taming|Multiplies incoming Taming XP by 1.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.50percentboost.unarmed|Multiplies incoming Unarmed XP by 1.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.50percentboost.woodcutting|Multiplies incoming Woodcutting XP by 1.5|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.10percentboost.*|Multiplies incoming XP by 1.1|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.10percentboost|Multiplies incoming XP by 1.1|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.10percentboost.all|Multiplies incoming XP by 1.1|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.10percentboost.acrobatics|Multiplies incoming Acrobatics XP by 1.1|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.10percentboost.alchemy|Multiplies incoming Acrobatics XP by 1.1|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.10percentboost.archery|Multiplies incoming Archery XP by 1.1|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.10percentboost.axes|Multiplies incoming Axes XP by 1.1|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.10percentboost.excavation|Multiplies incoming Excavation XP by 1.1|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.10percentboost.fishing|Multiplies incoming Fishing XP by 1.1|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.10percentboost.herbalism|Multiplies incoming Herbalism XP by 1.1|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.10percentboost.mining|Multiplies incoming Mining XP by 1.1|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.10percentboost.repair|Multiplies incoming Repair XP by 1.1|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.10percentboost.smelting|Multiplies incoming Smelting XP by 1.1|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.10percentboost.swords|Multiplies incoming Swords XP by 1.1|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.10percentboost.taming|Multiplies incoming Taming XP by 1.1|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.10percentboost.unarmed|Multiplies incoming Unarmed XP by 1.1|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.10percentboost.woodcutting|Multiplies incoming Woodcutting XP by 1.1|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.customboost.*|Multiplies incoming XP by the boost amount defined in the experience config|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.customboost|Multiplies incoming XP by the boost amount defined in the experience config|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.customboost.all|Multiplies incoming XP by the boost amount defined in the experience config|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.customboost.acrobatics|Multiplies incoming Acrobatics XP by the boost amount defined in the experience config|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.customboost.alchemy|Multiplies incoming Acrobatics XP by the boost amount defined in the experience config|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.customboost.archery|Multiplies incoming Archery XP by the boost amount defined in the experience config|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.customboost.axes|Multiplies incoming Axes XP by the boost amount defined in the experience config|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.customboost.excavation|Multiplies incoming Excavation XP by the boost amount defined in the experience config|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.customboost.fishing|Multiplies incoming Fishing XP by the boost amount defined in the experience config|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.customboost.herbalism|Multiplies incoming Herbalism XP by the boost amount defined in the experience config|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.customboost.mining|Multiplies incoming Mining XP by the boost amount defined in the experience config|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.customboost.repair|Multiplies incoming Repair XP by the boost amount defined in the experience config|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.customboost.smelting|Multiplies incoming Smelting XP by the boost amount defined in the experience config|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.customboost.swords|Multiplies incoming Swords XP by the boost amount defined in the experience config|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.customboost.taming|Multiplies incoming Taming XP by the boost amount defined in the experience config|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.customboost.unarmed|Multiplies incoming Unarmed XP by the boost amount defined in the experience config|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.customboost.woodcutting|Multiplies incoming Woodcutting XP by the boost amount defined in the experience config|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.double.*|Doubles incoming XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.double|Doubles incoming XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.double.all|Doubles incoming XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.double.acrobatics|Doubles incoming Acrobatics XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.double.alchemy|Doubles incoming Alchemy XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.double.archery|Doubles incoming Archery XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.double.axes|Doubles incoming Axes XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.double.excavation|Doubles incoming Excavation XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.double.fishing|Doubles incoming Fishing XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.double.herbalism|Doubles incoming Herbalism XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.double.mining|Doubles incoming Mining XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.double.repair|Doubles incoming Repair XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.double.smelting|Doubles incoming Smelting XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.double.swords|Doubles incoming Swords XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.double.taming|Doubles incoming Taming XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.double.unarmed|Doubles incoming Unarmed XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.double.woodcutting|Doubles incoming Woodcutting XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.quadruple.*|Quadruples incoming XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.quadruple|Quadruples incoming XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.quadruple.all|Quadruples incoming XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.quadruple.acrobatics|Quadruples incoming Acrobatics XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.quadruple.alchemy|Quadruples incoming Alchemy XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.quadruple.archery|Quadruples incoming Archery XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.quadruple.axes|Quadruples incoming Axes XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.quadruple.excavation|Quadruples incoming Excavation XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.quadruple.fishing|Quadruples incoming Fishing XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.quadruple.herbalism|Quadruples incoming Herbalism XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.quadruple.mining|Quadruples incoming Mining XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.quadruple.repair|Quadruples incoming Repair XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.quadruple.smelting|Quadruples incoming Smelting XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.quadruple.swords|Quadruples incoming Swords XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.quadruple.taming|Quadruples incoming Taming XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.quadruple.unarmed|Quadruples incoming Unarmed XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.quadruple.woodcutting|Quadruples incoming Woodcutting XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.triple.*|Triples incoming XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.triple|Triples incoming XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.triple.all|Triples incoming XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.triple.acrobatics|Triples incoming Acrobatics XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.triple.alchemy|Triples incoming Acrobatics XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.triple.archery|Triples incoming Archery XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.triple.axes|Triples incoming Axes XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.triple.excavation|Triples incoming Excavation XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.triple.fishing|Triples incoming Fishing XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.triple.herbalism|Triples incoming Herbalism XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.triple.mining|Triples incoming Mining XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.triple.repair|Triples incoming Repair XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.triple.smelting|Triples incoming Smelting XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.triple.swords|Triples incoming Swords XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.triple.taming|Triples incoming Taming XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.triple.unarmed|Triples incoming Unarmed XP|<l><l>|NONE
+mcMMO|mcmmo.perks.xp.triple.woodcutting|Triples incoming Woodcutting XP|<l><l>|NONE
+mcMMO|mcmmo.skillreset|Allow reset of skill levels|<l><l>|NONE
+mcMMO|mcmmo.skills.*|Implies all mcmmo.skills permissions.|<l><l>|NONE
+mcMMO|mcmmo.skills.all|Implies all mcmmo.skills permissions.|<l><l>|OP
+mcMMO|mcmmo.skills.acrobatics|Allows access to the Acrobatics skill|<l><l>|OP
+mcMMO|mcmmo.skills.alchemy|Allows access to the Alchemy skill|<l><l>|OP
+mcMMO|mcmmo.skills.archery|Allows access to the Archery skill|<l><l>|OP
+mcMMO|mcmmo.skills.axes|Allows access to the Axes skill|<l><l>|OP
+mcMMO|mcmmo.skills.excavation|Allows access to the Excavation skill|<l><l>|OP
+mcMMO|mcmmo.skills.fishing|Allows access to the Fishing skill|<l><l>|OP
+mcMMO|mcmmo.skills.herbalism|Allows access to the Herbalism skill|<l><l>|OP
+mcMMO|mcmmo.skills.mining|Allows access to the Mining skill|<l><l>|OP
+mcMMO|mcmmo.skills.repair|Allows access to the Repair skill|<l><l>|OP
+mcMMO|mcmmo.skills.salvage|Allows access to the Salvage skill|<l><l>|OP
+mcMMO|mcmmo.skills.smelting|Allows access to the Smelting skill|<l><l>|OP
+mcMMO|mcmmo.skills.swords|Allows access to the Swords skill|<l><l>|OP
+mcMMO|mcmmo.skills.taming|Allows access to the Taming skill|<l><l>|OP
+mcMMO|mcmmo.skills.unarmed|Allows access to the Unarmed skill|<l><l>|OP
+mcMMO|mcmmo.skills.woodcutting|Allows access to the Woodcutting skill|<l><l>|OP
+mcMMO|mcmmo.showversion|Show mcMMO version number in /mcmmo and motd|<l><l>|PLAYER
+mcMMO|mcmmo.tools.*|Implies all mcmmo.tools permissions.|<l><l>|NONE
+mcMMO|mcmmo.tools.all|Implies all mcmmo.tools permissions.|<l><l>|NONE
+mcMMO|mcmmo.tools.updatecheck|Notifies admins if there is a new version of mcMMO available|<l><l>|NONE
+GWarp|GWarp.*|OP-Permission for all Commands and Functions for GWarp|<l><l>|OP
+GWarp|GWarp.Warp.*|OP-Permission for all Commands and Functions for Warps|<l><l>|OP
+GWarp|GWarp.WarpAmount.*|Endless-WarpAmount | Permission|<l><l>|OP
+GWarp|GWarp.Warp|Main-Warp-Command | Permission|<l><l>|OP
+GWarp|GWarp.WarpTimeIgnore|Warp-TeleportTime-Ignore | Permission|<l><l>|OP
+GWarp|GWarp.WarpTop|WarpTop-Command | Permission|<l><l>|OP
+GWarp|GWarp.WarpList|WarpList-Command | Permission|<l><l>|OP
+GWarp|GWarp.WarpSet|WarpSet-Command | Permission|<l><l>|OP
+GWarp|GWarp.WarpDelete|WarpDelete-Command | Permission|<l><l>|OP
+GWarp|GWarp.WarpUpdate|WarpUpdate-Command | Permission|<l><l>|OP
+GWarp|GWarp.WarpWelcome|WarpWelcome-Command | Permission|<l><l>|OP
+GWarp|GWarp.WarpWarps|WarpWarps-Command | Permission|<l><l>|OP
+GWarp|GWarp.WarpWarpsOther|WarpWarps-Other-Command | Permission|<l><l>|OP
+GWarp|GWarp.WarpLock|WarpLock-Command | Permission|<l><l>|OP
+GWarp|GWarp.WarpLockIgnore|WarpLock-Ignore | Permission|<l><l>|OP
+GWarp|GWarp.WarpOwner|WarpOwner-Command | Permission|<l><l>|OP
+GWarp|GWarp.WarpPassword|WarpPassword-Command | Permission|<l><l>|OP
+GWarp|GWarp.WarpEffect|WarpEffect-Command | Permission|<l><l>|OP
+GWarp|GWarp.WarpSound|WarpSound-Command | Permission|<l><l>|OP
+GWarp|GWarp.WarpPasswordIgnore|WarpPassword-Ignore | Permission|<l><l>|OP
+GWarp|GWarp.WarpSaveIgnore|WarpSave-Ignore | Permission|<l><l>|OP
+GWarp|GWarp.AWarp.*|OP-Permission for all Commands and Functions for Admin-Warps|<l><l>|OP
+GWarp|GWarp.AWarp|AWarp-Access | Permission|<l><l>|OP
+GWarp|GWarp.AWarpWarp|AWarpWarp-Command | Permission|<l><l>|OP
+GWarp|GWarp.AWarpSet|AWarpSet-Command | Permission|<l><l>|OP
+GWarp|GWarp.AWarpDelete|AWarpDelete-Command | Permission|<l><l>|OP
+GWarp|GWarp.AWarpUpdate|AWarpUpdate-Command | Permission|<l><l>|OP
+GWarp|GWarp.AWarpWelcome|AWarpWelcome-Command | Permission|<l><l>|OP
+GWarp|GWarp.AWarpLock|AWarpLock-Command | Permission|<l><l>|OP
+GWarp|GWarp.AWarpSetOwner|AWarpSetOwner-Command | Permission|<l><l>|OP
+GWarp|GWarp.AWarpReset|AWarpReset-Command | Permission|<l><l>|OP
+GWarp|GWarp.AWarpPassword|AWarpPassword-Command | Permission|<l><l>|OP
+GWarp|GWarp.AWarpEffect|AWarpEffect-Command | Permission|<l><l>|OP
+GWarp|GWarp.AWarpSound|AWarpSound-Command | Permission|<l><l>|OP
+GWarp|GWarp.AWarpCount|AWarpCount-Command | Permission|<l><l>|OP
+GWarp|GWarp.Home.*|OP-Permission for all Commands and Functions for Homes|<l><l>|OP
+GWarp|GWarp.HomeAmount.*|Endless-HomeAmount | Permission|<l><l>|OP
+GWarp|GWarp.Home|Main-Home-Command | Permission|<l><l>|OP
+GWarp|GWarp.HomeTimeIgnore|Home-TeleportTime-Ignore | Permission|<l><l>|OP
+GWarp|GWarp.HomeSet|HomeSet-Command | Permission|<l><l>|OP
+GWarp|GWarp.HomeDelete|HomeDelete-Command | Permission|<l><l>|OP
+GWarp|GWarp.HomeUpdate|HomeUpdate-Command | Permission|<l><l>|OP
+GWarp|GWarp.HomeHomes|HomeHomes-Command | Permission|<l><l>|OP
+GWarp|GWarp.HomeBack|HomeBack-Command | Permission|<l><l>|OP
+GWarp|GWarp.Update|Plugin-Update-Message | Permission|<l><l>|OP
+GWarp|GWarp.GWarpReload|Config-Reload-Command | Permission|<l><l>|OP
+AntiXRay|antixray.bypass|Allows a player to mine any block without exception.|<l><l>|NONE
+AntiXRay|antixray.reload|Allows a player to reload the antixray configuration.|<l><l>|OP
+AntiXRay|antixray.check.others|Allows a player to view an other players amount of remaining mining points.|<l><l>|OP
+AntiXRay|antixray.check.self|Allows a player to view his amount of remaining mining points.|<l><l>|OP
+AntiXRay|antixray.set|Allows the setting of a players stored values, like the amount of remaining mining points.|<l><l>|OP
+AntiXRay|antixray.monitorxrayers|If configured, allows a player to receive notifications about players who reach their mining speed limit.|<l><l>|OP
+AntiXRay|antixray.help|Allows a player to view the help page which contains information about the commands.|<l><l>|OP
+DeathChestPro|deathchestpro.*|All DeathChestPro permissions|<l><l>|OP
+DeathChestPro|deathchestpro.player|Default player permissions|<l><l>|OP
+DeathChestPro|deathchestpro.chest|Allows to spawn a chest after player's death|<l><l>|OP
+DeathChestPro|deathchestpro.lock|Allows to automatically lock a deathchest after death|<l><l>|OP
+DeathChestPro|deathchestpro.lock.bypass|Allows to bypass a lock|<l><l>|OP
+DeathChestPro|deathchestpro.see|Allows player to see content of deathchests|<l><l>|OP
+DeathChestPro|deathchestpro.reload|Allows to reload plugin|<l><l>|OP
+DeathChestPro|deathchestpro.list|Allows to open up your deathchest list|<l><l>|PLAYER
+DeathChestPro|deathchestpro.teleport|Allows to teleport to your deathchest|<l><l>|OP
+DeathChestPro|deathchestpro.fastloot|Allows to fast loot your chest|<l><l>|OP
+DeathChestPro|deathchestpro.expire.default|Default expire time|<l><l>|PLAYER
+PlayerVaults|playervaults.admin|Grants access to admin commands for vaults.|<l>pvreload<br><l>|OP
+PlayerVaults|playervaults.bypassblockeditems|Grants access to bypass blocked vault items.|<l><l>|OP
+GriefPreventionFlags|gpflags.admin.*|Grants all administrative functionality.|<l><l>|OP
+GriefPreventionFlags|gpflags.setflag|Grants permission to use /SetClaimFlag.|<l>setclaimflag<br><l>|OP
+GriefPreventionFlags|gpflags.unsetflag|Grants permission to use /UnSetClaimFlag.|<l>unsetclaimflag<br><l>|OP
+GriefPreventionFlags|gpflags.setworldflag|Grants permission to use /SetWorldFlag.|<l>setworldflag<br><l>|OP
+GriefPreventionFlags|gpflags.unsetworldflag|Grants permission to use /UnSetWorldFlag.|<l>unsetworldflag<br><l>|OP
+GriefPreventionFlags|gpflags.setserverflag|Grants permission to use /SetServerFlag.|<l>setserverflag<br><l>|OP
+GriefPreventionFlags|gpflags.unsetserverflag|Grants permission to use /UnSetServerFlag.|<l><l>|OP
+GriefPreventionFlags|gpflags.defaultflags|Grants permission to use /SetDefaultClaimFlag and /UnSetDefaultClaimFlag.|<l>setdefaultclaimflag<br>unsetdefaultclaimflag<br><l>|OP
+GriefPreventionFlags|gpflags.listflags|Grants permission to use /ListClaimFlags.|<l>listclaimflags<br><l>|OP
+GriefPreventionFlags|gpflags.reload|Grants permission to use /GPFReload.|<l>gpfreload<br><l>|OP
+GriefPreventionFlags|gpflags.allflags|Grants permission to apply/remove all flags.|<l>allflags<br><l>|OP
+GriefPreventionFlags|gpflags.bypass|Makes a player immune to the limitations of flags like CommandBlackList, NoEnter, and NoFlight.|<l><l>|OP
+GriefPreventionFlags|gpflags.bypass.fly|Makes a player immune to the limitations of the fly flags|<l><l>|OP
+DiscordSRV|discordsrv.player|parent permission of player-related functions of DiscordSRV|<l><l>|PLAYER
+DiscordSRV|discordsrv.admin|parent permission of admin-related functions of DiscordSRV|<l><l>|OP
+DiscordSRV|discordsrv.chat|whether or not the user is able to have their chat forwarded to Discord|<l><l>|PLAYER
+DiscordSRV|discordsrv.silentjoin|whether or not to have join messages for players with this permission to be silenced|<l><l>|NONE
+DiscordSRV|discordsrv.silentquit|whether or not to have quit messages for players with this permission to be silenced|<l><l>|NONE
+DiscordSRV|discordsrv.help|whether or not the player is able to display command help for DiscordSRV|<l><l>|PLAYER
+DiscordSRV|discordsrv.updatenotification|whether or not the player should be told if there's an update to DiscordSRV when joining|<l><l>|OP
+DiscordSRV|discordsrv.bcast|whether or not the player is able to broadcast messages to the main text channel of DiscordSRV|<l><l>|OP
+DiscordSRV|discordsrv.setpicture|whether or not the player is able to set the bot's avatar picture|<l><l>|OP
+DiscordSRV|discordsrv.reload|whether or not the player is able to reload DiscordSRV's configuration|<l><l>|OP
+DiscordSRV|discordsrv.debug|whether or not the player is able to run a debug report|<l><l>|OP
+DiscordSRV|discordsrv.link|whether or not the player is able to link their Minecraft account to their Discord account|<l><l>|PLAYER
+DiscordSRV|discordsrv.unlink|whether or not the player is able to unlink their Minecraft account from their Discord account|<l><l>|OP
+DiscordSRV|discordsrv.unlink.others|whether or not the player is able to unlink other people's accounts|<l><l>|OP
+DiscordSRV|discordsrv.linked|whether or not the player is able to check what Discord account their Minecraft account is linked to|<l><l>|PLAYER
+DiscordSRV|discordsrv.linked.others|whether or not the player is able to check what Discord account other Minecraft accounts are linked to|<l><l>|OP
+MoreVaultPlus|morevaultplus.admin|Gives access to all admin commands|<l><l>|OP
+MoreVaultPlus|morevaultplus.vault.*|Gives access to all vault management commands|<l><l>|OP
+MoreVaultPlus|morevaultplus.open.*|Gives access to all open commands|<l><l>|OP
+MoreVaultPlus|morevaultplus.user|Gives access to all user commands|<l><l>|OP
+MoreVaultPlus|morevaultplus.change.all|Gives access to change vault thing|<l><l>|OP
+MoreVaultPlus|morevaultplus.maxvault.*|Gives access to 1000 unlockable vaults|<l><l>|OP
+MoreVaultPlus|morevaultplus.minvault.*|Gives access to 1000 unlocked vaults|<l><l>|OP
+Quests|quests.quest|View current quest objectives|<l>quest<br><l>|PLAYER
+Quests|quests.questinfo|View information about a quest|<l><l>|PLAYER
+Quests|quests.quests|Display plugin help|<l>quests<br><l>|PLAYER
+Quests|quests.list|List available quests|<l><l>|PLAYER
+Quests|quests.take|Accept a quest via command|<l><l>|PLAYER
+Quests|quests.quit|Quit a current quest|<l><l>|PLAYER
+Quests|quests.stats|View quest statistics|<l><l>|PLAYER
+Quests|quests.top|View plugin leaderboards|<l><l>|PLAYER
+Quests|quests.info|View plugin information|<l><l>|PLAYER
+Quests|quests.journal|Toggle the Quest Journal|<l><l>|PLAYER
+Quests|quests.admin|Display administrator help|<l>questadmin<br><l>|OP
+Quests|quests.admin.stats|View quest statistics of a player|<l><l>|OP
+Quests|quests.admin.give|Force a player to take a quest|<l><l>|OP
+Quests|quests.admin.quit|Force a player to quit a quest|<l><l>|OP
+Quests|quests.admin.points|Set a player's Quest Points|<l><l>|OP
+Quests|quests.admin.takepoints|Take away a player's Quest Points|<l><l>|OP
+Quests|quests.admin.givepoints|Add to a player's Quest Points|<l><l>|OP
+Quests|quests.admin.pointsall|Set ALL players' Quest Points|<l><l>|OP
+Quests|quests.admin.finish|Force a player to complete a quest|<l><l>|OP
+Quests|quests.admin.nextstage|Force a player to complete current stage|<l><l>|OP
+Quests|quests.admin.setstage|Set the current stage for a player|<l><l>|OP
+Quests|quests.admin.reset|Clear all Quests data of a player|<l><l>|OP
+Quests|quests.admin.remove|Remove a completed quest from a player|<l><l>|OP
+Quests|quests.admin.reload|Safely reload the plugin|<l><l>|OP
+Quests|quests.admin.drop|Ability to drop the Quests Journal|<l><l>|OP
+Quests|quests.editor.editor|Ability to open Quests Editor|<l><l>|OP
+Quests|quests.editor.create|Ability to create new quests|<l><l>|OP
+Quests|quests.editor.edit|Ability to edit existing quests|<l><l>|OP
+Quests|quests.editor.delete|Ability to delete existing quests|<l><l>|OP
+Quests|quests.events.editor|LEGACY - Ability to open Actions Editor|<l><l>|OP
+Quests|quests.events.create|LEGACY - Ability to create new actions|<l><l>|OP
+Quests|quests.events.edit|LEGACY - Ability to edit existing actions|<l><l>|OP
+Quests|quests.events.delete|LEGACY - Ability to delete existing actions|<l><l>|OP
+Quests|quests.actions.editor|Ability to open Actions Editor|<l><l>|OP
+Quests|quests.actions.create|Ability to create new actions|<l><l>|OP
+Quests|quests.actions.edit|Ability to edit existing actions|<l><l>|OP
+Quests|quests.actions.delete|Ability to delete existing actions|<l><l>|OP
+Shop|shop.worth.*|Gives access to all shop worth commands|<l><l>|OP
+Shop|shop.citizen.*|Gives access to all shop citizens commands|<l><l>|OP
+Shop|shop.page.*|Gives access to all shop page commands|<l><l>|OP
+Shop|shop.blacklist.*|Gives access to all shop blacklist commands|<l><l>|OP
+Shop|shop.*|Gives access to all shop commands|<l><l>|OP
+ChatManager|chatmanager.antiswear|Permission to view all the commands for the anti swear.|<l><l>|OP
+ChatManager|chatmanager.antiswear.help|Permission to view all the commands for the anti swear.|<l><l>|OP
+ChatManager|chatmanager.antiswear.add|Permission to add a word to the bannedwords.yml file.|<l><l>|OP
+ChatManager|chatmanager.antiswear.list|Permission to view a list of all the banned words.|<l><l>|OP
+ChatManager|chatmanager.antiswear.remove|Permission to remove a word from the bannedwords.yml file.|<l><l>|OP
+ChatManager|chatmanager.autobroadcast|Permission to view all the commands for auto broadcast.|<l><l>|OP
+ChatManager|chatmanager.autobroadcast.help|Permission to view all the commands for auto broadcast.|<l><l>|OP
+ChatManager|chatmanager.autobroadcast.list|Permission to view a list of all the auto broadcasts in a world.|<l><l>|OP
+ChatManager|chatmanager.autobroadcast.add|Permission to add new auto broadcast messages to the game.|<l><l>|OP
+ChatManager|chatmanager.autobroadcast.create|Permission to create new auto broadcast world to the game.|<l><l>|OP
+ChatManager|chatmanager.bannedcommands|Permission to view all the commands for banned commands.|<l><l>|OP
+ChatManager|chatmanager.bannedcommands.help|Permission to view all the commands for banned commands.|<l><l>|OP
+ChatManager|chatmanager.bannedcommands.add|Permission to add a command to the bannedcommands.yml file.|<l><l>|OP
+ChatManager|chatmanager.bannedcommands.list|empty|<l><l>|OP
+ChatManager|chatmanager.bannedcommands.remove|Permission to remove a command from the bannedcommands.yml file.|<l><l>|OP
+ChatManager|chatmanager.announcement|Permission to use the command /announcement.|<l><l>|OP
+ChatManager|chatmanager.broadcast|Permission to use the command /broadcast.|<l><l>|OP
+ChatManager|chatmanager.colors|Permission to see a list of color codes.|<l><l>|OP
+ChatManager|chatmanager.chatradius|Permission to use chat radius.|<l><l>|OP
+ChatManager|chatmanager.chatradius.local|Permission to enable local chat.|<l><l>|OP
+ChatManager|chatmanager.chatradius.global|Permission to enable global chat.|<l><l>|OP
+ChatManager|chatmanager.chatradius.world|Permission to enable world chat.|<l><l>|OP
+ChatManager|chatmanager.chatradius.spy|Permission to enable chat radius spy.|<l><l>|OP
+ChatManager|chatmanager.clearchat|Permission to use the command /clearchat.|<l><l>|OP
+ChatManager|chatmanager.commandspy|Permission to use the command /commandspy.|<l><l>|OP
+ChatManager|chatmanager.debug|Permission to debug the plugin.|<l><l>|OP
+ChatManager|chatmanager.formats|Permission to see a list of format codes.|<l><l>|OP
+ChatManager|chatmanager.lists.players|Permission to use the command /list.|<l><l>|OP
+ChatManager|chatmanager.lists.staff|Permission to use the command /staff.|<l><l>|OP
+ChatManager|chatmanager.message|Permission to send private messages to other players on the server.|<l><l>|OP
+ChatManager|chatmanager.message.self|Permission to allow players to send themselves private messages.|<l><l>|OP
+ChatManager|chatmanager.mutechat|Permission to use the command /mutechat.|<l><l>|OP
+ChatManager|chatmanager.mutechat.silent|Permission to use the command /mutechat -s.|<l><l>|OP
+ChatManager|chatmanager.perworldchat|empty|<l><l>|OP
+ChatManager|chatmanager.ping|Permission to view your current ping.|<l><l>|OP
+ChatManager|chatmanager.ping.others|Permission to view others players current ping.|<l><l>|OP
+ChatManager|chatmanager.preview.actionbar|Permission to show the join action bar|<l><l>|OP
+ChatManager|chatmanager.preview.title|Permission to show the join title.|<l><l>|OP
+ChatManager|chatmanager.reload|Permission to reload all the configuration files.|<l><l>|OP
+ChatManager|chatmanager.reply|Permission to reply to a private message.|<l><l>|OP
+ChatManager|chatmanager.rules|Permission to use the command /rules.|<l><l>|PLAYER
+ChatManager|chatmanager.sign.color|Permission to use color codes on signs.|<l><l>|OP
+ChatManager|chatmanager.sign.formats|Permission to use format codes on signs.|<l><l>|OP
+ChatManager|chatmanager.socialspy|empty|<l><l>|OP
+ChatManager|chatmanager.staffchat|Permission to use the command /staffchat.|<l><l>|OP
+ChatManager|chatmanager.togglechat|Permission to use the command /togglechat.|<l><l>|OP
+ChatManager|chatmanager.togglepm|Permission to use the command /togglepm.|<l><l>|OP
+ChatManager|chatmanager.warning|Permission to use the command /warning.|<l><l>|OP
+ChatManager|chatmanager.notify.antiadvertising|Permission to get notified when players advertise in chat.|<l><l>|OP
+ChatManager|chatmanager.notify.antiswear|Permission to get notified when a player swears in chat.|<l><l>|OP
+ChatManager|chatmanager.notify.antiunicode|Permission to get notified when a player uses special characters in chat.|<l><l>|OP
+ChatManager|chatmanager.notify.bannedcommands|Permission to get notified when a player uses a banned command.|<l><l>|OP
+ChatManager|chatmanager.bypass.antiadvertising|Permission to bypass the anti-advertising checker.|<l><l>|OP
+ChatManager|chatmanager.bypass.antibot|Permission to talk in chat without moving on join.|<l><l>|OP
+ChatManager|chatmanager.bypass.antiswear|Permission to bypass the anti-swear checker.|<l><l>|OP
+ChatManager|chatmanager.bypass.antiunicode|Permission to bypass the anti-unicode checker.|<l><l>|OP
+ChatManager|chatmanager.bypass.bannedcommands|Permission to bypass the banned commands checker.|<l><l>|OP
+ChatManager|chatmanager.bypass.caps|Permission to bypass caps checker.|<l><l>|OP
+ChatManager|chatmanager.bypass.chatdelay|Permission to bypass the chat delay.|<l><l>|OP
+ChatManager|chatmanager.bypass.chatradius|Permission to bypass the chat radius.|<l><l>|OP
+ChatManager|chatmanager.bypass.clearchat|Permission to bypass clear chat.|<l><l>|OP
+ChatManager|chatmanager.bypass.clearchat.onjoin|Permission to bypass clear chat on join.|<l><l>|OP
+ChatManager|chatmanager.bypass.commanddelay|empty|<l><l>|OP
+ChatManager|chatmanager.bypass.commandspy|Permission to bypass command spy.|<l><l>|OP
+ChatManager|chatmanager.bypass.dupe.chat|Permission to use repetative messages.|<l><l>|OP
+ChatManager|chatmanager.bypass.dupe.command|Permission to use repetative commands.|<l><l>|OP
+ChatManager|chatmanager.bypass.grammar|Permission to bypass the grammar checks.|<l><l>|OP
+ChatManager|chatmanager.bypass.ignored|Permission to be able to send private messages to players that are ignoring you.|<l><l>|OP
+ChatManager|chatmanager.bypass.mutechat|Permission to talk in chat when chat is disabled.|<l><l>|OP
+ChatManager|chatmanager.bypass.socialspy|Permission to bypass being seen from social spy.|<l><l>|OP
+ChatManager|chatmanager.bypass.spectator|Permission to private message staff that are in spectator mode.|<l><l>|OP
+ChatManager|chatmanager.bypass.togglepm|Permission to send players that has private message toggled messages.|<l><l>|OP
+ChatManager|chatmanager.bypass.vanish|Permission to send private messages to players that are in vanish.|<l><l>|OP
+ChatManager|chatmanager.format.color|Permission to use color codes in chat.|<l><l>|OP
+ChatManager|chatmanager.format.magic|Permission to use magic in chat.|<l><l>|OP
+ChatManager|chatmanager.format.bold|Permission to use bold in chat.|<l><l>|OP
+ChatManager|chatmanager.format.strikethrough|Permission to use strikethrough in chat.|<l><l>|OP
+ChatManager|chatmanager.format.underline|Permission to use underline in chat.|<l><l>|OP
+ChatManager|chatmanager.format.italic|Permission to use Italic in chat.|<l><l>|OP
+ChatManager|chatmanager.chatradius.all|Permission to access all chat radius channels.|<l><l>|NONE
+ChatManager|chatmanager.bypass.all|Give players access to bypass every check.|<l><l>|NONE
+ChatManager|chatmanager.formats.all|Give players access to use all color and format codes in chat and on signs.|<l><l>|NONE
+ChatManager|chatmanager.commands.all|Give players access to every command.|<l><l>|NONE
+ChatManager|chatmanager.notify.all|Gets notified everytime a player breaks the rules.|<l><l>|NONE
+ChatManager|chatmanager.*|Give players with op everything by default.|<l><l>|OP
+SimplePortals|simpleportals.admin|Gives the player permission to everything in the plugin.|<l><l>|OP
+SimplePortals|simpleportals.showregion|Allows the player to view a portal's region.|<l><l>|OP
+SimplePortals|simpleportals.setlocation|Allows the player to set a portal's teleport location.|<l><l>|OP
+SimplePortals|simpleportals.info|Allows the player to view the plugin's information.|<l><l>|OP
+SimplePortals|simpleportals.reload|Allows the player to reload the configuration files.|<l><l>|OP
+SimplePortals|simpleportals.create|Allows the player to create a portal.|<l><l>|OP
+SimplePortals|simpleportals.delete|Allows the player to delete a portal.|<l><l>|OP
+SimplePortals|simpleportals.list|Allows the player to list all portals.|<l><l>|OP
+SimplePortals|simpleportals.switchserver|Allows the player to change the server a portal can teleport a player to using BungeeCord.|<l><l>|OP
+SimplePortals|simpleportals.selectionmode|Allows the player to enter/exit selection mode.|<l><l>|OP
+SimplePortals|simpleportals.portals.*|Allows the player to use all portals.|<l><l>|OP
+SimplePortals|simpleportals.addcommand|empty|<l><l>|OP
+SimplePortals|simpleportals.clearcommands|empty|<l><l>|OP
+SimplePortals|simpleportals.togglecommandonly|Allows the player to toggle command only mode for a portal.|<l><l>|OP
+SimplePortals|simpleportals.fill|Allows the player to fill a portal region with specific materials.|<l><l>|OP
+SimplePortals|simpleportals.viewcommands|Allows the player to view the commands of a portal.|<l><l>|OP
+SimplePortals|simpleportals.toggle|Allows the player to toggle a portal entirely.|<l><l>|OP

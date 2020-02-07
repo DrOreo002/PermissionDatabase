@@ -368,6 +368,7 @@ def check_for_duplicated_permission():
 
     databaseFile = open("Database.txt", "r+")
     loadedPermission = []
+    found = False
 
     for line in databaseFile.readlines():
         if line.startswith("#"): 
@@ -375,8 +376,12 @@ def check_for_duplicated_permission():
         dat = line.split("|")[1]
         if dat in loadedPermission:
             print(INFO_TEXT + "Found duplicated permission " + Fore.RED + dat)
+            found = True
         else:
             loadedPermission.append(dat);
+    
+    if not found:
+        print(INFO_TEXT + "No duplicated permission found!")
     databaseFile.close()
 
 def remove_duplicated_permission():

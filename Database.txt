@@ -7024,3 +7024,796 @@ SimplePortals|simpleportals.togglecommandonly|Allows the player to toggle comman
 SimplePortals|simpleportals.fill|Allows the player to fill a portal region with specific materials.|<l><l>|OP
 SimplePortals|simpleportals.viewcommands|Allows the player to view the commands of a portal.|<l><l>|OP
 SimplePortals|simpleportals.toggle|Allows the player to toggle a portal entirely.|<l><l>|OP
+Graves|graves.protection|Can have protection on graves|<l><l>|PLAYER
+Doorbells|doorbells.use|Use doorbell|<l><l>|PLAYER
+Doorbells|doorbells.place|Place doorbell|<l><l>|PLAYER
+Doorbells|doorbells.remove|Remove doorbell|<l><l>|PLAYER
+Doorbells|doorbells.reload|Reload Doorbells|<l>doorbellsreload<br><l>|OP
+EssentialsKits|essentialskits.kitsgui|Kits GUI|<l><l>|PLAYER
+EssentialsKits|essentialskits.previewkit|Preview kits|<l><l>|PLAYER
+EssentialsKits|essentialskits.editkit|Edit kits|<l><l>|OP
+EssentialsKits|essentialskits.delaykit|Delay kits|<l><l>|OP
+EssentialsKits|essentialskits.deletekit|Delete kits|<l><l>|OP
+DoorKnock|doorknock.knock|Knock on a door|<l><l>|PLAYER
+LeashTeleport|leashteleport.use|Teleport leashed mobs|<l><l>|PLAYER
+LeashTeleport|leashteleport.reload|Reload LeashTeleport|<l>leashteleportreload<br><l>|OP
+StreetLamps|streetlamps.place|Place street lamp|<l><l>|PLAYER
+StreetLamps|streetlamps.remove|Remove street lamp|<l><l>|PLAYER
+StreetLamps|streetlamps.reload|Reload StreetLamps|<l>streetlampsreload<br><l>|OP
+UltimateShops|ushops.user|Allows player to use shops|<l><l>|PLAYER
+UltimateShops|ushops.make|Allows players to make shops|<l><l>|PLAYER
+UltimateShops|ushops.admin|Allows player to use the plugin's admin features|<l><l>|OP
+HomePlus|homeplus.homes.vip|Permissions only for vip|<l><l>|OP
+Welcome|welcome.reload|Reload plugin|<l><l>|OP
+VillagerInventories|villagerinventories.use|Open villager inventory|<l><l>|OP
+Tokens|tokens.use|Required to use /tokens|<l>tokens<br><l>|PLAYER
+Tokens|tokens.others|Required to use /tokens (player name)|<l><l>|NONE
+Tokens|tokens.give|Required to use /tokes give (target player) (token amount)|<l><l>|PLAYER
+Tokens|tokens.reload|Required to use /tokens reload|<l><l>|NONE
+Tokens|tokens.redeem|Required to use /redeem|<l>redeem<br><l>|PLAYER
+Tokens|tokens.set|Required to use /tokens set|<l><l>|OP
+Tokens|tokens.add|Required to use /tokens add|<l><l>|OP
+Tokens|tokens.remove|Required to use /tokens remove|<l><l>|OP
+ProtectionLib|protectionlib.admin|Permission to place furnitures without acces.|<l><l>|OP
+FurnitureLib|furniture.player|empty|<l><l>|OP
+FurnitureLib|furniture.admin|empty|<l><l>|OP
+Factions|factions.access|manage access|<l><l>|NONE
+Factions|factions.access.deny|deny faction access|<l><l>|NONE
+Factions|factions.access.deny.one|deny access in a single chunk|<l><l>|NONE
+Factions|factions.access.deny.fill|deny access by filling|<l><l>|NONE
+Factions|factions.access.deny.square|deny access by square and radius|<l><l>|NONE
+Factions|factions.access.deny.circle|deny access by circle and radius|<l><l>|NONE
+Factions|factions.access.grant|grant faction access|<l><l>|NONE
+Factions|factions.access.grant.one|grant access in a single chunk|<l><l>|NONE
+Factions|factions.access.grant.fill|grant access by filling|<l><l>|NONE
+Factions|factions.access.grant.square|grant access by square and radius|<l><l>|NONE
+Factions|factions.access.grant.circle|grant access by circle and radius|<l><l>|NONE
+Factions|factions.access.inspect|inspect where someone has access|<l><l>|NONE
+Factions|factions.access.view|view access|<l><l>|NONE
+Factions|factions.override|enable override mode|<l><l>|NONE
+Factions|factions.basecommand|use factions base command|<l><l>|NONE
+Factions|factions.claim|claim faction territory|<l><l>|NONE
+Factions|factions.claim.one|claim a single chunk|<l><l>|NONE
+Factions|factions.claim.auto|claim as you walk around|<l><l>|NONE
+Factions|factions.claim.fill|claim by filling|<l><l>|NONE
+Factions|factions.claim.square|claim by square and radius|<l><l>|NONE
+Factions|factions.claim.circle|claim by circle and radius|<l><l>|NONE
+Factions|factions.claim.all|claim all faction land|<l><l>|NONE
+Factions|factions.documentation|show documentation|<l><l>|NONE
+Factions|factions.documentation.flags|show flag documentation|<l><l>|NONE
+Factions|factions.documentation.power|show power documentation|<l><l>|NONE
+Factions|factions.documentation.perms|show perms documentation|<l><l>|NONE
+Factions|factions.documentation.ranks|show rank documentation|<l><l>|NONE
+Factions|factions.documentation.tax|show tax documentation|<l><l>|NONE
+Factions|factions.documentation.warps|show warp documentation|<l><l>|NONE
+Factions|factions.expansions|list expansions|<l><l>|NONE
+Factions|factions.faction|show faction information|<l><l>|NONE
+Factions|factions.flag|manage faction flags|<l><l>|NONE
+Factions|factions.flag.list|list flags|<l><l>|NONE
+Factions|factions.flag.set|set flags|<l><l>|NONE
+Factions|factions.flag.show|show flags|<l><l>|NONE
+Factions|factions.fly|faction fly|<l><l>|NONE
+Factions|factions.fly.other|set faction fly for others|<l><l>|NONE
+Factions|factions.invite.list|list invited players|<l><l>|NONE
+Factions|factions.invite.list.other|list invited players of another factions|<l><l>|NONE
+Factions|factions.invite.add|invite player|<l><l>|NONE
+Factions|factions.invite.remove|revoke an invite|<l><l>|NONE
+Factions|factions.money|manage faction money|<l><l>|NONE
+Factions|factions.money.p2f|transfer p --> f|<l><l>|NONE
+Factions|factions.moneyconvert|convert to the new money system|<l><l>|NONE
+Factions|factions.motd|faction motd|<l><l>|NONE
+Factions|factions.perm|change faction permissions|<l><l>|NONE
+Factions|factions.perm.list|list perms|<l><l>|NONE
+Factions|factions.perm.set|set perms|<l><l>|NONE
+Factions|factions.perm.show|show who has perm|<l><l>|NONE
+Factions|factions.perm.view|view perms given to|<l><l>|NONE
+Factions|factions.perm.viewall|view all perms held by|<l><l>|NONE
+Factions|factions.player|show player information|<l><l>|OP
+Factions|factions.powerboost.faction|manage faction powerboost|<l><l>|NONE
+Factions|factions.powerboost.faction.add|add to faction powerboost|<l><l>|NONE
+Factions|factions.powerboost.faction.multiply|multiply faction powerboost|<l><l>|NONE
+Factions|factions.powerboost.faction.set|set faction powerboost|<l><l>|NONE
+Factions|factions.powerboost.faction.show|show faction powerboost|<l><l>|NONE
+Factions|factions.powerboost.faction.take|take faction powerboost|<l><l>|NONE
+Factions|factions.powerboost.player|manage player powerboost|<l><l>|NONE
+Factions|factions.powerboost.player.add|add to player powerboost|<l><l>|NONE
+Factions|factions.powerboost.player.multiply|multiply player powerboost|<l><l>|NONE
+Factions|factions.powerboost.player.set|set player powerboost|<l><l>|NONE
+Factions|factions.powerboost.player.show|show player powerboost|<l><l>|NONE
+Factions|factions.powerboost.player.take|take player powerboost|<l><l>|NONE
+Factions|factions.rank|manage/show ranks|<l><l>|NONE
+Factions|factions.rank.show|show rank|<l><l>|NONE
+Factions|factions.rank.set|set rank|<l><l>|NONE
+Factions|factions.rank.list|list ranks|<l><l>|NONE
+Factions|factions.rank.edit|edit ranks|<l><l>|NONE
+Factions|factions.rank.edit.create|create rank|<l><l>|NONE
+Factions|factions.rank.edit.name|set rank name|<l><l>|NONE
+Factions|factions.rank.edit.prefix|set rank prefix|<l><l>|NONE
+Factions|factions.rank.edit.priority|set rank priority|<l><l>|NONE
+Factions|factions.rank.edit.delete|delete rank|<l><l>|NONE
+Factions|factions.relation.list|list all factions with certain relation|<l><l>|NONE
+Factions|factions.relation.set|set relation wish to another faction|<l><l>|NONE
+Factions|factions.relation.wishes|list the relation wishes|<l><l>|NONE
+Factions|factions.seechunkold|see the chunk you stand in|<l><l>|NONE
+Factions|factions.setpower|set power|<l><l>|NONE
+Factions|factions.status|show status|<l><l>|NONE
+Factions|factions.tax|manage taxes|<l><l>|NONE
+Factions|factions.tax.faction|show faction tax|<l><l>|NONE
+Factions|factions.tax.player|show player tax|<l><l>|NONE
+Factions|factions.tax.run|run a tax collection|<l><l>|NONE
+Factions|factions.tax.set|set taxes|<l><l>|NONE
+Factions|factions.name|set faction name|<l><l>|NONE
+Factions|factions.title.color|set player title with color|<l><l>|NONE
+Factions|factions.territorytitles|toggle territory titles|<l><l>|NONE
+Factions|factions.unclaim.one|unclaim a single chunk|<l><l>|NONE
+Factions|factions.unclaim.auto|unclaim as you walk around|<l><l>|NONE
+Factions|factions.unclaim.fill|unclaim by filling|<l><l>|NONE
+Factions|factions.unclaim.square|unclaim by square and radius|<l><l>|NONE
+Factions|factions.unclaim.circle|unclaim by circle and radius|<l><l>|NONE
+Factions|factions.unclaim.all|unclaim all faction land|<l><l>|NONE
+Factions|factions.vote|vote in faction votes|<l><l>|NONE
+Factions|factions.vote.do|do vote|<l><l>|NONE
+Factions|factions.vote.list|list votes|<l><l>|NONE
+Factions|factions.vote.show|show vote result|<l><l>|NONE
+Factions|factions.vote.create|create a vote|<l><l>|NONE
+Factions|factions.vote.remove|remove a vote|<l><l>|NONE
+Factions|factions.warp.go|go to a warp|<l><l>|NONE
+Factions|factions.warp.list|list warps|<l><l>|NONE
+Factions|factions.warp.add|add new warp|<l><l>|NONE
+Factions|factions.warp.remove|remove warp|<l><l>|NONE
+Factions|factions.unstuck|teleport to nearest wilderness|<l><l>|NONE
+Factions|factions.clean|clean the factions database|<l><l>|NONE
+Factions|factions.kit.op|empty|<l><l>|OP
+Factions|factions.kit.rank3|empty|<l><l>|NONE
+Factions|factions.kit.rank2|empty|<l><l>|NONE
+Factions|factions.kit.rank1|empty|<l><l>|NONE
+Factions|factions.kit.rank0|empty|<l><l>|NONE
+Factions|factions.kit.default|empty|<l><l>|PLAYER
+SilkSpawners|silkspawners.help|Allows you to see the help menu|<l><l>|PLAYER
+Citizens|citizens.npc.limit.1|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.2|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.3|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.4|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.5|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.6|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.7|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.8|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.9|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.10|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.11|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.12|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.13|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.14|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.15|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.16|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.17|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.18|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.19|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.20|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.21|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.22|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.23|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.24|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.25|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.26|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.27|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.28|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.29|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.30|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.31|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.32|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.33|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.34|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.35|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.36|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.37|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.38|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.39|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.40|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.41|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.42|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.43|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.44|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.45|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.46|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.47|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.48|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.49|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.50|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.51|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.52|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.53|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.54|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.55|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.56|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.57|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.58|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.59|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.60|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.61|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.62|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.63|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.64|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.65|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.66|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.67|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.68|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.69|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.70|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.71|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.72|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.73|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.74|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.75|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.76|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.77|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.78|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.79|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.80|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.81|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.82|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.83|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.84|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.85|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.86|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.87|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.88|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.89|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.90|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.91|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.92|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.93|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.94|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.95|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.96|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.97|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.98|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.99|Assign this permission to change npc limit|<l><l>|NONE
+Citizens|citizens.npc.limit.100|Assign this permission to change npc limit|<l><l>|NONE
+BackpacksRemastered|backpacks.*|Gives access to all commands in BackpacksRemastered.|<l><l>|OP
+BackpacksRemastered|backpacks.main|Gives generic access to commands from this plugin.|<l>backpacks<br><l>|PLAYER
+BackpacksRemastered|backpacks.help|Gives access to the help command.|<l><l>|PLAYER
+BackpacksRemastered|backpacks.info|Allows players to use the info command.|<l><l>|PLAYER
+BackpacksRemastered|backpacks.item.info|Gives access to the item-info command.|<l><l>|OP
+BackpacksRemastered|backpacks.item.info.get|Gives access to the item-info-get command.|<l><l>|OP
+BackpacksRemastered|backpacks.item.give|Gives access to the item-give command.|<l><l>|OP
+BackpacksRemastered|backpacks.config.reload|Allows one to reload the YML configuration.|<l><l>|OP
+BackpacksRemastered|backpacks.craft.small|Allows one to craft the small backpack.|<l><l>|PLAYER
+BackpacksRemastered|backpacks.craft.large|Allows one to craft the large backpack.|<l><l>|PLAYER
+BackpacksRemastered|backpacks.craft.linked|Allows one to craft the linked backpack.|<l><l>|PLAYER
+BackpacksRemastered|backpacks.craft.combined|Allows one to craft the combined backpack.|<l><l>|PLAYER
+BackpacksRemastered|backpacks.craft.craft|Allows one to craft the craft backpack.|<l><l>|PLAYER
+BackpacksRemastered|backpacks.craft.ender|Allows one to craft the ender backpack.|<l><l>|PLAYER
+BackpacksRemastered|backpacks.craft.furnace|Allows one to craft the furnace backpack.|<l><l>|PLAYER
+BackpacksRemastered|backpacks.link|Allows a player to link a linked backpack to a chest.|<l><l>|PLAYER
+BackpacksRemastered|backpacks.split|Allows a player to use the split command.|<l><l>|PLAYER
+BackpacksRemastered|backpacks.nest|Allows players to put one backpack inside of another.|<l><l>|PLAYER
+BackpacksRemastered|backpacks.materials|Allows players to use the materials command.|<l><l>|OP
+BackpacksRemastered|backpacks.materials.search|Allows players to use the materials-search command.|<l><l>|OP
+BackpacksRemastered|backpacks.vfurnace|Allows players to use the vfurnace command.|<l><l>|OP
+SuperTrails|trail.allow|empty|<l><l>|OP
+SuperTrails|trail.all|empty|<l><l>|OP
+SuperTrails|trail.heart|empty|<l><l>|OP
+SuperTrails|trail.angry|empty|<l><l>|OP
+SuperTrails|trail.magic|empty|<l><l>|OP
+SuperTrails|trail.fun|empty|<l><l>|OP
+SuperTrails|trail.cloud|empty|<l><l>|OP
+SuperTrails|trail.wmagic|empty|<l><l>|OP
+SuperTrails|trail.ender|empty|<l><l>|OP
+SuperTrails|trail.green|empty|<l><l>|OP
+SuperTrails|trail.spark|empty|<l><l>|OP
+SuperTrails|trail.flame|empty|<l><l>|OP
+SuperTrails|trail.white|empty|<l><l>|OP
+SuperTrails|trail.note|empty|<l><l>|OP
+SuperTrails|trail.snow|empty|<l><l>|OP
+SuperTrails|trail.water|empty|<l><l>|OP
+SuperTrails|trail.lava|empty|<l><l>|OP
+SuperTrails|trail.crit|empty|<l><l>|OP
+SuperTrails|trail.smoke|empty|<l><l>|OP
+SuperTrails|trail.spell|empty|<l><l>|OP
+SuperTrails|trail.enchant|empty|<l><l>|OP
+SuperTrails|trail.splash|empty|<l><l>|OP
+SuperTrails|trail.slime|empty|<l><l>|OP
+SuperTrails|trail.snowball|empty|<l><l>|OP
+SuperTrails|trail.red|empty|<l><l>|OP
+SuperTrails|trail.void|empty|<l><l>|OP
+SuperTrails|trail.pop|empty|<l><l>|OP
+SuperTrails|trail.blocks|empty|<l><l>|OP
+SuperTrails|trail.block.rainbow|empty|<l><l>|OP
+SuperTrails|trail.block.flower|empty|<l><l>|OP
+SuperTrails|trail.block.carpet|empty|<l><l>|OP
+SuperTrails|trail.block.sea|empty|<l><l>|OP
+SuperTrails|trail.block.redstone|empty|<l><l>|OP
+SuperTrails|trail.block.wheat|empty|<l><l>|OP
+SuperTrails|trail.block.ore|empty|<l><l>|OP
+SuperTrails|trail.block.clay|empty|<l><l>|OP
+SuperTrails|trail.rains|empty|<l><l>|OP
+SuperTrails|trail.rain.tear|empty|<l><l>|OP
+SuperTrails|trail.rain.blood|empty|<l><l>|OP
+SuperTrails|trail.rain.dia|empty|<l><l>|OP
+SuperTrails|trail.rain.wart|empty|<l><l>|OP
+SuperTrails|trail.rain.gold|empty|<l><l>|OP
+SuperTrails|trail.rain.builder|empty|<l><l>|OP
+SuperTrails|trail.nolimit|empty|<l><l>|OP
+SuperTrails|trail.limit.vip|empty|<l><l>|OP
+SuperTrails|trail.limit.bypass|empty|<l><l>|OP
+SuperTrails|trail.rainbow|empty|<l><l>|OP
+SuperTrails|trail.modemenu|empty|<l><l>|OP
+SuperTrails|trail.mode.circle|empty|<l><l>|OP
+SuperTrails|trail.mode.nn|empty|<l><l>|OP
+SuperTrails|trail.wings|empty|<l><l>|OP
+SuperTrails|trail.breath|empty|<l><l>|OP
+SuperTrails|trail.endrod|empty|<l><l>|OP
+SuperTrails|trail.damage|empty|<l><l>|OP
+SuperTrails|trail.sand|empty|<l><l>|OP
+SuperTrails|trail.totem|empty|<l><l>|OP
+SuperTrails|trail.wing.angel|empty|<l><l>|OP
+SuperTrails|trail.wing.bf|empty|<l><l>|OP
+SuperTrails|trail.event|empty|<l><l>|OP
+Wild|wild.wildtp|Gives the player the abiltiy to use the /wild|<l><l>|PLAYER
+Wild|wild.wildtp.world.*|Gives the player the abiltiy to use the /wild in all worlds|<l><l>|PLAYER
+Wild|wild.wildtp.others|Gives the player the ability to use /wild on other players|<l><l>|OP
+Wild|wild.wildtp.create.sign|Gives the player the ablity to make a wildtp sign|<l><l>|OP
+Wild|wild.wildtp.reload|Gives the player the ablity to reload plugin config|<l><l>|OP
+Wild|wild.wildtp.break.sign|Gives the player the ablility to break WildTp signs|<l><l>|OP
+Wild|wild.wildtp.cooldown.bypass|Bypass command/sign cooldowns for the player|<l><l>|OP
+Wild|wild.wildtp.cost.bypass|Bypasses the cost for command/sign use|<l><l>|OP
+Wild|wild.wildtp.wait.bypass|Bypassess the wait for the command|<l><l>|OP
+Wild|wild.wildtp.set|Allows the player to set min and max x and z and use the gui|<l><l>|OP
+Wild|wild.wildtp.back|Allows access to /wildtp back|<l><l>|OP
+Wild|wild.wildtp.create.portal|Allows the player to create a portal|<l><l>|OP
+Wild|wild.wildtp.delete.portal|Allows player to delete portal|<l><l>|OP
+Wild|wild.wildtp.limit.bypass|Allow the player to not be affected by the command limit|<l><l>|OP
+BetterRealismPro|betterrealism.reload|allows reload|<l><l>|OP
+BetterRealismPro|brp.trails|allows trails|<l><l>|OP
+BetterRealismPro|brp.itemdrop|allows itemdrop sound|<l><l>|OP
+BetterRealismPro|brp.furnaceextract|allows furnaceextract sound|<l><l>|PLAYER
+BetterRealismPro|brp.bedleave|allows bedleave sound|<l><l>|PLAYER
+BetterRealismPro|brp.bedenter|allows bedenter sound|<l><l>|PLAYER
+BetterRealismPro|brp.chickendrops|allows chicken drops|<l><l>|PLAYER
+BetterRealismPro|brp.villagerdrops|allows villager drops|<l><l>|PLAYER
+BetterRealismPro|brp.dragondrops|allows dragon drops|<l><l>|PLAYER
+BetterRealismPro|betterrealism.version|allows version command|<l><l>|OP
+VotingPlugin|VotingPlugin.Player|Allows basic access player commands|<l><l>|PLAYER
+VotingPlugin|VotingPlugin.Mod|Allows mod access player commands|<l><l>|OP
+VotingPlugin|VotingPlugin.Admin|Allows admin access player commands|<l><l>|OP
+VotingPlugin|VotingPlugin.Login.RemindVotes|Allows players to get remined on login if they can vote|<l><l>|PLAYER
+VotingPlugin|VotingPlugin.Admin.Debug|Permission to view debug info ingame|<l><l>|OP
+VotingPlugin|VotingPlugin.Signs.Create|Allows access to create signs|<l><l>|OP
+VotingPlugin|VotingPlugin.TopVoter.Ignore|Allows you to be exempt from top voter|<l><l>|OP
+VotingPlugin|VotingPlugin.NoRemind|Ignore vote reminding|<l><l>|NONE
+VotingPlugin|VotingPlugin.Sign.Create|Permission to create sign|<l><l>|OP
+Chunkmaster|cunkmaster.generate|Allows the generate subcommand.|<l><l>|OP
+Chunkmaster|chunkmaster.list|Allows the list subcommand.|<l><l>|OP
+Chunkmaster|chunkmaster.cancel|Allows the remove subcommand.|<l><l>|OP
+Chunkmaster|chunkmaster.pause|Allows the pause subcommand.|<l><l>|OP
+Chunkmaster|chunkmaster.resume|Allows the resume subcommand.|<l><l>|OP
+Chunkmaster|chunkmaster.reload|Allows the reload subcommand.|<l><l>|OP
+Chunkmaster|chunkmaster.tpchunk|Allows the tpchunk subcommand.|<l><l>|OP
+Chunkmaster|chunkmaster.chunkmaster|Allows Chunkmaster commands.|<l>chunkmaster<br><l>|OP
+Chunkmaster|chunkmaster.*|Wildcard permission|<l><l>|OP
+MassiveCore|massivecore.basecommand|use the MassiveCore base command|<l><l>|NONE
+MassiveCore|massivecore.test|run developer test|<l><l>|NONE
+MassiveCore|massivecore.id|see the server id|<l><l>|NONE
+MassiveCore|massivecore.hearsound|hear a sound|<l><l>|NONE
+MassiveCore|massivecore.store|use the mstore command|<l><l>|NONE
+MassiveCore|massivecore.store.stats|show mstore statistics|<l><l>|NONE
+MassiveCore|massivecore.store.listcolls|list collections in a database|<l><l>|NONE
+MassiveCore|massivecore.store.copydb|copy database content|<l><l>|NONE
+MassiveCore|massivecore.store.clean|clean database|<l><l>|NONE
+MassiveCore|massivecore.usys|use the usys command|<l><l>|NONE
+MassiveCore|massivecore.usys.multiverse|manage multiverses|<l><l>|NONE
+MassiveCore|massivecore.usys.multiverse.list|list multiverses|<l><l>|NONE
+MassiveCore|massivecore.usys.multiverse.show|show multiverse|<l><l>|NONE
+MassiveCore|massivecore.usys.multiverse.new|create new multiverse|<l><l>|NONE
+MassiveCore|massivecore.usys.multiverse.del|delete multiverse|<l><l>|NONE
+MassiveCore|massivecore.usys.universe|manage universes|<l><l>|NONE
+MassiveCore|massivecore.usys.universe.new|create new universe in multiverse|<l><l>|NONE
+MassiveCore|massivecore.usys.universe.del|delete universe in multiverse|<l><l>|NONE
+MassiveCore|massivecore.usys.universe.clear|clear universe in multiverse|<l><l>|NONE
+MassiveCore|massivecore.usys.world|set a worlds universe in a multiverse|<l><l>|NONE
+MassiveCore|massivecore.usys.aspect|manage aspects|<l><l>|NONE
+MassiveCore|massivecore.usys.aspect.list|list aspects|<l><l>|NONE
+MassiveCore|massivecore.usys.aspect.show|show aspect|<l><l>|NONE
+MassiveCore|massivecore.usys.aspect.use|set multiverse for aspect|<l><l>|NONE
+MassiveCore|massivecore.buffer|use the buffer command|<l><l>|NONE
+MassiveCore|massivecore.buffer.print|print buffer|<l><l>|NONE
+MassiveCore|massivecore.buffer.clear|clear buffer|<l><l>|NONE
+MassiveCore|massivecore.buffer.set|set buffer|<l><l>|NONE
+MassiveCore|massivecore.buffer.add|add to buffer|<l><l>|NONE
+MassiveCore|massivecore.buffer.whitespace|add whitespace to buffer|<l><l>|NONE
+MassiveCore|massivecore.cmdurl|run all lines of url content|<l><l>|NONE
+MassiveCore|massivecore.config|edit config|<l><l>|NONE
+MassiveCore|massivecore.sponsor|toggle sponsor message|<l><l>|NONE
+MassiveCore|massivecore.click|click|<l><l>|NONE
+MassiveCore|massivecore.version|diplay plugin version|<l><l>|NONE
+MassiveCore|massivecore.notpdelay|teleport without delay|<l><l>|NONE
+MassiveCore|massivecore.variable.book|replace ***book*** with content of book in your hand|<l><l>|NONE
+MassiveCore|massivecore.variable.buffer|replace ***buffer*** with content of your buffer|<l><l>|NONE
+MassiveCore|massivecore.*|empty|<l><l>|NONE
+MassiveCore|massivecore.kit.operator|empty|<l><l>|OP
+MassiveCore|massivecore.kit.rank3|empty|<l><l>|NONE
+MassiveCore|massivecore.kit.rank2|empty|<l><l>|NONE
+MassiveCore|massivecore.kit.rank1|empty|<l><l>|NONE
+MassiveCore|massivecore.kit.rank0|empty|<l><l>|NONE
+MassiveCore|massivecore.kit.default|empty|<l><l>|PLAYER
+Rankup|rankup.*|empty|<l><l>|OP
+Rankup|rankup.status|empty|<l>pru<br><l>|PLAYER
+Rankup|rankup.rankup|empty|<l>rankup<br><l>|PLAYER
+Rankup|rankup.prestige|empty|<l>prestige<br><l>|PLAYER
+Rankup|rankup.reload|empty|<l><l>|OP
+Rankup|rankup.ranks|empty|<l><l>|PLAYER
+Matrix|matrix.*|Gives access to all Matrix AntiCheat's permissions.|<l><l>|OP
+Matrix|matrix.command|Use /matrix command|<l><l>|OP
+Matrix|matrix.npc|Use /matrix npc command|<l><l>|OP
+Matrix|matrix.kick|Kick a player out of game.|<l><l>|OP
+Matrix|matrix.bypass|Bypass Matrix's checks.|<l><l>|OP
+Matrix|matrix.notify|Send and recieve messages to all staff.|<l><l>|OP
+Matrix|matrix.gui|Open control GUI|<l><l>|OP
+Matrix|matrix.verbose|Use the verbose command and seee verbose output|<l><l>|OP
+Matrix|matrix.reload|Reload the plugin|<l><l>|OP
+Matrix|matrix.message|Use the warning message command|<l><l>|OP
+Matrix|matrix.togglechecks|Open checks toggle GUI|<l><l>|OP
+Matrix|matrix.violations|Open violations GUI|<l><l>|OP
+Matrix|matrix.ping|Get the player latency value|<l><l>|OP
+Matrix|matrix.cps|View the click speed of players|<l><l>|OP
+CommandPanels|commandpanel.panel.default|empty|<l><l>|PLAYER
+CommandPanels|commandpanel.other|empty|<l><l>|OP
+CommandPanels|commandpanel.panel.*|empty|<l><l>|OP
+CommandPanels|commandpanel.item.*|empty|<l><l>|OP
+CommandPanels|commandpanel.move.*|empty|<l><l>|OP
+CommandPanels|commandpanel.reload|empty|<l><l>|OP
+CommandPanels|commandpanel.close|empty|<l><l>|PLAYER
+CommandPanels|commandpanel.generate|empty|<l><l>|OP
+CommandPanels|commandpanel.version|empty|<l><l>|PLAYER
+CommandPanels|commandpanel.editor|empty|<l><l>|PLAYER
+CommandPanels|commandpanel.list|empty|<l><l>|OP
+HolographicExtension|holographic-extension.help|Allow user to use the help subcommand.|<l><l>|OP
+HolographicExtension|holographic-extension.list|Allow user to use the list subcommand.|<l><l>|OP
+HolographicExtension|holographic-extension.about|Allow user to use the about subcommand.|<l><l>|OP
+HolographicExtension|holographic-extension.reload|Allow user to use the help subcommand.|<l><l>|OP
+HolographicExtension|holographic-extension.info|Allow user to use the info subcommand.|<l><l>|OP
+AdvancedRegionMarket|arm.*|Give access to all commands of AdvancedRegionMarket|<l><l>|OP
+AdvancedRegionMarket|arm.member.*|Give access to all commands for normal players without subregion commands and halp commands|<l><l>|PLAYER
+AdvancedRegionMarket|arm.subregion.*|Give access to all commands for subregions|<l><l>|PLAYER
+AdvancedRegionMarket|arm.admin.setinactivityreset|Allows to enable and disable inactivityreset for specific regions|<l><l>|OP
+AdvancedRegionMarket|arm.admin.create.sellregion|Allow to create sellregions|<l><l>|OP
+AdvancedRegionMarket|arm.admin.create.rentregion|Allow to create rentregions|<l><l>|OP
+AdvancedRegionMarket|arm.admin.create.contractregion|Allow to create contractregions|<l><l>|OP
+AdvancedRegionMarket|arm.admin.remove|Allow to remove signs that a linked to regions|<l><l>|OP
+AdvancedRegionMarket|arm.admin.buildeverywhere|Allows to break blocks in regions that have the hotel setting enabled|<l><l>|OP
+AdvancedRegionMarket|arm.admin.updateschematic|Allows update the schematic of a region|<l><l>|OP
+AdvancedRegionMarket|arm.admin.setishotel|Allows to enable and disable the hotel feature for specific regions|<l><l>|OP
+AdvancedRegionMarket|arm.admin.setautorestore|Allows to enable and disable the automatic region restore after a region got automatically reset|<l><l>|OP
+AdvancedRegionMarket|arm.admin.setregionkind|Allows to change the regionkind of a region|<l><l>|OP
+AdvancedRegionMarket|arm.admin.listregions|Allows to list all regions where a player is owner or member|<l><l>|OP
+AdvancedRegionMarket|arm.admin.resetregion|Allows to reset a region which includes restoring the blocks inside the region|<l><l>|OP
+AdvancedRegionMarket|arm.admin.restore|Allows to reset the blocks inside a region without removing owner or members|<l><l>|OP
+AdvancedRegionMarket|arm.admin.unsell|Allows to unsell a region without restoring the blocks inside the region|<l><l>|OP
+AdvancedRegionMarket|arm.admin.info|Allows to display information about a region|<l><l>|OP
+AdvancedRegionMarket|arm.admin.addmember|Allows to add a member to a region without having owner rights on it|<l><l>|OP
+AdvancedRegionMarket|arm.admin.removemember|Allows to remove a member from a region without having owner rights on it|<l><l>|OP
+AdvancedRegionMarket|arm.admin.tp|Allows to teleport to a region without being a member of it|<l><l>|OP
+AdvancedRegionMarket|arm.admin.setowner|Allows to set the owner of a region|<l><l>|OP
+AdvancedRegionMarket|arm.admin.bypasslimit|Allows bypass region limits|<l><l>|OP
+AdvancedRegionMarket|arm.admin.setwarp|Allows to change the teleport location of a region|<l><l>|OP
+AdvancedRegionMarket|arm.admin.deleteregion|Allows to delete a region|<l><l>|OP
+AdvancedRegionMarket|arm.admin.extend|Allows to extend a region without being the owner of it|<l><l>|OP
+AdvancedRegionMarket|arm.admin.reload|Allows to reload the plugin|<l><l>|OP
+AdvancedRegionMarket|arm.admin.set.entitylimit|Allows set the entitylimitgroup of a region|<l><l>|OP
+AdvancedRegionMarket|arm.admin.preset|Preset permission|<l><l>|OP
+AdvancedRegionMarket|arm.admin.preset.setprice|Preset permission|<l><l>|OP
+AdvancedRegionMarket|arm.admin.preset.setmaxrenttime|Preset permission|<l><l>|OP
+AdvancedRegionMarket|arm.admin.preset.setregionkind|Preset permission|<l><l>|OP
+AdvancedRegionMarket|arm.admin.preset.setinactivityreset|Preset permission|<l><l>|OP
+AdvancedRegionMarket|arm.admin.preset.sethotel|Preset permission|<l><l>|OP
+AdvancedRegionMarket|arm.admin.preset.setautorestore|Preset permission|<l><l>|OP
+AdvancedRegionMarket|arm.admin.preset.setautoprice|Preset permission|<l><l>|OP
+AdvancedRegionMarket|arm.admin.preset.info|Preset permission|<l><l>|OP
+AdvancedRegionMarket|arm.admin.preset.reset|Preset permission|<l><l>|OP
+AdvancedRegionMarket|arm.admin.preset.help|Preset permission|<l><l>|OP
+AdvancedRegionMarket|arm.admin.preset.load|Preset permission|<l><l>|OP
+AdvancedRegionMarket|arm.admin.preset.delete|Preset permission|<l><l>|OP
+AdvancedRegionMarket|arm.admin.preset.save|Preset permission|<l><l>|OP
+AdvancedRegionMarket|arm.admin.preset.list|Preset permission|<l><l>|OP
+AdvancedRegionMarket|arm.admin.preset.addcommand|Preset permission|<l><l>|OP
+AdvancedRegionMarket|arm.admin.preset.userrestorable|Preset permission|<l><l>|OP
+AdvancedRegionMarket|arm.admin.preset.allowedsubregions|Preset permission|<l><l>|OP
+AdvancedRegionMarket|arm.admin.preset.removecommand|Preset permission|<l><l>|OP
+AdvancedRegionMarket|arm.admin.preset.setextendtime|Preset permission|<l><l>|OP
+AdvancedRegionMarket|arm.admin.preset.flaggroup|Preset permission|<l><l>|OP
+AdvancedRegionMarket|arm.admin.terminatecontract|Allows terminate another player contractregion|<l><l>|OP
+AdvancedRegionMarket|arm.admin.regionstatus|Allows to display statistics about all regions|<l><l>|OP
+AdvancedRegionMarket|arm.admin.bypassteleportercooldown|Allows to bypass the cooldown of the teleporter|<l><l>|OP
+AdvancedRegionMarket|arm.admin.setsubregionlimit|Allows set the amount of allowed subregions on a region|<l><l>|OP
+AdvancedRegionMarket|arm.admin.setisuserrestorable|Allows decide of the owner of a region can reset the blocks of the region|<l><l>|OP
+AdvancedRegionMarket|arm.admin.listautoprices|Allows display all available autoprices|<l><l>|OP
+AdvancedRegionMarket|arm.admin.setprice|Allows to set the price of a region|<l><l>|OP
+AdvancedRegionMarket|arm.admin.signlinkmode|Allows to enter the SignLinkingMode|<l><l>|OP
+AdvancedRegionMarket|arm.admin.flageditor|Allows to open the flageditor for all regions|<l><l>|OP
+AdvancedRegionMarket|arm.admin.setflaggroup|Allows to set the flaggroup of a region|<l><l>|OP
+AdvancedRegionMarket|arm.admin.entitylimit.create|Allows to create an entitylimitgroup|<l><l>|OP
+AdvancedRegionMarket|arm.admin.entitylimit.delete|Allows to delete an entitylimitgroup|<l><l>|OP
+AdvancedRegionMarket|arm.admin.entitylimit.addlimit|Allows to add a limit to an entitylimitgroup|<l><l>|OP
+AdvancedRegionMarket|arm.admin.entitylimit.removelimit|Allows to remove a limit of an entitylimitgroup|<l><l>|OP
+AdvancedRegionMarket|arm.admin.entitylimit.list|Allows to list all entitylimitgroups|<l><l>|OP
+AdvancedRegionMarket|arm.admin.setentitylimit|Allows to set the entitylimitgroup of a region|<l><l>|OP
+AdvancedRegionMarket|arm.admin.entitylimit.check|Allows to check the amount of entities insire a region|<l><l>|OP
+AdvancedRegionMarket|arm.admin.entitylimit.setextra|Allows to expand the amount of entities that can be spawned inside a region|<l><l>|OP
+AdvancedRegionMarket|arm.admin.entitylimit.help|Allows to display the help page of the arm entitylimit command|<l><l>|OP
+AdvancedRegionMarket|arm.subregion.tool|Allows give the player a tool that can be used to mark the corners of a new subregion|<l><l>|PLAYER
+AdvancedRegionMarket|arm.subregion.create.sellregion|Allows to create a subregions as sellregions|<l><l>|PLAYER
+AdvancedRegionMarket|arm.subregion.create.rentregion|Allows to create a subregions as rentregions|<l><l>|PLAYER
+AdvancedRegionMarket|arm.subregion.create.contractregion|Allows to create a subregions as contractregions|<l><l>|PLAYER
+AdvancedRegionMarket|arm.subregion.delete.available|Allows to delete subregions that are not sold|<l><l>|PLAYER
+AdvancedRegionMarket|arm.subregion.delete.sold|Allows to delete subregions that are sold|<l><l>|OP
+AdvancedRegionMarket|arm.subregion.setishotel|Allows to enable or disable the hotelfunction for a subregion|<l><l>|PLAYER
+AdvancedRegionMarket|arm.subregion.tp|Allows to teleport to a subregion|<l><l>|PLAYER
+AdvancedRegionMarket|arm.subregion.unsell|Allows to unsell a subregion|<l><l>|PLAYER
+AdvancedRegionMarket|arm.subregion.restore|Allows to reset the built blocks inside a subregion|<l><l>|PLAYER
+AdvancedRegionMarket|arm.subregion.help|Allows display the help page of the arm subregion command|<l><l>|PLAYER
+AdvancedRegionMarket|arm.admin.regionkind.create|Allows to create a regionkind|<l><l>|OP
+AdvancedRegionMarket|arm.admin.regionkind.delete|Allows to delete a regionkind|<l><l>|OP
+AdvancedRegionMarket|arm.admin.regionkind.list|Allows to list all regionkinds|<l><l>|OP
+AdvancedRegionMarket|arm.admin.regionkind.setdisplayingui|Allows to set if a regionkind will be displayed in the regionfinder|<l><l>|OP
+AdvancedRegionMarket|arm.admin.regionkind.setdisplayinlimits|Allows to set if a regionkind will be displayed in the limits|<l><l>|OP
+AdvancedRegionMarket|arm.admin.regionkind.setitem|Allows to set the icon of a regionkind|<l><l>|OP
+AdvancedRegionMarket|arm.admin.regionkind.setpaybackpercentage|Allows to set the percentage the a player will get back if he sells a region with that regionkind back to the server|<l><l>|OP
+AdvancedRegionMarket|arm.admin.regionkind.setdisplayname|Allows to change the displayname of a regionkind|<l><l>|OP
+AdvancedRegionMarket|arm.admin.regionkind.removeloreline|Allows to remove a line of the description from a regionkind|<l><l>|OP
+AdvancedRegionMarket|arm.admin.regionkind.addloreline|Allows to add a line to the description from a regionkind|<l><l>|OP
+AdvancedRegionMarket|arm.admin.regionkind.info|Allows to display information about a regionkind|<l><l>|OP
+AdvancedRegionMarket|arm.admin.regionkind.help|Allows to display the help page of the arm regionkind command|<l><l>|OP
+AdvancedRegionMarket|arm.member.restore|Allows to reset own regions|<l><l>|PLAYER
+AdvancedRegionMarket|arm.member.sellregion|Allows to sell a region back to the server|<l><l>|PLAYER
+AdvancedRegionMarket|arm.member.info|Allows display information about a region|<l><l>|PLAYER
+AdvancedRegionMarket|arm.member.addmember|Allows to add a member to your own region|<l><l>|PLAYER
+AdvancedRegionMarket|arm.member.removemember|Allows to remove a member from your own region|<l><l>|PLAYER
+AdvancedRegionMarket|arm.member.listregions|Allows to list own regions|<l><l>|PLAYER
+AdvancedRegionMarket|arm.member.gui|Allows to open the GUI of AdvancedRegionMarket|<l><l>|PLAYER
+AdvancedRegionMarket|arm.member.tp|Allows to teleport to your own regions|<l><l>|PLAYER
+AdvancedRegionMarket|arm.member.limit|Allows display your limits|<l><l>|PLAYER
+AdvancedRegionMarket|arm.member.offer.create|Allows to send a selloffer to a player|<l><l>|PLAYER
+AdvancedRegionMarket|arm.member.offer.answer|Allows to answer a selloffer|<l><l>|PLAYER
+AdvancedRegionMarket|arm.member.promote|Allows to make a member of your own region to the owner|<l><l>|PLAYER
+AdvancedRegionMarket|arm.member.buy|Allows to buy regions|<l><l>|PLAYER
+AdvancedRegionMarket|arm.member.regionfinder|Allows to use the regionfinder|<l><l>|PLAYER
+AdvancedRegionMarket|arm.member.entitylimit.info|Allows to display information about an entitylimit|<l><l>|PLAYER
+AdvancedRegionMarket|arm.member.entitylimit.check|Allows to check the amount of entities inside an owned region|<l><l>|PLAYER
+AdvancedRegionMarket|arm.member.entitylimit.buyextra|Allows to buy extra entities for a region|<l><l>|PLAYER
+AdvancedRegionMarket|arm.member.tptofreeregion|Allows to teleport to a free region with a specific regionkind|<l><l>|PLAYER
+AdvancedRegionMarket|arm.member.flageditor|Allows to use the flageditor for own regions|<l><l>|PLAYER
+AdvancedRegionMarket|arm.help|Allows to display the help page of AdvancedRegionMarket|<l><l>|PLAYER
+AdvancedRegionMarket|arm.inactivityexpiration.unlimited|Deactivated InactivityReset for the user|<l><l>|OP
+AdvancedRegionMarket|arm.admin.listbackups|Lists all backups of a region|<l><l>|OP
+AdvancedRegionMarket|arm.admin.restorebackup|restores a backup of a region|<l><l>|OP
+AdvancedRegionMarket|arm.admin.createbackup|creates a backup of a region|<l><l>|OP
+Insights|insights.*|empty|<l><l>|OP
+Insights|insights.scan.*|empty|<l><l>|OP
+Insights|insights.scanradius.*|empty|<l><l>|OP
+Insights|insights.scanworld.*|empty|<l><l>|OP
+QualityArmory|qualityarmory.*|Gives access to all QualityArmory commands|<l><l>|OP
+QualityArmory|qualityarmory.admin|Gives access to all admin commands for QA|<l><l>|OP
+QualityArmory|qualityarmory.default|Gives access to all QualityArmory default commands such as shooting crafting and shopping|<l><l>|OP
+HeadHunter|hunter.sellhead.hand|Allows selling a stack of heads from main hand|<l><l>|OP
+HeadHunter|hunter.sellhead.all|Allows selling all heads from inventory|<l><l>|OP
+HeadHunter|hunter.sellhead.sign|Allows selling heads with signs|<l><l>|OP
+HeadHunter|hunter.sellhead.*|Allows selling heads|<l><l>|OP
+HeadHunter|hunter.bounty.set|Allows setting and removing bounties on other players|<l><l>|OP
+HeadHunter|hunter.bounty.check|Allows checking and listing bounties on other players|<l><l>|OP
+HeadHunter|hunter.bounty.*|Allows editing and checking bounties on other players|<l><l>|OP
+HeadHunter|hunter.sign.sellhead|Allows creating head-selling signs|<l><l>|OP
+HeadHunter|hunter.sign.bounty|Allows creating bounty display signs|<l><l>|OP
+HeadHunter|hunter.sign.*|Allows creating HeadHunter signs|<l><l>|OP
+HeadHunter|hunter.world|Allows enabling and disabling head drops in worlds|<l><l>|OP
+HeadHunter|hunter.reload|Allows reloading HeadHunter|<l><l>|OP
+HeadHunter|hunter.*|Allows all HeadHunter features|<l><l>|OP
+GoldenCrates|goldencrates.admin|Full plugin access.|<l><l>|OP
+GoldenCrates|goldencrates.user|User access.|<l><l>|PLAYER
+GoldenCrates|goldencrates.bypass|All bypass access.|<l><l>|OP
+GoldenCrates|goldencrates.bypass.cost|Bypass crate open cost.|<l><l>|OP
+GoldenCrates|goldencrates.bypass.cooldown|Bypass crate open cooldown.|<l><l>|OP
+UltimateStacker|ultimatestacker.*|Inherits all plugin permissions|<l><l>|OP
+UltimateStacker|ultimatestacker.admin|Allows players to edit settings, reload files and other admin commands|<l><l>|OP
+UltimateStacker|ultimatestacker.spawner.silktouch|Allows the player to pick up spawners using silk touch|<l><l>|OP
+UltimateStacker|ultimatestacker.spawner.nosilkdrop|Allows the player to receive spawners from mining with a non-silk touched pick|<l><l>|OP
+ItemCreatorPlus|itemcreatorplus.command|basic command permission|<l>itemcreatorplus<br><l>|OP
+ItemCreatorPlus|itemcreatorplus.savemenu|lets the player open up the list of saved items and create copies at will|<l><l>|OP
+ItemCreatorPlus|itemcreatorplus.giveitem|gives the user the permission to give ICP items to certain players (can be used in console)|<l><l>|OP
+InventorySaver|invsave.*|Gives access to all InventorySaver commands and events|<l><l>|OP
+InventorySaver|invsave.commands.*|Gives access to all commands|<l><l>|OP
+InventorySaver|inferno.events.*|Gives access to all events|<l><l>|OP
+ColoredAnvils|coloredanvils.*|Gives access to all ColoredAnvils actions.|<l><l>|OP
+ColoredAnvils|coloredanvils.color.*|Gives access to all ColoredAnvils actions.|<l><l>|OP
+ColoredAnvils|coloredanvils.color.4|Allows the player to use the &4dark red &7(<&>4)&f color code.|<l><l>|OP
+ColoredAnvils|coloredanvils.color.c|Allows the player to use the &cred &7(<&>4)&f color code.|<l><l>|OP
+ColoredAnvils|coloredanvils.color.6|Allows the player to use the &6gold &7(<&>6)&f color code.|<l><l>|OP
+ColoredAnvils|coloredanvils.color.e|Allows the player to use the &eyellow &7(<&>e)&f color code.|<l><l>|OP
+ColoredAnvils|coloredanvils.color.2|Allows the player to use the &2dark green &7(<&>2)&f color code.|<l><l>|OP
+ColoredAnvils|coloredanvils.color.a|Allows the player to use the &agreen &7(<&>a)&f color code.|<l><l>|OP
+ColoredAnvils|coloredanvils.color.b|Allows the player to use the &baqua &7(<&>b)&f color code.|<l><l>|OP
+ColoredAnvils|coloredanvils.color.3|Allows the player to use the &3dark aqua &7(<&>3)&f color code.|<l><l>|OP
+ColoredAnvils|coloredanvils.color.1|Allows the player to use the &1dark blue &7(<&>1)&f color code.|<l><l>|OP
+ColoredAnvils|coloredanvils.color.9|Allows the player to use the &9blue&f &7(<&>9)&f color code.|<l><l>|OP
+ColoredAnvils|coloredanvils.color.d|Allows the player to use the &dlight purple &7(<&>d)&f color code.|<l><l>|OP
+ColoredAnvils|coloredanvils.color.5|Allows the player to use the &5dark purple &7(<&>5)&f color code.|<l><l>|OP
+ColoredAnvils|coloredanvils.color.f|Allows the player to use the white &7(<&>f)&f color code.|<l><l>|OP
+ColoredAnvils|coloredanvils.color.7|Allows the player to use the &7gray &7(<&>7)&f color code.|<l><l>|OP
+ColoredAnvils|coloredanvils.color.8|Allows the player to use the &8dark gray &7(<&>7)&f color code.|<l><l>|OP
+ColoredAnvils|coloredanvils.color.0|Allows the player to use the &0black &7(<&>0)&f color code.|<l><l>|OP
+ColoredAnvils|coloredanvils.color.l|Allows the player to use the &l&7bold &7(<&>l)&f format code.|<l><l>|OP
+ColoredAnvils|coloredanvils.color.n|Allows the player to use the &n&7underline &7(<&>n)&f format code.|<l><l>|OP
+ColoredAnvils|coloredanvils.color.o|Allows the player to use the &o&7italic &7(<&>o)&f format code.|<l><l>|OP
+ColoredAnvils|coloredanvils.color.k|Allows the player to use the &kAAA&r &7(random) &7(<&>k)&f format code.|<l><l>|OP
+ColoredAnvils|coloredanvils.color.m|Allows the player to use the &m&7strikethrough &7(<&>m)&f format code.|<l><l>|OP
+ColoredAnvils|coloredanvils.color.r|Allows the player to use the reset &7(<&>r)&f format code.|<l><l>|OP
+WorldEditSelectionVisualizer|wesv.*|empty|<l><l>|PLAYER
+WorldEditSelectionVisualizer|wesv.use|Allows the visualizer to be used.|<l><l>|PLAYER
+WorldEditSelectionVisualizer|wesv.toggle|Allows the visualizer to be toggled.|<l><l>|PLAYER
+WorldEditSelectionVisualizer|wesv.reload|Allows the configuration of this plugin to be reloaded from the config.yml file.|<l><l>|OP
+AdvancedBCRanks|bcranks.setitem|Set the gui Items|<l><l>|OP
+AdvancedBCRanks|bcranks.admin.notify|be notified on updates|<l><l>|OP
+AdvancedBCRanks|bcranks.add|Add tier + rank to a players status|<l><l>|OP
+AdvancedBCRanks|bcranks.reload|Reload the settings|<l><l>|OP
+AdvancedBCRanks|bcranks.admin.bypass|Bypass certain elements|<l><l>|NONE
+AdvancedBCRanks|bcranks.create|Create custom items for payment|<l><l>|OP
+GoldBank|goldbank.deposit|Enables the /bank deposit command|<l><l>|PLAYER
+GoldBank|goldbank.withdraw|Enables the /bank withdraw command|<l><l>|PLAYER
+GoldBank|goldbank.transfer|Enables the /bank transfer command|<l><l>|PLAYER
+GoldBank|goldbank.pay|Enables the /bank pay command|<l><l>|PLAYER
+GoldBank|goldbank.balance|Enables the /bank balance command|<l><l>|PLAYER
+GoldBank|goldbank.help|Enables the /bank help command|<l><l>|PLAYER
+GoldBank|goldbank.baltop|Enables the /bank baltop command|<l><l>|PLAYER
+GoldBank|goldbank.balance.others|Enables the /bank balance command|<l><l>|NONE
+GoldBank|goldbank.add|Enables the /bank add command|<l><l>|NONE
+GoldBank|goldbank.remove|Enables the /bank remove command|<l><l>|NONE
+GoldBank|goldbank.set|Enables the /bank set command|<l><l>|NONE
+GoldBank|goldbank.reload|Enables the /bank reload command|<l><l>|NONE
+PremiumVanish|pv.*|Grants you all PremiumVanish permissions|<l><l>|OP
+PremiumVanish|premiumvanish.*|Grants you all PremiumVanish permissions|<l><l>|OP
+PremiumVanish|pv.see|You can see other vanished players|<l><l>|OP
+PremiumVanish|pv.notoggle|Other players cannot hide/show you if you're online|<l><l>|OP
+PremiumVanish|pv.keepfly|You can always keep flying when you reappear|<l><l>|OP
+PremiumVanish|pv.joinvanished|You always join vanished (must be enabled in config)|<l><l>|OP
+PremiumVanish|pv.switch|You can toggle spectator mode by pressing shift twice|<l><l>|OP
+PremiumVanish|pv.openplayerinv|You can open a player's inventory by right-clicking the player|<l><l>|OP
+PremiumVanish|pv.spectatoreditinv|You can edit inventories in spectator mode|<l><l>|OP
+Quests|quests.command|Permission for main command|<l>quests<br><l>|PLAYER
+UltimateFishing|ultimatefishing.*|Inherits all plugin permissions|<l><l>|OP
+UltimateFishing|ultimatefishing.admin|Allows players to edit settings and reload files|<l><l>|OP
+UltimateFishing|ultimatefishing.sell|Allows players to open the sell GUI|<l><l>|OP
+UltimateFishing|ultimatefishing.sellall|Allows players to use the shortcut to sell all from the player's inventory.|<l><l>|OP
+UltimateFishing|ultimatefishing.fish.*|Allows players to catch a certain fish rarity.|<l><l>|OP
+UltimateFishing|ultimatefishing.use|Allows players to catch ultimate fish.|<l><l>|OP
+AntiCreeper|anticreeper.*|Gives access to ALL anticreeper features|<l><l>|OP
+AntiCreeper|anticreeper.admin|Allows user to query & set configs|<l>ac<br>acs<br>acb<br><l>|OP
+AntiCreeper|anticreeper.print|Allows user to query configs|<l>acp<br><l>|PLAYER
+MobFarmManager|mfm.command.clean|Grants access to the clean command|<l><l>|OP
+MobFarmManager|mfm.command.reload|Grants access to the clean command|<l><l>|OP
+DeluxeMenus|deluxemenus.admin|admin commands|<l><l>|OP
+DeluxeMenus|deluxemenus.open|open a menu with /dm open <menu>|<l><l>|OP
+DeluxeMenus|deluxemenus.open.others|open a menu with /dm open <menu> <player>|<l><l>|OP
+DeluxeMenus|deluxemenus.open.bypass|attempt to open a menu for a viewer skipping view requirement checking for the player|<l><l>|OP
+DeluxeMenus|deluxemenus.menu.*|permission for all menus|<l><l>|OP
+DeluxeMenus|deluxemenus.openrequirement.bypass.*|Allows the viewer to bypass all menu open requirements|<l><l>|OP
+DeluxeMenus|deluxemenus.placeholdersfor|permission to parse menu placeholders with /dm open <menu> p:<player>|<l><l>|OP
+DeluxeMenus|deluxemenus.placeholdersfor.exempt|exempt from placeholders being parsed when targeted with /dm open <menu p:<player> for players with this permission|<l><l>|OP
+OreAnnouncer|oreannouncer.user.alerts.see|See user alerts|<l><l>|OP
+OreAnnouncer|oreannouncer.user.alerts.toggle|Allow access to /oa alerts|<l><l>|OP
+OreAnnouncer|oreannouncer.user.help|Allow access to /oa help|<l><l>|OP
+OreAnnouncer|oreannouncer.user.stats|Allow access to /oa stats|<l><l>|OP
+OreAnnouncer|oreannouncer.user.top|Allow access to /oa top|<l><l>|OP
+OreAnnouncer|oreannouncer.admin.alerts.see|See admin alerts|<l><l>|OP
+OreAnnouncer|oreannouncer.admin.reload|Allow access to /oa reload|<l><l>|OP
+OreAnnouncer|oreannouncer.admin.stats.other|Allow access to /oa stats on other players|<l><l>|OP
+OreAnnouncer|oreannouncer.admin.version|Allow access to /oa version|<l><l>|OP
+OreAnnouncer|oreannouncer.admin.warnings|Send an alert if there is an error|<l><l>|OP
+OreAnnouncer|oreannouncer.user.*|All user permissions|<l><l>|OP
+OreAnnouncer|oreannouncer.admin.*|All admin permissions|<l><l>|OP
+Brewery|brewery.user|Access to everything needed for brewing|<l><l>|PLAYER
+Brewery|brewery.mod|Allow to maintain Wakeup Points and to login even if overdrunken|<l><l>|OP
+Brewery|brewery.admin|Gives access to Every Command and most bypasses|<l><l>|OP
+Brewery|brewery.*|Gives Access to every Permission, including bypasses and overrides|<l><l>|OP
+Brewery|brewery.cmd.unlabel|Remove Parts of the Potionlabel|<l><l>|OP
+Brewery|brewery.cmd.info|Information about your own drunkeness|<l><l>|OP
+Brewery|brewery.cmd.infoOther|Information about the drunkeness of another Player|<l><l>|OP
+Brewery|brewery.cmd.player|Set Player-values|<l><l>|OP
+Brewery|brewery.cmd.wakeup|Set, Check and Remove Wakeup Points|<l><l>|OP
+Brewery|brewery.cmd.copy|Copy Potions|<l><l>|OP
+Brewery|brewery.cmd.delete|Delete Potions|<l><l>|OP
+Brewery|brewery.cmd.static|Make Potions Static|<l><l>|OP
+Brewery|brewery.cmd.reload|Reload config|<l><l>|OP
+Brewery|brewery.createbarrel|Allow to create all types of Barrels|<l><l>|OP
+Brewery|brewery.createbarrel.small|Allow to create small Barrels|<l><l>|OP
+Brewery|brewery.createbarrel.big|Allow to create big Barrels|<l><l>|OP
+Brewery|brewery.openbarrel|Allow to open all types of Barrels|<l><l>|OP
+Brewery|brewery.openbarrel.small|Allow to open small Barrels|<l><l>|OP
+Brewery|brewery.openbarrel.big|Allow to open big Barrels|<l><l>|OP
+Brewery|brewery.cauldron.time|View the current Cooking time of a cauldron with a watch|<l><l>|OP
+Brewery|brewery.cauldron.insert|Add Ingredients to the Cauldron|<l><l>|OP
+Brewery|brewery.cauldron.fill|Fill a Bottle from a Cauldron with a brewery brew|<l><l>|OP
+Brewery|brewery.bypass.logindeny|Can always login, even with extreme drunkeness|<l><l>|OP
+Brewery|brewery.bypass.overdrink|Will despite config-setting not be kicked on overdrink|<l><l>|OP
+Brewery|brewery.bypass.teleport|Will despite config-setting not be teleported on login|<l><l>|OP
+Lift|lift|Can ride in a lift|<l>lift<br><l>|PLAYER
+Lift|lift.change|Can change lift floors|<l><l>|PLAYER
+Lift|lift.reload|Reloads the lift plugin|<l><l>|NONE
+ConsoleSpamFix|csf.admin|Admin commands access.|<l><l>|OP
+PocketGames|pocketgames.commands|Required to be able to use any command.|<l><l>|OP
+PocketGames|pocketgames.commands.list|Permission to use the list command.|<l><l>|OP
+PocketGames|pocketgames.commands.menu|Permission to use the menu command.|<l><l>|OP
+PocketGames|pocketgames.commands.help|Permission to use the help command.|<l><l>|OP
+PocketGames|pocketgames.commands.check|Permission to use the check command.|<l><l>|OP
+PocketGames|pocketgames.commands.multiplayer|Permission to use the multiplayer command.|<l><l>|OP
+PocketGames|pocketgames.commands.duel|Permission to use the duel command.|<l><l>|OP
+PocketGames|pocketgames.bypass.enabled|Bypass disabled games.|<l><l>|OP
+PocketGames|pocketgames.bypass.world|Bypass disabled games.|<l><l>|OP
+PocketGames|pocketgames.restart|Permission to use the game restart button.|<l><l>|OP
+PocketGames|pocketgames.sudo|Permission to execute commands for other people.|<l><l>|OP
+PocketGames|pocketgames.spectate|Permission to specate other active games.|<l><l>|OP
+PocketGames|pocketgames.multiplayer|Permission to open the multiplayer menu.|<l><l>|OP
+PocketGames|pocketgames.admin|Permission to use admin commnads.|<l><l>|OP
+PocketGames|pocketgames.update|Receive notifications of new updates.|<l><l>|NONE
+PlayerShopGUIPlus|playershopguiplus.*|Allows to all PlayerShopGUIPlus commands and shops|<l><l>|OP
+PlayerShopGUIPlus|playershopguiplus.playershop.reload|Allows to reload command|<l><l>|OP
+PlayerShopGUIPlus|playershopguiplus.playershop.sell|Allows to sell command|<l><l>|OP
+PlayerShopGUIPlus|playershopguiplus.bypassgamemode|Allows access to shops when in any gamemode|<l><l>|OP
+PlayerShopGUIPlus|playershopguiplus.bypassworld|Allows access to shops when in any world|<l><l>|OP
+PlayerShopGUIPlus|playershopguiplus.editshopname|Allows to edit shop name|<l><l>|OP
+PlayerShopGUIPlus|playershopguiplus.cancelothers|Allows to cancel other players item lots|<l><l>|OP
+Triton|triton.getflag|empty|<l><l>|OP
+Triton|triton.setlanguage|empty|<l><l>|PLAYER
+Triton|triton.setlanguage.others|empty|<l><l>|OP
+Triton|triton.openselector|empty|<l><l>|PLAYER
+Triton|triton.reload|empty|<l><l>|OP
+Triton|triton.help|empty|<l><l>|PLAYER
+Triton|triton.sign|empty|<l><l>|OP
+Triton|twin.upload|empty|<l><l>|OP
+Triton|twin.download|empty|<l><l>|OP
+GangsPlus|gangsplus.*|Access to all GangsPlus commands|<l><l>|OP
+GangsPlus|gangsplus.gang.*|Access to all gang related commands|<l><l>|OP
+GangsPlus|gangsplus.fight.*|Access to all fight related commands|<l><l>|OP
+GangsPlus|gangsplus.gangadmin.*|Access to all admin related commands|<l><l>|OP
+GangsPlus|gangsplus.gang.help|Permission required to use the help command|<l><l>|OP
+GangsPlus|gangsplus.gang.list|Permission required to use the list command|<l><l>|OP
+GangsPlus|gangsplus.gang.top|Permission required to use the top command|<l><l>|OP
+GangsPlus|gangsplus.gang.info|Permission required to use the info command|<l><l>|OP
+GangsPlus|gangsplus.gang.confirm|Permission required to use the confirm command|<l><l>|OP
+GangsPlus|gangsplus.gang.create|Permission required to use the create command|<l><l>|OP
+GangsPlus|gangsplus.gang.create.colors|Permission required to use color tags in gang names|<l><l>|OP
+GangsPlus|gangsplus.gang.disband|Permission required to use the disband command|<l><l>|OP
+GangsPlus|gangsplus.gang.invite|Permission required to use the invite command|<l><l>|OP
+GangsPlus|gangsplus.gang.uninvite|Permission required to use the uninvite command|<l><l>|OP
+GangsPlus|gangsplus.gang.kick|Permission required to use the kick command|<l><l>|OP
+GangsPlus|gangsplus.gang.leave|Permission required to use the leave command|<l><l>|OP
+GangsPlus|gangsplus.gang.friendlyfire|Permission required to use the friendlyfire command|<l><l>|OP
+GangsPlus|gangsplus.gang.levelup|Permission required to use the levelup command|<l><l>|OP
+GangsPlus|gangsplus.gang.promote|Permission required to use the promote command|<l><l>|OP
+GangsPlus|gangsplus.gang.demote|Permission required to use the demote command|<l><l>|OP
+GangsPlus|gangsplus.gang.deposit|Permission required to use the deposit command|<l><l>|OP
+GangsPlus|gangsplus.gang.withdraw|Permission required to use the withdraw command|<l><l>|OP
+GangsPlus|gangsplus.gang.listhomes|Permission required to use the listhomes command|<l><l>|OP
+GangsPlus|gangsplus.gang.home|Permission required to use the home command|<l><l>|OP
+GangsPlus|gangsplus.gang.sethome|Permission required to use the sethome command|<l><l>|OP
+GangsPlus|gangsplus.gang.delhome|Permission required to use the delhome command|<l><l>|OP
+GangsPlus|gangsplus.gang.playerinfo|Permission required to use the playerinfo command|<l><l>|OP
+GangsPlus|gangsplus.gang.regroup|Permission required to use the regroup command|<l><l>|OP
+GangsPlus|gangsplus.gang.ally|Permission required to use the ally command|<l><l>|OP
+GangsPlus|gangsplus.gang.neutral|Permission required to use the neutral command|<l><l>|OP
+GangsPlus|gangsplus.fight.challenge|Permission required to use the fight challenge command|<l><l>|OP
+GangsPlus|gangsplus.fight.accept|Permission required to use the fight accept command|<l><l>|OP
+GangsPlus|gangsplus.fight.decline|Permission required to use the fight decline command|<l><l>|OP
+GangsPlus|gangsplus.fight.join|Permission required to use the fight join command|<l><l>|OP
+GangsPlus|gangsplus.fight.leave|Permission required to use the fight leave command|<l><l>|OP
+GangsPlus|gangsplus.gangadmin.arena|Permission required to use the admin arena command|<l><l>|OP
+GangsPlus|gangsplus.gangadmin.bank|Permission required to use the admin bank command|<l><l>|OP
+GangsPlus|gangsplus.gangadmin.disband|Permission required to use the admin disband command|<l><l>|OP
+GangsPlus|gangsplus.gangadmin.reload|Permission required to use the admin reload command|<l><l>|OP
+GangsPlus|gangsplus.gangadmin.reset|Permission required to use the admin reset command|<l><l>|OP
+GangsPlus|gangsplus.gangadmin.resetgang|Permission required to use the admin resetgang command|<l><l>|OP
+GangsPlus|gangsplus.gangadmin.socialspy|Permission required to use the admin socialspy command|<l><l>|OP
+GangsPlus|gangsplus.gangadmin|Permission required to use the admin command|<l><l>|OP
+GangsPlus|gangsplus.gangchat|Permission required to use the gangchat command|<l><l>|OP
+GangsPlus|gangsplus.allychat|Permission required to use the allychat command|<l><l>|OP
+GangsPlus|gangsplus.fightcommands|Permission required to use commands during fight|<l><l>|OP
+GangsPlus|gangsplus.checkbalance|Permission required to see other gangs bank account balance|<l><l>|OP

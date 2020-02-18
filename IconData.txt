@@ -371,7 +371,7 @@ GoldBank|GOLD_INGOT
 PremiumVanish|PURPLE_DYE
 UltimateFishing|FISHING_ROD
 AntiCreeper|CREEPER_HEAD
-MobFarmManager|SPAWN_PIG
+MobFarmManager|PIG_SPAWN_EGG
 Brewery|BREWING_STAND
 Lift|OAK_WOOD
 ConsoleSpamFix|BARRIER

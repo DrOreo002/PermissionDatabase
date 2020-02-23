@@ -413,7 +413,7 @@ LittleFX|EGG
 SuperCore|ELYTRA
 AnimatedInventory|ENDER_EYE
 LevelPoints|END_STONE
-AdvancedNMotd|GAST_TEAR
+AdvancedNMotd|GHAST_TEAR
 BeehivesPro|ITEM_FRAME
 LastLoginAPI|EXP_BOTTLE
 UltimateTimber|WOODEN_AXE

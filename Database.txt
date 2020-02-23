@@ -8846,3 +8846,75 @@ ItemJoin|itemjoin.enable.others|Grants access to all enable commands that could 
 ItemJoin|itemjoin.disable|Grants access to the basic disable command.|<l><l>|NONE
 ItemJoin|itemjoin.disable.others|Grants access to all disable commands that could affect other players individually.|<l><l>|NONE
 ItemJoin|itemjoin.bypass.inventorymodify|Players with this permission will bypass any item movement restrictions.|<l><l>|NONE
+ChestShop|ChestShop.*|Gives access to all ChestShop permissions|<l><l>|OP
+ChestShop|ChestShop.shop.*|Gives access to all user ChestShop permissions|<l><l>|PLAYER
+ChestShop|ChestShop.shop.create|Allows the user to create a shop that sells and buys any item|<l><l>|OP
+ChestShop|ChestShop.shop.create.buy|Allows the user to create a shop that sells any item|<l><l>|OP
+ChestShop|ChestShop.shop.create.buy.(itemType)|Allows the user to create a shop that sells items with itemType like in the permission node (replace (itemType) with Material item name)|<l><l>|OP
+ChestShop|ChestShop.shop.create.sell|Allows the user to create a shop that buys any item|<l><l>|OP
+ChestShop|ChestShop.shop.create.sell.(itemType)|Allows the user to create a shop that buys items with itemType like in the permission node (replace (itemType) with Material item name)|<l><l>|OP
+ChestShop|ChestShop.shop.create.(itemType)|Allows user to create a shop that sells items with itemType like in the permission node (replace (itemType) with Material item name)|<l><l>|OP
+ChestShop|ChestShop.shop.buy.(itemType)|Allows user to buy certain (itemType) from a shop (replace (itemType) with the Material item name)|<l><l>|OP
+ChestShop|ChestShop.shop.sell.(itemType)|Allows user to sell certain (itemType) from a shop (replace (itemType) with Material item name)|<l><l>|OP
+ChestShop|ChestShop.shop.buy|Allows user to buy from a shop|<l><l>|OP
+ChestShop|ChestShop.shop.sell|Allows user to sell to a shop|<l><l>|OP
+ChestShop|ChestShop.nofee|User doesn't have to pay the shop creation fee.|<l><l>|OP
+ChestShop|ChestShop.notax.buy|User doesn't have to pay tax when buying from a shop.|<l><l>|OP
+ChestShop|ChestShop.notax.sell|User doesn't have to pay tax when selling to a shop.|<l><l>|OP
+ChestShop|ChestShop.toggle|Allows user to toggle messages.|<l><l>|PLAYER
+ChestShop|ChestShop.iteminfo|Allows user to see item info with the command.|<l><l>|PLAYER
+ChestShop|ChestShop.admin|Allows user to modify/destroy other stores and create an Admin Shops|<l><l>|OP
+ChestShop|ChestShop.adminshop|Allows user to create and destroy Admin Shops|<l><l>|OP
+ChestShop|ChestShop.mod|Allows user only to view other store chests, he can't destroy them or create an Admin Shop|<l><l>|OP
+ChestShop|ChestShop.name.*|Gives you the power to do create and access shops for all names.|<l><l>|OP
+ChestShop|ChestShop.name.(some name)|Gives you the power to do create and access shops for (some name), for example your town.|<l><l>|OP
+ChestShop|ChestShop.name.create.*|Gives you the power to do create shops for all names.|<l><l>|OP
+ChestShop|ChestShop.name.create.(some name)|Gives you the power to do create shops for (some name), for example your town.|<l><l>|OP
+ChestShop|ChestShop.name.destroy.*|Gives you the power to do destroy shops with all names.|<l><l>|OP
+ChestShop|ChestShop.name.destroy.(some name)|Gives you the power to do destroy shops with (some name), for example your town.|<l><l>|OP
+ChestShop|ChestShop.name.access.*|Gives you the power to do access shops for all names.|<l><l>|OP
+ChestShop|ChestShop.name.access.(some name)|Gives you the power to do access shops for (some name), for example your town.|<l><l>|OP
+ChestShop|ChestShop.shop.create.food|Allows to create a shop that sells food|<l><l>|OP
+ChestShop|ChestShop.shop.create.diamondgrade|Allows to create a shop that sells diamond gear|<l><l>|OP
+ChestShop|ChestShop.shop.create.irongrade|Allows to create a shop that sells iron gear|<l><l>|OP
+ChestShop|ChestShop.shop.create.goldgrade|Allows to create a shop that sells gold gear|<l><l>|OP
+ChestShop|ChestShop.shop.create.stonegrade|Allows to create a shop that sells stone tools and chain armor|<l><l>|OP
+ChestShop|ChestShop.shop.create.woodgrade|Allows to create a shop that sells wood tools and leather armor|<l><l>|OP
+ChestShop|ChestShop.shop.create.diamondarmor|Allows to create a shop that sells diamond armor|<l><l>|OP
+ChestShop|ChestShop.shop.create.diamondtools|Allows to create a shop that sells diamond tools|<l><l>|OP
+ChestShop|ChestShop.shop.create.goldarmor|Allows to create a shop that sells gold armor|<l><l>|OP
+ChestShop|ChestShop.shop.create.goldtools|Allows to create a shop that sells gold tools|<l><l>|OP
+ChestShop|ChestShop.shop.create.ironarmor|Allows to create a shop that sells iron armor|<l><l>|OP
+ChestShop|ChestShop.shop.create.irontools|Allows to create a shop that sells iron tools|<l><l>|OP
+ChestShop|ChestShop.shop.create.chainarmor|Allows to create a shop that sells chain armor|<l><l>|OP
+ChestShop|ChestShop.shop.create.stonetools|Allows to create a shop that sells stone tools|<l><l>|OP
+ChestShop|ChestShop.shop.create.leatherarmor|Allows to create a shop that sells leather armor|<l><l>|OP
+ChestShop|ChestShop.shop.create.woodtools|Allows to create a shop that sells wood tools|<l><l>|OP
+ChestShop|ChestShop.shop.create.bows|Allows to create a shop that sells bows & arrows|<l><l>|OP
+ChestShop|ChestShop.shop.create.misctools|Allows to create a shop that sells misc tools|<l><l>|OP
+ChestShop|ChestShop.shop.create.ore|Allows to create a shop that sells ores|<l><l>|OP
+ChestShop|ChestShop.shop.create.ingots|Allows to create a shop that sells ingots|<l><l>|OP
+ChestShop|ChestShop.shop.create.stairs|Allows to create a shop that sells stairs|<l><l>|OP
+ChestShop|ChestShop.shop.create.monsterdrops|Allows to create a shop that sells mob drops|<l><l>|OP
+ChestShop|ChestShop.shop.create.netherdrops|Allows to create a shop that sells nether drops|<l><l>|OP
+ChestShop|ChestShop.shop.create.plants|Allows to create a shop that sells plants|<l><l>|OP
+ChestShop|ChestShop.shop.create.redstoneitems|empty|<l><l>|OP
+ChestShop|ChestShop.shop.create.netherblocks|empty|<l><l>|OP
+ChestShop|ChestShop.shop.create.end|empty|<l><l>|OP
+ChestShop|ChestShop.shop.create.misc|empty|<l><l>|OP
+ChestShop|ChestShop.shop.create.spawn_eggs|Allows to create a shop that sells steps|<l><l>|OP
+ChestShop|ChestShop.shop.create.steps|Allows to create a shop that sells steps|<l><l>|OP
+ChestShop|ChestShop.shop.create.brewing|Allows to create a shop that sells brewing materials|<l><l>|OP
+ChestShop|ChestShop.shop.create.shulkerbox|Allows to create a shop that sells all shulker boxes|<l><l>|OP
+ChestShop|ChestShop.shop.create.basic|Allows to create a shop that sells basic blocks|<l><l>|OP
+ChestShop|ChestShop.shop.create.doors|empty|<l><l>|OP
+ChestShop|ChestShop.shop.create.music|Allows to create a shop that sells music items|<l><l>|OP
+ChestShop|ChestShop.shop.create.vehicles|Allows to create a shop that sells vehicles|<l><l>|OP
+ChestShop|ChestShop.shop.create.boats|Allows to create a shop that sells boats|<l><l>|OP
+ChestShop|ChestShop.shop.create.woolitems|Allows to create a shop that sells wool, carpet and dye|<l><l>|OP
+ChestShop|ChestShop.shop.create.fences|Allows to create a shop that sells fence|<l><l>|OP
+ChestShop|ChestShop.shop.create.bench|Allows to create a shop that sells crafting blocks|<l><l>|OP
+ChestShop|ChestShop.shop.create.beds|Allows to create a shop that sells all beds|<l><l>|OP
+ChestShop|ChestShop.shop.create.banners|Allows to create a shop that sells all banners|<l><l>|OP
+ChestShop|ChestShop.shop.create.wall_banners|Allows to create a shop that sells all wall banners|<l><l>|OP
+ChestShop|ChestShop.shop.create.unobtainables|Allows to create a shop that sells unobtainable items|<l><l>|OP

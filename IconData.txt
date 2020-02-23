@@ -421,3 +421,4 @@ TabList|PAPER
 ChatEx|SIGN
 AuthMe|BOOK
 ItemJoin|WATER_BUCKET
+ChestShop|CHEST

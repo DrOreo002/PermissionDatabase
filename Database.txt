@@ -7817,3 +7817,1032 @@ GangsPlus|gangsplus.gangchat|Permission required to use the gangchat command|<l>
 GangsPlus|gangsplus.allychat|Permission required to use the allychat command|<l><l>|OP
 GangsPlus|gangsplus.fightcommands|Permission required to use commands during fight|<l><l>|OP
 GangsPlus|gangsplus.checkbalance|Permission required to see other gangs bank account balance|<l><l>|OP
+FeatherBoard|featherboard.toggle.other|Toggle the scoreboard of someone else|<l><l>|NONE
+FeatherBoard|featherboard.debug|Debug information|<l><l>|OP
+FeatherBoard|featherboard.modules|Manage modules|<l><l>|OP
+FeatherBoard|featherboard.manage.scoreboard|Allows you to create/remove/edit a scoreboard|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.blockbreak.break.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.blockbreak.direction.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.blockbreak.fastbreak.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.blockbreak.frequency.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.blockbreak.noswing.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.blockbreak.wrongblock.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.blockinteract.direction.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.blockinteract.reach.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.blockinteract.speed.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.blockinteract.visible.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.blockplace.against.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.blockplace.autosign.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.blockplace.direction.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.blockplace.fastplace.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.blockplace.noswing.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.blockbreak.reach.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.blockplace.speed.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.chat.captcha.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.chat.color.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.chat.commands.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.chat.text.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.chat.logins.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.chat.relog.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.combined.bedleave.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.combined.improbable.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.combined.munchhausen.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.fight.angle.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.fight.critical.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.fight.direction.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.fight.fastheal.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.fight.godmode.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.fight.noswing.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.fight.pitchpattern.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.fight.reach.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.fight.selfhit.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.fight.speed.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.fight.wrongturn.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.inventory.drop.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.inventory.fastclick.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.inventory.fastconsume.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.inventory.gutenberg.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.inventory.instantbow.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.inventory.instanteat.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.inventory.items.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.inventory.open.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.moving.creativefly.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.moving.morepackets.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.moving.nofall.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.moving.passable.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.moving.survivalfly.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.moving.vehicle.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.moving.vehicle.morepackets.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.moving.vehicle.envelope.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.net.attackfrequency.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.net.flyingfrequency.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.net.keepalivefrequency.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.net.packetfrequency.silent|empty|<l><l>|NONE
+NoCheatPlus|nocheatplus.checks.blockbreak.break.liquid|Allow players to break liquid.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.blockbreak.break|Allow the player to break special blocks.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.blockbreak.direction|Allow the player to bypass to Direction check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.blockbreak.fastbreak|Allow the player to bypass the FastBreak check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.blockbreak.frequency|Allow the player to bypass the Frequency check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.blockbreak.noswing|Allow the player to bypass the NoSwing check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.blockbreak.reach|Allow the player to bypass the Reach check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.blockbreak.wrongblock|Allow the player to bypass the WorngBlock check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.blockbreak|Allow the player to bypass all BlockBreak checks.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.blockinteract.direction|Allow the player to bypass to Direction check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.blockinteract.reach|Allow the player to bypass the Reach check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.blockinteract.speed|Allow the player to bypass the Speed check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.blockinteract.visible|Allow the player to bypass the Visible check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.blockinteract|Allow the player to bypass all BlockInteract checks.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.blockplace.against.liquids|Allow the player to place blocks against liquids.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.blockplace.against.air|Allow the player to place blocks against air.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.blockplace.against|Allow the player to place blocks against other blocks.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.blockplace.autosign|Allow bypassing the autosign check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.blockplace.boatsanywhere|Allow the player to place boats on the ground.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.blockplace.direction|Allow the player to bypass to Direction check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.blockplace.fastplace|Allow the player to bypass the FastPlace check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.blockplace.noswing|Allow the player to bypass the NoSwing check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.blockplace.reach|Allow the player to bypass the Reach check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.blockplace.speed|Allow the player to bypass the Speed check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.blockplace|Allow the player to bypass all BlockPlace checks.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.chat.captcha|Allow the player to bypass the captcha check (currently the text/commands violation handling would replace it!).|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.chat.color|Allow the player to bypass the Color check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.chat.commands|Allow the player to bypass the commands check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.chat.logins|Allow the player to bypass the logins check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.chat.relog|Allow the player to bypass the relog check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.chat.text|Allow the player to bypass the text check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.chat|Allow the player to bypass all Chat checks.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.combined.bedleave|Allow to bypass the bedleave check (fly, god).|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.combined.improbable|Allow the player to bypass the Improbable check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.combined.munchhausen|Allow flying with fishing rods! The check is deactivated by default, though.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.combined|Allow the player to bypass all combined checks.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.fight.angle|Allow the player to bypass the Angle check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.fight.critical|Allow the player to bypass the Critical check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.fight.direction|Allow the player to bypass the Direction check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.fight.fastheal|Allow the player to bypass the FastHeal check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.fight.godmode|Allow the player to bypass the GodMode check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.fight.noswing|Allow the player to bypass the NoSwing check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.fight.pitchpattern|Allow the player to bypass the PitchPattern check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.fight.reach|Allow the player to bypass the Reach check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.fight.selfhit|Allow the player to bypass the SelfHit check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.fight.speed|Allow the player to bypass the Speed check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.fight.wrongturn|Allow the player to bypass the WrongTurn check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.fight|Allow the player to bypass all Fight checks.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.inventory.drop|Allow the player to bypass the Drop check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.inventory.fastclick|Allow the player to bypass the FastClick check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.inventory.fastconsume|Allow to bypass the FastConsume check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.inventory.gutenberg|Allow to bypass the Gutenberg check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.inventory.instantbow|Allow the player to bypass the InstantBow check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.inventory.instanteat|Allow the player to bypass the InstantEat check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.inventory.items|Allow the player to bypass the items check (illegal enchantments/dupes).|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.inventory.open|Check for open inventories on special transitions, such as teleportation.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.inventory|Allow the player to bypass all Inventory checks.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.moving.creativefly|Allow the player to bypass the CreativeFly check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.moving.morepackets|Allow the player to bypass the MorePackets check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.moving.morepacketsvehicle|Legacy permission! Use instead: nocheatplus.checks.moving.vehicle.morepackets|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.moving.nofall|Allow the player to bypass the NoFall check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.moving.passable|Allow bypassing the Passable check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.moving.survivalfly.blocking|Allow the player to move without speed limits and to attack entities while blocking.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.moving.survivalfly.sneaking|Allow the player to move without speed limits while sneaking.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.moving.survivalfly.speeding|Allow the player to move at higher speeds.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.moving.survivalfly.sprinting|Allow the player to sprint backwards.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.moving.survivalfly.step|Allow the player to use the 'step' functionality of his client.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.moving.survivalfly|Allow the player to bypass the SurvivalFly check.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.moving.vehicle.morepackets|Allow bypassing the morepackets check for vehicles.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.moving.vehicle.envelope|Allow bypassing the moving envelope check for vehicles.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.moving.vehicle|Allow bypassing all checks for players moving as passengers of vehicles/other.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.moving|Allow the player to bypass all Moving checks.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.net.attackfrequency|Bypass the AttackFrequency check (attack speed).|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.net.flyingfrequency|Bypass the FlyingFrequency check (flying packet spam).|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.net.keepalivefrequency|Bypass the KeepAliveFrequency check (keep alive packet spam).|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.net.packetfrequency|Bypass the PacketFrequency check (overall packet spam).|<l><l>|OP
+NoCheatPlus|nocheatplus.checks.net|Allow a player to bypass the net (packet) checks.|<l><l>|OP
+NoCheatPlus|nocheatplus.checks|Allow the player to bypass all checks.|<l><l>|OP
+NoCheatPlus|nocheatplus.mods.journey.cavemap|Cave map features (JourneyMap, VoxelMap).|<l><l>|OP
+NoCheatPlus|nocheatplus.mods.minecraftautomap.cave|Allow the player to use Minecraft AutoMap's cave mode.|<l><l>|OP
+NoCheatPlus|nocheatplus.mods.minecraftautomap.ores|Allow the player to use Minecraft AutoMap's ores detector.|<l><l>|OP
+NoCheatPlus|nocheatplus.mods.minecraftautomap.radar|Allow the player to use Minecraft AutoMap's radar.|<l><l>|OP
+NoCheatPlus|nocheatplus.mods.minecraftautomap|Allow the player to use the Minecraft AutoMap mod.|<l><l>|OP
+NoCheatPlus|nocheatplus.mods.rei|Allow the player to use the Rei's Minimap mod.|<l><l>|OP
+NoCheatPlus|nocheatplus.mods|Allow the player to use all the client mods.|<l><l>|OP
+NoCheatPlus|nocheatplus.notify|Receive notifications about violations in-game.|<l><l>|OP
+NoCheatPlus|nocheatplus.filter.command.nocheatplus|Filter permission to allow using sub commands of the /nocheatplus command. This permission should not be necessary to ever be given to any player unless the permission plugin is incompatible with certain aspects of super-perms.|<l><l>|NONE
+NoCheatPlus|nocheatplus.filter.command|Allows use of all commands protected by the command protection, like the ncp root command. Does not give functionality but allow seeing usage and tab-completion of the command. In future there can be many children not listed in this config.|<l><l>|OP
+NoCheatPlus|nocheatplus.command.reload|Allow the player to reload NoCheatPlus configuration.|<l><l>|OP
+NoCheatPlus|nocheatplus.command.top|Allow to search violation history for top violations.|<l><l>|OP
+NoCheatPlus|nocheatplus.command.denylist|Allow use of the ncp denylist command (view players who are denied to login right now).|<l><l>|OP
+NoCheatPlus|nocheatplus.command.commands|Allow use of the ncp commands command.|<l><l>|OP
+NoCheatPlus|nocheatplus.command.reset|Reset statistics or debugging counters.|<l><l>|OP
+NoCheatPlus|nocheatplus.command.debug|Start logging debug information for a player (lots of output, log file).|<l><l>|OP
+NoCheatPlus|nocheatplus.command.stopwatch|Stop watch functionality. See tab-completion and feedback.|<l><l>|OP
+NoCheatPlus|nocheatplus.command|All command permissions, do not give lightly - if in doubt use shortcut permissions for moderators (nocheatplus.shortcut.monitor|safeadmin ...).|<l><l>|OP
+NoCheatPlus|nocheatplus.bypass.denylogin|Bypass the login denial, such as exists with the ncp denylogin command.|<l><l>|OP
+NoCheatPlus|nocheatplus.bypass|Bypass other features than checks.|<l><l>|OP
+NoCheatPlus|nocheatplus.shortcut.info|Info commands about players.|<l><l>|OP
+NoCheatPlus|nocheatplus.shortcut.monitor|All monitoring commands such as player and system info (including plugins).|<l><l>|OP
+NoCheatPlus|nocheatplus.shortcut.safeadmin|Permissions for "safe" administration, excluding rather critical operations like reload and action commands like ban/delay (arbitrary console commands!). Fit for "heavy" mods, include temp-kicking and exemptions, does bypass login-denial.|<l><l>|OP
+NoCheatPlus|nocheatplus.shortcut.cheater|Allow use of all cheating, excludes bypassing temp-kick and command protection and similar.|<l><l>|OP
+NoCheatPlus|nocheatplus.shortcut.bypass|Bypass everything that can be bypassed.|<l><l>|OP
+NoCheatPlus|nocheatplus.shortcut|Shortcut permissions designed to be somewhat "safe" to give (see children permissions).|<l><l>|OP
+NoCheatPlus|nocheatplus.tester|Monitoring and debugging permissions, including removing data and exemption handling for oneself.|<l><l>|OP
+NoCheatPlus|nocheatplus.admin.debug|Receive debugging information (or cause console logs on other occasions).|<l><l>|OP
+NoCheatPlus|nocheatplus|Allow the player to bypass all checks and give him all administration permissions.|<l><l>|OP
+QuarryCraft|quarrycraft.*|Grants all quarrycraft permissions|<l><l>|OP
+QuarryCraft|quarrycraft.buildquarries|Allows the player to actually make their own quarries|<l><l>|PLAYER
+QuarryCraft|quarrycraft.use|Allows the player to interact with their own quarries|<l><l>|PLAYER
+QuarryCraft|quarrycraft.useall|Allows the player to use all quarries|<l><l>|NONE
+StarMail|mail.summon|grants access to summon mail commands|<l>letter<br>package<br>box<br><l>|OP
+StarMail|mail.gift|grants access to mail gift commands|<l>giftletter<br>giftpackage<br>giftbox<br><l>|OP
+CaulCrafting|caulcrafting.use|Allows you to use the cauldron crafting system|<l><l>|PLAYER
+CaulCrafting|caulcrafting.nowaterconsume|Allows you to craft without consuming water layer|<l><l>|NONE
+CaulCrafting|caulcrafting.admin.*|Gives access to all caulcrafting admin commands|<l><l>|OP
+CaulCrafting|caulcrafting.admin.list|Allows you to show the craft list|<l><l>|OP
+CaulCrafting|caulcrafting.admin.create|Allows you to create new cauldron crafts|<l><l>|OP
+CaulCrafting|caulcrafting.admin.remove|Allows you to remove a specified craft|<l><l>|OP
+DeadSouls|com.darkyen.minecraft.deadsouls.hassoul|Has soul that holds onto their items.|<l><l>|PLAYER
+DeadSouls|com.darkyen.minecraft.deadsouls.hassoul.xp|If the player has a soul, it stores their XP|<l><l>|PLAYER
+DeadSouls|com.darkyen.minecraft.deadsouls.hassoul.items|If the player has a soul, it stores their items|<l><l>|PLAYER
+DeadSouls|com.darkyen.minecraft.deadsouls.souls|List souls with /souls command|<l><l>|PLAYER
+DeadSouls|com.darkyen.minecraft.deadsouls.souls.all|/souls displays all souls, even those that are not yours|<l><l>|OP
+DeadSouls|com.darkyen.minecraft.deadsouls.souls.free|Free to your souls through /souls command and through quick link|<l><l>|PLAYER
+DeadSouls|com.darkyen.minecraft.deadsouls.souls.free.all|Free anyone's soul through /souls command|<l><l>|OP
+DeadSouls|com.darkyen.minecraft.deadsouls.souls.goto|Teleport to your souls through /souls command|<l><l>|OP
+DeadSouls|com.darkyen.minecraft.deadsouls.souls.goto.all|Teleport to any soul through /souls command|<l><l>|OP
+TidyingChest|tc.reload|Allows to reload the configuration.|<l>tc-reload<br><l>|OP
+TidyingChest|tc.create|Allows to create a tidying chest.|<l><l>|PLAYER
+TidyingChest|tc.create.show_loc|Allows to get existing chests coords when trying to create one|<l><l>|PLAYER
+TidyingChest|tc.create.ROOT.unlimited|No limitation for root signs.|<l><l>|NONE
+TidyingChest|tc.create.ROOT.default|Use « default » limit for root signs.|<l><l>|PLAYER
+TidyingChest|tc.create.TARGET.unlimited|No limitation for target signs.|<l><l>|NONE
+TidyingChest|tc.create.TARGET.default|Use « default » limit for target signs.|<l><l>|PLAYER
+TidyingChest|tc.create.ROOT.world.*|Allows to create root signs in any world|<l><l>|PLAYER
+TidyingChest|tc.create.TARGET.world.*|Allows to create target signs in any world|<l><l>|PLAYER
+BetterFarming|betterfarming.farms.<Number>|Give players permission to create specific amount of farms.|<l><l>|OP
+BetterFarming|betterfarming.command.get|Access to /BetterFarming get command.|<l><l>|OP
+BetterFarming|betterfarming.command.give|Access to /BetterFarming give command.|<l><l>|OP
+BetterFarming|betterfarming.command.help|Access to /BetterFarming help command.|<l><l>|OP
+BetterFarming|betterfarming.command.*|Access to all BetterFarming commands (no admin commands).|<l><l>|OP
+BetterFarming|betterfarming.admin.command.reload|Access to /BetterFarming reload command.|<l><l>|OP
+BetterFarming|betterfarming.admin.command.*|Access to all admin commands.|<l><l>|OP
+BetterFarming|betterfarming.bypass.block_break|Bypass block break protection.|<l><l>|OP
+BetterFarming|betterfarming.bypass.block_place|Bypass block place protection.|<l><l>|OP
+BetterFarming|betterfarming.bypass.harvest|Bypass harvest protection.|<l><l>|OP
+BetterFarming|betterfarming.bypass.plant|Bypass crop plant protection.|<l><l>|OP
+BetterFarming|betterfarming.bypass.interact|Bypass interact block protection.|<l><l>|OP
+BetterFarming|betterfarming.bypass.delete|Delete other players farms.|<l><l>|OP
+BetterFarming|betterfarming.bypass.menu|Open other players farm menu.|<l><l>|OP
+BetterFarming|betterfarming.bypass.*|Bypass all protections.|<l><l>|OP
+BetterFarming|betterfarming.*|Access to all Betterfarming actions.|<l><l>|OP
+ore-control|ore.control|Base permission|<l>orecontrol<br><l>|OP
+ore-control|ore.control.*|Gives access to all Ore Control commands and functions|<l><l>|OP
+ore-control|ore.control.set.*|Gives access to the subcommand 'set'  and 'setbiome' and to set normal and biome values via gui|<l><l>|OP
+ore-control|ore.control.set|Gives access to the subcommand 'set' and to set normal values via gui|<l><l>|OP
+ore-control|ore.control.set.value|Gives access to the subcommand 'set value' and to set normal values via gui|<l><l>|OP
+ore-control|ore.control.set.biome|Gives access to the subcommand 'set biome' and to set biome values via gui|<l><l>|OP
+ore-control|ore.control.reload|Gives access to the subcommand 'reload'|<l><l>|OP
+ore-control|ore.control.gui|Gives access to the gui|<l><l>|OP
+ore-control|ore.control.template|Base template permission|<l><l>|OP
+ore-control|ore.control.template.*|Gives access to the subcommand 'create' and to create and delete templates via the gui|<l><l>|OP
+ore-control|ore.control.template.create|Gives access to the subcommand 'create' and to create templates via the gui|<l><l>|OP
+ore-control|ore.control.template.delete|Gives access to delete templates via the gui|<l><l>|OP
+ore-control|ore.control.value|Base value permission|<l><l>|OP
+ore-control|ore.control.value.*|Gives access to reset and copy values via the gui|<l><l>|OP
+ore-control|ore.control.value.reset|Gives access to reset values via the gui|<l><l>|OP
+ore-control|ore.control.value.copy|Gives access to copy values via the gui|<l><l>|OP
+ore-control|ore.control.config.edit|Gives access to edit the config via the gui|<l><l>|OP
+AirBar|airbar.reload|Reload the configuration|<l><l>|OP
+AirBar|airbar.help|Show plugin help|<l><l>|PLAYER
+AirBar|airbar.uploadlog|Upload log|<l><l>|OP
+AirBar|airbar.uploadconfig|Upload config|<l><l>|OP
+AirBar|airbar.about|About the plugin|<l><l>|PLAYER
+AirBar|airbar.permissions|List all permissions|<l><l>|PLAYER
+AirBar|airbar.resetconfig|Reset the configuration file|<l><l>|NONE
+AirBar|airbar.broadcast|Broadcast message|<l><l>|NONE
+AirBar|airbar.toggle|Toggle the airbar|<l><l>|PLAYER
+AirBar|airbar.toggle.other|Toggle the airbar of another player|<l><l>|NONE
+AirBar|airbar.placeholders|Available placeholders|<l><l>|OP
+AirBar|airbar.parse|Parse effects or placeholders to chat|<l><l>|OP
+AirBar|airbar.group.default|Default group|<l><l>|PLAYER
+AirBar|airbar.show|Show a different air bar|<l><l>|OP
+AirBar|airbar.debug|Generate a debug|<l><l>|OP
+AirBar|airbar.show.other|Show a different air bar for another player|<l><l>|OP
+AirBar|airbar.announcementlist|Show the list of announcements you have permission to|<l><l>|PLAYER
+AirBar|airbar.announcementlist.other|Show the list of announcements another player has permission to|<l><l>|OP
+FlightManagement|fm.toggle|Permission to toggle flight (/fly)|<l><l>|NONE
+FlightManagement|fm.admin|Permission to use admin commands (/fm)|<l><l>|OP
+FlightManagement|fm.override|Permission to have infinite flight time|<l><l>|OP
+FlightManagement|fm.*|Wildcard permission|<l><l>|OP
+CookMe|cookme.*|Gives access to all CookMe permissions|<l><l>|OP
+CookMe|cookme.enable.*|Gives access to all CookMe enable commands|<l><l>|OP
+CookMe|cookme.disable.*|Gives access to all CookMe disable commands|<l><l>|OP
+CookMe|cookme.set.*|Gives access to all CookMe set commands|<l><l>|OP
+CookMe|cookme.help|Allows you to see the help|<l><l>|OP
+CookMe|cookme.reload|Allows you to reload the config|<l><l>|OP
+CookMe|cookme.safe|Allows you to be safe against the effects|<l><l>|OP
+CookMe|cookme.set.damage|Allows you to set the damage|<l><l>|OP
+CookMe|cookme.set.death|Allows you to set the death|<l><l>|OP
+CookMe|cookme.set.venom|Allows you to set the venom|<l><l>|OP
+CookMe|cookme.set.hungervenom|Allows you to set the hungervenom|<l><l>|OP
+CookMe|cookme.set.hungerdecrease|Allows you to set the hungerdecrease|<l><l>|OP
+CookMe|cookme.set.confusion|Allows you to set the confusion|<l><l>|OP
+CookMe|cookme.set.blindness|Allows you to set the blindness|<l><l>|OP
+CookMe|cookme.set.weakness|Allows you to set the weakness|<l><l>|OP
+CookMe|cookme.set.slowness|Allows you to set the slowness|<l><l>|OP
+CookMe|cookme.set.slowness_blocks|Allows you to set the slowness for blocks|<l><l>|OP
+CookMe|cookme.set.instant_damage|Allows you to set the instant_damage|<l><l>|OP
+CookMe|cookme.set.refusing|Allows you to set the refusing of raw food|<l><l>|OP
+CookMe|cookme.set.wither|Allows you to set the wither effect|<l><l>|OP
+CookMe|cookme.set.levitation|Allows you to set the levitation effect|<l><l>|OP
+CookMe|cookme.set.unluck|Allows you to set the unluck effect|<l><l>|OP
+CookMe|cookme.set.bad_omen|Allows you to set the bad omen effect|<l><l>|OP
+CookMe|cookme.enable.permissions|Allows you to enable permissions|<l><l>|OP
+CookMe|cookme.enable.messages|Allows you to enable messages|<l><l>|OP
+CookMe|cookme.disable.permissions|Allows you to disable permissions|<l><l>|OP
+CookMe|cookme.disable.messages|Allows you to disable messages|<l><l>|OP
+CookMe|cookme.duration|Used for duration things|<l><l>|OP
+CookMe|cookme.cooldown|Used for cooldown things|<l><l>|OP
+Elections|elections.create|Create an election|<l><l>|OP
+Elections|elections.cancel|Cancel an already running election|<l><l>|OP
+Elections|elections.run|Nominate yourself for the election|<l><l>|PLAYER
+Elections|elections.skipstage|Skip to the next stage|<l><l>|OP
+Elections|elections.vote|Vote for your favourite player|<l><l>|PLAYER
+BanItem|banitem.bypass.*|bypass the ban item in all worlds|<l><l>|OP
+BanItem|banitem.command.*|use /banitem command.|<l><l>|OP
+GHolo|GHolo.*|OP-Permission for all Commands and Functions for GHolo|<l><l>|OP
+GHolo|GHolo.Info|Holo-Info | Permission|<l><l>|OP
+GHolo|GHolo.List|Holo-List | Permission|<l><l>|OP
+GHolo|GHolo.Create|Create Holo | Permission|<l><l>|OP
+GHolo|GHolo.Remove|Remove Holo | Permission|<l><l>|OP
+GHolo|GHolo.Tp|Tp Holo | Permission|<l><l>|OP
+GHolo|GHolo.TpHere|TpHere Holo | Permission|<l><l>|OP
+GHolo|GHolo.ARow|ARow Holo | Permission|<l><l>|OP
+GHolo|GHolo.RRow|RRow Holo | Permission|<l><l>|OP
+GHolo|GHolo.IRow|IRow Holo | Permission|<l><l>|OP
+GHolo|GHolo.SRow|SRow Holo | Permission|<l><l>|OP
+GHolo|GHolo.MRow|MRow Holo | Permission|<l><l>|OP
+GHolo|GHolo.Image|Holo-Image | Permission|<l><l>|OP
+GHolo|GHolo.Copy|Holo-Copy | Permission|<l><l>|OP
+GHolo|GHolo.GHoloReload|Config-Reload-Command | Permission|<l><l>|OP
+MultitoolPlusPro|multitool.use|Allows the use of a multitool|<l><l>|OP
+MultitoolPlusPro|multitool.command|Allows the use of multitool commands|<l>multitool<br><l>|OP
+MultitoolPlusPro|multitool.viewothers|Allows the opening of other players' multitools|<l><l>|OP
+MultitoolPlusPro|multitool.migrate|Migrates all data from multitool regular to multitool pro|<l><l>|OP
+MultitoolPlusPro|multitool.reload|Reloads config.yml|<l><l>|OP
+MultitoolPlusPro|multitool.multiarmour|Allows the use of the elytra/chestplate multi armour|<l><l>|OP
+MultitoolPlusPro|multitool.durabilitywarning|Allows the user to see tool durability warnings|<l><l>|OP
+MultitoolPlusPro|multitool.*|Wildcard permission|<l><l>|OP
+EZColors|ezcolors.gui|Permission to Open the Chat Color GUI.|<l><l>|OP
+EZColors|ezcolors.color.darkred|Permission to set your color to Dark Red.|<l><l>|OP
+EZColors|ezcolors.color.green|Permission to set your color to Green.|<l><l>|OP
+EZColors|ezcolors.color.blue|Permission to set your color to Blue.|<l><l>|OP
+EZColors|ezcolors.color.cyan|Permission to set your color to Cyan.|<l><l>|OP
+EZColors|ezcolors.color.purple|Permission to set your color to Purple.|<l><l>|OP
+EZColors|ezcolors.color.gold|Permission to set your color to Gold.|<l><l>|OP
+EZColors|ezcolors.color.darkgray|Permission to set your color to Dark Gray.|<l><l>|OP
+EZColors|ezcolors.color.red|Permission to set your color to Red.|<l><l>|OP
+EZColors|ezcolors.color.lime|Permission to set your color to Lime.|<l><l>|OP
+EZColors|ezcolors.color.lightblue|Permission to set your color to Light Blue.|<l><l>|OP
+EZColors|ezcolors.color.black|Permission to set your color to Black.|<l><l>|OP
+EZColors|ezcolors.color.pink|Permission to set your color to Pink.|<l><l>|OP
+EZColors|ezcolors.color.yellow|Permission to set your color to Yellow.|<l><l>|OP
+EZColors|ezcolors.color.gray|Permission to set your color to Gray.|<l><l>|OP
+EZColors|ezcolors.color.aqua|Permission to set your color to Aqua.|<l><l>|OP
+EZColors|ezcolors.color.white|Permission to set your color to White.|<l><l>|OP
+EZColors|ezcolors.color.rainbow|Permission to set your color to Rainbow.|<l><l>|OP
+EZColors|ezcolors.color.reset|Permission to reset your color.|<l><l>|NOT_OP
+EZColors|ezcolors.color.*|Permission to set your color to Any Color.|<l><l>|OP
+EZColors|ezcolors.color.custom|Permissiont to set your color to a Custom Color.|<l><l>|OP
+EZColors|ezcolors.reload|Permission to reload the plugin. (Execute /color reload)|<l><l>|OP
+EZColors|ezcolors.languages|Permission to open the Languages GUI (Execute /color languages)|<l><l>|OP
+EZColors|ezcolors.*|Permission to everything.|<l><l>|OP
+ItemEdit|itemedit.admin|Gives full access to the plugin|<l><l>|OP
+ItemEdit|itemedit.creativeuser|Gives full access to the plugin|<l><l>|OP
+ItemEdit|itemedit.itemeditreload|Gives full access to command /itemeditreload|<l><l>|OP
+ItemEdit|itemedit.serveritem.*|Gives full access to command /serveritem|<l><l>|OP
+ItemEdit|itemedit.serveritem.save|Allow to store items|<l><l>|OP
+ItemEdit|itemedit.serveritem.setnick|Allow to store items|<l><l>|OP
+ItemEdit|itemedit.serveritem.delete|Allow to delete stored items|<l><l>|OP
+ItemEdit|itemedit.serveritem.update|Allow to update stored items|<l><l>|OP
+ItemEdit|itemedit.serveritem.show|Allow to show stored items|<l><l>|OP
+ItemEdit|itemedit.serveritem.give|Allow to give stored items|<l><l>|OP
+ItemEdit|itemedit.serveritem.sell|Allow to sell fixed amount of stored items|<l><l>|OP
+ItemEdit|itemedit.serveritem.buy|Allow to buy fixed amount of stored items|<l><l>|OP
+ItemEdit|itemedit.serveritem.sellmax|Allow to sell stored items|<l><l>|OP
+ItemEdit|itemedit.serveritem.buymax|Allow to buy stored items|<l><l>|OP
+ItemEdit|itemedit.itemstorage.*|Gives full access to command /itemstorage|<l><l>|OP
+ItemEdit|itemedit.itemstorage.save|Allow to store items|<l><l>|OP
+ItemEdit|itemedit.itemstorage.delete|Allow to delete stored items|<l><l>|OP
+ItemEdit|itemedit.itemstorage.update|Allow to update stored items|<l><l>|OP
+ItemEdit|itemedit.itemstorage.show|Allow to show stored items|<l><l>|OP
+ItemEdit|itemedit.itemstorage.get|Allow to get stored items|<l><l>|OP
+ItemEdit|itemedit.itemedit.*|Gives full access to command /itemedit|<l><l>|OP
+ItemEdit|itemedit.itemedit.rename|Allow editing item name|<l><l>|OP
+ItemEdit|itemedit.itemedit.lore|Allow editing item lore|<l><l>|OP
+ItemEdit|itemedit.itemedit.amount|Allow editing item amount|<l><l>|OP
+ItemEdit|itemedit.itemedit.damage|Allow editing item durability-damage|<l><l>|OP
+ItemEdit|itemedit.itemedit.hide|Allow editing item flags|<l><l>|OP
+ItemEdit|itemedit.itemedit.hideall|Allow to hide all item flags at once|<l><l>|OP
+ItemEdit|itemedit.itemedit.enchant|Allow editing item enchants|<l><l>|OP
+ItemEdit|itemedit.itemedit.unbreakable|Allow editing item unbreakablity|<l><l>|OP
+ItemEdit|itemedit.itemedit.type|Allow editing item material|<l><l>|OP
+ItemEdit|itemedit.itemedit.skullowner|Allow editing skull skin owner|<l><l>|OP
+ItemEdit|itemedit.itemedit.potioneffect|Allow editing potion effects|<l><l>|OP
+ItemEdit|itemedit.itemedit.potioncolor|Allow editing potion colors|<l><l>|OP
+ItemEdit|itemedit.itemedit.bookauthor|Allow editing book author|<l><l>|OP
+ItemEdit|itemedit.itemedit.booktype|Allow editing book type|<l><l>|OP
+ItemEdit|itemedit.itemedit.banner|Allow editing banners|<l><l>|OP
+ItemEdit|itemedit.itemedit.leathercolor|Allow editing leather armor colors|<l><l>|OP
+ItemEdit|itemedit.itemedit.spawnereggtype|Allow editing monster's egg|<l><l>|OP
+ItemEdit|itemedit.itemedit.fireworkpower|Allow editing fireworks power|<l><l>|OP
+UltraCheck|ultracheck.check|Freeze a player|<l><l>|OP
+AutoTrasher|trasher.create|Allows players to create AutoTrashers.|<l><l>|OP
+AutoTrasher|trasher.toggle|Allows players to toggle their AutoTrasher.|<l><l>|OP
+AutoTrasher|trasher.give|Allows players to give other players AutoTrashers.|<l><l>|OP
+AutoTrasher|trasher.delete|Allows players to delete their AutoTrasher data.|<l><l>|OP
+AutoTrasher|trasher.open|Allows players to open their AutoTrasher menu.|<l><l>|OP
+AutoTrasher|trasher.use|Allows players to use AutoTrashers.|<l><l>|OP
+AutoTrasher|trasher.reload|Allows players to reload the plugin configuration files.|<l><l>|OP
+WildChests|wildchests.*|Gives access to all the commands|<l><l>|OP
+WildChests|wildchests.give|Gives access to give chests to other players.|<l><l>|OP
+WildChests|wildchests.info|Gives access to see information about a chest.|<l><l>|OP
+WildChests|wildchests.link|Gives access to link linked chests into other chests.|<l><l>|OP
+WildChests|wildchests.reload|Gives access to reload all configuration files.|<l><l>|OP
+WildChests|wildchests.save|Gives access to save database into files.|<l><l>|OP
+WildChests|wildchests.settings|Gives access to use settings editor.|<l><l>|OP
+GlobalMarketChest|globalmarketchest.*|Can use all commands and shops|<l><l>|OP
+GlobalMarketChest|globalmarketchest.globalshop.*|Can create or use a globalshop|<l><l>|OP
+GlobalMarketChest|globalmarketchest.globalshop.createshop|Can create a globalshop|<l><l>|OP
+GlobalMarketChest|globalmarketchest.globalshop.openshop|Can open shop|<l><l>|OP
+GlobalMarketChest|globalmarketchest.globalshop.createauction|Can create an auction|<l><l>|OP
+GlobalMarketChest|globalmarketchest.globalshop.buyauction|Can create buy an auction|<l><l>|OP
+GlobalMarketChest|globalmarketchest.admin.*|Can do every admin actions|<l><l>|OP
+GlobalMarketChest|globalmarketchest.admin.shops.*|Can do every admin actions inside shops|<l><l>|OP
+GlobalMarketChest|globalmarketchest.admin.shops.seeauctions|Can see auctions of auther players every auction inside shop|<l><l>|OP
+GlobalMarketChest|globalmarketchest.admin.shops.removeauction|Can delete every auction inside shop|<l><l>|OP
+GlobalMarketChest|globalmarketchest.admin.shops.deleteshop|Can delete every shop|<l><l>|OP
+GlobalMarketChest|globalmarketchest.admin.commands.*|Can execute every admin commands|<l><l>|OP
+GlobalMarketChest|globalmarketchest.admin.commands.open|Can open a shop for another player|<l><l>|OP
+GlobalMarketChest|globalmarketchest.admin.commands.close|Can close the shop of a player|<l><l>|OP
+GlobalMarketChest|globalmarketchest.admin.commands.fix|Can use fix command|<l><l>|OP
+GlobalMarketChest|globalmarketchest.commands|Base permission for command|<l>globalmarketchest<br><l>|PLAYER
+GlobalMarketChest|globalmarketchest.commands.*|Can use all commands|<l><l>|OP
+GlobalMarketChest|globalmarketchest.commands.reload|Can reload the plugin|<l><l>|OP
+GlobalMarketChest|globalmarketchest.commands.open|Can open a shop with command|<l><l>|OP
+GlobalMarketChest|globalmarketchest.commands.list.*|Can list all shops with command|<l><l>|OP
+GlobalMarketChest|globalmarketchest.commands.list.detail|Can see all shop position for a group of shop|<l><l>|OP
+GlobalMarketChest|globalmarketchest.commands.list.tp|Can be teleport to a specific shop|<l><l>|OP
+AdvancedModreq|advancedmodreq.use|Use plugin|<l><l>|PLAYER
+AdvancedModreq|advancedmodreq.reload|Reload plugin|<l><l>|OP
+AdvancedModreq|advancedmodreq.updater|Get notification if there is an update for AdvancedModreq|<l><l>|OP
+AdvancedModreq|advancedmodreq.language|Change the language|<l><l>|OP
+AdvancedModreq|advancedmodred.admin.*|Access to Admin Commands|<l><l>|OP
+AdvancedModreq|advancedmodreq.*|empty|<l><l>|OP
+AdvancedModreq|advancedmodreq.tickets.*|empty|<l><l>|OP
+AdvancedModreq|advancedmodreq.tickets.status|View all personal ticket status' and replies from other players|<l><l>|OP
+AdvancedModreq|advancedmodreq.tickets.status.own|View all personal ticket status' and replies|<l><l>|PLAYER
+AdvancedModreq|advancedmodreq.tickets.reply|Reply to another players ticket|<l><l>|OP
+AdvancedModreq|advancedmodreq.tickets.reply.own|Reply to a personal ticket|<l><l>|PLAYER
+AdvancedModreq|advancedmodreq.tickets.flag|Ability to flag a ticket|<l><l>|OP
+AdvancedModreq|advancedmodreq.tickets.open|Re-open a ticket|<l><l>|OP
+AdvancedModreq|advancedmodreq.tickets.close|Close a ticket|<l><l>|OP
+AdvancedModreq|advancedmodreq.tickets.tp|Teleport to a tickets creation location|<l><l>|OP
+AdvancedModreq|advancedmodreq.tickets.view.opened|View an open ticket|<l><l>|OP
+AdvancedModreq|advancedmodreq.tickets.view.closed|View a closed ticket|<l><l>|OP
+AdvancedModreq|advancedmodreq.tickets.view.*|empty|<l><l>|OP
+AdvancedModreq|advancedmodreq.tickets.list.opened|List and View all open tickets|<l><l>|OP
+AdvancedModreq|advancedmodreq.tickets.list.closed|List and View all closed tickets|<l><l>|OP
+AdvancedModreq|advancedmodreq.tickets.list.*|empty|<l><l>|OP
+AdvancedModreq|advancedmodreq.tickets.importance|Set the importance level of a ticket, requires "...importance.1-5"|<l><l>|OP
+AdvancedModreq|advancedmodreq.tickets.delete|Delete a ticket|<l><l>|OP
+AdvancedModreq|advancedmodreq.tickets.claim|Claim a ticket, disallowing others from altering it|<l><l>|OP
+AdvancedModreq|advancedmodreq.tickets.claim.override|Claim an already claimed ticket|<l><l>|OP
+AdvancedModreq|advancedmodreq.purge.*|empty|<l><l>|OP
+AdvancedModreq|advancedmodreq.purge.opened|Purge all opened tickets|<l><l>|OP
+AdvancedModreq|advancedmodreq.purge.closed|Purge all closed tickets|<l><l>|OP
+AdvancedModreq|advancedmodreq.purge.all|Purge all tickets|<l><l>|OP
+AdvancedModreq|advancedmodreq.staff.notification|Get a notification when a player makes a new ticket|<l><l>|OP
+AdvancedModreq|advancedmodreq.tickets.create|Make a ticket request|<l><l>|PLAYER
+AdvancedModreq|advancedmodreq.importance.*|Be able to create/edit a ticket with the specific importance level|<l><l>|PLAYER
+AdvancedModreq|advancedmodreq.importance.1|Ability to make a level 1 ticket|<l><l>|OP
+AdvancedModreq|advancedmodreq.importance.2|Ability to make a level 2 ticket|<l><l>|OP
+AdvancedModreq|advancedmodreq.importance.3|Ability to make a level 3 ticket|<l><l>|OP
+AdvancedModreq|advancedmodreq.importance.4|Ability to make a level 4 ticket|<l><l>|OP
+AdvancedModreq|advancedmodreq.importance.5|Ability to make a level 5 ticket|<l><l>|OP
+AdvancedModreq|advancedmodreq.economy.bypass|Bypass the tickets creation value|<l><l>|OP
+AdvancedModreq|advancedmodreq.notifications.player|Notify player of any updated tickets|<l><l>|PLAYER
+AdvancedModreq|advancedmodreq.notifications.opened|Notify player if a ticket is opened when joining|<l><l>|OP
+AdvancedModreq|advancedmodreq.notifications.flagged|Notify player if a ticket was flagged when joining|<l><l>|OP
+AdvancedModreq|advancedmodreq.notifications.new|Notify player if a new ticket was created|<l><l>|OP
+AdvancedModreq|advancedmodreq.notifications.claimed|Notify player if a ticket was claimed|<l><l>|OP
+AdvancedModreq|advancedmodreq.notifications.*|empty|<l><l>|OP
+AdvancedModreq|advancedmodreq.signs.create|Ability to create a command sign|<l><l>|OP
+AdvancedModreq|advancedmodreq.admin.settings|Edit plugin settings|<l><l>|OP
+AdvancedModreq|advancedmodreq.admin.manage|Manage all tickets|<l><l>|OP
+BeaconPlus2|beaconplus.admin|Allows you to access BeaconPlus2 command|<l>beaconplus<br><l>|OP
+CommandBlocks|commandblocks.help|empty|<l><l>|OP
+CommandBlocks|commandblocks.reload|empty|<l><l>|OP
+CommandBlocks|commandblocks.list|empty|<l><l>|OP
+CommandBlocks|commandblocks.create|empty|<l><l>|OP
+CommandBlocks|commandblocks.remove|empty|<l><l>|OP
+CommandBlocks|commandblocks.use|empty|<l><l>|OP
+CommandBlocks|commandblocks.cost.free|empty|<l><l>|NONE
+CommandBlocks|commandblocks.notify.update|empty|<l><l>|OP
+PinataParty|pinataparty.admin|empty|<l><l>|OP
+PinataParty|pinataparty.pool|empty|<l><l>|OP
+PinataParty|pinataparty.update-notify|Receive a notification when a new update is available.|<l><l>|OP
+yasui|yasui.admin|empty|<l><l>|OP
+yasui|yasui.profiler|empty|<l><l>|OP
+Mounts|mounts.command.give|Give command|<l><l>|OP
+Mounts|mounts.command.reload|Reload command|<l><l>|OP
+Mounts|mounts.command.mounts|Mounts command|<l><l>|PLAYER
+Mounts|mounts.command.mount|Mount command|<l><l>|PLAYER
+Mounts|mounts.command.mountset|Mount set command|<l><l>|PLAYER
+Mounts|mounts.command.mountdel|Mount delete command|<l><l>|PLAYER
+Mounts|mounts.command.buy|Buy mount command|<l><l>|OP
+Mounts|mounts.command.sell|Sell mount command|<l><l>|OP
+Mounts|mounts.command.demo|Mount demo command|<l><l>|OP
+WildTools|wildtools.*|Gives access to all the command.|<l><l>|OP
+WildTools|wildtools.use|Gives access to use the custom tools.|<l><l>|PLAYER
+WildTools|wildtools.give|Gives access to give tools to other players.|<l><l>|OP
+WildTools|wildtools.info|Gives access to get information about tools.|<l><l>|OP
+WildTools|wildtools.list|Gives access to see all tools.|<l><l>|OP
+WildTools|wildtools.reload|Gives access to reload all configuration files.|<l><l>|OP
+WildTools|wildtools.sellmode|Gives access to use harvester sell mode.|<l><l>|OP
+WildTools|wildtools.settings|Gives access to use settings editor.|<l><l>|OP
+StaffFacilities|sf.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.player.*|Gives access to commands or systems which I consider player friendly!|<l><l>|OP
+StaffFacilities|sf.staff.*|Gives access to commands or systems which I consider staff friendly!|<l><l>|OP
+StaffFacilities|sf.alert.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.announce.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.broadcast.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.danger.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.error.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.information.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.note.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.say.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.warning.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.broadcastmessages.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.antiadvertise.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.antiplugins.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.antihelp.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.antiversion.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.antiswear.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.ans.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.bin.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.burn.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.chatcommands|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.blacklistworldbypass.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.chatmute.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.clearchat.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.clearinventory.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.commandspy.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.combatbypass.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.cooldown.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.cps.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.time.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.duty.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.duty.command.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.enderchest.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.fakeleave.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.fakeleave.toggle.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.feed.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.fly.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.flyattack.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.freeze.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.gamemode.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.god.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.heal.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.helpme.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.inspect.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.invsee.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.kill.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.hacksucate.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.maintenancemode.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.namednotify.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|NONE
+StaffFacilities|sf.nightvision.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.ping.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.report.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.server.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.show.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.spf.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.staffvanish.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.staffvanish.toggle.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.staffwatch.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.teleportcommands|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.vanish.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.vanish.toggle.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.warn.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.watchover.command.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.watchover.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.xraynotify.*|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.getlinks|Gives access to all plugin's command and permissions with exception of the automodes!|<l><l>|OP
+StaffFacilities|sf.alert|Allows you to send an alert message!|<l>sf_alert<br><l>|OP
+StaffFacilities|sf.alert.notification|Allows you to see who sent an alert message!|<l><l>|OP
+StaffFacilities|sf.announce|Allows you to send an announce message!|<l>sf_announce<br><l>|OP
+StaffFacilities|sf.announce.notification|Allows you to see who sent an announce message!|<l><l>|OP
+StaffFacilities|sf.broadcast|Allows you to send a broadcast message!|<l>sf_broadcast<br><l>|OP
+StaffFacilities|sf.broadcast.notification|Allows you to see who sent a broadcast message!|<l><l>|OP
+StaffFacilities|sf.danger|Allows you to send a danger message!|<l>sf_danger<br><l>|OP
+StaffFacilities|sf.danger.notification|Allows you to see who sent a danger message!|<l><l>|OP
+StaffFacilities|sf.error|Allows you to send an error message!|<l>sf_error<br><l>|OP
+StaffFacilities|sf.error.notification|Allows you to see who sent an error message!|<l><l>|OP
+StaffFacilities|sf.information|Allows you to send an information message!|<l>sf_information<br><l>|OP
+StaffFacilities|sf.information.notification|Allows you to see who sent an information message!|<l><l>|OP
+StaffFacilities|sf.note|Allows you to send a note message!|<l>sf_note<br><l>|OP
+StaffFacilities|sf.note.notification|Allows you to see who sent a note message!|<l><l>|OP
+StaffFacilities|sf.say|Allows you to send a say message!|<l>sf_say<br><l>|OP
+StaffFacilities|sf.say.notification|Allows you to see who sent a say message!|<l><l>|OP
+StaffFacilities|sf.warning|Allows you to send a warning message!|<l>sf_warning<br><l>|OP
+StaffFacilities|sf.warning.notification|Allows you to see who sent a warning message!|<l><l>|OP
+StaffFacilities|sf.bin|Allows you to open a bin!|<l>sf_bin<br><l>|OP
+StaffFacilities|sf.bin.others|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.birthday|Allows you to open a others bin!|<l>sf_birthday<br><l>|OP
+StaffFacilities|sf.discord|Allows you to open a others bin!|<l>sf_discord<br><l>|OP
+StaffFacilities|sf.donate|Allows you to open a others bin!|<l>sf_donate<br><l>|OP
+StaffFacilities|sf.email|Allows you to open a others bin!|<l>sf_email<br><l>|OP
+StaffFacilities|sf.facebook|Allows you to open a others bin!|<l>sf_facebook<br><l>|OP
+StaffFacilities|sf.forum|Allows you to open a others bin!|<l>sf_forum<br><l>|OP
+StaffFacilities|sf.instagram|Allows you to open a others bin!|<l>sf_instagram<br><l>|OP
+StaffFacilities|sf.ip|Allows you to open a others bin!|<l>sf_ip<br><l>|OP
+StaffFacilities|sf.skype|Allows you to open a others bin!|<l>sf_skype<br><l>|OP
+StaffFacilities|sf.teamspeak3|Allows you to open a others bin!|<l>sf_teamspeak3<br><l>|OP
+StaffFacilities|sf.twitch|Allows you to open a others bin!|<l>sf_twitch<br><l>|OP
+StaffFacilities|sf.twitter|Allows you to open a others bin!|<l>sf_twitter<br><l>|OP
+StaffFacilities|sf.website|Allows you to open a others bin!|<l>sf_website<br><l>|OP
+StaffFacilities|sf.whatsapp|Allows you to open a others bin!|<l>sf_whatsapp<br><l>|OP
+StaffFacilities|sf.youtube|Allows you to open a others bin!|<l>sf_youtube<br><l>|OP
+StaffFacilities|sf.antiadvertise|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.antiadvertise.bypass|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.anticaps.bypass|Allows you to open a others bin!!|<l><l>|OP
+StaffFacilities|sf.antiflood.bypass|Allows you to open a others bin!!|<l><l>|OP
+StaffFacilities|sf.antiplugins.bypass|Allows you to open a others bin!!|<l><l>|OP
+StaffFacilities|sf.antihelp.bypass|Allows you to open a others bin!!|<l><l>|OP
+StaffFacilities|sf.antiversion.bypass|Allows you to open a others bin!!|<l><l>|OP
+StaffFacilities|sf.antiplugins.notify|Allows you to open a others bin!!|<l><l>|OP
+StaffFacilities|sf.antihelp.notify|Allows you to open a others bin!!|<l><l>|OP
+StaffFacilities|sf.antiversion.notify|Allows you to open a others bin!!|<l><l>|OP
+StaffFacilities|sf.antitab.bypass|Allows you to open a others bin!!|<l><l>|OP
+StaffFacilities|sf.antiswear.bypass|Allows you to open a others bin!!|<l><l>|OP
+StaffFacilities|sf.antiswear.notify|Allows you to open a others bin!!|<l><l>|OP
+StaffFacilities|sf.ans.use|Allows you to open a others bin!|<l>sf_answer<br><l>|OP
+StaffFacilities|sf.ans.staffreceive|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.burn|Allows you to open a others bin!|<l>sf_burn<br><l>|OP
+StaffFacilities|sf.burn.targetnotify|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.blacklistworldbypass.fly|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.blacklistworldbypass.god|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.clearchat|Allows you to open a others bin!|<l>sf_clearchat<br><l>|OP
+StaffFacilities|sf.clearchat.player|Allows you to open a others bin!|<l>sf_playerclearchat<br><l>|OP
+StaffFacilities|sf.clearchat.bypass|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.clearinventory|Allows you to open a others bin!|<l>sf_clearinventory<br><l>|OP
+StaffFacilities|sf.clearinventory.others|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.commandspy|Allows you to open a others bin!|<l>sf_commandspy<br><l>|OP
+StaffFacilities|sf.commandspy.others|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.commandspy.bypass|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.combatbypass.god|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.combatbypass.fly|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.combatbypass.heal|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.combatbypass.feed|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.cooldown.report|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.cooldown.helpme|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.cooldown.clearchat|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.cooldown.kill|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.cooldown.heal|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.cooldown.feed|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.cooldown.chatmute|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.cooldown.clearinventory|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.cooldown.tpall|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.cooldown.alert|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.cooldown.announce|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.cooldown.broadcast|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.cooldown.danger|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.cooldown.day|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.cooldown.error|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.cooldown.information|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.cooldown.night|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.cooldown.note|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.cooldown.rain|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.cooldown.say|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.cooldown.sun|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.cooldown.warning|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.cooldown.welcomeback|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.cooldown.happybirthday|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.cps|Allows you to open a others bin!|<l>sf_cps<br><l>|OP
+StaffFacilities|sf.dutymanagement.bypass|Allows you to open a others bin!|<l><l>|NONE
+StaffFacilities|sf.time|Allows you to open a others bin!|<l>sf_time<br><l>|OP
+StaffFacilities|sf.time.day|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.time.sun|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.time.night|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.duty|Allows you to open a others bin!|<l>sf_duty<br><l>|OP
+StaffFacilities|sf.duty.notification|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.enderchest|Allows you to open a others bin!|<l>sf_enderchest<br><l>|OP
+StaffFacilities|sf.enderchest.others|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.enderchest.modify|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.fakeleave|Allows you to open a others bin!|<l>sf_fakeleave<br><l>|OP
+StaffFacilities|sf.fakeleave.list|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.fakeleave.others|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.fakeleave.notification|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.fakeleave.toggle.chat|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.feed|Allows you to open a others bin!|<l>sf_feed<br><l>|OP
+StaffFacilities|sf.feed.all|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.feed.others|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.fly|Allows you to open a others bin!|<l>sf_fly<br><l>|OP
+StaffFacilities|sf.fly.others|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.fly.list|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.flyattack|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.flyattack.notify|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.flyattack.bypass|Allows you to open a others bin!|<l><l>|NONE
+StaffFacilities|sf.flyattack.autotoggle|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.freeze|Allows you to open a others bin!|<l>sf_freeze<br><l>|OP
+StaffFacilities|sf.freeze.notification|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.freeze.cantbefrozen|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.freeze.usecommandswhilefrozen|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.freeze.temp|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.freeze.all|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.frozen|Allows you to open a others bin!|<l>sf_frozen<br><l>|OP
+StaffFacilities|sf.gamemode.survival|Allows you to open a others bin!|<l>sf_gms<br><l>|OP
+StaffFacilities|sf.gamemode.creative|Allows you to open a others bin!|<l>sf_gmc<br><l>|OP
+StaffFacilities|sf.gamemode.adventure|Allows you to open a others bin!|<l>sf_gma<br><l>|OP
+StaffFacilities|sf.gamemode.spectator|Allows you to open a others bin!|<l>sf_gmsp<br><l>|OP
+StaffFacilities|sf.gamemode.survival.others|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.gamemode.creative.others|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.gamemode.adventure.others|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.gamemode.spectator.others|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.god|Allows you to open a others bin!|<l>sf_god<br><l>|OP
+StaffFacilities|sf.god.others|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.god.list|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.happybirthday|Allows you to open a others bin!|<l>sf_happybirthday<br><l>|OP
+StaffFacilities|sf.heal|Allows you to open a others bin!|<l>sf_heal<br><l>|OP
+StaffFacilities|sf.heal.all|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.heal.others|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.hacksucate.bypass|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.helpme.use|Allows you to open a others bin!|<l><l>|PLAYER
+StaffFacilities|sf.helpme.receive|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.id|Allows you to open a others bin!|<l>sf_getitemid<br><l>|OP
+StaffFacilities|sf.inspect|Allows you to open a others bin!|<l>sf_inspect<br><l>|OP
+StaffFacilities|sf.invsee|Allows you to open a others bin!|<l>sf_inventorysee<br><l>|OP
+StaffFacilities|sf.invsee.notification|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.invsee.modify|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.invsee.preventmodify|Allows you to open a others bin!|<l><l>|NONE
+StaffFacilities|sf.kill|Allows you to open a others bin!|<l>sf_kill<br><l>|OP
+StaffFacilities|sf.kill.others|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.kill.targetnotify|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.kill.all|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.kill.cantbekilled|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.maintenancemode|Allows you to open a others bin!|<l>sf_maintenancemode<br><l>|OP
+StaffFacilities|sf.maintenancemode.stay|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.namednotify|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.namednotify.autotoggle|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.namednotify.bypass|Allows you to open a others bin!|<l><l>|NONE
+StaffFacilities|sf.nightvision|Allows you to open a others bin!|<l>sf_nightvision<br><l>|OP
+StaffFacilities|sf.nightvision.others|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.nightvision.list|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.ping|Allows you to open a others bin!|<l>sf_ping<br><l>|OP
+StaffFacilities|sf.ping.all|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.ping.others|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.playerinfo|Allows you to open a others bin!|<l>sf_playerinfo<br><l>|OP
+StaffFacilities|sf.time.rain|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.randomteleport.bypass|Allows you to open a others bin!|<l><l>|NONE
+StaffFacilities|sf.report.use|Allows you to open a others bin!|<l><l>|PLAYER
+StaffFacilities|sf.report.receive|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.reports|Allows you to open a others bin!|<l>sf_reports<br><l>|OP
+StaffFacilities|sf.reportsdelete|Allows you to open a others bin!|<l>sf_reportsdelete<br><l>|OP
+StaffFacilities|sf.rules|Allows you to open a others bin!|<l>sf_rules<br><l>|OP
+StaffFacilities|sf.server.stats|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.server.ram|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.show|Allows you to open a others bin!|<l>sf_show<br><l>|OP
+StaffFacilities|sf.show.birthday|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.show.discord|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.show.donate|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.show.email|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.show.facebook|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.show.forum|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.show.instagram|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.show.ip|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.show.rules|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.show.skype|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.show.teamspeak3|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.show.twitch|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.show.twitter|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.show.website|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.show.whatsapp|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.show.youtube|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.spfah|Allows you to open a others bin!|<l>sf_spfah<br><l>|OP
+StaffFacilities|sf.spfah.notification|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.spfah.list|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.spfr|Allows you to open a others bin!|<l>sf_spfr<br><l>|OP
+StaffFacilities|sf.spfr.notification|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.spfr.list|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.stafflist.bypass|Allows you to open a others bin!|<l><l>|NONE
+StaffFacilities|sf.staffgroup.owner|Allows you to open a others bin!|<l><l>|NONE
+StaffFacilities|sf.staffgroup.admin1|Allows you to open a others bin!|<l><l>|NONE
+StaffFacilities|sf.staffgroup.admin2|Allows you to open a others bin!|<l><l>|NONE
+StaffFacilities|sf.staffgroup.mod1|Allows you to open a others bin!|<l><l>|NONE
+StaffFacilities|sf.staffgroup.mod2|Allows you to open a others bin!|<l><l>|NONE
+StaffFacilities|sf.staffgroup.helper|Allows you to open a others bin!|<l><l>|NONE
+StaffFacilities|sf.staffgroup.support|Allows you to open a others bin!|<l><l>|NONE
+StaffFacilities|sf.staffgroup.builder|Allows you to open a others bin!|<l><l>|NONE
+StaffFacilities|sf.staffgroup.developer|Allows you to open a others bin!|<l><l>|NONE
+StaffFacilities|sf.staffgroup.manager|Allows you to open a others bin!|<l><l>|NONE
+StaffFacilities|sf.staffgroup.extra1|Allows you to open a others bin!|<l><l>|NONE
+StaffFacilities|sf.staffgroup.extra2|Allows you to open a others bin!|<l><l>|NONE
+StaffFacilities|sf.staffgroup.extra3|Allows you to open a others bin!|<l><l>|NONE
+StaffFacilities|sf.staffmember|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.staffchat|Allows you to open a others bin!|<l>sf_staffchat<br><l>|OP
+StaffFacilities|sf.staffpanel|Allows you to open a others bin!|<l>sf_staffpanel<br><l>|OP
+StaffFacilities|sf.staffvanish|Allows you to open a others bin!|<l>sf_staffvanish<br><l>|OP
+StaffFacilities|sf.staffvanish.list|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.staffvanish.others|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.staffvanish.see|Allows you to open a others bin!|<l><l>|NONE
+StaffFacilities|sf.staffvanish.toggle.pickup|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.staffvanish.toggle.drop|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.staffvanish.toggle.interact|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.staffvanish.toggle.damage|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.staffvanish.toggle.chat|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.staffvanish.toggle.hangingbreak|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.staffvanish.toggle.vehiclecollision|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.staffvanish.toggle.entitytarget|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.staffvanish.toggle.vehicledestroy|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.staffwatch|Allows you to open a others bin!|<l>sf_staffwatch<br><l>|OP
+StaffFacilities|sf.staffwatch.notification|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.staffwatch.list|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.tp|Allows you to open a others bin!|<l>sf_tp<br><l>|OP
+StaffFacilities|sf.tpall|Allows you to open a others bin!|<l>sf_tpall<br><l>|OP
+StaffFacilities|sf.tphere|Allows you to open a others bin!|<l>sf_tphere<br><l>|OP
+StaffFacilities|sf.tppos|Allows you to open a others bin!|<l>sf_tppos<br><l>|OP
+StaffFacilities|sf.tptogglebypass|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.updatenotify|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.update|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.uuid|Allows you to open a others bin!|<l>sf_uuid<br><l>|OP
+StaffFacilities|sf.vanish|Allows you to open a others bin!|<l>sf_vanish<br><l>|OP
+StaffFacilities|sf.vanish.list|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.vanish.others|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.vanish.see|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.vanish.silentopenchest|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.vanish.toggle.pickup|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.vanish.toggle.drop|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.vanish.toggle.interact|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.vanish.toggle.damage|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.vanish.toggle.chat|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.vanish.toggle.hangingbreak|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.vanish.toggle.vehiclecollision|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.vanish.toggle.entitytarget|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.vanish.toggle.vehicledestroy|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.warn|Allows you to open a others bin!|<l>sf_swarn<br><l>|OP
+StaffFacilities|sf.warn.notification|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.watchover|Allows you to open a others bin!|<l>sf_watchover<br><l>|OP
+StaffFacilities|sf.watchover.notification|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.watchover.list|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.watchover.others|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.watchover.creative|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.watchover.god|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.watchover.command.1|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.watchover.command.2|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.watchover.command.3|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.welcomeback|Allows you to open a others bin!|<l>sf_welcomeback<br><l>|OP
+StaffFacilities|sf.workbench|Allows you to open a others bin!|<l>sf_workbench<br><l>|OP
+StaffFacilities|sf.xraynotify|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.xraynotify.notify|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.xraynotify.bypass|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.xraynotify.autotoggle|Allows you to open a others bin!|<l><l>|OP
+StaffFacilities|sf.reload|Allows you to reload StaffFacilities plugin!|<l><l>|OP
+StaffFacilities|sf.autostaffvanishmode|Toggles your staffvanish mode on every time you join the server!|<l><l>|NONE
+StaffFacilities|sf.autovanishmode|Toggles your vanish mode on every time you join the server!|<l><l>|NONE
+StaffFacilities|sf.autofakeleavemode|Toggles your fakeleave mode on every time you join the server!|<l><l>|NONE
+StaffFacilities|sf.invsee.cantopen|Toggles your adventure gamemode on every time you join the server!|<l><l>|NONE
+StaffFacilities|sf.bypasswelcomebacklistener|Toggles your adventure gamemode on every time you join the server!|<l><l>|NONE
+LittleFX|littlefx.reload|reload command|<l>littlefx<br><l>|OP
+SuperCore|supercore.admin|Acces to powerfull commands, like /core reload.|<l><l>|OP
+SuperCore|supercore.adminchat.send|Use adminchat command.|<l><l>|OP
+SuperCore|supercore.adminchat.receive|Receive messages on adminchat.|<l><l>|OP
+SuperCore|supercore.donorchat.send|Use donorchat command.|<l><l>|OP
+SuperCore|supercore.donorchat.receive|Receive messages on donorchat.|<l><l>|OP
+SuperCore|supercore.fly|Use fly command.|<l><l>|OP
+SuperCore|supercore.gamemode|Use gamemode command.|<l><l>|OP
+SuperCore|supercore.god|Use god command.|<l><l>|OP
+SuperCore|supercore.helpop.send|Use helpop command.|<l><l>|OP
+SuperCore|supercore.helpop.receive|Receive messages on helpop.|<l><l>|OP
+SuperCore|supercore.language|Change your language.|<l><l>|OP
+SuperCore|supercore.list|Use list command.|<l><l>|OP
+SuperCore|supercore.list.default|Appear on online list as default player.|<l><l>|PLAYER
+SuperCore|supercore.nick|Use nick command.|<l><l>|OP
+SuperCore|supercore.nick.format|Use formatting codes in nickname.|<l><l>|OP
+SuperCore|supercore.whois|Use whois command.|<l><l>|OP
+SuperCore|supercore.updatechecker|Shows a message when an update is available.|<l><l>|OP
+Factions|factions.kit.admin|All faction permissions.|<l><l>|OP
+Factions|factions.announce|announce things to the peasants|<l><l>|OP
+Factions|factions.convert|change a backend storage|<l><l>|OP
+Factions|factions.homes.bypass|bypass all home teleports|<l><l>|OP
+Factions|factions.lock|lock all write stuff|<l><l>|OP
+Factions|factions.money.kit.standard|empty|<l><l>|OP
+Factions|factions.money.*|empty|<l><l>|OP
+Factions|factions.setpaypal|set paypal to faction|<l><l>|OP
+Factions|factions.setmaxvault|Set a faction's max vaults.|<l><l>|OP
+Factions|factions.mapheight|Set your /f map height.|<l><l>|OP
+Factions|factions.ban|Ban players from Factions|<l><l>|OP
+Factions|factions.rules|add/remove/set rules for your own faction.|<l><l>|OP
+Factions|factions.checkpoint|set or go to faction checkpoint|<l><l>|OP
+Factions|factions.tnt|add/take from faction bank|<l><l>|OP
+Factions|factions.near|get nearby faction members|<l><l>|OP
+Factions|factions.upgrades|open upgrade menu|<l><l>|OP
+Factions|factions.getvault|get faction vault item|<l><l>|OP
+Factions|factions.coleader|promote member to co leader|<l><l>|OP
+Factions|factions.tpbanner|teleport to banner|<l><l>|OP
+Factions|factions.banner|create banner|<l><l>|OP
+Factions|factions.killholos|kill invisible holograms|<l><l>|OP
+Factions|factions.stealth|Enter faction stealth mode|<l><l>|OP
+Factions|factions.focus|Focus a certain player in another faction|<l><l>|OP
+Factions|factions.coords|broadcast your coords to the player|<l><l>|OP
+Factions|factions.chest|Open virtual shared faction chest|<l><l>|OP
+Factions|factions.claimat|click to claim permission node for /f map|<l><l>|OP
+Factions|factions.paypal.viewall|View other factions' paypal ID|<l><l>|OP
+Factions|factions.paypal|Set/view your own faction's paypal.|<l><l>|OP
+Factions|factions.showclaims|View all you faction claims.|<l><l>|OP
+Factions|factions.particle|Set your player's particle in fly.|<l><l>|OP
+Factions|factions.tntfill|Allows use of factions tnt fill.|<l><l>|OP
+mcMMO|mcmmo.ability.axes.criticalstrikes|Allows access to the Critical Strikes ability|<l><l>|OP
+AnimatedInventory|animatedinv.*|Allows all AnimatedInv commands & admin commands.|<l><l>|OP
+AnimatedInventory|animatedinventory.*|Allows all AnimatedInv commands & admin commands.|<l><l>|OP
+AnimatedInventory|animatedinv.help|Shows the AnimatedInv help page.|<l><l>|PLAYER
+AnimatedInventory|animatedinv.admin|Allows players to reload the plugin etc.|<l><l>|OP
+AnimatedInventory|animatedinv.clear|Allows players to clear their inventory.|<l><l>|PLAYER
+AnimatedInventory|animatedinv.fortune|Allows players to view their fortune.|<l><l>|PLAYER
+AnimatedInventory|animatedinv.fortune.others|Allows players to summon another player's fortune.|<l><l>|OP
+AnimatedInventory|animatedinv.clear.others|Allows players to clear others inventory.|<l><l>|OP
+AnimatedInventory|animatedinv.clear.undo|Allows players to restore their inventory.|<l><l>|OP
+AnimatedInventory|animatedinv.clear.undo.others|Allows players to restore their inventory.|<l><l>|OP
+AnimatedInventory|animatedinv.purge|Allows the deletion of old cache.|<l><l>|OP
+LevelPoints|lp.admin.*|empty|<l><l>|OP
+LevelPoints|lp.player|empty|<l><l>|NOT_OP
+LevelPoints|lp.booster|empty|<l><l>|NOT_OP
+LevelPoints|lp.lps|empty|<l><l>|NOT_OP
+LevelPoints|lp.*|Gives players all Commands|<l><l>|OP
+AdvancedNMotd|anm.reload|Allows usage of /anm reload command.|<l><l>|OP
+BeehivesPro|beehivespro.harvest-honey-blocks|Harvest honey blocks|<l><l>|PLAYER
+LastLoginAPI|lastloginapi.alerts|Send an alert if there is an error|<l><l>|OP
+LastLoginAPI|lastloginapi.help|Allow access to /llapi help|<l><l>|OP
+LastLoginAPI|lastloginapi.reload|Allow access to /llapi reload|<l><l>|OP
+LastLoginAPI|lastloginapi.version|Allow access to /llapi version|<l><l>|OP
+LastLoginAPI|lastloginapi.*|Can use all llapi commands|<l><l>|OP
+UltimateTimber|ultimatetimber.*|Inherits all plugin permissions|<l><l>|OP
+UltimateTimber|ultimatetimber.chop|Allows players to trigger the trees toppling down effect|<l><l>|OP
+UltimateTimber|ultimatetimber.bonusloot|Doubles the loot obtained from trees|<l><l>|OP
+UltimateTimber|ultimatetimber.reload|Reloads the configuration file|<l><l>|OP
+UltimateTimber|ultimatetimber.bypasscooldown|Allows a player to bypass the tree topple cooldown|<l><l>|OP
+SkinsRestorer|skinsrestorer.command|Allows access to the main "/skin" commands.|<l><l>|OP
+SkinsRestorer|skinsrestorer.command.set|Allows access to change your skin.|<l><l>|OP
+SkinsRestorer|skinsrestorer.command.clear|Allows access to clear your skin.|<l><l>|OP
+SkinsRestorer|skinsrestorer.command.update|Allows access to update your skin.|<l><l>|OP
+SkinsRestorer|skinsrestorer.admincommand|Allows access to the main "/sr" commands.|<l><l>|OP
+SkinsRestorer|skinsrestorer.command.set.other|Allows access to set a player skin.|<l><l>|OP
+SkinsRestorer|skinsrestorer.command.clear.other|Allows access to clear a player skin.|<l><l>|OP
+SkinsRestorer|skinsrestorer.command.update.other|Allows access to update a player skin.|<l><l>|OP
+SkinsRestorer|skinsrestorer.admincommand.status|Allows access to /sr status.|<l><l>|OP
+SkinsRestorer|skinsrestorer.admincommand.drop|Allows access to removes a .SKIN file.|<l><l>|OP
+SkinsRestorer|skinsrestorer.admincommand.props|Allows access to get the skinprops of a player.|<l><l>|OP
+SkinsRestorer|skinsrestorer.bypasscooldown|Bypasses any set cooldowns in the config.|<l><l>|OP
+SkinsRestorer|skinsrestorer.bypassdisabled|Allows access to disabled skins in the config.|<l><l>|OP
+WorldEdit|fawe.tips|empty|<l><l>|NONE
+WorldEdit|fawe.voxelbrush|empty|<l><l>|OP
+TabList|tablist.*|Gives access to all TabList permissions.|<l><l>|OP
+TabList|tablist.get|Gives access to use /tl get command.|<l><l>|NONE
+TabList|tablist.get.other|Gives access to use /tl get <player> command.|<l><l>|NONE
+TabList|tablist.toggle|Gives access to use /tl toggle command.|<l><l>|NONE
+TabList|tablist.toggle.all|Gives access to use /tl toggle all command.|<l><l>|NONE
+TabList|tablist.tabname|Gives access to use /tabname command.|<l><l>|NONE
+TabList|tablist.tabname.other|Gives access to use /tname <player> <name> command.|<l><l>|NONE
+TabList|tablist.reset|Gives access to use /tname reset command.|<l><l>|NONE
+TabList|tablist.reset.other|Gives access to use /tname reset <player> command.|<l><l>|NONE
+TabList|tablist.fakeplayers|Gives access to use /tl fp command.|<l><l>|NONE
+TabList|tablist.fakeplayers.add|Gives access to use /tl fp add command.|<l><l>|NONE
+TabList|tablist.fakeplayers.remove|Gives access to use /tl fp remove command.|<l><l>|NONE
+TabList|tablist.fakeplayers.list|Gives access to use /tl fp list command.|<l><l>|NONE
+TabList|tablist.setprefix|Gives access to use /tl setprefix command.|<l><l>|NONE
+TabList|tablist.setsuffix|Gives access to use /tl setsuffix command.|<l><l>|NONE
+TabList|tablist.setpriority|Gives access to use /tl setpriority command.|<l><l>|NONE
+TabList|tablist.removeplayer|Gives access to use /tl removeplayer command.|<l><l>|NONE
+TabList|tablist.onlinestaff|Online staffs permission.|<l><l>|OP
+TabList|tablist.help|Help commands for TabList.|<l><l>|NONE
+ChatEx|chatex.allowchat|Allows chatting|<l><l>|PLAYER
+AuthMe|authme.admin.*|Gives access to all admin commands|<l><l>|OP
+AuthMe|authme.admin.accounts|Administrator command to see all accounts associated with a user.|<l><l>|OP
+AuthMe|authme.admin.antibotmessages|Permission to see Antibot messages.|<l><l>|OP
+AuthMe|authme.admin.backup|Allows to use the backup command.|<l><l>|OP
+AuthMe|authme.admin.changemail|Administrator command to set or change the email address of a user.|<l><l>|OP
+AuthMe|authme.admin.changepassword|Administrator command to change the password of a user.|<l><l>|OP
+AuthMe|authme.admin.converter|Administrator command to convert old or other data to AuthMe data.|<l><l>|OP
+AuthMe|authme.admin.firstspawn|Administrator command to teleport to the first AuthMe spawn.|<l><l>|OP
+AuthMe|authme.admin.forcelogin|Administrator command to force-login an existing user.|<l><l>|OP
+AuthMe|authme.admin.getemail|Administrator command to get the email address of a user, if set.|<l><l>|OP
+AuthMe|authme.admin.getip|Administrator command to get the last known IP of a user.|<l><l>|OP
+AuthMe|authme.admin.lastlogin|Administrator command to see the last login date and time of a user.|<l><l>|OP
+AuthMe|authme.admin.purge|Administrator command to purge old user data.|<l><l>|OP
+AuthMe|authme.admin.purgebannedplayers|Administrator command to purge all data associated with banned players.|<l><l>|OP
+AuthMe|authme.admin.purgelastpos|Administrator command to purge the last position of a user.|<l><l>|OP
+AuthMe|authme.admin.purgeplayer|Administrator command to purge a given player.|<l><l>|OP
+AuthMe|authme.admin.register|Administrator command to register a new user.|<l><l>|OP
+AuthMe|authme.admin.reload|Administrator command to reload the plugin configuration.|<l><l>|OP
+AuthMe|authme.admin.seeotheraccounts|Permission to see the other accounts of the players that log in.|<l><l>|OP
+AuthMe|authme.admin.seerecent|Administrator command to see the last recently logged in players.|<l><l>|OP
+AuthMe|authme.admin.setfirstspawn|Administrator command to set the first AuthMe spawn.|<l><l>|OP
+AuthMe|authme.admin.setspawn|Administrator command to set the AuthMe spawn.|<l><l>|OP
+AuthMe|authme.admin.spawn|Administrator command to teleport to the AuthMe spawn.|<l><l>|OP
+AuthMe|authme.admin.switchantibot|Administrator command to toggle the AntiBot protection status.|<l><l>|OP
+AuthMe|authme.admin.totpdisable|Administrator command to disable the two-factor auth of a user.|<l><l>|OP
+AuthMe|authme.admin.totpviewstatus|Administrator command to see whether a player has enabled two-factor authentication.|<l><l>|OP
+AuthMe|authme.admin.unregister|Administrator command to unregister an existing user.|<l><l>|OP
+AuthMe|authme.admin.updatemessages|Permission to use the update messages command.|<l><l>|OP
+AuthMe|authme.allowchatbeforelogin|Permission to send chat messages before being logged in.|<l><l>|NONE
+AuthMe|authme.allowmultipleaccounts|Permission to be able to register multiple accounts.|<l><l>|OP
+AuthMe|authme.bypassbungeesend|Permission node to bypass BungeeCord server teleportation.|<l><l>|NONE
+AuthMe|authme.bypassantibot|Permission node to bypass AntiBot protection.|<l><l>|OP
+AuthMe|authme.bypasscountrycheck|Permission to bypass the GeoIp country code check.|<l><l>|NONE
+AuthMe|authme.bypassforcesurvival|Permission for users to bypass force-survival mode.|<l><l>|OP
+AuthMe|authme.bypasspurge|Permission to bypass the purging process.|<l><l>|NONE
+AuthMe|authme.debug|Gives access to /authme debug and all its sections|<l><l>|OP
+AuthMe|authme.debug.command|General permission to use the /authme debug command.|<l><l>|OP
+AuthMe|authme.debug.country|Permission to use the country lookup section.|<l><l>|OP
+AuthMe|authme.debug.db|Permission to view data from the database.|<l><l>|OP
+AuthMe|authme.debug.group|Permission to view permission groups.|<l><l>|OP
+AuthMe|authme.debug.limbo|Permission to use the limbo data viewer.|<l><l>|OP
+AuthMe|authme.debug.mail|Permission to use the test email sender.|<l><l>|OP
+AuthMe|authme.debug.mysqldef|Permission to change nullable status of MySQL columns.|<l><l>|OP
+AuthMe|authme.debug.perm|Permission to use the permission checker.|<l><l>|OP
+AuthMe|authme.debug.spawn|Permission to view spawn information.|<l><l>|OP
+AuthMe|authme.debug.stats|Permission to use the stats section.|<l><l>|OP
+AuthMe|authme.debug.valid|Permission to use sample validation.|<l><l>|OP
+AuthMe|authme.player.*|Gives access to all player commands|<l><l>|OP
+AuthMe|authme.player.canbeforced|Permission for users a login can be forced to.|<l><l>|PLAYER
+AuthMe|authme.player.captcha|Command permission to use captcha.|<l><l>|PLAYER
+AuthMe|authme.player.changepassword|Command permission to change the password.|<l><l>|PLAYER
+AuthMe|authme.player.email|Gives access to all email commands|<l><l>|OP
+AuthMe|authme.player.email.add|Command permission to add an email address.|<l><l>|PLAYER
+AuthMe|authme.player.email.change|Command permission to change the email address.|<l><l>|PLAYER
+AuthMe|authme.player.email.recover|Command permission to recover an account using its email address.|<l><l>|PLAYER
+AuthMe|authme.player.email.see|Command permission to see the own email address.|<l><l>|PLAYER
+AuthMe|authme.player.login|Command permission to login.|<l><l>|PLAYER
+AuthMe|authme.player.logout|Command permission to logout.|<l><l>|PLAYER
+AuthMe|authme.player.protection.quickcommandsprotection|Permission that enables on join quick commands checks for the player.|<l><l>|PLAYER
+AuthMe|authme.player.register|Command permission to register.|<l><l>|PLAYER
+AuthMe|authme.player.security.verificationcode|Permission to use the email verification codes feature.|<l><l>|PLAYER
+AuthMe|authme.player.seeownaccounts|Permission to use to see own other accounts.|<l><l>|PLAYER
+AuthMe|authme.player.totpadd|Permission to enable two-factor authentication.|<l><l>|PLAYER
+AuthMe|authme.player.totpremove|Permission to disable two-factor authentication.|<l><l>|PLAYER
+AuthMe|authme.player.unregister|Command permission to unregister.|<l><l>|PLAYER
+AuthMe|authme.vip|When the server is full and someone with this permission joins the server, someone will be kicked.|<l><l>|NONE
+ItemJoin|itemjoin.*|Grants access to all aspects of the plugin, including every permission node.|<l><l>|NONE
+ItemJoin|itemjoin.all|Grants access to all aspects of the plugin, including every permission node.|<l><l>|NONE
+ItemJoin|itemjoin.use|Grants access to basic plugin commands.|<l>itemjoin<br><l>|PLAYER
+ItemJoin|itemjoin.menu|Grants access to the menu command.|<l><l>|NONE
+ItemJoin|itemjoin.reload|Grants access to the reload command.|<l><l>|NONE
+ItemJoin|itemjoin.updates|Grants access to the updates command.|<l><l>|NONE
+ItemJoin|itemjoin.autoupdate|Grants access to the autoupdate command.|<l><l>|NONE
+ItemJoin|itemjoin.permissions|Grants access to the permissions command|<l><l>|PLAYER
+ItemJoin|itemjoin.list|Grants access to the list command.|<l><l>|NONE
+ItemJoin|itemjoin.purge|Grants access to the purge command.|<l><l>|NONE
+ItemJoin|itemjoin.get|Grants access to the basic get commands.|<l><l>|NONE
+ItemJoin|itemjoin.get.others|Grants access to all get commands that could affect other players.|<l><l>|NONE
+ItemJoin|itemjoin.remove|Grants access to the basic remove commands.|<l><l>|NONE
+ItemJoin|itemjoin.remove.others|Grants access to all remove commands that could affect other players.|<l><l>|NONE
+ItemJoin|itemjoin.enable|Grants access to the basic enable command.|<l><l>|NONE
+ItemJoin|itemjoin.enable.others|Grants access to all enable commands that could affect other players individually.|<l><l>|NONE
+ItemJoin|itemjoin.disable|Grants access to the basic disable command.|<l><l>|NONE
+ItemJoin|itemjoin.disable.others|Grants access to all disable commands that could affect other players individually.|<l><l>|NONE
+ItemJoin|itemjoin.bypass.inventorymodify|Players with this permission will bypass any item movement restrictions.|<l><l>|NONE

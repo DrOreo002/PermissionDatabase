@@ -1,2 +1,2 @@
-# PermissionDatabase v1.5
+# PermissionDatabase v1.6
  A simple permission database

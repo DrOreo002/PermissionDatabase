@@ -422,3 +422,4 @@ ChatEx|SIGN
 AuthMe|BOOK
 ItemJoin|WATER_BUCKET
 ChestShop|CHEST
+Elevator|QUARTZ_BLOCK

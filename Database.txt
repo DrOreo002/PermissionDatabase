@@ -8918,3 +8918,25 @@ ChestShop|ChestShop.shop.create.beds|Allows to create a shop that sells all beds
 ChestShop|ChestShop.shop.create.banners|Allows to create a shop that sells all banners|<l><l>|OP
 ChestShop|ChestShop.shop.create.wall_banners|Allows to create a shop that sells all wall banners|<l><l>|OP
 ChestShop|ChestShop.shop.create.unobtainables|Allows to create a shop that sells unobtainable items|<l><l>|OP
+Elevator|elevator.commands|Permission to use commands.|<l><l>|OP
+Elevator|elevator.commands.help|Permission to use the help command.|<l><l>|OP
+Elevator|elevator.commands.create|Permission to use the create command.|<l><l>|OP
+Elevator|elevator.commands.list|Permission to use the list command.|<l><l>|OP
+Elevator|elevator.admin|Permission to use admin commands.|<l><l>|OP
+Elevator|elevator.update|Permission to receive update notifications.|<l><l>|OP
+Elevator|elevator.bypass.cooldown|Permission to bypass cooldown.|<l><l>|OP
+Elevator|elevator.bypass.distance|Permission to bypass distance.|<l><l>|OP
+Elevator|elevator.use|Permission to use elevators.|<l><l>|PLAYER
+BentoBox|bentobox.admin.catalog|Allows to use /bentobox catalog|<l><l>|OP
+BentoBox|bentobox.admin.locale|Allows to use /bentobox locale|<l><l>|OP
+BentoBox|bentobox.admin.manage|Allows to use /bentobox manage|<l><l>|OP
+BentoBox|bentobox.admin.migrate|Allows to use /bentobox migrate|<l><l>|OP
+BentoBox|bentobox.admin.reload|Allows to use /bentobox reload|<l><l>|OP
+BentoBox|bentobox.about|Allows to use /bentobox about|<l><l>|PLAYER
+BentoBox|bentobox.version|Allows to use /bentobox version|<l><l>|OP
+VoidSpawn|vs.admin.offset|Grants you the /void offset command|<l><l>|OP
+VoidSpawn|vs.admin.keepinventory|Grants you the /void keepinventory command|<l><l>|OP
+VoidSpawn|vs.admin.hybrid|Grants you the /void hybrid command|<l><l>|OP
+VoidSpawn|vs.admin.sound|Grants you the /void sound command|<l><l>|OP
+VoidSpawn|vs.admin.status|Grants you the /void status command|<l><l>|OP
+VoidSpawn|vs.enable|Enables teleportation for the player|<l><l>|PLAYER

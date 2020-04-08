@@ -8940,3 +8940,63 @@ VoidSpawn|vs.admin.hybrid|Grants you the /void hybrid command|<l><l>|OP
 VoidSpawn|vs.admin.sound|Grants you the /void sound command|<l><l>|OP
 VoidSpawn|vs.admin.status|Grants you the /void status command|<l><l>|OP
 VoidSpawn|vs.enable|Enables teleportation for the player|<l><l>|PLAYER
+Skript|skript.*|empty|<l><l>|NONE
+Skript|skript.effectcommands|Allows to use effects as commands, e.g. '!set health to 10'|<l><l>|NONE
+Skript|skript.admin|Allows to use administrative commands and to recieve notifications of new versions.|<l>skript<br><l>|OP
+Towny|towny.admin|User is able to use /townyadmin, as well as the ability to build/destroy anywhere. User is also able to make towns or nations when set to admin only.|<l><l>|NONE
+Towny|towny.outlaw.jailer|Node given in townyperms.yml to mayors, assistants and sheriffs by default. Required to jail outlaws that are killed in a town.|<l><l>|NONE
+Towny|towny.town.resident|User is permitted to join towns.|<l><l>|NONE
+Towny|towny.town.spawn.*|Grants all Spawn travel nodes|<l><l>|NONE
+Towny|towny.town.spawn.town|User is permitted to use /town spawn.|<l><l>|NONE
+Towny|towny.town.spawn.outpost|User is permitted to use /town outpost & /town outpost list|<l><l>|NONE
+Towny|towny.nation.spawn.*|Grants all Nation Spawn travel nodes|<l><l>|NONE
+Towny|towny.wild.*|User can build/destroy/switch/item_use in the wild.|<l><l>|NONE
+Towny|towny.claimed.*|User can build/destroy/switch/item_use in all towns.|<l><l>|NONE
+Towny|towny.command.resident.otherresident|User can look up other residents.|<l><l>|PLAYER
+Towny|towny.command.town.othertown|User can look up other towns.|<l><l>|PLAYER
+Towny|towny.command.nation.othernation|User can look up other nations.|<l><l>|PLAYER
+Towny|towny.command.nation.*|User can access all nation commands.|<l><l>|NONE
+Towny|towny.command.nation.list|Users are able to use all the various methods of sorting the nation list.|<l><l>|NONE
+Towny|towny.command.nation.deposit.other|User can deposit money into the town bank of a nation member.|<l><l>|NONE
+Towny|towny.command.nation.ally.*|User can access the nation ally related commands.|<l><l>|NONE
+Towny|towny.command.nation.ally.manage.*|User can manage invites by accept/deny/add/-add|<l><l>|NONE
+Towny|towny.command.nation.ally.sent|User can see sent ally invites from their nation.|<l><l>|PLAYER
+Towny|towny.command.nation.ally.received|User can see received ally invites for their nation.|<l><l>|PLAYER
+Towny|towny.command.nation.ally|User can see ally help page.|<l><l>|PLAYER
+Towny|towny.command.nation.invite.*|User can access the nation invite related commands.|<l><l>|NONE
+Towny|towny.command.nation.invite.manage.*|User can manage invites by accept/deny/add/-add|<l><l>|NONE
+Towny|towny.command.nation.add|User can add towns to nations.|<l><l>|NONE
+Towny|towny.command.nation.invite.sent|User can see sent invites from their nation.|<l><l>|PLAYER
+Towny|towny.command.nation.invite.received|User can see received invites for their nation.|<l><l>|PLAYER
+Towny|towny.command.nation.invite|User can see invite help page.|<l><l>|PLAYER
+Towny|towny.command.nation.set.*|User can access any of the nation set commands.|<l><l>|NONE
+Towny|towny.command.nation.toggle.*|User can toggle any available nation setting.|<l><l>|NONE
+Towny|towny.command.town.*|User can access all town related commands.|<l><l>|NONE
+Towny|towny.command.town.list|Users are able to use all the various methods of sorting the nation list.|<l><l>|NONE
+Towny|towny.command.town.claim.*|User can access all town claim related commands.|<l><l>|NONE
+Towny|towny.command.town.invite.*|User can access all town invites related commands.|<l><l>|NONE
+Towny|towny.command.town.invite.manage.*|User can manage invites by accept/deny/add/-add|<l><l>|NONE
+Towny|towny.command.town.add|User can add residents to towns.|<l><l>|NONE
+Towny|towny.command.town.invite.sent|User can see sent invites from their town.|<l><l>|PLAYER
+Towny|towny.command.town.invite.received|User can see received invites for their town.|<l><l>|PLAYER
+Towny|towny.command.town.invite|User can see invite help page.|<l><l>|PLAYER
+Towny|towny.command.town.set.*|User can access all town set commands.|<l><l>|NONE
+Towny|towny.command.town.toggle.*|User can toggle all town settings.|<l><l>|NONE
+Towny|towny.command.town.unclaim.*|User can access all town unclaim related commands.|<l><l>|NONE
+Towny|towny.command.plot.*|User can access all town related commands.|<l><l>|NONE
+Towny|towny.command.plot.toggle.*|User can toggle plot settings.|<l><l>|NONE
+Towny|towny.command.plot.set.*|User can access the plot set command.|<l><l>|NONE
+Towny|towny.command.resident.*|User can access to all resident commands.|<l><l>|NONE
+Towny|towny.command.resident.set.*|User can access the plot set command.|<l><l>|NONE
+Towny|towny.command.resident.toggle.*|User can toggle their default settings.|<l><l>|NONE
+Towny|towny.command.townyadmin.*|User can access the admin commands.|<l><l>|NONE
+Towny|towny.command.townyadmin.resident.*|User can access admin resident commands|<l><l>|NONE
+Towny|towny.command.townyadmin.town.spawn.*|User can access town spawns|<l><l>|NONE
+Towny|towny.command.townyadmin.set.*|User can access the admin set commands.|<l><l>|NONE
+Towny|towny.command.townyadmin.town.*|User can access the admin town commands.|<l><l>|NONE
+Towny|towny.command.townyadmin.nation.*|User can access the admin nation commands.|<l><l>|NONE
+Towny|towny.command.townyadmin.plot.*|User can access the admin plot commans.|<l><l>|NONE
+Towny|towny.command.townyadmin.toggle.*|User can access the admin toggle commands.|<l><l>|NONE
+Towny|towny.command.towny.*|User can access the admin toggle commands.|<l><l>|NONE
+Towny|towny.command.townyworld.*|User can access the admin toggle commands.|<l><l>|NONE
+Towny|towny.command.townyworld.toggle.*|TownyWorld toggle commands.|<l><l>|NONE

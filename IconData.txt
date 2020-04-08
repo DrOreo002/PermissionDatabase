@@ -423,3 +423,5 @@ AuthMe|BOOK
 ItemJoin|WATER_BUCKET
 ChestShop|CHEST
 Elevator|QUARTZ_BLOCK
+Skript|PAPER
+Towny|GOLD_BLOCK

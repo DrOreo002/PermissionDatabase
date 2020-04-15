@@ -9000,3 +9000,137 @@ Towny|towny.command.townyadmin.toggle.*|User can access the admin toggle command
 Towny|towny.command.towny.*|User can access the admin toggle commands.|<l><l>|NONE
 Towny|towny.command.townyworld.*|User can access the admin toggle commands.|<l><l>|NONE
 Towny|towny.command.townyworld.toggle.*|TownyWorld toggle commands.|<l><l>|NONE
+AreaShop|areashop.notifyupdate|Will notify this player when an update is available|<l><l>|OP
+AreaShop|areashop.message|Allows you to send AreaShop messages to players|<l><l>|OP
+AreaShop|areashop.import|Allows importing regions from other plugins|<l><l>|OP
+Factions|factions.fly.auto|Allow use of /f fly auto|<l><l>|OP
+MysqlPlayerDataBridge|MPDB.cmd.enderchest.others|View others enderchest, no edit perms.|<l><l>|OP
+MysqlPlayerDataBridge|MPDB.cmd.inventory.others|View others inventory, no edit perms.|<l><l>|OP
+mcMMO|mcmmo.ability.acrobatics.gracefulroll|Allows access to the Graceful Roll ability|<l><l>|OP
+mcMMO|mcmmo.ability.archery.retrieve|Allows tracking & retrieval of arrows|<l><l>|OP
+mcMMO|mcmmo.ability.excavation.treasurehunter|Allows treasure drops from Excavation|<l><l>|OP
+mcMMO|mcmmo.ability.salvage.advancedsalvage|Allows access to the Advanced Salvage ability|<l><l>|OP
+mcMMO|mcmmo.ability.swords.bleed|Allows access to the Bleed ability|<l><l>|OP
+mcMMO|mcmmo.ability.swords.counter|Allows access to the Counter Attack ability|<l><l>|OP
+mcMMO|mcmmo.ability.taming.callofthewild.all|Allows access to the Call of the Wild abilities|<l><l>|OP
+mcMMO|mcmmo.ability.taming.callofthewild.renamepets|Allows players to rename pets with Call of the Wild|<l><l>|OP
+mcMMO|mcmmo.ability.taming.fastfood|Allows access to the Fast Food Service ability|<l><l>|OP
+mcMMO|mcmmo.ability.unarmed.ironarm|Allows bonus damage from the Iron Arm ability|<l><l>|OP
+mcMMO|mcmmo.ability.unarmed.deflect|Allows access to the Deflect ability|<l><l>|OP
+mcMMO|mcmmo.ability.woodcutting.doubledrops|Allows double drop chance when woodcutting|<l><l>|OP
+mcMMO|mcmmo.bypass.kraken|Allows user to bypass the effects of the exploit prevention when Fishing|<l><l>|NONE
+mcMMO|mcmmo.bypass.fishingtraps|Allows user to bypass finding traps when Fishing|<l><l>|NONE
+mcMMO|mcmmo.commands.inspect.offline|Allows access to the inspect command for offline players|<l><l>|OP
+mcMMO|mcmmo.commands.kraken|Allows access to the kraken command|<l>kraken<br><l>|OP
+mcMMO|mcmmo.commands.kraken.others|Allows access to the kraken command for other players|<l><l>|OP
+mcMMO|mcmmo.commands.mcrank.others.offline|Allows access to the mcrank command for offline players|<l><l>|OP
+mcMMO|mcmmo.commands.mobhealth|Allows access to the mobhealth command|<l>mobhealth<br><l>|OP
+mcMMO|mcmmo.mobhealthdisplay|Allows viewing of mob health display during combat|<l><l>|OP
+Rankup|rankup.admin|empty|<l><l>|OP
+Rankup|rankup.info|empty|<l><l>|PLAYER
+Rankup|rankup.prestiges|empty|<l>prestiges<br><l>|PLAYER
+Rankup|rankup.auto|empty|<l><l>|PLAYER
+Rankup|rankup.maxrankup|empty|<l>maxrankup<br><l>|PLAYER
+ChestShop|ChestShop.accesstoggle|Allows toggling of trading at shops that you have access to.|<l><l>|OP
+ChestShop|ChestShop.othername.create.*|Gives you the power to do create shops for all names.|<l><l>|OP
+ChestShop|ChestShop.othername.create.(some name)|Gives you the power to do create shops for (some name), for example your town.|<l><l>|OP
+ChestShop|ChestShop.othername.destroy.*|Gives you the power to do destroy shops with all names.|<l><l>|OP
+ChestShop|ChestShop.othername.destroy.(some name)|Gives you the power to do destroy shops with (some name), for example your town.|<l><l>|OP
+ChestShop|ChestShop.othername.access.*|Gives you the power to do access shops for all names.|<l><l>|OP
+ChestShop|ChestShop.othername.access.(some name)|Gives you the power to do access shops for (some name), for example your town.|<l><l>|OP
+Teleports|bungeesuite.teleports.*|Gives access to all BungeeSuiteTeleport commands|<l><l>|OP
+Teleports|bungeesuite.teleports.admin|Gives access to all BungeeSuiteTeleport admin commands|<l><l>|OP
+Teleports|bungeesuite.teleports.vip|empty|<l><l>|OP
+Teleports|bungeesuite.teleports.user|Gives access to all BungeeSuiteTeleport user commands|<l><l>|OP
+Teleports|bungeesuite.teleports.back.*|Gives full access to the back command|<l><l>|OP
+Teleports|bungeesuite.teleports.back.death|Gives access to /back for death points|<l><l>|OP
+Teleports|bungeesuite.teleports.back.teleport|Gives access to /back for teleports|<l><l>|OP
+Teleports|bungeesuite.teleports.tp.silent|Does not send a teleport message to the player you teleported to|<l><l>|OP
+Teleports|bungeesuite.teleports.tp.bypass|Ability to bypass the tptoggle using /tp and this permission|<l><l>|OP
+CustomCraft|customcraft.help|the help for customcraft|<l><l>|PLAYER
+CustomCraft|customcraft.reload|reloads the plugin|<l><l>|OP
+CustomCraft|customcraft.disable|the disable command|<l><l>|OP
+CustomCraft|customcraft.recipe.on|/customcraft recipe on|<l><l>|OP
+CustomCraft|customcraft.recipe.off|/customcraft recipe off|<l><l>|OP
+CustomCraft|customcraft.recipe.clearall|/customcraft recipe clearAll|<l><l>|OP
+CustomCraft|customcraft.recipe|/customcraft recipe|<l><l>|OP
+CustomCraft|customcraft.*|all the customcraft permissions|<l><l>|OP
+eZProtector|ezprotector.*|Grants full access to the plugin.|<l><l>|OP
+eZProtector|ezprotector.notify.*|Gives access to all the notifies that eZProtector embodies.|<l><l>|OP
+eZProtector|ezprotector.notify.command.*|Gives access to all the notifies that eZProtector embodies for commands.|<l><l>|OP
+eZProtector|ezprotector.notify.command.tabcomplete|Notifies who attempted to use tab completion.|<l><l>|OP
+eZProtector|ezprotector.notify.command.hiddensyntax|Notifies who attempted to use hidden syntaxes.|<l><l>|OP
+eZProtector|ezprotector.notify.command.plugins|Notifies who attempted to use the plugins command.|<l><l>|OP
+eZProtector|ezprotector.notify.command.version|Notifies who attempted to use the version command.|<l><l>|OP
+eZProtector|ezprotector.notify.command.custom|Notifies who attempted to use custom blocked commands.|<l><l>|OP
+eZProtector|ezprotector.notify.mod.*|Gives access to all the notifies that eZProtector embodies for blocked mods.|<l><l>|OP
+eZProtector|ezprotector.notify.mod.forge|Notifies who attempted to join with the Forge mod.|<l><l>|OP
+eZProtector|ezprotector.notify.mod.liteloader|Notifies who attempted to join with the LiteLoader mod.|<l><l>|OP
+eZProtector|ezprotector.bypass.*|empty|<l><l>|OP
+eZProtector|ezprotector.bypass.command.*|Bypasses of all the commands blocked by eZProtector.|<l><l>|OP
+eZProtector|ezprotector.bypass.command.tabcomplete|Bypasses the use of tab completion.|<l><l>|OP
+eZProtector|ezprotector.bypass.command.hiddensyntax|Bypasses the use of hidden syntaxes.|<l><l>|OP
+eZProtector|ezprotector.bypass.command.plugins|Bypasses the use of the plugins command.|<l><l>|OP
+eZProtector|ezprotector.bypass.command.version|Bypasses the use of the version command.|<l><l>|OP
+eZProtector|ezprotector.bypass.command.custom|Bypasses the use of custom blocked commands.|<l><l>|OP
+eZProtector|ezprotector.bypass.mod.*|Bypasses of all the mods blocked by eZProtector.|<l><l>|OP
+eZProtector|ezprotector.bypass.mod.5zig|Bypasses the 5zig mod.|<l><l>|OP
+eZProtector|ezprotector.bypass.mod.betterpvp|Bypasses the BetterPvP mod.|<l><l>|OP
+eZProtector|ezprotector.bypass.mod.bettersprinting|Bypasses the BetterSprinting mod.|<l><l>|OP
+eZProtector|ezprotector.bypass.mod.forge|Bypasses the Forge mod.|<l><l>|OP
+eZProtector|ezprotector.bypass.mod.liteloader|Bypasses the LiteLoader mod.|<l><l>|OP
+eZProtector|ezprotector.bypass.mod.schematica|Bypasses the Schematica mod.|<l><l>|OP
+eZProtector|ezprotector.bypass.mod.voxelmap|Bypasses the VoxelMap mod.|<l><l>|OP
+eZProtector|ezprotector.bypass.mod.wdl|Bypasses the WorldDownloader mod.|<l><l>|OP
+VoidGenerator|voidgenerator.notifyupdate|Notifies the user if an update to the plugin is available.|<l><l>|OP
+Homes|bungeesuite.homes.*|Gives access to all home commands|<l><l>|OP
+Homes|bungeesuite.homes.admin|Gives access to all bungeesuite homes commands|<l><l>|OP
+Homes|bungeesuite.homes.user|Gives access to all bungeesuite homes user commands|<l><l>|OP
+Homes|bungeesuite.homes.limits.*|empty|<l><l>|OP
+Homes|bungeesuite.homes.limits.server.*|Gives maximum homes allowed for each server|<l><l>|OP
+Homes|bungeesuite.homes.limits.global.*|Gives maximum homes allowed for the whole proxy|<l><l>|OP
+ZHorse|zh.*|Grant full access to ZHorse|<l><l>|OP
+ZHorse|zh.use|Grant access to all standard commands|<l><l>|OP
+ZHorse|zh.admin.*|Grant access to all admin sub-commands|<l><l>|OP
+ZHorse|zh.friend.*|Grant access to all friend sub-commands|<l><l>|OP
+ZHorse|zh.settings.*|Grant access to all settings sub-commands|<l><l>|OP
+ZHorse|zh.stable.*|Grant access to all stable sub-commands|<l><l>|OP
+ZHorse|zh.*.admin|Grant admin access to all commands|<l><l>|OP
+ZHorse|zh.*.free|Grant free access to all commands|<l><l>|OP
+AddLight|AddLight.use|Allows a user to use this plugin|<l><l>|NONE
+AddLight|AddLight.worldedit|AddLight can apply to a WorldEditSelection|<l><l>|NONE
+AddLight|AddLight.connected|AddLight can apply to any connected blocks|<l><l>|NONE
+AddLight|AddLight.intensity|user can change the light intensity|<l><l>|NONE
+AddLight|AddLight.bypass.cost|user with this permission will not be charged|<l><l>|NONE
+AddLight|AddLight.debug|Display debug info|<l><l>|NONE
+AddLight|AddLight.admin|empty|<l><l>|OP
+AddLight|AddLight.user|empty|<l><l>|NONE
+MineSync|minesync.*|empty|<l><l>|OP
+MineSync|minesync.admin|empty|<l><l>|OP
+MineSync|minesync.clearcache|Allows you to reload the MineSync caches|<l><l>|OP
+MineSync|minesync.link|Allows you to use the /linkaccount command|<l><l>|PLAYER
+MineSync|minesync.register|Allows you to use the /register command|<l><l>|PLAYER
+KeepChunks|keepchunks.help|empty|<l><l>|OP
+KeepChunks|keepchunks.reload|empty|<l><l>|OP
+KeepChunks|keepchunks.list|empty|<l><l>|OP
+KeepChunks|keepchunks.chunkinfo|empty|<l><l>|OP
+KeepChunks|keepchunks.keepchunk|empty|<l><l>|OP
+KeepChunks|keepchunks.keepregion|empty|<l><l>|OP
+KeepChunks|keepchunks.keeprail|empty|<l><l>|OP
+KeepChunks|keepchunks.releaseall|empty|<l><l>|OP
+KeepChunks|keepchunks.releasechunk|empty|<l><l>|OP
+KeepChunks|keepchunks.releaseregion|empty|<l><l>|OP
+KeepChunks|keepchunks.releaserail|empty|<l><l>|OP
+KeepChunks|keepchunks.notify.update|empty|<l><l>|OP
+XPBoost|xpboost.use|Allows you to use the plugin|<l>xpboost<br><l>|OP
+XPBoost|xpboost.admin|Allows you to use the admin commands|<l><l>|OP
+GenBucket|genbucket.admin|empty|<l><l>|OP
+GenBucket|genbucket.give|empty|<l><l>|OP
+GenBucket|genbucket.reload|empty|<l><l>|OP
+GenBucket|genbucket.bypass|empty|<l><l>|OP
+GenBucket|genbucket.shop|empty|<l><l>|PLAYER
+GenBucket|genbucket.use|empty|<l><l>|PLAYER
+OldCombatMechanics|OldCombatMechanics.*|Gives access to all OCM permissions|<l><l>|OP
+OldCombatMechanics|OldCombatMechanics.commands|Allows the usage of OCM commands|<l>OldCombatMechanics<br><l>|OP
+OldCombatMechanics|OldCombatMechanics.notify|Notifies of new OCM updates|<l><l>|OP
+OldCombatMechanics|OldCombatMechanics.nolapis|Allows lapis to be auto-place in enchantment tables|<l><l>|OP

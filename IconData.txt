@@ -425,3 +425,15 @@ ChestShop|CHEST
 Elevator|QUARTZ_BLOCK
 Skript|PAPER
 Towny|GOLD_BLOCK
+Teleports|ENDER_PEARL
+CustomCraft|WORKBENCH
+eZProtector|OAK_FENCE
+VoidGenerator|BARRIER
+Homes|FLOWER_POT
+ZHorse|DIAMOND_HORSE_ARMOR
+AddLight|TORCH
+MineSync|WOODEN_PICKAXE
+KeepChunks|DIRT
+XPBoost|EXPERIENCE_BOTTLE
+GenBucket|BUCKET
+OldCombatMechanics|IRON_SWORD

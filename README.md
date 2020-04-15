@@ -1,4 +1,4 @@
-# PermissionDatabase v1.7
-* Added 13 new permission provider
-* Removed duplicated permissions
+# PermissionDatabase v1.8
+* Added 6 new permission provider
+* Icons are now updated
 

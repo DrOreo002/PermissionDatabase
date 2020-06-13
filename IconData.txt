@@ -437,3 +437,4 @@ KeepChunks|DIRT
 XPBoost|EXPERIENCE_BOTTLE
 GenBucket|BUCKET
 OldCombatMechanics|IRON_SWORD
+CrateReloaded|CHEST

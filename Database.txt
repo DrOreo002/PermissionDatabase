@@ -9134,3 +9134,14 @@ OldCombatMechanics|OldCombatMechanics.*|Gives access to all OCM permissions|<l><
 OldCombatMechanics|OldCombatMechanics.commands|Allows the usage of OCM commands|<l>OldCombatMechanics<br><l>|OP
 OldCombatMechanics|OldCombatMechanics.notify|Notifies of new OCM updates|<l><l>|OP
 OldCombatMechanics|OldCombatMechanics.nolapis|Allows lapis to be auto-place in enchantment tables|<l><l>|OP
+CrateReloaded|cr.base|Access to the base command|<l>crate<l>|OP
+CrateReloaded|cr.info|Shows information about crate|<l>crate info<l>|OP
+CrateReloaded|cr.preview|Preview rewards from crate|<l>crate preview <crate><l>|OP
+CrateReloaded|cr.claim|Claim missed reward from crate|<l>crate claim<l>|OP
+CrateReloaded|cr.buy|Purchase a number of crates|<l>crate buy <crate> (number)<l>|OP
+CrateReloaded|cr.reload|Reload the plugin's file|<l>crate reload<l>|OP
+CrateReloaded|cr.list|List all available crates|<l>crate list<l>|OP
+CrateReloaded|cr.give.to|Sends a player a number of crates|<l>crate give to <player> <crate> (number) (online/offline)<l>|OP
+CrateReloaded|cr.give.all|Sends all player a number of crates|<l>crate give all <crate> (number)<l>|OP
+CrateReloaded|cr.block.set|Configures a block to handle crates|<l>crate set <crate><l>|OP
+CrateReloaded|cr.block.remove|Removes the capability to handle crates from a block|<l>crate remove <crate><l>|OP
